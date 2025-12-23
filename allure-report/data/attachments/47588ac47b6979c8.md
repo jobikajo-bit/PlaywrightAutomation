@@ -1,0 +1,47 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e5]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link "Snaptrude" [ref=e9] [cursor=pointer]:
+        - /url: https://snaptrude.xyz/
+        - img "Snaptrude" [ref=e10]
+      - generic [ref=e11]:
+        - heading "Sign in to Snaptrude" [level=1] [ref=e12]
+        - paragraph [ref=e13]: Welcome back! Please sign in to continue
+    - generic [ref=e14]:
+      - generic [ref=e16]:
+        - button "Sign in with Google Google" [ref=e17] [cursor=pointer]:
+          - generic [ref=e18]:
+            - img "Sign in with Google" [ref=e20]
+            - generic [ref=e21]: Google
+        - button "Sign in with Microsoft Microsoft" [ref=e22] [cursor=pointer]:
+          - generic [ref=e23]:
+            - img "Sign in with Microsoft" [ref=e25]
+            - generic [ref=e26]: Microsoft
+      - paragraph [ref=e29]: or
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e35]:
+            - generic [ref=e37]: Email address
+            - textbox "Email address" [ref=e38]:
+              - /placeholder: Enter your email address
+              - text: automation1@snaptrude.com
+          - generic [ref=e42]:
+            - generic [ref=e44]: Password
+            - generic [ref=e45]:
+              - textbox "Password" [active] [ref=e46]:
+                - /placeholder: Enter your password
+                - text: Automation1@123
+              - button "Show password" [ref=e47] [cursor=pointer]:
+                - img [ref=e48]
+        - button "Continue" [ref=e53] [cursor=pointer]:
+          - generic [ref=e54]:
+            - text: Continue
+            - img [ref=e55]
+  - generic [ref=e58]:
+    - generic [ref=e59]: Don’t have an account?
+    - link "Sign up" [ref=e60] [cursor=pointer]:
+      - /url: https://staging.snaptrude.xyz/signup
+```

@@ -1,0 +1,131 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - link [ref=e4] [cursor=pointer]:
+      - /url: https://demoqa.com
+      - img [ref=e5]
+  - generic [ref=e8]:
+    - generic [ref=e11]:
+      - generic [ref=e14] [cursor=pointer]:
+        - generic [ref=e15]:
+          - img [ref=e17]
+          - text: Elements
+        - img [ref=e22]
+      - generic [ref=e26]:
+        - generic [ref=e28] [cursor=pointer]:
+          - generic [ref=e29]:
+            - img [ref=e31]
+            - text: Forms
+          - img [ref=e37]
+        - list [ref=e42]:
+          - listitem [ref=e43] [cursor=pointer]:
+            - img [ref=e44]
+            - generic [ref=e46]: Practice Form
+      - generic [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]:
+          - img [ref=e52]
+          - text: Alerts, Frame & Windows
+        - img [ref=e57]
+      - generic [ref=e63] [cursor=pointer]:
+        - generic [ref=e64]:
+          - img [ref=e66]
+          - text: Widgets
+        - img [ref=e71]
+      - generic [ref=e77] [cursor=pointer]:
+        - generic [ref=e78]:
+          - img [ref=e80]
+          - text: Interactions
+        - img [ref=e85]
+      - generic [ref=e91] [cursor=pointer]:
+        - generic [ref=e92]:
+          - img [ref=e94]
+          - text: Book Store Application
+        - img [ref=e99]
+    - generic [ref=e103]:
+      - iframe [ref=e106]:
+        
+      - generic [ref=e107]:
+        - heading "Practice Form" [level=1] [ref=e108]
+        - heading "Student Registration Form" [level=5] [ref=e109]
+        - generic [ref=e110]:
+          - generic [ref=e111]:
+            - generic [ref=e113]: Name
+            - textbox "First Name" [ref=e115]: Jobi
+            - textbox "Last Name" [ref=e118]: jo
+          - generic [ref=e119]:
+            - generic [ref=e121]: Email
+            - textbox "name@example.com" [ref=e123]: jobika+12@mailinator.com
+          - generic [ref=e124]:
+            - generic [ref=e125]: Gender
+            - generic [ref=e126]:
+              - generic [ref=e127]:
+                - radio "Male" [ref=e128]
+                - generic [ref=e129]: Male
+              - generic [ref=e130]:
+                - radio "Female" [checked] [ref=e131]
+                - generic [ref=e132]: Female
+              - generic [ref=e133]:
+                - radio "Other" [ref=e134]
+                - generic [ref=e135]: Other
+          - generic [ref=e136]:
+            - generic [ref=e138]: Mobile(10 Digits)
+            - textbox "Mobile Number" [ref=e140]: "7766554433"
+          - generic [ref=e141]:
+            - generic [ref=e143]: Date of Birth
+            - textbox [ref=e147]: 04 Dec 2025
+          - generic [ref=e148]:
+            - generic [ref=e150]: Subjects
+            - generic [ref=e152]:
+              - generic [ref=e153]:
+                - paragraph [ref=e154]
+                - paragraph [ref=e155]: option Maths focused, 1 of 1. 1 result available for search term Maths. Select is focused ,type to refine list, press Down to open the menu, press left to focus selected values
+              - textbox [active] [ref=e160]: Maths
+              - generic [ref=e165]: Maths
+          - generic [ref=e166]:
+            - generic [ref=e168]: Hobbies
+            - generic [ref=e169]:
+              - generic [ref=e170]:
+                - checkbox "Sports" [ref=e171]
+                - generic [ref=e172]: Sports
+              - generic [ref=e173]:
+                - checkbox "Reading" [ref=e174]
+                - generic [ref=e175]: Reading
+              - generic [ref=e176]:
+                - checkbox "Music" [ref=e177]
+                - generic [ref=e178]: Music
+          - generic [ref=e179]:
+            - generic [ref=e181]: Picture
+            - generic [ref=e183]:
+              - generic [ref=e184]: Select picture
+              - button "Select picture" [ref=e185]
+          - generic [ref=e186]:
+            - generic [ref=e188]: Current Address
+            - textbox "Current Address" [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e193]: State and City
+            - generic [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e198]: Select State
+                - textbox [ref=e201]
+              - img [ref=e205]
+            - generic [ref=e207]:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: Select City
+                    - generic:
+                      - generic:
+                        - textbox [disabled]
+                  - generic:
+                    - generic:
+                      - img
+          - button "Submit" [ref=e210] [cursor=pointer]
+    - generic [ref=e216]:
+      - img "Build PlayWright tests with AI" [ref=e218] [cursor=pointer]
+      - iframe [ref=e221]:
+        
+  - contentinfo [ref=e222]:
+    - generic [ref=e223]: © 2013-2020 TOOLSQA.COM | ALL RIGHTS RESERVED.
+```

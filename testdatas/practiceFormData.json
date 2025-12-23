@@ -1,0 +1,14 @@
+{
+  "url": "https://demoqa.com/automation-practice-form",
+  "firstName": "Jobi",
+  "lastName": "jo",
+  "email": "jobika12@mailinator.com",
+  "gender": "Female",
+  "mobile": "7766554433",
+  "subject": "Maths",
+  "hobby": "Music",
+  "uploadPath": "C:/Users/TD/Desktop/test images/t1.jpeg",
+  "address": "84 ss street",
+  "state": "NCR",
+  "city": "Delhi"
+}

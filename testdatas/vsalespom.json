@@ -1,0 +1,20 @@
+{
+  "url": "https://www.vijaysales.com/",
+  "pincode": "400005",
+  "products": {
+    "iphone17": "Apple iPhone 17 Pro (256GB Storage, Deep Blue)",
+    "iphone16": "Apple iPhone 16 Plus (128GB Storage, Ultramarine)",
+    "samsungTV": "Samsung TV"
+  },
+  "locators": {
+    "logo": "(//img[@alt='vs-logo-img'])[2]",
+    "searchField": "(//div[@data-jsname='searchfield'])[1]",
+    "searchInput": "(//div[@data-jsname='searchfield'])[1]",
+    "addToCartButton": "(//button[@data-id='add-to-cart'])[1]",
+    "cartIcon": "(//a[.//img[@alt='cart-icon']])[1]",
+    "pincodeInput": "//input[@id='pincode-inputbox']",
+    "pincodeApplyBtn": "//button[@id='pincode-btn']",
+    "startShoppingBtn": "//a[text()='Start Shopping']",
+    "checkoutBtn": "//a[text()='Proceed to Checkout']"
+  }
+}

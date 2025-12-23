@@ -1,0 +1,3279 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - banner [ref=e5]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - banner [ref=e10]:
+          - generic [ref=e11]:
+            - generic [ref=e12]:
+              - link "vs-logo-img" [ref=e14] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en
+                - img "vs-logo-img" [ref=e15]
+              - generic [ref=e16]:
+                - img "locate-icon" [ref=e17] [cursor=pointer]
+                - paragraph [ref=e18] [cursor=pointer]:
+                  - text: Deliver to
+                  - link "Select your location" [ref=e19]:
+                    - /url: "#"
+              - generic [ref=e21]:
+                - img "search-icon" [ref=e22]
+                - textbox "Search for phone, TV, home appliances..." [ref=e23]
+              - list [ref=e25]:
+                - listitem [ref=e26]:
+                  - img "Store Locator icon" [ref=e27] [cursor=pointer]
+                  - link "Store Locator" [ref=e28] [cursor=pointer]:
+                    - /url: /store-locator
+                - listitem [ref=e29]:
+                  - img "Help Center icon" [ref=e30] [cursor=pointer]
+                  - link "Help Center" [ref=e31] [cursor=pointer]:
+                    - /url: /contact-us
+              - link "wishlist-empty-icon" [ref=e33] [cursor=pointer]:
+                - /url: /profile-page/wishlist
+                - img "wishlist-empty-icon" [ref=e34]
+              - link "prelogin-icon" [ref=e36] [cursor=pointer]:
+                - /url: /login
+                - img "prelogin-icon" [ref=e37]
+              - link "cart-icon" [ref=e39] [cursor=pointer]:
+                - /url: /cart
+                - img "cart-icon" [ref=e40]
+            - list [ref=e43]:
+              - listitem [ref=e44] [cursor=pointer]:
+                - link "Air Conditioners" [ref=e45]:
+                  - /url: /event-pages/air-conditioner-store
+              - listitem [ref=e46] [cursor=pointer]:
+                - link "Mobiles, Tablets & Accessories" [ref=e47]:
+                  - /url: /c/mobiles-tablets-and-accessories
+              - listitem [ref=e48] [cursor=pointer]:
+                - link "Laptops & Accessories" [ref=e49]:
+                  - /url: /c/laptops-and-accessories
+              - listitem [ref=e50] [cursor=pointer]:
+                - link "Home Appliances" [ref=e51]:
+                  - /url: /c/home-appliances
+              - listitem [ref=e52] [cursor=pointer]:
+                - link "Kitchen Appliances" [ref=e53]:
+                  - /url: /c/kitchen-appliances
+              - listitem [ref=e54] [cursor=pointer]:
+                - link "TV & Entertainment" [ref=e55]:
+                  - /url: /c/television-and-entertainment
+              - listitem [ref=e56] [cursor=pointer]:
+                - link "Personal Care" [ref=e57]:
+                  - /url: /c/personal-care
+              - listitem [ref=e58] [cursor=pointer]:
+                - link "Headphones & Speakers" [ref=e59]:
+                  - /url: /c/headphones-and-speakers
+              - listitem [ref=e60] [cursor=pointer]:
+                - link "Brand Stores" [ref=e61]:
+                  - /url: /brands
+              - listitem [ref=e62] [cursor=pointer]:
+                - link "Loyalty Hub" [ref=e63]:
+                  - /url: /loyalty
+        - generic [ref=e64]:
+          - generic [ref=e66]:
+            - generic [ref=e72]:
+              - link:
+                - /url: /product-listing-page
+              - list [ref=e73]:
+                - listitem [ref=e74]:
+                  - link "Smartphone" [ref=e75] [cursor=pointer]:
+                    - /url: /c/smartphones
+                - listitem [ref=e76]:
+                  - link "iPhone" [ref=e77] [cursor=pointer]:
+                    - /url: /c/iphones
+                - listitem [ref=e78]:
+                  - link "Basic Phone" [ref=e79] [cursor=pointer]:
+                    - /url: /c/basic-phones
+                - listitem [ref=e80]:
+                  - link "Smart Watch" [ref=e81] [cursor=pointer]:
+                    - /url: /c/smart-watches
+                - listitem [ref=e82]:
+                  - link "Charger" [ref=e83] [cursor=pointer]:
+                    - /url: /c/adapters
+                - listitem [ref=e84]:
+                  - link "Tablets" [ref=e85] [cursor=pointer]:
+                    - /url: /c/tablets
+                - listitem [ref=e86]:
+                  - link "Tablet Accessories" [ref=e87] [cursor=pointer]:
+                    - /url: /sale/tablet-accessories
+                - listitem [ref=e88]:
+                  - link "iPad" [ref=e89] [cursor=pointer]:
+                    - /url: /c/ipads
+                - listitem [ref=e90]:
+                  - link "Graphic Tablet" [ref=e91] [cursor=pointer]:
+                    - /url: /c/graphic-tablets
+                - listitem [ref=e92]:
+                  - link "Power Bank" [ref=e93] [cursor=pointer]:
+                    - /url: /c/power-bank
+                - listitem [ref=e94]:
+                  - link "Cable" [ref=e95] [cursor=pointer]:
+                    - /url: /c/cables
+                - listitem [ref=e96]:
+                  - link "Cases and Cover" [ref=e97] [cursor=pointer]:
+                    - /url: /c/cases-and-covers
+            - generic [ref=e104]:
+              - link "Smartphone" [ref=e109] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/event-pages/mobile-store
+                - img "Smartphone" [ref=e110]
+              - link "cmf-accessories" [ref=e115] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/sale/accessories/cmf-and-nothing-accessories
+                - img "cmf-accessories" [ref=e116]
+          - generic [ref=e118]:
+            - generic [ref=e124]:
+              - link:
+                - /url: "#"
+              - list [ref=e125]:
+                - listitem [ref=e126]:
+                  - link "Laptop" [ref=e127] [cursor=pointer]:
+                    - /url: /c/laptops
+                - listitem [ref=e128]:
+                  - link "MacBook" [ref=e129] [cursor=pointer]:
+                    - /url: /c/macbooks
+                - listitem [ref=e130]:
+                  - link "Printer" [ref=e131] [cursor=pointer]:
+                    - /url: /c/printers
+                - listitem [ref=e132]:
+                  - link "Router" [ref=e133] [cursor=pointer]:
+                    - /url: /c/routers
+                - listitem [ref=e134]:
+                  - link "Computer Accessories" [ref=e135] [cursor=pointer]:
+                    - /url: /c/computer-accessories
+                - listitem [ref=e136]:
+                  - link "Hard Disk" [ref=e137] [cursor=pointer]:
+                    - /url: /c/hard-disks
+                - listitem [ref=e138]:
+                  - link "Pendrives" [ref=e139] [cursor=pointer]:
+                    - /url: /c/pen-drives
+                - listitem [ref=e140]:
+                  - link "SSD" [ref=e141] [cursor=pointer]:
+                    - /url: /c/ssd
+                - listitem [ref=e142]:
+                  - link "Desktop" [ref=e143] [cursor=pointer]:
+                    - /url: /c/desktops
+            - generic [ref=e150]:
+              - link "abcd" [ref=e155] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/event-pages/open-box-store
+                - img "abcd" [ref=e156]
+              - link "Laptops" [ref=e161] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/laptops?categories=Refurbished%20Laptops
+                - img "Laptops" [ref=e162]
+          - generic [ref=e164]:
+            - generic [ref=e170]:
+              - link:
+                - /url: "#"
+              - list [ref=e171]:
+                - listitem [ref=e172]:
+                  - link "Air Conditioner" [ref=e173] [cursor=pointer]:
+                    - /url: /c/air-conditioners
+                - listitem [ref=e174]:
+                  - link "Washing Machine" [ref=e175] [cursor=pointer]:
+                    - /url: /c/washing-machines
+                - listitem [ref=e176]:
+                  - link "Refrigerator" [ref=e177] [cursor=pointer]:
+                    - /url: /c/refrigerators
+                - listitem [ref=e178]:
+                  - link "Geyser" [ref=e179] [cursor=pointer]:
+                    - /url: /c/geysers-and-water-heaters
+                - listitem [ref=e180]:
+                  - link "Air Purifier" [ref=e181] [cursor=pointer]:
+                    - /url: /c/air-purifiers
+                - listitem [ref=e182]:
+                  - link "Vacuum Cleaner" [ref=e183] [cursor=pointer]:
+                    - /url: /c/vacuum-cleaners
+                - listitem [ref=e184]:
+                  - link "Dishwasher" [ref=e185] [cursor=pointer]:
+                    - /url: /c/dishwashers
+                - listitem [ref=e186]:
+                  - link "Iron" [ref=e187] [cursor=pointer]:
+                    - /url: /c/irons
+                - listitem [ref=e188]:
+                  - link "Electronic Safe" [ref=e189] [cursor=pointer]:
+                    - /url: /c/electronic-safe
+                - listitem [ref=e190]:
+                  - link "Dehumidifier" [ref=e191] [cursor=pointer]:
+                    - /url: /c/dehumidifiers
+                - listitem [ref=e192]:
+                  - link "Garment Steamer" [ref=e193] [cursor=pointer]:
+                    - /url: /c/garment-steamers
+                - listitem [ref=e194]:
+                  - link "Fans" [ref=e195] [cursor=pointer]:
+                    - /url: /c/fans
+                - listitem [ref=e196]:
+                  - link "Air Cooler" [ref=e197] [cursor=pointer]:
+                    - /url: /c/air-coolers
+                - listitem [ref=e198]:
+                  - link "Water Dispenser" [ref=e199] [cursor=pointer]:
+                    - /url: /c/water-dispensers
+                - listitem [ref=e200]:
+                  - link "Security Camera & Dashcam" [ref=e201] [cursor=pointer]:
+                    - /url: /sale/security-camera-and-dashcam
+                - listitem [ref=e202]:
+                  - link "Stabilizer" [ref=e203] [cursor=pointer]:
+                    - /url: /c/stabilizers
+                - listitem [ref=e204]:
+                  - link "Wine Cooler" [ref=e205] [cursor=pointer]:
+                    - /url: /c/wine-cooler
+                - listitem [ref=e206]:
+                  - link "Dryer" [ref=e207] [cursor=pointer]:
+                    - /url: /c/dryers
+                - listitem [ref=e208]:
+                  - link "Smart Home Devices" [ref=e209] [cursor=pointer]:
+                    - /url: /c/smart-home-accessories
+                - listitem [ref=e210]:
+                  - link "Room Heater" [ref=e211] [cursor=pointer]:
+                    - /url: /c/room-heaters
+            - link "Washing machine" [ref=e221] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/c/washing-machines
+              - img "Washing machine" [ref=e222]
+          - generic [ref=e224]:
+            - generic [ref=e230]:
+              - link:
+                - /url: "#"
+              - list [ref=e231]:
+                - listitem [ref=e232]:
+                  - link "Mixer Grinder" [ref=e233] [cursor=pointer]:
+                    - /url: /c/mixer-grinder
+                - listitem [ref=e234]:
+                  - link "Nutri Blend" [ref=e235] [cursor=pointer]:
+                    - /url: /c/nutri-blender
+                - listitem [ref=e236]:
+                  - link "Microwave" [ref=e237] [cursor=pointer]:
+                    - /url: /c/microwave
+                - listitem [ref=e238]:
+                  - link "Air Fryer" [ref=e239] [cursor=pointer]:
+                    - /url: /c/air-fryers
+                - listitem [ref=e240]:
+                  - link "Water Purifier" [ref=e241] [cursor=pointer]:
+                    - /url: /c/water-purifiers
+                - listitem [ref=e242]:
+                  - link "Coffee Maker" [ref=e243] [cursor=pointer]:
+                    - /url: /c/coffee-machines
+                - listitem [ref=e244]:
+                  - link "Kettle" [ref=e245] [cursor=pointer]:
+                    - /url: /c/kettles
+                - listitem [ref=e246]:
+                  - link "Cooktop" [ref=e247] [cursor=pointer]:
+                    - /url: /c/cooktop
+                - listitem [ref=e248]:
+                  - link "Juicer Mixer Grinder" [ref=e249] [cursor=pointer]:
+                    - /url: /c/juicers-mixers-and-grinders
+                - listitem [ref=e250]:
+                  - link "Hand Mixer and Blender" [ref=e251] [cursor=pointer]:
+                    - /url: /c/hand-mixers-and-blenders
+            - generic [ref=e257]:
+              - link:
+                - /url: "#"
+              - list [ref=e258]:
+                - listitem [ref=e259]:
+                  - link "Chimney" [ref=e260] [cursor=pointer]:
+                    - /url: /c/chimneys
+                - listitem [ref=e261]:
+                  - link "Atta Maker" [ref=e262] [cursor=pointer]:
+                    - /url: /c/atta-maker
+                - listitem [ref=e263]:
+                  - link "Food Processor" [ref=e264] [cursor=pointer]:
+                    - /url: /c/food-processors
+                - listitem [ref=e265]:
+                  - link "OTG" [ref=e266] [cursor=pointer]:
+                    - /url: /c/microwave-and-otgs
+                - listitem [ref=e267]:
+                  - link "Popup Toaster" [ref=e268] [cursor=pointer]:
+                    - /url: /c/popup-toasters
+                - listitem [ref=e269]:
+                  - link "Sandwich Maker" [ref=e270] [cursor=pointer]:
+                    - /url: /c/sandwich-toasters
+                - listitem [ref=e271]:
+                  - link "Chopper" [ref=e272] [cursor=pointer]:
+                    - /url: /c/choppers
+                - listitem [ref=e273]:
+                  - link "HOB" [ref=e274] [cursor=pointer]:
+                    - /url: /c/built-in-hobs
+                - listitem [ref=e275]:
+                  - link "Juicer" [ref=e276] [cursor=pointer]:
+                    - /url: /c/juicer
+                - listitem [ref=e277]:
+                  - link "Wet Grinder" [ref=e278] [cursor=pointer]:
+                    - /url: /c/wet-grinders
+            - link "Microwaves" [ref=e290] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/c/microwave
+              - img "Microwaves" [ref=e291]
+          - generic [ref=e293]:
+            - generic [ref=e299]:
+              - link:
+                - /url: "#"
+              - list [ref=e300]:
+                - listitem [ref=e301]:
+                  - link "Television" [ref=e302] [cursor=pointer]:
+                    - /url: /c/televisions
+                - listitem [ref=e303]:
+                  - link "Soundbar" [ref=e304] [cursor=pointer]:
+                    - /url: /c/soundbars
+                - listitem [ref=e305]:
+                  - link "Home Theatre" [ref=e306] [cursor=pointer]:
+                    - /url: /c/home-theaters
+                - listitem [ref=e307]:
+                  - link "Speaker" [ref=e308] [cursor=pointer]:
+                    - /url: /c/speakers
+                - listitem [ref=e309]:
+                  - link "Party Speaker" [ref=e310] [cursor=pointer]:
+                    - /url: /c/party-speakers
+                - listitem [ref=e311]:
+                  - link "Gaming" [ref=e312] [cursor=pointer]:
+                    - /url: /c/gaming
+                - listitem [ref=e313]:
+                  - link "TV Accessories" [ref=e314] [cursor=pointer]:
+                    - /url: /c/tv-accessories
+            - generic [ref=e321]:
+              - link "abcd" [ref=e326] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/televisions?brand=Vise
+                - img "abcd" [ref=e327]
+              - link "abcd" [ref=e332] [cursor=pointer]:
+                - /url: /c/large-audio
+                - img "abcd" [ref=e333]
+          - generic [ref=e335]:
+            - generic [ref=e341]:
+              - link:
+                - /url: "#"
+              - list [ref=e342]:
+                - listitem [ref=e343]:
+                  - link "Trimmer" [ref=e344] [cursor=pointer]:
+                    - /url: /c/trimmers
+                - listitem [ref=e345]:
+                  - link "Shaver" [ref=e346] [cursor=pointer]:
+                    - /url: /c/shavers
+                - listitem [ref=e347]:
+                  - link "Hair Straightener" [ref=e348] [cursor=pointer]:
+                    - /url: /c/hair-straighteners
+                - listitem [ref=e349]:
+                  - link "Hair Dryer" [ref=e350] [cursor=pointer]:
+                    - /url: /c/hair-dryers
+                - listitem [ref=e351]:
+                  - link "Hair Styler" [ref=e352] [cursor=pointer]:
+                    - /url: /c/hair-stylers
+                - listitem [ref=e353]:
+                  - link "Massager" [ref=e354] [cursor=pointer]:
+                    - /url: /c/massagers
+            - link "abcd" [ref=e364] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/c/personal-care?brand=Bombae,Bombay%20Shaving%20Company
+              - img "abcd" [ref=e365]
+          - generic [ref=e367]:
+            - generic [ref=e373]:
+              - link:
+                - /url: "#"
+              - list [ref=e374]:
+                - listitem [ref=e375]:
+                  - link "Truly Wireless Earbud" [ref=e376] [cursor=pointer]:
+                    - /url: /c/truly-wireless-earbuds
+                - listitem [ref=e377]:
+                  - link "Neckband" [ref=e378] [cursor=pointer]:
+                    - /url: /c/neckbands
+                - listitem [ref=e379]:
+                  - link "Headphone" [ref=e380] [cursor=pointer]:
+                    - /url: /c/headphones
+                - listitem [ref=e381]:
+                  - link "Earphone" [ref=e382] [cursor=pointer]:
+                    - /url: /c/earphones
+                - listitem [ref=e383]:
+                  - link "Portable Speaker" [ref=e384] [cursor=pointer]:
+                    - /url: /c/portable-speakers
+            - link "Bose" [ref=e394] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/sale/audio/bose-audio
+              - img "Bose" [ref=e395]
+          - generic [ref=e397]:
+            - generic [ref=e403]:
+              - link:
+                - /url: "#"
+              - list [ref=e404]:
+                - listitem [ref=e405]:
+                  - link "Apple" [ref=e406] [cursor=pointer]:
+                    - /url: /brands/apple-store
+                - listitem [ref=e407]:
+                  - link "Vise" [ref=e408] [cursor=pointer]:
+                    - /url: /plp/brand/Vise?brand=Vise
+                - listitem [ref=e409]:
+                  - link "Asus" [ref=e410] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/plp/?brand=ASUS
+                - listitem [ref=e411]:
+                  - link "JBL" [ref=e412] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/plp/brand/JBL?brand=JBL
+                - listitem [ref=e413]:
+                  - link "LG" [ref=e414] [cursor=pointer]:
+                    - /url: /brands/lg-store
+                - listitem [ref=e415]:
+                  - link "OnePlus" [ref=e416] [cursor=pointer]:
+                    - /url: /brands/oneplus-store
+                - listitem [ref=e417]:
+                  - link "Samsung" [ref=e418] [cursor=pointer]:
+                    - /url: /brands/samsung-store
+                - listitem [ref=e419]:
+                  - link "Sony" [ref=e420] [cursor=pointer]:
+                    - /url: /brands/sony-store
+                - listitem [ref=e421]:
+                  - link "Boat" [ref=e422] [cursor=pointer]:
+                    - /url: /brands/boat_store
+            - generic [ref=e429]:
+              - link "abcd" [ref=e434] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/sale/audio/boat-audio
+                - img "abcd" [ref=e435]
+              - link "iPhone 17" [ref=e440] [cursor=pointer]:
+                - /url: /brands/apple-store
+                - img "iPhone 17" [ref=e441]
+      - generic [ref=e445]:
+        - generic [ref=e446]:
+          - textbox "Search for phone, TV, home appliances..." [active] [ref=e449]
+          - img "close-icon" [ref=e451] [cursor=pointer]
+        - generic [ref=e455]:
+          - generic [ref=e456]:
+            - img "trending-search-icon" [ref=e457]
+            - paragraph [ref=e458]: Trending Searches
+          - generic [ref=e459]:
+            - link "iPhone 17" [ref=e460] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=iPhone%2017
+              - paragraph [ref=e461]: iPhone 17
+            - link "iPhone Air" [ref=e462] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=iPhone%20Air
+              - paragraph [ref=e463]: iPhone Air
+            - link "AirPods Pro 3" [ref=e464] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=AirPods%20Pro%203
+              - paragraph [ref=e465]: AirPods Pro 3
+            - link "Apple Watch SE 3" [ref=e466] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=Apple%20Watch%20SE%203
+              - paragraph [ref=e467]: Apple Watch SE 3
+            - link "Apple Watch Series 11" [ref=e468] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=Apple%20Watch%20Series%2011
+              - paragraph [ref=e469]: Apple Watch Series 11
+            - link "Geysers" [ref=e470] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=Geysers
+              - paragraph [ref=e471]: Geysers
+            - link "HP laptop" [ref=e472] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=HP%20laptop
+              - paragraph [ref=e473]: HP laptop
+            - link "smartwatch" [ref=e474] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=smartwatch
+              - paragraph [ref=e475]: smartwatch
+            - link "Truly wireless earbuds" [ref=e476] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=Truly%20wireless%20earbuds
+              - paragraph [ref=e477]: Truly wireless earbuds
+            - link "Microwave" [ref=e478] [cursor=pointer]:
+              - /url: /content/vijaysaleswebsite/us/en/search-listing.html?q=Microwave
+              - paragraph [ref=e479]: Microwave
+        - generic [ref=e484]:
+          - img
+          - generic [ref=e485]:
+            - generic:
+              - link:
+                - /url: /sale/apple-buckets/apple-iphone-air
+            - link "iPhone-air" [ref=e488] [cursor=pointer]:
+              - /url: /sale/apple-buckets/apple-iphone-air
+              - img "iPhone-air" [ref=e490]
+  - main [ref=e491]:
+    - generic [ref=e496]:
+      - generic [ref=e497]:
+        - generic [ref=e498]:
+          - group "10 / 10" [ref=e499] [cursor=pointer]:
+            - img
+            - generic [ref=e500]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/event-pages/Winter-Store
+              - link "Winter Store" [ref=e503]:
+                - /url: https://www.vijaysales.com/event-pages/Winter-Store
+                - img "Winter Store" [ref=e505]
+          - group "1 / 10" [ref=e506] [cursor=pointer]:
+            - img
+            - generic [ref=e507]:
+              - generic:
+                - link:
+                  - /url: http://vijaysales.com/sale/smartphone-buckets/nothing-phone-3a-lite
+              - link "Nothing phone 3a lite" [ref=e510]:
+                - /url: http://vijaysales.com/sale/smartphone-buckets/nothing-phone-3a-lite
+                - img "Nothing phone 3a lite" [ref=e512]
+          - group "2 / 10" [ref=e513] [cursor=pointer]:
+            - img
+            - generic [ref=e514]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/c/televisions?price=10000_1449000
+              - link "Television" [ref=e517]:
+                - /url: https://www.vijaysales.com/c/televisions?price=10000_1449000
+                - img "Television" [ref=e519]
+          - group "3 / 10" [ref=e520] [cursor=pointer]:
+            - img
+            - generic [ref=e521]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/search-listing?q=Washing%20Machines
+              - link "Washing machine" [ref=e524]:
+                - /url: https://www.vijaysales.com/search-listing?q=Washing%20Machines
+                - img "Washing machine" [ref=e526]
+          - group "4 / 10" [ref=e527] [cursor=pointer]:
+            - img
+            - generic [ref=e528]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/c/geysers-and-water-heaters
+              - link "Small home appliances" [ref=e531]:
+                - /url: https://www.vijaysales.com/c/geysers-and-water-heaters
+                - img "Small home appliances" [ref=e533]
+          - group "5 / 10" [ref=e534] [cursor=pointer]:
+            - img
+            - generic [ref=e535]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/sale/tablet-buckets/samsung-tab-A11-plus
+              - link "Samsung Tab 11 Plus" [ref=e538]:
+                - /url: https://www.vijaysales.com/sale/tablet-buckets/samsung-tab-A11-plus
+                - img "Samsung Tab 11 Plus" [ref=e540]
+          - group "6 / 10" [ref=e541] [cursor=pointer]:
+            - img
+            - generic [ref=e542]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/sale/smartphone-buckets/oppo-x9-series
+              - link "Oppo find X9" [ref=e545]:
+                - /url: https://www.vijaysales.com/sale/smartphone-buckets/oppo-x9-series
+                - img "Oppo find X9" [ref=e547]
+          - group "7 / 10" [ref=e548] [cursor=pointer]:
+            - img
+            - generic [ref=e549]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/c/water-purifiers
+              - link "Water purifiers" [ref=e552]:
+                - /url: https://www.vijaysales.com/c/water-purifiers
+                - img "Water purifiers" [ref=e554]
+          - group "8 / 10" [ref=e555] [cursor=pointer]:
+            - img
+            - generic [ref=e556]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/sale/laptop-buckets/vs-open-box
+              - link "open box sale" [ref=e559]:
+                - /url: https://www.vijaysales.com/sale/laptop-buckets/vs-open-box
+                - img "open box sale" [ref=e561]
+          - group "9 / 10" [ref=e562] [cursor=pointer]:
+            - img
+            - generic [ref=e563]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/c/large-audio
+              - link "Large Audio" [ref=e566]:
+                - /url: https://www.vijaysales.com/c/large-audio
+                - img "Large Audio" [ref=e568]
+          - group "10 / 10" [ref=e569] [cursor=pointer]:
+            - img
+            - generic [ref=e570]:
+              - generic:
+                - link:
+                  - /url: https://www.vijaysales.com/event-pages/Winter-Store
+              - link "Winter Store" [ref=e573]:
+                - /url: https://www.vijaysales.com/event-pages/Winter-Store
+                - img "Winter Store" [ref=e575]
+          - group "1 / 10" [ref=e576] [cursor=pointer]:
+            - img
+            - generic [ref=e577]:
+              - generic:
+                - link:
+                  - /url: http://vijaysales.com/sale/smartphone-buckets/nothing-phone-3a-lite
+              - link "Nothing phone 3a lite" [ref=e580]:
+                - /url: http://vijaysales.com/sale/smartphone-buckets/nothing-phone-3a-lite
+                - img "Nothing phone 3a lite" [ref=e582]
+        - generic [ref=e583]:
+          - button "Go to slide 1" [ref=e584] [cursor=pointer]
+          - button "Go to slide 2" [ref=e585] [cursor=pointer]
+          - button "Go to slide 3" [ref=e586] [cursor=pointer]
+          - button "Go to slide 4" [ref=e587] [cursor=pointer]
+          - button "Go to slide 5" [ref=e588] [cursor=pointer]
+          - button "Go to slide 6" [ref=e589] [cursor=pointer]
+          - button "Go to slide 7" [ref=e590] [cursor=pointer]
+          - button "Go to slide 8" [ref=e591] [cursor=pointer]
+          - button "Go to slide 9" [ref=e592] [cursor=pointer]
+          - button "Go to slide 10" [ref=e593] [cursor=pointer]
+      - generic [ref=e595]:
+        - link "Get upto 7.5% Instant Discount Upto Rs.7500 on HDFC Bank Credit Card EMI *T&C apply Hdfc" [ref=e598] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e599]:
+            - paragraph [ref=e600]: Get upto 7.5% Instant Discount Upto Rs.7500 on HDFC Bank Credit Card EMI
+            - heading "*T&C apply" [level=2] [ref=e601]
+          - img "Hdfc" [ref=e604]
+        - link "Get Upto ₹ 7,500 Instant Discount on HSBC Bank Cards for EMI and Non-EMI *T&C apply hsbc" [ref=e607] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e608]:
+            - paragraph [ref=e609]: Get Upto ₹ 7,500 Instant Discount on HSBC Bank Cards for EMI and Non-EMI
+            - heading "*T&C apply" [level=2] [ref=e610]
+          - img "hsbc" [ref=e613]
+        - link "Upto Rs. 20,000 Instant Discount on One Card Credit EMI *T&C apply One Card" [ref=e616] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e617]:
+            - paragraph [ref=e618]: Upto Rs. 20,000 Instant Discount on One Card Credit EMI
+            - heading "*T&C apply" [level=2] [ref=e619]
+          - img "One Card" [ref=e622]
+        - link "5% Instant Discount Upto Rs2500 on YES Bank Credit Card EMI *T&C apply Yes Bank" [ref=e625] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e626]:
+            - paragraph [ref=e627]: 5% Instant Discount Upto Rs2500 on YES Bank Credit Card EMI
+            - heading "*T&C apply" [level=2] [ref=e628]
+          - img "Yes Bank" [ref=e631]
+        - link "10% Instant Discount upto Rs.3,000 on BOB Card EMI *T&C apply BOB Bank" [ref=e634] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e635]:
+            - paragraph [ref=e636]: 10% Instant Discount upto Rs.3,000 on BOB Card EMI
+            - heading "*T&C apply" [level=2] [ref=e637]
+          - img "BOB Bank" [ref=e640]
+        - link "10% Instant Discount upto Rs.3000 on DBS Bank Credit Card EMI/Non EMI *T&C apply dbs" [ref=e643] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e644]:
+            - paragraph [ref=e645]: 10% Instant Discount upto Rs.3000 on DBS Bank Credit Card EMI/Non EMI
+            - heading "*T&C apply" [level=2] [ref=e646]
+          - img "dbs" [ref=e649]
+        - link "Get up to 20% cashback on MobiKwik Wallet & MobiKwik UPI payment. *T&C apply mobikwik" [ref=e652] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e653]:
+            - paragraph [ref=e654]: Get up to 20% cashback on MobiKwik Wallet & MobiKwik UPI payment.
+            - heading "*T&C apply" [level=2] [ref=e655]
+          - img "mobikwik" [ref=e658]
+      - generic [ref=e660]:
+        - link "Wedding Store Wedding Store" [ref=e663] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/event-pages/wedding-store
+          - heading "Wedding Store" [level=3] [ref=e665]
+          - img "Wedding Store" [ref=e668]
+        - link "Air Purifier Air-purifier" [ref=e671] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/air-purifiers
+          - heading "Air Purifier" [level=3] [ref=e673]
+          - img "Air-purifier" [ref=e676]
+        - link "Laptops laptops" [ref=e679] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/laptops-and-accessories?categories=Laptops
+          - heading "Laptops" [level=3] [ref=e681]
+          - img "laptops" [ref=e684]
+        - link "Mobiles mobiles" [ref=e687] [cursor=pointer]:
+          - /url: /c/mobiles
+          - heading "Mobiles" [level=3] [ref=e689]
+          - img "mobiles" [ref=e692]
+        - link "Washing Machines washing-machine" [ref=e695] [cursor=pointer]:
+          - /url: /c/washing-machines
+          - heading "Washing Machines" [level=3] [ref=e697]
+          - img "washing-machine" [ref=e700]
+        - link "Television television" [ref=e703] [cursor=pointer]:
+          - /url: /c/televisions
+          - heading "Television" [level=3] [ref=e705]
+          - img "television" [ref=e708]
+        - link "Air Conditioner Air Conditioner" [ref=e711] [cursor=pointer]:
+          - /url: /event-pages/air-conditioner-store
+          - heading "Air Conditioner" [level=3] [ref=e713]
+          - img "Air Conditioner" [ref=e716]
+        - link "Audio audio" [ref=e719] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/headphones-and-speakers
+          - heading "Audio" [level=3] [ref=e721]
+          - img "audio" [ref=e724]
+      - generic [ref=e726]:
+        - generic [ref=e728]:
+          - heading "Best of Apple" [level=4] [ref=e731]
+          - paragraph [ref=e734]: Save up to ₹10,000 instantly on eligible products using ICICI & SBI Card Credit Cards| Exchange bonus upto ₹8,000 on iPhone
+          - generic [ref=e737]:
+            - img "image" [ref=e738]
+            - paragraph [ref=e739]: No Cost EMI Benefit
+          - link "View All" [ref=e741] [cursor=pointer]:
+            - /url: /brands/apple-store
+        - generic [ref=e745]:
+          - generic [ref=e746]:
+            - button "Show previous" [ref=e747]:
+              - img "previous" [ref=e748]
+            - button "Show next" [ref=e749] [cursor=pointer]:
+              - img "next" [ref=e750]
+          - generic [ref=e752]:
+            - generic [ref=e753]:
+              - link "Apple iPhone Air (256GB Storage, Sky Blue)" [ref=e754] [cursor=pointer]:
+                - /url: /p/P245224/245224/apple-iphone-air-256gb-storage-sky-blue
+                - img "Apple iPhone Air (256GB Storage, Sky Blue)" [ref=e756]
+              - link "Apple iPhone Air (256GB Storage, Sky Blue)" [ref=e758] [cursor=pointer]:
+                - /url: /p/P245224/245224/apple-iphone-air-256gb-storage-sky-blue
+                - generic [ref=e759]: Apple iPhone Air (256GB Storage, Sky Blue)
+              - link "₹1,12,690 MRP ₹1,19,900 6 % off" [ref=e760] [cursor=pointer]:
+                - /url: /p/P245224/245224/apple-iphone-air-256gb-storage-sky-blue
+                - generic [ref=e761]:
+                  - generic [ref=e762]: ₹1,12,690
+                  - generic [ref=e763]:
+                    - generic [ref=e764]: MRP
+                    - generic [ref=e765]: ₹1,19,900
+                  - generic [ref=e766]:
+                    - generic [ref=e767]: "6"
+                    - text: "% off"
+              - link:
+                - /url: /p/P245224/245224/apple-iphone-air-256gb-storage-sky-blue
+            - generic [ref=e768]:
+              - link "Apple AirPods Pro 3" [ref=e769] [cursor=pointer]:
+                - /url: /p/245237/apple-airpods-pro-3
+                - img "Apple AirPods Pro 3" [ref=e771]
+              - link "Apple AirPods Pro 3" [ref=e773] [cursor=pointer]:
+                - /url: /p/245237/apple-airpods-pro-3
+                - generic [ref=e774]: Apple AirPods Pro 3
+              - link "₹25,900" [ref=e775] [cursor=pointer]:
+                - /url: /p/245237/apple-airpods-pro-3
+                - generic [ref=e777]: ₹25,900
+              - link:
+                - /url: /p/245237/apple-airpods-pro-3
+            - generic [ref=e778]:
+              - link "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e779] [cursor=pointer]:
+                - /url: /p/P245195/245196/apple-iphone-17-pro-256gb-deep-blue
+                - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e781]
+              - link "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e783] [cursor=pointer]:
+                - /url: /p/P245195/245196/apple-iphone-17-pro-256gb-deep-blue
+                - generic [ref=e784]: Apple iPhone 17 Pro (256GB Storage, Deep Blue)
+              - link "₹1,34,900" [ref=e785] [cursor=pointer]:
+                - /url: /p/P245195/245196/apple-iphone-17-pro-256gb-deep-blue
+                - generic [ref=e787]: ₹1,34,900
+              - link:
+                - /url: /p/P245195/245196/apple-iphone-17-pro-256gb-deep-blue
+            - generic [ref=e788]:
+              - link "Apple 20W USB-C Power Charging Adapter for iPhone, iPad & AirPods (White)" [ref=e789] [cursor=pointer]:
+                - /url: /p/230799/apple-20w-usb-c-power-adapter-muvr3hn-a
+                - img "Apple 20W USB-C Power Charging Adapter for iPhone, iPad & AirPods (White)" [ref=e791]
+              - link "Apple 20W USB-C Power Charging Adapter for iPhone, iPad & AirPods (White)" [ref=e793] [cursor=pointer]:
+                - /url: /p/230799/apple-20w-usb-c-power-adapter-muvr3hn-a
+                - generic [ref=e794]: Apple 20W USB-C Power Charging Adapter for iPhone, iPad & AirPods (White)
+              - link "₹1,990 MRP ₹2,190 9 % off" [ref=e795] [cursor=pointer]:
+                - /url: /p/230799/apple-20w-usb-c-power-adapter-muvr3hn-a
+                - generic [ref=e796]:
+                  - generic [ref=e797]: ₹1,990
+                  - generic [ref=e798]:
+                    - generic [ref=e799]: MRP
+                    - generic [ref=e800]: ₹2,190
+                  - generic [ref=e801]:
+                    - generic [ref=e802]: "9"
+                    - text: "% off"
+              - link:
+                - /url: /p/230799/apple-20w-usb-c-power-adapter-muvr3hn-a
+            - generic [ref=e803]:
+              - link "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150-200mm wrists)" [ref=e804] [cursor=pointer]:
+                - /url: /p/P245270/245273/apple-watch-series-11-gps-46mm-space-grey-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150a-200mm-wrists
+                - img "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150-200mm wrists)" [ref=e806]
+              - link "Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150-200mm wrists)" [ref=e808] [cursor=pointer]:
+                - /url: /p/P245270/245273/apple-watch-series-11-gps-46mm-space-grey-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150a-200mm-wrists
+                - generic [ref=e809]: Apple Watch Series 11 GPS 46mm Space Grey Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150-200mm wrists)
+              - link "₹49,900" [ref=e810] [cursor=pointer]:
+                - /url: /p/P245270/245273/apple-watch-series-11-gps-46mm-space-grey-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150a-200mm-wrists
+                - generic [ref=e812]: ₹49,900
+              - link:
+                - /url: /p/P245270/245273/apple-watch-series-11-gps-46mm-space-grey-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150a-200mm-wrists
+            - generic [ref=e813]:
+              - link "Apple iPhone 16e (128GB Storage, Black)" [ref=e814] [cursor=pointer]:
+                - /url: /p/P238097/238097/apple-iphone-16e-128gb-storage-black
+                - img "Apple iPhone 16e (128GB Storage, Black)" [ref=e816]
+              - link "Apple iPhone 16e (128GB Storage, Black)" [ref=e818] [cursor=pointer]:
+                - /url: /p/P238097/238097/apple-iphone-16e-128gb-storage-black
+                - generic [ref=e819]: Apple iPhone 16e (128GB Storage, Black)
+              - link "₹51,490 MRP ₹59,900 14 % off" [ref=e820] [cursor=pointer]:
+                - /url: /p/P238097/238097/apple-iphone-16e-128gb-storage-black
+                - generic [ref=e821]:
+                  - generic [ref=e822]: ₹51,490
+                  - generic [ref=e823]:
+                    - generic [ref=e824]: MRP
+                    - generic [ref=e825]: ₹59,900
+                  - generic [ref=e826]:
+                    - generic [ref=e827]: "14"
+                    - text: "% off"
+              - link:
+                - /url: /p/P238097/238097/apple-iphone-16e-128gb-storage-black
+            - generic [ref=e828]:
+              - link "Apple iPhone 16 (128GB Storage, Black)" [ref=e829] [cursor=pointer]:
+                - /url: /p/P232288/232285/apple-iphone-16-128gb-storage-black
+                - img "Apple iPhone 16 (128GB Storage, Black)" [ref=e831]
+              - link "Apple iPhone 16 (128GB Storage, Black)" [ref=e833] [cursor=pointer]:
+                - /url: /p/P232288/232285/apple-iphone-16-128gb-storage-black
+                - generic [ref=e834]: Apple iPhone 16 (128GB Storage, Black)
+              - link "₹66,490 MRP ₹69,900 5 % off" [ref=e835] [cursor=pointer]:
+                - /url: /p/P232288/232285/apple-iphone-16-128gb-storage-black
+                - generic [ref=e836]:
+                  - generic [ref=e837]: ₹66,490
+                  - generic [ref=e838]:
+                    - generic [ref=e839]: MRP
+                    - generic [ref=e840]: ₹69,900
+                  - generic [ref=e841]:
+                    - generic [ref=e842]: "5"
+                    - text: "% off"
+              - link:
+                - /url: /p/P232288/232285/apple-iphone-16-128gb-storage-black
+            - generic [ref=e843]:
+              - link "Apple Macbook Air M4 Chip/ 13.6 Inch/ 34.46 cm/ 16GB/ 256GB - Skyblue MC6T4HN/A" [ref=e844] [cursor=pointer]:
+                - /url: /p/P238593/238594/apple-macbook-air-m4-chip-13-inch-34-46-cm-13-6-16gb-256gb-skyblue-mc6t4hn-a
+                - img "Apple Macbook Air M4 Chip/ 13.6 Inch/ 34.46 cm/ 16GB/ 256GB - Skyblue MC6T4HN/A" [ref=e846]
+              - link "Apple Macbook Air M4 Chip/ 13.6 Inch/ 34.46 cm/ 16GB/ 256GB - Skyblue MC6T4HN/A" [ref=e848] [cursor=pointer]:
+                - /url: /p/P238593/238594/apple-macbook-air-m4-chip-13-inch-34-46-cm-13-6-16gb-256gb-skyblue-mc6t4hn-a
+                - generic [ref=e849]: Apple Macbook Air M4 Chip/ 13.6 Inch/ 34.46 cm/ 16GB/ 256GB - Skyblue MC6T4HN/A
+              - link "₹91,900 MRP ₹99,900 8 % off" [ref=e850] [cursor=pointer]:
+                - /url: /p/P238593/238594/apple-macbook-air-m4-chip-13-inch-34-46-cm-13-6-16gb-256gb-skyblue-mc6t4hn-a
+                - generic [ref=e851]:
+                  - generic [ref=e852]: ₹91,900
+                  - generic [ref=e853]:
+                    - generic [ref=e854]: MRP
+                    - generic [ref=e855]: ₹99,900
+                  - generic [ref=e856]:
+                    - generic [ref=e857]: "8"
+                    - text: "% off"
+              - link:
+                - /url: /p/P238593/238594/apple-macbook-air-m4-chip-13-inch-34-46-cm-13-6-16gb-256gb-skyblue-mc6t4hn-a
+            - generic [ref=e858]:
+              - link "Apple MacBook Pro M5 Chip (16GB RAM/ 512GB SSD/ 14 inch (35.56 cm) Liquid Retina XDR Display/ 10-core CPU/ 10-core GPU/ macOS/ Space Black) MDE04HN/A" [ref=e859] [cursor=pointer]:
+                - /url: /p/P246899/246899/apple-macbook-pro-m5-chip-16gb-ram-512gb-ssd-14-inch-35-56-cm-liquid-retina-xdr-display-10-core-cpu-10-core-gpu-macos-space-black-mde04hn-a
+                - img "Apple MacBook Pro M5 Chip (16GB RAM/ 512GB SSD/ 14 inch (35.56 cm) Liquid Retina XDR Display/ 10-core CPU/ 10-core GPU/ macOS/ Space Black) MDE04HN/A" [ref=e861]
+              - link "Apple MacBook Pro M5 Chip (16GB RAM/ 512GB SSD/ 14 inch (35.56 cm) Liquid Retina XDR Display/ 10-core CPU/ 10-core GPU/ macOS/ Space Black) MDE04HN/A" [ref=e863] [cursor=pointer]:
+                - /url: /p/P246899/246899/apple-macbook-pro-m5-chip-16gb-ram-512gb-ssd-14-inch-35-56-cm-liquid-retina-xdr-display-10-core-cpu-10-core-gpu-macos-space-black-mde04hn-a
+                - generic [ref=e864]: Apple MacBook Pro M5 Chip (16GB RAM/ 512GB SSD/ 14 inch (35.56 cm) Liquid Retina XDR Display/ 10-core CPU/ 10-core GPU/ macOS/ Space Black) MDE04HN/A
+              - link "₹1,69,900" [ref=e865] [cursor=pointer]:
+                - /url: /p/P246899/246899/apple-macbook-pro-m5-chip-16gb-ram-512gb-ssd-14-inch-35-56-cm-liquid-retina-xdr-display-10-core-cpu-10-core-gpu-macos-space-black-mde04hn-a
+                - generic [ref=e867]: ₹1,69,900
+              - link:
+                - /url: /p/P246899/246899/apple-macbook-pro-m5-chip-16gb-ram-512gb-ssd-14-inch-35-56-cm-liquid-retina-xdr-display-10-core-cpu-10-core-gpu-macos-space-black-mde04hn-a
+            - generic [ref=e868]:
+              - link "Apple iPad Pro (M5) 2025 (11 Inch | 28.22 cm | 256GB | Wifi | Standard Glass | Ultra Retina XDR Display | Space Black) MDWK4HN/A" [ref=e869] [cursor=pointer]:
+                - /url: /p/P246909/246909/apple-ipad-pro-m5-2025-11-inch-28-22-cm-256gb-wifi-standard-glass-ultra-retina-xdr-display-space-black-mdwk4hn-a
+                - img "Apple iPad Pro (M5) 2025 (11 Inch | 28.22 cm | 256GB | Wifi | Standard Glass | Ultra Retina XDR Display | Space Black) MDWK4HN/A" [ref=e871]
+              - link "Apple iPad Pro (M5) 2025 (11 Inch | 28.22 cm | 256GB | Wifi | Standard Glass | Ultra Retina XDR Display | Space Black) MDWK4HN/A" [ref=e873] [cursor=pointer]:
+                - /url: /p/P246909/246909/apple-ipad-pro-m5-2025-11-inch-28-22-cm-256gb-wifi-standard-glass-ultra-retina-xdr-display-space-black-mdwk4hn-a
+                - generic [ref=e874]: Apple iPad Pro (M5) 2025 (11 Inch | 28.22 cm | 256GB | Wifi | Standard Glass | Ultra Retina XDR Display | Space Black) MDWK4HN/A
+              - link "₹99,900" [ref=e875] [cursor=pointer]:
+                - /url: /p/P246909/246909/apple-ipad-pro-m5-2025-11-inch-28-22-cm-256gb-wifi-standard-glass-ultra-retina-xdr-display-space-black-mdwk4hn-a
+                - generic [ref=e877]: ₹99,900
+              - link:
+                - /url: /p/P246909/246909/apple-ipad-pro-m5-2025-11-inch-28-22-cm-256gb-wifi-standard-glass-ultra-retina-xdr-display-space-black-mdwk4hn-a
+            - generic [ref=e878]:
+              - link "Apple iPhone 17 Pro (256GB Storage, Cosmic Orange)" [ref=e879] [cursor=pointer]:
+                - /url: /p/P245195/245195/apple-iphone-17-pro-256gb-cosmic-orange
+                - img "Apple iPhone 17 Pro (256GB Storage, Cosmic Orange)" [ref=e881]
+              - link "Apple iPhone 17 Pro (256GB Storage, Cosmic Orange)" [ref=e883] [cursor=pointer]:
+                - /url: /p/P245195/245195/apple-iphone-17-pro-256gb-cosmic-orange
+                - generic [ref=e884]: Apple iPhone 17 Pro (256GB Storage, Cosmic Orange)
+              - link "₹1,34,900" [ref=e885] [cursor=pointer]:
+                - /url: /p/P245195/245195/apple-iphone-17-pro-256gb-cosmic-orange
+                - generic [ref=e887]: ₹1,34,900
+              - link:
+                - /url: /p/P245195/245195/apple-iphone-17-pro-256gb-cosmic-orange
+      - link "tv-clp" [ref=e894] [cursor=pointer]:
+        - /url: https://www.vijaysales.com/c/televisions?sort_by=price_low_to_high
+        - img "tv-clp" [ref=e897]
+      - generic [ref=e901]:
+        - heading "Greater Savings Deals" [level=3] [ref=e904]
+        - generic [ref=e908]:
+          - tablist [ref=e909]:
+            - tab "Washing Machine" [selected] [ref=e910] [cursor=pointer]
+            - tab "Air Purifiers" [ref=e911] [cursor=pointer]
+            - tab "Television" [ref=e912] [cursor=pointer]
+            - tab "Water Purifiers" [ref=e913] [cursor=pointer]
+            - tab "Large Audio" [ref=e914] [cursor=pointer]
+            - tab "Refrigerators" [ref=e915] [cursor=pointer]
+            - tab "Microwaves" [ref=e916] [cursor=pointer]
+            - tab "Air Conditioner" [ref=e917] [cursor=pointer]
+            - tab "Latest 5G Smartphones" [ref=e918] [cursor=pointer]
+            - tab "Dishwashers" [ref=e919] [cursor=pointer]
+          - tabpanel "Washing Machine" [ref=e920]:
+            - generic [ref=e924]:
+              - generic [ref=e925]:
+                - button "Show previous" [ref=e926]:
+                  - img "previous" [ref=e927]
+                - button "Show next" [ref=e928] [cursor=pointer]:
+                  - img "next" [ref=e929]
+              - generic [ref=e931]:
+                - generic [ref=e932]:
+                  - link "Samsung 7 KG 5 Star Digital Inverter Fully Automatic Top Load Washing Machine | EcoBubble™ | Soft Closing Door (WA70BG4441BYTL, Lavender Grey)" [ref=e933] [cursor=pointer]:
+                    - /url: /p/205328/samsung-7-kg-5-star-fully-automatic-top-load-washing-machine-wa70bg4441by-lavender-grey
+                    - img "Samsung 7 KG 5 Star Digital Inverter Fully Automatic Top Load Washing Machine | EcoBubble™ | Soft Closing Door (WA70BG4441BYTL, Lavender Grey)" [ref=e935]
+                  - link "Samsung 7 KG 5 Star Digital Inverter Fully Automatic Top Load Washing Machine | EcoBubble™ | Soft Closing Door (WA70BG4441BYTL, Lavender Grey)" [ref=e937] [cursor=pointer]:
+                    - /url: /p/205328/samsung-7-kg-5-star-fully-automatic-top-load-washing-machine-wa70bg4441by-lavender-grey
+                    - generic [ref=e938]: Samsung 7 KG 5 Star Digital Inverter Fully Automatic Top Load Washing Machine | EcoBubble™ | Soft Closing Door (WA70BG4441BYTL, Lavender Grey)
+                  - generic [ref=e939]:
+                    - generic [ref=e941]: Best Seller
+                    - generic [ref=e943]: 1000+ Bought
+                  - link "₹17,490 MRP ₹22,500 22 % off" [ref=e944] [cursor=pointer]:
+                    - /url: /p/205328/samsung-7-kg-5-star-fully-automatic-top-load-washing-machine-wa70bg4441by-lavender-grey
+                    - generic [ref=e945]:
+                      - generic [ref=e946]: ₹17,490
+                      - generic [ref=e947]:
+                        - generic [ref=e948]: MRP
+                        - generic [ref=e949]: ₹22,500
+                      - generic [ref=e950]:
+                        - generic [ref=e951]: "22"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/205328/samsung-7-kg-5-star-fully-automatic-top-load-washing-machine-wa70bg4441by-lavender-grey
+                - generic [ref=e952]:
+                  - link "Voltas Beko 6.5 KG 5 Star Fully Automatic Top Load Washing Machine| Double Waterfall | Toughened Glass Lid | Auto Balance Detection (WTL6504UEA, Grey)" [ref=e953] [cursor=pointer]:
+                    - /url: /p/P225333/225334/voltas-beko-65-kg-5-star-fully-automatic-top-load-washing-machine-double-waterfall-toughened-glass-lid-auto-balance-detection-wtl6504uea-grey
+                    - img "Voltas Beko 6.5 KG 5 Star Fully Automatic Top Load Washing Machine| Double Waterfall | Toughened Glass Lid | Auto Balance Detection (WTL6504UEA, Grey)" [ref=e955]
+                  - link "Voltas Beko 6.5 KG 5 Star Fully Automatic Top Load Washing Machine| Double Waterfall | Toughened Glass Lid | Auto Balance Detection (WTL6504UEA, Grey)" [ref=e957] [cursor=pointer]:
+                    - /url: /p/P225333/225334/voltas-beko-65-kg-5-star-fully-automatic-top-load-washing-machine-double-waterfall-toughened-glass-lid-auto-balance-detection-wtl6504uea-grey
+                    - generic [ref=e958]: Voltas Beko 6.5 KG 5 Star Fully Automatic Top Load Washing Machine| Double Waterfall | Toughened Glass Lid | Auto Balance Detection (WTL6504UEA, Grey)
+                  - generic [ref=e959]:
+                    - generic [ref=e961]: Recommended
+                    - generic [ref=e963]: 500+ Bought
+                  - link "₹11,990 MRP ₹24,490 51 % off" [ref=e964] [cursor=pointer]:
+                    - /url: /p/P225333/225334/voltas-beko-65-kg-5-star-fully-automatic-top-load-washing-machine-double-waterfall-toughened-glass-lid-auto-balance-detection-wtl6504uea-grey
+                    - generic [ref=e965]:
+                      - generic [ref=e966]: ₹11,990
+                      - generic [ref=e967]:
+                        - generic [ref=e968]: MRP
+                        - generic [ref=e969]: ₹24,490
+                      - generic [ref=e970]:
+                        - generic [ref=e971]: "51"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P225333/225334/voltas-beko-65-kg-5-star-fully-automatic-top-load-washing-machine-double-waterfall-toughened-glass-lid-auto-balance-detection-wtl6504uea-grey
+                - generic [ref=e972]:
+                  - link "Whirlpool 7.5 KG 5 Star Fully Automatic Top Load Washing Machine | In-Built Heater | Spiro Wash | Auto Tub Clean | Express Wash (StainWash Pro, Grey)" [ref=e973] [cursor=pointer]:
+                    - /url: /p/225699/whirlpool-stainwash-pro-7-5-kg-5-star-fully-automatic-top-load-washing-machine-with-in-built-heater-express-wash-spiro-wash-action-black
+                    - img "Whirlpool 7.5 KG 5 Star Fully Automatic Top Load Washing Machine | In-Built Heater | Spiro Wash | Auto Tub Clean | Express Wash (StainWash Pro, Grey)" [ref=e975]
+                  - link "Whirlpool 7.5 KG 5 Star Fully Automatic Top Load Washing Machine | In-Built Heater | Spiro Wash | Auto Tub Clean | Express Wash (StainWash Pro, Grey)" [ref=e977] [cursor=pointer]:
+                    - /url: /p/225699/whirlpool-stainwash-pro-7-5-kg-5-star-fully-automatic-top-load-washing-machine-with-in-built-heater-express-wash-spiro-wash-action-black
+                    - generic [ref=e978]: Whirlpool 7.5 KG 5 Star Fully Automatic Top Load Washing Machine | In-Built Heater | Spiro Wash | Auto Tub Clean | Express Wash (StainWash Pro, Grey)
+                  - generic [ref=e979]:
+                    - generic [ref=e981]: Best Seller
+                    - generic [ref=e983]: 500+ Bought
+                  - link "₹17,990 MRP ₹23,200 22 % off" [ref=e984] [cursor=pointer]:
+                    - /url: /p/225699/whirlpool-stainwash-pro-7-5-kg-5-star-fully-automatic-top-load-washing-machine-with-in-built-heater-express-wash-spiro-wash-action-black
+                    - generic [ref=e985]:
+                      - generic [ref=e986]: ₹17,990
+                      - generic [ref=e987]:
+                        - generic [ref=e988]: MRP
+                        - generic [ref=e989]: ₹23,200
+                      - generic [ref=e990]:
+                        - generic [ref=e991]: "22"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/225699/whirlpool-stainwash-pro-7-5-kg-5-star-fully-automatic-top-load-washing-machine-with-in-built-heater-express-wash-spiro-wash-action-black
+                - generic [ref=e992]:
+                  - link "LG 8 Kg Fully Automatic Top Load Washing Machine with TurboDrum | Auto Pre Wash | Auto Restart | Smart Diagnosis | Waterfall Circulation (T80VBMB1Z, Middle Black)" [ref=e993] [cursor=pointer]:
+                    - /url: /p/235839/lg-8-kg-fully-automatic-top-load-washing-machine-with-turbodrum-auto-pre-wash-auto-restart-smart-diagnosis-waterfall-circulation-t80vbmb1z-middle-black
+                    - img "LG 8 Kg Fully Automatic Top Load Washing Machine with TurboDrum | Auto Pre Wash | Auto Restart | Smart Diagnosis | Waterfall Circulation (T80VBMB1Z, Middle Black)" [ref=e995]
+                  - link "LG 8 Kg Fully Automatic Top Load Washing Machine with TurboDrum | Auto Pre Wash | Auto Restart | Smart Diagnosis | Waterfall Circulation (T80VBMB1Z, Middle Black)" [ref=e997] [cursor=pointer]:
+                    - /url: /p/235839/lg-8-kg-fully-automatic-top-load-washing-machine-with-turbodrum-auto-pre-wash-auto-restart-smart-diagnosis-waterfall-circulation-t80vbmb1z-middle-black
+                    - generic [ref=e998]: LG 8 Kg Fully Automatic Top Load Washing Machine with TurboDrum | Auto Pre Wash | Auto Restart | Smart Diagnosis | Waterfall Circulation (T80VBMB1Z, Middle Black)
+                  - generic [ref=e999]:
+                    - generic [ref=e1001]: Recommended
+                    - generic [ref=e1003]: 500+ Bought
+                  - link "₹19,990 MRP ₹28,990 31 % off" [ref=e1004] [cursor=pointer]:
+                    - /url: /p/235839/lg-8-kg-fully-automatic-top-load-washing-machine-with-turbodrum-auto-pre-wash-auto-restart-smart-diagnosis-waterfall-circulation-t80vbmb1z-middle-black
+                    - generic [ref=e1005]:
+                      - generic [ref=e1006]: ₹19,990
+                      - generic [ref=e1007]:
+                        - generic [ref=e1008]: MRP
+                        - generic [ref=e1009]: ₹28,990
+                      - generic [ref=e1010]:
+                        - generic [ref=e1011]: "31"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/235839/lg-8-kg-fully-automatic-top-load-washing-machine-with-turbodrum-auto-pre-wash-auto-restart-smart-diagnosis-waterfall-circulation-t80vbmb1z-middle-black
+                - generic [ref=e1012]:
+                  - link "Voltas Beko 9 Kg 5 Star Semi Automatic Top Load Washing Machine with Special Pulsator | Double Waterfall | Soft Closing Door (WTT90UDX/BKGR4KGTD)" [ref=e1013] [cursor=pointer]:
+                    - /url: /p/230263/voltas-beko-9-kg-5-star-semi-automatic-top-load-washing-machine-with-special-pulsator-double-waterfall-soft-closing-door-wtt90udx-bkgr4kgtd
+                    - img "Voltas Beko 9 Kg 5 Star Semi Automatic Top Load Washing Machine with Special Pulsator | Double Waterfall | Soft Closing Door (WTT90UDX/BKGR4KGTD)" [ref=e1015]
+                  - link "Voltas Beko 9 Kg 5 Star Semi Automatic Top Load Washing Machine with Special Pulsator | Double Waterfall | Soft Closing Door (WTT90UDX/BKGR4KGTD)" [ref=e1017] [cursor=pointer]:
+                    - /url: /p/230263/voltas-beko-9-kg-5-star-semi-automatic-top-load-washing-machine-with-special-pulsator-double-waterfall-soft-closing-door-wtt90udx-bkgr4kgtd
+                    - generic [ref=e1018]: Voltas Beko 9 Kg 5 Star Semi Automatic Top Load Washing Machine with Special Pulsator | Double Waterfall | Soft Closing Door (WTT90UDX/BKGR4KGTD)
+                  - generic [ref=e1019]:
+                    - generic [ref=e1021]: Best Seller
+                    - generic [ref=e1023]: 1000+ Bought
+                  - link "₹11,990 MRP ₹22,990 48 % off" [ref=e1024] [cursor=pointer]:
+                    - /url: /p/230263/voltas-beko-9-kg-5-star-semi-automatic-top-load-washing-machine-with-special-pulsator-double-waterfall-soft-closing-door-wtt90udx-bkgr4kgtd
+                    - generic [ref=e1025]:
+                      - generic [ref=e1026]: ₹11,990
+                      - generic [ref=e1027]:
+                        - generic [ref=e1028]: MRP
+                        - generic [ref=e1029]: ₹22,990
+                      - generic [ref=e1030]:
+                        - generic [ref=e1031]: "48"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/230263/voltas-beko-9-kg-5-star-semi-automatic-top-load-washing-machine-with-special-pulsator-double-waterfall-soft-closing-door-wtt90udx-bkgr4kgtd
+                - generic [ref=e1032]:
+                  - link "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1033] [cursor=pointer]:
+                    - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                    - img "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1035]
+                  - link "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1037] [cursor=pointer]:
+                    - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                    - generic [ref=e1038]: Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)
+                  - generic [ref=e1039]:
+                    - generic [ref=e1041]: Best Seller
+                    - generic [ref=e1043]: 500+ Bought
+                  - link "₹8,990 MRP ₹15,990 44 % off" [ref=e1044] [cursor=pointer]:
+                    - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                    - generic [ref=e1045]:
+                      - generic [ref=e1046]: ₹8,990
+                      - generic [ref=e1047]:
+                        - generic [ref=e1048]: MRP
+                        - generic [ref=e1049]: ₹15,990
+                      - generic [ref=e1050]:
+                        - generic [ref=e1051]: "44"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                - generic [ref=e1052]:
+                  - link "LG 7 Kg 5 Star Fully Automatic Front Load Washing Machine with Inverter Direct Drive | Steam | Full Touch Control (FHB1207Z2M, Middle Black)" [ref=e1053] [cursor=pointer]:
+                    - /url: /p/P234571/234571/lg-7-kg-5-star-fully-automatic-front-load-washing-machine-with-inverter-direct-drive-steam-full-touch-control-fhb1207z2m-middle-black
+                    - img "LG 7 Kg 5 Star Fully Automatic Front Load Washing Machine with Inverter Direct Drive | Steam | Full Touch Control (FHB1207Z2M, Middle Black)" [ref=e1055]
+                  - link "LG 7 Kg 5 Star Fully Automatic Front Load Washing Machine with Inverter Direct Drive | Steam | Full Touch Control (FHB1207Z2M, Middle Black)" [ref=e1057] [cursor=pointer]:
+                    - /url: /p/P234571/234571/lg-7-kg-5-star-fully-automatic-front-load-washing-machine-with-inverter-direct-drive-steam-full-touch-control-fhb1207z2m-middle-black
+                    - generic [ref=e1058]: LG 7 Kg 5 Star Fully Automatic Front Load Washing Machine with Inverter Direct Drive | Steam | Full Touch Control (FHB1207Z2M, Middle Black)
+                  - generic [ref=e1059]:
+                    - generic [ref=e1061]: Recommended
+                    - generic [ref=e1063]: 200+ Bought
+                  - link "₹29,990 MRP ₹44,490 33 % off" [ref=e1064] [cursor=pointer]:
+                    - /url: /p/P234571/234571/lg-7-kg-5-star-fully-automatic-front-load-washing-machine-with-inverter-direct-drive-steam-full-touch-control-fhb1207z2m-middle-black
+                    - generic [ref=e1065]:
+                      - generic [ref=e1066]: ₹29,990
+                      - generic [ref=e1067]:
+                        - generic [ref=e1068]: MRP
+                        - generic [ref=e1069]: ₹44,490
+                      - generic [ref=e1070]:
+                        - generic [ref=e1071]: "33"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P234571/234571/lg-7-kg-5-star-fully-automatic-front-load-washing-machine-with-inverter-direct-drive-steam-full-touch-control-fhb1207z2m-middle-black
+                - generic [ref=e1072]:
+                  - link "Bosch 9 Kg Fully Automatic Front Load Washing Machine with Steam Care | 1400 RPM Spin Speed | AntiWrinkle | LED Display (WGA244ZTIN, Black Grey)" [ref=e1073] [cursor=pointer]:
+                    - /url: /p/231653/bosch-9-kg-fully-automatic-front-load-washing-machine-with-steam-care-1400-rpm-spin-speed-antiwrinkle-led-display-wga244ztin-black-grey
+                    - img "Bosch 9 Kg Fully Automatic Front Load Washing Machine with Steam Care | 1400 RPM Spin Speed | AntiWrinkle | LED Display (WGA244ZTIN, Black Grey)" [ref=e1075]
+                  - link "Bosch 9 Kg Fully Automatic Front Load Washing Machine with Steam Care | 1400 RPM Spin Speed | AntiWrinkle | LED Display (WGA244ZTIN, Black Grey)" [ref=e1077] [cursor=pointer]:
+                    - /url: /p/231653/bosch-9-kg-fully-automatic-front-load-washing-machine-with-steam-care-1400-rpm-spin-speed-antiwrinkle-led-display-wga244ztin-black-grey
+                    - generic [ref=e1078]: Bosch 9 Kg Fully Automatic Front Load Washing Machine with Steam Care | 1400 RPM Spin Speed | AntiWrinkle | LED Display (WGA244ZTIN, Black Grey)
+                  - generic [ref=e1081]: 500+ Bought
+                  - link "₹39,990 MRP ₹58,990 32 % off" [ref=e1082] [cursor=pointer]:
+                    - /url: /p/231653/bosch-9-kg-fully-automatic-front-load-washing-machine-with-steam-care-1400-rpm-spin-speed-antiwrinkle-led-display-wga244ztin-black-grey
+                    - generic [ref=e1083]:
+                      - generic [ref=e1084]: ₹39,990
+                      - generic [ref=e1085]:
+                        - generic [ref=e1086]: MRP
+                        - generic [ref=e1087]: ₹58,990
+                      - generic [ref=e1088]:
+                        - generic [ref=e1089]: "32"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/231653/bosch-9-kg-fully-automatic-front-load-washing-machine-with-steam-care-1400-rpm-spin-speed-antiwrinkle-led-display-wga244ztin-black-grey
+                - generic [ref=e1090]:
+                  - link "Samsung 9 Kg 5 Star Fully Automatic Front Load Washing Machine with AI Ecobubble | AI Energy Mode | Hygiene Steam | Drum Clean + | Wi-Fi Embedded (WW90DG5U24AS, Navy)" [ref=e1091] [cursor=pointer]:
+                    - /url: /p/239301/samsung-9-kg-5-star-fully-automatic-front-load-washing-machine-with-ai-ecobubble-ai-energy-mode-hygiene-steam-drum-clean-wi-fi-embedded-ww90dg5u24as-navy
+                    - img "Samsung 9 Kg 5 Star Fully Automatic Front Load Washing Machine with AI Ecobubble | AI Energy Mode | Hygiene Steam | Drum Clean + | Wi-Fi Embedded (WW90DG5U24AS, Navy)" [ref=e1093]
+                  - link "Samsung 9 Kg 5 Star Fully Automatic Front Load Washing Machine with AI Ecobubble | AI Energy Mode | Hygiene Steam | Drum Clean + | Wi-Fi Embedded (WW90DG5U24AS, Navy)" [ref=e1095] [cursor=pointer]:
+                    - /url: /p/239301/samsung-9-kg-5-star-fully-automatic-front-load-washing-machine-with-ai-ecobubble-ai-energy-mode-hygiene-steam-drum-clean-wi-fi-embedded-ww90dg5u24as-navy
+                    - generic [ref=e1096]: Samsung 9 Kg 5 Star Fully Automatic Front Load Washing Machine with AI Ecobubble | AI Energy Mode | Hygiene Steam | Drum Clean + | Wi-Fi Embedded (WW90DG5U24AS, Navy)
+                  - generic [ref=e1099]: 200+ Bought
+                  - link "₹38,490 MRP ₹52,990 27 % off" [ref=e1100] [cursor=pointer]:
+                    - /url: /p/239301/samsung-9-kg-5-star-fully-automatic-front-load-washing-machine-with-ai-ecobubble-ai-energy-mode-hygiene-steam-drum-clean-wi-fi-embedded-ww90dg5u24as-navy
+                    - generic [ref=e1101]:
+                      - generic [ref=e1102]: ₹38,490
+                      - generic [ref=e1103]:
+                        - generic [ref=e1104]: MRP
+                        - generic [ref=e1105]: ₹52,990
+                      - generic [ref=e1106]:
+                        - generic [ref=e1107]: "27"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/239301/samsung-9-kg-5-star-fully-automatic-front-load-washing-machine-with-ai-ecobubble-ai-energy-mode-hygiene-steam-drum-clean-wi-fi-embedded-ww90dg5u24as-navy
+                - generic [ref=e1108]:
+                  - link "Godrej 8 Kg 5 Star Fully Automatic Top Load Washing Machine | Zero Pressure Technology | 8 Wash Programs | Child Lock (WTEON VLVT 80 5.0 FDTN MTBK, Metallic Black)" [ref=e1109] [cursor=pointer]:
+                    - /url: /p/230680/godrej-8-kg-5-star-fully-automatic-top-load-washing-machine-with-zero-pressure-technology-8-wash-programs-child-lock-wteon-vlvt-80-5-0-fdtn-mtbk
+                    - img "Godrej 8 Kg 5 Star Fully Automatic Top Load Washing Machine | Zero Pressure Technology | 8 Wash Programs | Child Lock (WTEON VLVT 80 5.0 FDTN MTBK, Metallic Black)" [ref=e1111]
+                  - link "Godrej 8 Kg 5 Star Fully Automatic Top Load Washing Machine | Zero Pressure Technology | 8 Wash Programs | Child Lock (WTEON VLVT 80 5.0 FDTN MTBK, Metallic Black)" [ref=e1113] [cursor=pointer]:
+                    - /url: /p/230680/godrej-8-kg-5-star-fully-automatic-top-load-washing-machine-with-zero-pressure-technology-8-wash-programs-child-lock-wteon-vlvt-80-5-0-fdtn-mtbk
+                    - generic [ref=e1114]: Godrej 8 Kg 5 Star Fully Automatic Top Load Washing Machine | Zero Pressure Technology | 8 Wash Programs | Child Lock (WTEON VLVT 80 5.0 FDTN MTBK, Metallic Black)
+                  - generic [ref=e1115]:
+                    - generic [ref=e1117]: Best Seller
+                    - generic [ref=e1119]: 1000+ Bought
+                  - link "₹17,990 MRP ₹35,000 49 % off" [ref=e1120] [cursor=pointer]:
+                    - /url: /p/230680/godrej-8-kg-5-star-fully-automatic-top-load-washing-machine-with-zero-pressure-technology-8-wash-programs-child-lock-wteon-vlvt-80-5-0-fdtn-mtbk
+                    - generic [ref=e1121]:
+                      - generic [ref=e1122]: ₹17,990
+                      - generic [ref=e1123]:
+                        - generic [ref=e1124]: MRP
+                        - generic [ref=e1125]: ₹35,000
+                      - generic [ref=e1126]:
+                        - generic [ref=e1127]: "49"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/230680/godrej-8-kg-5-star-fully-automatic-top-load-washing-machine-with-zero-pressure-technology-8-wash-programs-child-lock-wteon-vlvt-80-5-0-fdtn-mtbk
+      - link "Air-fryer clp" [ref=e1134] [cursor=pointer]:
+        - /url: https://www.vijaysales.com/c/air-fryers
+        - img "Air-fryer clp" [ref=e1137]
+      - generic [ref=e1141]:
+        - heading "Bestsellers Deals" [level=3] [ref=e1144]
+        - generic [ref=e1148]:
+          - tablist [ref=e1149]:
+            - tab "Smartphones" [selected] [ref=e1150] [cursor=pointer]
+            - tab "Laptops" [ref=e1151] [cursor=pointer]
+            - tab "TWS" [ref=e1152] [cursor=pointer]
+            - tab "Air Fryer" [ref=e1153] [cursor=pointer]
+            - tab "Tablets" [ref=e1154] [cursor=pointer]
+            - tab "Trimmers" [ref=e1155] [cursor=pointer]
+            - tab "Smartwatches" [ref=e1156] [cursor=pointer]
+            - tab "Hair Stylers" [ref=e1157] [cursor=pointer]
+            - tab "Macbook" [ref=e1158] [cursor=pointer]
+            - tab "Ipad" [ref=e1159] [cursor=pointer]
+          - tabpanel "Smartphones" [ref=e1160]:
+            - generic [ref=e1164]:
+              - generic [ref=e1165]:
+                - button "Show previous" [ref=e1166]:
+                  - img "previous" [ref=e1167]
+                - button "Show next" [ref=e1168] [cursor=pointer]:
+                  - img "next" [ref=e1169]
+              - generic [ref=e1171]:
+                - generic [ref=e1172]:
+                  - link "OnePlus 15 5G (12GB RAM, 256GB Storage) Infinite Black | Snapdragon 8 Elite Gen 5 | 7300mAh Battery with 120W Charge | Lifetime Display Warranty" [ref=e1173] [cursor=pointer]:
+                    - /url: /p/P248207/248207/oneplus-15-5g-12gb-ram-256gb-storage-infinite-black-snapdragon-8-elite-gen-5-7300mah-battery-with-120w-charge-lifetime-display-warranty
+                    - img "OnePlus 15 5G (12GB RAM, 256GB Storage) Infinite Black | Snapdragon 8 Elite Gen 5 | 7300mAh Battery with 120W Charge | Lifetime Display Warranty" [ref=e1175]
+                  - link "OnePlus 15 5G (12GB RAM, 256GB Storage) Infinite Black | Snapdragon 8 Elite Gen 5 | 7300mAh Battery with 120W Charge | Lifetime Display Warranty" [ref=e1177] [cursor=pointer]:
+                    - /url: /p/P248207/248207/oneplus-15-5g-12gb-ram-256gb-storage-infinite-black-snapdragon-8-elite-gen-5-7300mah-battery-with-120w-charge-lifetime-display-warranty
+                    - generic [ref=e1178]: OnePlus 15 5G (12GB RAM, 256GB Storage) Infinite Black | Snapdragon 8 Elite Gen 5 | 7300mAh Battery with 120W Charge | Lifetime Display Warranty
+                  - link "₹72,999 MRP ₹76,999 5 % off" [ref=e1179] [cursor=pointer]:
+                    - /url: /p/P248207/248207/oneplus-15-5g-12gb-ram-256gb-storage-infinite-black-snapdragon-8-elite-gen-5-7300mah-battery-with-120w-charge-lifetime-display-warranty
+                    - generic [ref=e1180]:
+                      - generic [ref=e1181]: ₹72,999
+                      - generic [ref=e1182]:
+                        - generic [ref=e1183]: MRP
+                        - generic [ref=e1184]: ₹76,999
+                      - generic [ref=e1185]:
+                        - generic [ref=e1186]: "5"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P248207/248207/oneplus-15-5g-12gb-ram-256gb-storage-infinite-black-snapdragon-8-elite-gen-5-7300mah-battery-with-120w-charge-lifetime-display-warranty
+                - generic [ref=e1187]:
+                  - link "Oppo Find X9 5G (12GB RAM, 256GB Storage) Space Black" [ref=e1188] [cursor=pointer]:
+                    - /url: /p/P247899/247899/oppo-find-x9-5g-12gb-ram-256gb-storage-space-black
+                    - img "Oppo Find X9 5G (12GB RAM, 256GB Storage) Space Black" [ref=e1190]
+                  - link "Oppo Find X9 5G (12GB RAM, 256GB Storage) Space Black" [ref=e1192] [cursor=pointer]:
+                    - /url: /p/P247899/247899/oppo-find-x9-5g-12gb-ram-256gb-storage-space-black
+                    - generic [ref=e1193]: Oppo Find X9 5G (12GB RAM, 256GB Storage) Space Black
+                  - generic [ref=e1194]:
+                    - generic [ref=e1196]: No Cost EMI
+                    - generic [ref=e1198]: ₹7500 Bank Offer
+                  - link "₹74,999 MRP ₹79,999 6 % off" [ref=e1199] [cursor=pointer]:
+                    - /url: /p/P247899/247899/oppo-find-x9-5g-12gb-ram-256gb-storage-space-black
+                    - generic [ref=e1200]:
+                      - generic [ref=e1201]: ₹74,999
+                      - generic [ref=e1202]:
+                        - generic [ref=e1203]: MRP
+                        - generic [ref=e1204]: ₹79,999
+                      - generic [ref=e1205]:
+                        - generic [ref=e1206]: "6"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P247899/247899/oppo-find-x9-5g-12gb-ram-256gb-storage-space-black
+                - generic [ref=e1207]:
+                  - link "Google Pixel 9a (8GB RAM, 256GB Storage) Iris" [ref=e1208] [cursor=pointer]:
+                    - /url: /p/P238750/238752/google-pixel-9a-8gb-ram-256gb-storage-iris
+                    - img "Google Pixel 9a (8GB RAM, 256GB Storage) Iris" [ref=e1210]
+                  - link "Google Pixel 9a (8GB RAM, 256GB Storage) Iris" [ref=e1212] [cursor=pointer]:
+                    - /url: /p/P238750/238752/google-pixel-9a-8gb-ram-256gb-storage-iris
+                    - generic [ref=e1213]: Google Pixel 9a (8GB RAM, 256GB Storage) Iris
+                  - generic [ref=e1214]:
+                    - generic [ref=e1216]: No Cost EMI
+                    - generic [ref=e1218]: ₹5000 Bank Offer
+                  - link "₹44,999 MRP ₹49,999 10 % off" [ref=e1219] [cursor=pointer]:
+                    - /url: /p/P238750/238752/google-pixel-9a-8gb-ram-256gb-storage-iris
+                    - generic [ref=e1220]:
+                      - generic [ref=e1221]: ₹44,999
+                      - generic [ref=e1222]:
+                        - generic [ref=e1223]: MRP
+                        - generic [ref=e1224]: ₹49,999
+                      - generic [ref=e1225]:
+                        - generic [ref=e1226]: "10"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P238750/238752/google-pixel-9a-8gb-ram-256gb-storage-iris
+                - generic [ref=e1227]:
+                  - link "Oneplus Nord 5 5G (8GB RAM, 256GB Storage) Phantom Grey | Snapdragon 8s Gen 3 | 6800 mAh Battery | Lifetime Display Warranty" [ref=e1228] [cursor=pointer]:
+                    - /url: /p/P241171/241171/oneplus-nord-5-5g-8gb-ram-256gb-storage-phantom-grey
+                    - img "Oneplus Nord 5 5G (8GB RAM, 256GB Storage) Phantom Grey | Snapdragon 8s Gen 3 | 6800 mAh Battery | Lifetime Display Warranty" [ref=e1230]
+                  - link "Oneplus Nord 5 5G (8GB RAM, 256GB Storage) Phantom Grey | Snapdragon 8s Gen 3 | 6800 mAh Battery | Lifetime Display Warranty" [ref=e1232] [cursor=pointer]:
+                    - /url: /p/P241171/241171/oneplus-nord-5-5g-8gb-ram-256gb-storage-phantom-grey
+                    - generic [ref=e1233]: Oneplus Nord 5 5G (8GB RAM, 256GB Storage) Phantom Grey | Snapdragon 8s Gen 3 | 6800 mAh Battery | Lifetime Display Warranty
+                  - generic [ref=e1234]:
+                    - generic [ref=e1236]: No Cost EMI
+                    - generic [ref=e1238]: ₹1000 Bank Offer
+                  - link "₹31,999" [ref=e1239] [cursor=pointer]:
+                    - /url: /p/P241171/241171/oneplus-nord-5-5g-8gb-ram-256gb-storage-phantom-grey
+                    - generic [ref=e1241]: ₹31,999
+                  - link:
+                    - /url: /p/P241171/241171/oneplus-nord-5-5g-8gb-ram-256gb-storage-phantom-grey
+                - generic [ref=e1242]:
+                  - link "Oppo Mobile K13 5G (8GB RAM, 128GB Storage) Icy Purple" [ref=e1243] [cursor=pointer]:
+                    - /url: /p/P239577/239578/oppo-mobile-k13-5g-8gb-ram-128gb-storage-icy-purple
+                    - img "Oppo Mobile K13 5G (8GB RAM, 128GB Storage) Icy Purple" [ref=e1245]
+                  - link "Oppo Mobile K13 5G (8GB RAM, 128GB Storage) Icy Purple" [ref=e1247] [cursor=pointer]:
+                    - /url: /p/P239577/239578/oppo-mobile-k13-5g-8gb-ram-128gb-storage-icy-purple
+                    - generic [ref=e1248]: Oppo Mobile K13 5G (8GB RAM, 128GB Storage) Icy Purple
+                  - generic [ref=e1249]:
+                    - generic [ref=e1251]: No Cost EMI
+                    - generic [ref=e1253]: ₹1000 Bank Offer
+                  - link "₹19,999" [ref=e1254] [cursor=pointer]:
+                    - /url: /p/P239577/239578/oppo-mobile-k13-5g-8gb-ram-128gb-storage-icy-purple
+                    - generic [ref=e1256]: ₹19,999
+                  - link:
+                    - /url: /p/P239577/239578/oppo-mobile-k13-5g-8gb-ram-128gb-storage-icy-purple
+                - generic [ref=e1257]:
+                  - link "Nothing Phone (3) 5G (12GB RAM, 256GB Storage) Black" [ref=e1258] [cursor=pointer]:
+                    - /url: /p/P241435/241435/nothing-phone-3-5g-12gb-ram-256gb-storage-black
+                    - img "Nothing Phone (3) 5G (12GB RAM, 256GB Storage) Black" [ref=e1260]
+                  - link "Nothing Phone (3) 5G (12GB RAM, 256GB Storage) Black" [ref=e1262] [cursor=pointer]:
+                    - /url: /p/P241435/241435/nothing-phone-3-5g-12gb-ram-256gb-storage-black
+                    - generic [ref=e1263]: Nothing Phone (3) 5G (12GB RAM, 256GB Storage) Black
+                  - generic [ref=e1264]:
+                    - generic [ref=e1266]: No Cost EMI
+                    - generic [ref=e1268]: ₹10000 Bank Offer
+                  - link "₹59,999 MRP ₹84,999 29 % off" [ref=e1269] [cursor=pointer]:
+                    - /url: /p/P241435/241435/nothing-phone-3-5g-12gb-ram-256gb-storage-black
+                    - generic [ref=e1270]:
+                      - generic [ref=e1271]: ₹59,999
+                      - generic [ref=e1272]:
+                        - generic [ref=e1273]: MRP
+                        - generic [ref=e1274]: ₹84,999
+                      - generic [ref=e1275]:
+                        - generic [ref=e1276]: "29"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P241435/241435/nothing-phone-3-5g-12gb-ram-256gb-storage-black
+                - generic [ref=e1277]:
+                  - link "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e1278] [cursor=pointer]:
+                    - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                    - img "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e1280]
+                  - link "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e1282] [cursor=pointer]:
+                    - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                    - generic [ref=e1283]: OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI
+                  - generic [ref=e1284]:
+                    - generic [ref=e1286]: No Cost EMI
+                    - generic [ref=e1288]: ₹2000 Bank Offer
+                  - link "₹39,999 MRP ₹44,999 11 % off" [ref=e1289] [cursor=pointer]:
+                    - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                    - generic [ref=e1290]:
+                      - generic [ref=e1291]: ₹39,999
+                      - generic [ref=e1292]:
+                        - generic [ref=e1293]: MRP
+                        - generic [ref=e1294]: ₹44,999
+                      - generic [ref=e1295]:
+                        - generic [ref=e1296]: "11"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                - generic [ref=e1297]:
+                  - link "Oppo A5x 5G (4GB RAM 128GB Storage) Midnight Blue" [ref=e1298] [cursor=pointer]:
+                    - /url: /p/P239980/239981/oppo-a5x-5g-4gb-ram-128gb-storage-midnight-blue
+                    - img "Oppo A5x 5G (4GB RAM 128GB Storage) Midnight Blue" [ref=e1300]
+                  - link "Oppo A5x 5G (4GB RAM 128GB Storage) Midnight Blue" [ref=e1302] [cursor=pointer]:
+                    - /url: /p/P239980/239981/oppo-a5x-5g-4gb-ram-128gb-storage-midnight-blue
+                    - generic [ref=e1303]: Oppo A5x 5G (4GB RAM 128GB Storage) Midnight Blue
+                  - generic [ref=e1304]:
+                    - generic [ref=e1306]: No Cost EMI
+                    - generic [ref=e1308]: ₹1000 Bank Offer
+                  - link "₹12,499 MRP ₹13,999 11 % off" [ref=e1309] [cursor=pointer]:
+                    - /url: /p/P239980/239981/oppo-a5x-5g-4gb-ram-128gb-storage-midnight-blue
+                    - generic [ref=e1310]:
+                      - generic [ref=e1311]: ₹12,499
+                      - generic [ref=e1312]:
+                        - generic [ref=e1313]: MRP
+                        - generic [ref=e1314]: ₹13,999
+                      - generic [ref=e1315]:
+                        - generic [ref=e1316]: "11"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P239980/239981/oppo-a5x-5g-4gb-ram-128gb-storage-midnight-blue
+                - generic [ref=e1317]:
+                  - link "Oppo Reno14 Pro 5G (12GB RAM, 256GB Storage) Pearl White" [ref=e1318] [cursor=pointer]:
+                    - /url: /p/P240901/240901/oppo-reno14-pro-5g-12gb-ram-256gb-storage-pearl-white
+                    - img "Oppo Reno14 Pro 5G (12GB RAM, 256GB Storage) Pearl White" [ref=e1320]
+                  - link "Oppo Reno14 Pro 5G (12GB RAM, 256GB Storage) Pearl White" [ref=e1322] [cursor=pointer]:
+                    - /url: /p/P240901/240901/oppo-reno14-pro-5g-12gb-ram-256gb-storage-pearl-white
+                    - generic [ref=e1323]: Oppo Reno14 Pro 5G (12GB RAM, 256GB Storage) Pearl White
+                  - generic [ref=e1324]:
+                    - generic [ref=e1326]: No Cost EMI
+                    - generic [ref=e1328]: ₹4500 Bank Offer
+                  - link "₹51,999 MRP ₹54,999 5 % off" [ref=e1329] [cursor=pointer]:
+                    - /url: /p/P240901/240901/oppo-reno14-pro-5g-12gb-ram-256gb-storage-pearl-white
+                    - generic [ref=e1330]:
+                      - generic [ref=e1331]: ₹51,999
+                      - generic [ref=e1332]:
+                        - generic [ref=e1333]: MRP
+                        - generic [ref=e1334]: ₹54,999
+                      - generic [ref=e1335]:
+                        - generic [ref=e1336]: "5"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P240901/240901/oppo-reno14-pro-5g-12gb-ram-256gb-storage-pearl-white
+                - generic [ref=e1337]:
+                  - link "Nothing Phone (3a) 5G (8GB RAM, 128GB Storage) Black" [ref=e1338] [cursor=pointer]:
+                    - /url: /p/P238456/238456/nothing-phone-3a-5g-8gb-ram-128gb-storage-black
+                    - img "Nothing Phone (3a) 5G (8GB RAM, 128GB Storage) Black" [ref=e1340]
+                  - link "Nothing Phone (3a) 5G (8GB RAM, 128GB Storage) Black" [ref=e1342] [cursor=pointer]:
+                    - /url: /p/P238456/238456/nothing-phone-3a-5g-8gb-ram-128gb-storage-black
+                    - generic [ref=e1343]: Nothing Phone (3a) 5G (8GB RAM, 128GB Storage) Black
+                  - generic [ref=e1344]:
+                    - generic [ref=e1346]: No Cost EMI
+                    - generic [ref=e1348]: ₹2000 Bank Offer
+                  - link "₹24,999 MRP ₹28,999 14 % off" [ref=e1349] [cursor=pointer]:
+                    - /url: /p/P238456/238456/nothing-phone-3a-5g-8gb-ram-128gb-storage-black
+                    - generic [ref=e1350]:
+                      - generic [ref=e1351]: ₹24,999
+                      - generic [ref=e1352]:
+                        - generic [ref=e1353]: MRP
+                        - generic [ref=e1354]: ₹28,999
+                      - generic [ref=e1355]:
+                        - generic [ref=e1356]: "14"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P238456/238456/nothing-phone-3a-5g-8gb-ram-128gb-storage-black
+      - generic [ref=e1358]:
+        - heading "Exclusive Deals & Offers" [level=3] [ref=e1361]
+        - generic [ref=e1363]:
+          - generic [ref=e1365]:
+            - tablist [ref=e1366]:
+              - tab "Price Drop" [ref=e1367] [cursor=pointer]
+              - tab "Trending" [selected] [ref=e1368] [cursor=pointer]
+              - tab "New Releases" [ref=e1369] [cursor=pointer]
+              - tab "Best Sellers" [ref=e1370] [cursor=pointer]
+            - tabpanel "Trending" [ref=e1371]:
+              - generic [ref=e1375]:
+                - generic [ref=e1376]:
+                  - button "Show previous" [ref=e1377]:
+                    - img "previous" [ref=e1378]
+                  - button "Show next" [ref=e1379] [cursor=pointer]:
+                    - img "next" [ref=e1380]
+                - generic [ref=e1382]:
+                  - generic [ref=e1383]:
+                    - 'link "JBL PartyBox Stage 320 with Upto 18 hours of play time, JBL PartyBox App, Dual Mic & Guitar Inputs, AI Sound Boost, Sturdy Wheels (Black) deal-tag Price Drop ends in 11 : 31 : 52" [ref=e1384] [cursor=pointer]':
+                      - /url: /p/P227814/227814/jbl-partybox-stage-320-with-upto-18-hours-of-play-time-jbl-partybox-app-dual-mic-guitar-inputs-ai-sound-boost-sturdy-wheels-black
+                      - img "JBL PartyBox Stage 320 with Upto 18 hours of play time, JBL PartyBox App, Dual Mic & Guitar Inputs, AI Sound Boost, Sturdy Wheels (Black)" [ref=e1386]
+                      - generic [ref=e1388]:
+                        - generic [ref=e1389]:
+                          - img "deal-tag" [ref=e1391]
+                          - generic [ref=e1392]: Price Drop
+                        - generic [ref=e1393]: "ends in 11 : 31 : 52"
+                    - link "JBL PartyBox Stage 320 with Upto 18 hours of play time, JBL PartyBox App, Dual Mic & Guitar Inputs, AI Sound Boost, Sturdy Wheels (Black)" [ref=e1395] [cursor=pointer]:
+                      - /url: /p/P227814/227814/jbl-partybox-stage-320-with-upto-18-hours-of-play-time-jbl-partybox-app-dual-mic-guitar-inputs-ai-sound-boost-sturdy-wheels-black
+                      - generic [ref=e1396]: JBL PartyBox Stage 320 with Upto 18 hours of play time, JBL PartyBox App, Dual Mic & Guitar Inputs, AI Sound Boost, Sturdy Wheels (Black)
+                    - generic [ref=e1397]:
+                      - generic [ref=e1399]: No Cost EMI
+                      - generic [ref=e1401]: 200+ Bought
+                    - link "₹39,990 MRP ₹54,999 27 % off" [ref=e1402] [cursor=pointer]:
+                      - /url: /p/P227814/227814/jbl-partybox-stage-320-with-upto-18-hours-of-play-time-jbl-partybox-app-dual-mic-guitar-inputs-ai-sound-boost-sturdy-wheels-black
+                      - generic [ref=e1403]:
+                        - generic [ref=e1404]: ₹39,990
+                        - generic [ref=e1405]:
+                          - generic [ref=e1406]: MRP
+                          - generic [ref=e1407]: ₹54,999
+                        - generic [ref=e1408]:
+                          - generic [ref=e1409]: "27"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/P227814/227814/jbl-partybox-stage-320-with-upto-18-hours-of-play-time-jbl-partybox-app-dual-mic-guitar-inputs-ai-sound-boost-sturdy-wheels-black
+                  - generic [ref=e1410]:
+                    - link "Philips Airfryer 6.2 Litres with touch panel | Rapid Air Technology, Cooking window (Black, NA231/00)" [ref=e1411] [cursor=pointer]:
+                      - /url: /p/229965/philips-airfryer-6-2-litres-with-touch-panel-rapid-air-technology-cooking-window-black-na231-00
+                      - img "Philips Airfryer 6.2 Litres with touch panel | Rapid Air Technology, Cooking window (Black, NA231/00)" [ref=e1413]
+                    - link "Philips Airfryer 6.2 Litres with touch panel | Rapid Air Technology, Cooking window (Black, NA231/00)" [ref=e1415] [cursor=pointer]:
+                      - /url: /p/229965/philips-airfryer-6-2-litres-with-touch-panel-rapid-air-technology-cooking-window-black-na231-00
+                      - generic [ref=e1416]: Philips Airfryer 6.2 Litres with touch panel | Rapid Air Technology, Cooking window (Black, NA231/00)
+                    - link "₹9,589 MRP ₹11,995 20 % off" [ref=e1417] [cursor=pointer]:
+                      - /url: /p/229965/philips-airfryer-6-2-litres-with-touch-panel-rapid-air-technology-cooking-window-black-na231-00
+                      - generic [ref=e1418]:
+                        - generic [ref=e1419]: ₹9,589
+                        - generic [ref=e1420]:
+                          - generic [ref=e1421]: MRP
+                          - generic [ref=e1422]: ₹11,995
+                        - generic [ref=e1423]:
+                          - generic [ref=e1424]: "20"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/229965/philips-airfryer-6-2-litres-with-touch-panel-rapid-air-technology-cooking-window-black-na231-00
+                  - generic [ref=e1425]:
+                    - link "OnePlus 13s 5G (12GB RAM, 256GB Storage) Green Silk | Snapdragon 8 Elite | 5850mAh Battery with 80W Charge | Lifetime Display Warranty" [ref=e1426] [cursor=pointer]:
+                      - /url: /p/P240146/240147/oneplus-13s-5g-12gb-ram-256gb-storage-green-silk
+                      - img "OnePlus 13s 5G (12GB RAM, 256GB Storage) Green Silk | Snapdragon 8 Elite | 5850mAh Battery with 80W Charge | Lifetime Display Warranty" [ref=e1428]
+                    - link "OnePlus 13s 5G (12GB RAM, 256GB Storage) Green Silk | Snapdragon 8 Elite | 5850mAh Battery with 80W Charge | Lifetime Display Warranty" [ref=e1430] [cursor=pointer]:
+                      - /url: /p/P240146/240147/oneplus-13s-5g-12gb-ram-256gb-storage-green-silk
+                      - generic [ref=e1431]: OnePlus 13s 5G (12GB RAM, 256GB Storage) Green Silk | Snapdragon 8 Elite | 5850mAh Battery with 80W Charge | Lifetime Display Warranty
+                    - generic [ref=e1432]:
+                      - generic [ref=e1434]: No Cost EMI
+                      - generic [ref=e1436]: ₹3000 Bank Offer
+                    - link "₹52,999 MRP ₹57,999 9 % off" [ref=e1437] [cursor=pointer]:
+                      - /url: /p/P240146/240147/oneplus-13s-5g-12gb-ram-256gb-storage-green-silk
+                      - generic [ref=e1438]:
+                        - generic [ref=e1439]: ₹52,999
+                        - generic [ref=e1440]:
+                          - generic [ref=e1441]: MRP
+                          - generic [ref=e1442]: ₹57,999
+                        - generic [ref=e1443]:
+                          - generic [ref=e1444]: "9"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/P240146/240147/oneplus-13s-5g-12gb-ram-256gb-storage-green-silk
+                  - generic [ref=e1445]:
+                    - link "TCL 80 cm (32 inches) Full HD QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V5C)" [ref=e1446] [cursor=pointer]:
+                      - /url: /p/243616/tcl-80-cm-32-inches-full-hd-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v5c
+                      - img "TCL 80 cm (32 inches) Full HD QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V5C)" [ref=e1448]
+                    - link "TCL 80 cm (32 inches) Full HD QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V5C)" [ref=e1450] [cursor=pointer]:
+                      - /url: /p/243616/tcl-80-cm-32-inches-full-hd-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v5c
+                      - generic [ref=e1451]: TCL 80 cm (32 inches) Full HD QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V5C)
+                    - link "₹12,990 MRP ₹22,990 43 % off" [ref=e1452] [cursor=pointer]:
+                      - /url: /p/243616/tcl-80-cm-32-inches-full-hd-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v5c
+                      - generic [ref=e1453]:
+                        - generic [ref=e1454]: ₹12,990
+                        - generic [ref=e1455]:
+                          - generic [ref=e1456]: MRP
+                          - generic [ref=e1457]: ₹22,990
+                        - generic [ref=e1458]:
+                          - generic [ref=e1459]: "43"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/243616/tcl-80-cm-32-inches-full-hd-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v5c
+                  - generic [ref=e1460]:
+                    - link "OnePlus Nord Buds 3r TWS Earbuds with Up to 54 H Battery | 12.4 mm Titanized Drivers | 3D Spatial Audio | Dual-Mic AI Call Noise Cancellation | 47 ms Low Latency | IP55 | Bluetooth 5.4 (Ash Black)" [ref=e1461] [cursor=pointer]:
+                      - /url: /p/P244880/244880/oneplus-nord-buds-3r-tws-earbuds-with-up-to-54-h-battery-12-4-mm-titanized-drivers-3d-spatial-audio-dual-mic-ai-call-noise-cancellation-47-ms-low-latency-ip55-bluetooth-5-4-ash-black
+                      - img "OnePlus Nord Buds 3r TWS Earbuds with Up to 54 H Battery | 12.4 mm Titanized Drivers | 3D Spatial Audio | Dual-Mic AI Call Noise Cancellation | 47 ms Low Latency | IP55 | Bluetooth 5.4 (Ash Black)" [ref=e1463]
+                    - link "OnePlus Nord Buds 3r TWS Earbuds with Up to 54 H Battery | 12.4 mm Titanized Drivers | 3D Spatial Audio | Dual-Mic AI Call Noise Cancellation | 47 ms Low Latency | IP55 | Bluetooth 5.4 (Ash Black)" [ref=e1465] [cursor=pointer]:
+                      - /url: /p/P244880/244880/oneplus-nord-buds-3r-tws-earbuds-with-up-to-54-h-battery-12-4-mm-titanized-drivers-3d-spatial-audio-dual-mic-ai-call-noise-cancellation-47-ms-low-latency-ip55-bluetooth-5-4-ash-black
+                      - generic [ref=e1466]: OnePlus Nord Buds 3r TWS Earbuds with Up to 54 H Battery | 12.4 mm Titanized Drivers | 3D Spatial Audio | Dual-Mic AI Call Noise Cancellation | 47 ms Low Latency | IP55 | Bluetooth 5.4 (Ash Black)
+                    - link "₹1,599 MRP ₹1,999 20 % off" [ref=e1467] [cursor=pointer]:
+                      - /url: /p/P244880/244880/oneplus-nord-buds-3r-tws-earbuds-with-up-to-54-h-battery-12-4-mm-titanized-drivers-3d-spatial-audio-dual-mic-ai-call-noise-cancellation-47-ms-low-latency-ip55-bluetooth-5-4-ash-black
+                      - generic [ref=e1468]:
+                        - generic [ref=e1469]: ₹1,599
+                        - generic [ref=e1470]:
+                          - generic [ref=e1471]: MRP
+                          - generic [ref=e1472]: ₹1,999
+                        - generic [ref=e1473]:
+                          - generic [ref=e1474]: "20"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/P244880/244880/oneplus-nord-buds-3r-tws-earbuds-with-up-to-54-h-battery-12-4-mm-titanized-drivers-3d-spatial-audio-dual-mic-ai-call-noise-cancellation-47-ms-low-latency-ip55-bluetooth-5-4-ash-black
+                  - generic [ref=e1475]:
+                    - link "Haier 20 Litres Convection Microwave Oven with Mirror Glass Design | 66 Auto Cook Menu | Digital Control | Stainless steel cavity (HIL2001CSSH, Silver)" [ref=e1476] [cursor=pointer]:
+                      - /url: /p/223138/haier-20-litres-convection-microwave-oven-with-mirror-glass-design-66-auto-cook-menu-digital-control-stainless-steel-cavity-hil2001cssh-silver
+                      - img "Haier 20 Litres Convection Microwave Oven with Mirror Glass Design | 66 Auto Cook Menu | Digital Control | Stainless steel cavity (HIL2001CSSH, Silver)" [ref=e1478]
+                    - link "Haier 20 Litres Convection Microwave Oven with Mirror Glass Design | 66 Auto Cook Menu | Digital Control | Stainless steel cavity (HIL2001CSSH, Silver)" [ref=e1480] [cursor=pointer]:
+                      - /url: /p/223138/haier-20-litres-convection-microwave-oven-with-mirror-glass-design-66-auto-cook-menu-digital-control-stainless-steel-cavity-hil2001cssh-silver
+                      - generic [ref=e1481]: Haier 20 Litres Convection Microwave Oven with Mirror Glass Design | 66 Auto Cook Menu | Digital Control | Stainless steel cavity (HIL2001CSSH, Silver)
+                    - generic [ref=e1484]: 200+ Bought
+                    - link "₹9,990 MRP ₹13,800 28 % off" [ref=e1485] [cursor=pointer]:
+                      - /url: /p/223138/haier-20-litres-convection-microwave-oven-with-mirror-glass-design-66-auto-cook-menu-digital-control-stainless-steel-cavity-hil2001cssh-silver
+                      - generic [ref=e1486]:
+                        - generic [ref=e1487]: ₹9,990
+                        - generic [ref=e1488]:
+                          - generic [ref=e1489]: MRP
+                          - generic [ref=e1490]: ₹13,800
+                        - generic [ref=e1491]:
+                          - generic [ref=e1492]: "28"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/223138/haier-20-litres-convection-microwave-oven-with-mirror-glass-design-66-auto-cook-menu-digital-control-stainless-steel-cavity-hil2001cssh-silver
+                  - generic [ref=e1493]:
+                    - link "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1494] [cursor=pointer]:
+                      - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                      - img "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1496]
+                    - link "Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)" [ref=e1498] [cursor=pointer]:
+                      - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                      - generic [ref=e1499]: Voltas Beko 7 KG 5 Star Semi Automatic Top Load Washing Machine | Fast Dry Technology | IPX4 Control Panel | Double WaterFall (WTT70DBRT, Burgundy)
+                    - generic [ref=e1500]:
+                      - generic [ref=e1502]: Best Seller
+                      - generic [ref=e1504]: 500+ Bought
+                    - link "₹8,990 MRP ₹15,990 44 % off" [ref=e1505] [cursor=pointer]:
+                      - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                      - generic [ref=e1506]:
+                        - generic [ref=e1507]: ₹8,990
+                        - generic [ref=e1508]:
+                          - generic [ref=e1509]: MRP
+                          - generic [ref=e1510]: ₹15,990
+                        - generic [ref=e1511]:
+                          - generic [ref=e1512]: "44"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/P212627/212627/voltas-7-kg-5-star-semi-automatic-top-load-washing-machine-with-fast-dry-technology-cassette-filter-special-pulsator-wtt70dbrt-burgundy
+                  - generic [ref=e1513]:
+                    - link "VISE by Vijay Sales 1 Ton 3 Star Inverter Split AC | 100% Copper | Convertible 5 in 1 Cooling | 4 Way Swing | PM 1.0 Filter (VS12INV3SB1A | White) 2025 Model" [ref=e1514] [cursor=pointer]:
+                      - /url: /p/P238916/238916/vise-by-vijay-sales-1-ton-3-star-inverter-split-ac-100-copper-convertible-5-in-1-cooling-4-way-swing-pm-10-filter-vs12inv3sb1a-white-2025-model
+                      - img "VISE by Vijay Sales 1 Ton 3 Star Inverter Split AC | 100% Copper | Convertible 5 in 1 Cooling | 4 Way Swing | PM 1.0 Filter (VS12INV3SB1A | White) 2025 Model" [ref=e1516]
+                    - link "VISE by Vijay Sales 1 Ton 3 Star Inverter Split AC | 100% Copper | Convertible 5 in 1 Cooling | 4 Way Swing | PM 1.0 Filter (VS12INV3SB1A | White) 2025 Model" [ref=e1518] [cursor=pointer]:
+                      - /url: /p/P238916/238916/vise-by-vijay-sales-1-ton-3-star-inverter-split-ac-100-copper-convertible-5-in-1-cooling-4-way-swing-pm-10-filter-vs12inv3sb1a-white-2025-model
+                      - generic [ref=e1519]: VISE by Vijay Sales 1 Ton 3 Star Inverter Split AC | 100% Copper | Convertible 5 in 1 Cooling | 4 Way Swing | PM 1.0 Filter (VS12INV3SB1A | White) 2025 Model
+                    - generic [ref=e1520]:
+                      - generic [ref=e1522]: Best Seller
+                      - generic [ref=e1524]: 500+ Bought
+                    - link "₹22,990 MRP ₹59,900 62 % off" [ref=e1525] [cursor=pointer]:
+                      - /url: /p/P238916/238916/vise-by-vijay-sales-1-ton-3-star-inverter-split-ac-100-copper-convertible-5-in-1-cooling-4-way-swing-pm-10-filter-vs12inv3sb1a-white-2025-model
+                      - generic [ref=e1526]:
+                        - generic [ref=e1527]: ₹22,990
+                        - generic [ref=e1528]:
+                          - generic [ref=e1529]: MRP
+                          - generic [ref=e1530]: ₹59,900
+                        - generic [ref=e1531]:
+                          - generic [ref=e1532]: "62"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/P238916/238916/vise-by-vijay-sales-1-ton-3-star-inverter-split-ac-100-copper-convertible-5-in-1-cooling-4-way-swing-pm-10-filter-vs12inv3sb1a-white-2025-model
+                  - generic [ref=e1533]:
+                    - link "Samsung WindFree 1.5 Ton (3 Star-Inverter) Split AC with 4-way Swing | Wi-Fi Embedded | WindFree Cooling | Copper Anti-bacterial Filter (AR60F19D13W)" [ref=e1534] [cursor=pointer]:
+                      - /url: /p/238148/samsung-windfree-1-5-ton-3-star-inverter-split-ac-with-4-way-swing-wi-fi-embedded-windfree-cooling-copper-anti-bacterial-filter-ar60f19d13w
+                      - img "Samsung WindFree 1.5 Ton (3 Star-Inverter) Split AC with 4-way Swing | Wi-Fi Embedded | WindFree Cooling | Copper Anti-bacterial Filter (AR60F19D13W)" [ref=e1536]
+                    - link "Samsung WindFree 1.5 Ton (3 Star-Inverter) Split AC with 4-way Swing | Wi-Fi Embedded | WindFree Cooling | Copper Anti-bacterial Filter (AR60F19D13W)" [ref=e1538] [cursor=pointer]:
+                      - /url: /p/238148/samsung-windfree-1-5-ton-3-star-inverter-split-ac-with-4-way-swing-wi-fi-embedded-windfree-cooling-copper-anti-bacterial-filter-ar60f19d13w
+                      - generic [ref=e1539]: Samsung WindFree 1.5 Ton (3 Star-Inverter) Split AC with 4-way Swing | Wi-Fi Embedded | WindFree Cooling | Copper Anti-bacterial Filter (AR60F19D13W)
+                    - generic [ref=e1542]: 500+ Bought
+                    - link "₹38,990 MRP ₹78,290 50 % off" [ref=e1543] [cursor=pointer]:
+                      - /url: /p/238148/samsung-windfree-1-5-ton-3-star-inverter-split-ac-with-4-way-swing-wi-fi-embedded-windfree-cooling-copper-anti-bacterial-filter-ar60f19d13w
+                      - generic [ref=e1544]:
+                        - generic [ref=e1545]: ₹38,990
+                        - generic [ref=e1546]:
+                          - generic [ref=e1547]: MRP
+                          - generic [ref=e1548]: ₹78,290
+                        - generic [ref=e1549]:
+                          - generic [ref=e1550]: "50"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/238148/samsung-windfree-1-5-ton-3-star-inverter-split-ac-with-4-way-swing-wi-fi-embedded-windfree-cooling-copper-anti-bacterial-filter-ar60f19d13w
+                  - generic [ref=e1551]:
+                    - link "Bluestar 47 Litres 2 Star Minibar Refrigerator with Adjustable Temperature, Toughened Glass Shelf (MR60-GB, Black)" [ref=e1552] [cursor=pointer]:
+                      - /url: /p/224350/bluestar-47-litres-2-star-minibar-refrigerator-with-adjustable-temperature-toughened-glass-shelf-mr60-gb-black
+                      - img "Bluestar 47 Litres 2 Star Minibar Refrigerator with Adjustable Temperature, Toughened Glass Shelf (MR60-GB, Black)" [ref=e1554]
+                    - link "Bluestar 47 Litres 2 Star Minibar Refrigerator with Adjustable Temperature, Toughened Glass Shelf (MR60-GB, Black)" [ref=e1556] [cursor=pointer]:
+                      - /url: /p/224350/bluestar-47-litres-2-star-minibar-refrigerator-with-adjustable-temperature-toughened-glass-shelf-mr60-gb-black
+                      - generic [ref=e1557]: Bluestar 47 Litres 2 Star Minibar Refrigerator with Adjustable Temperature, Toughened Glass Shelf (MR60-GB, Black)
+                    - generic [ref=e1558]:
+                      - generic [ref=e1560]: Recommended
+                      - generic [ref=e1562]: 300+ Bought
+                    - link "₹8,990 MRP ₹11,990 25 % off" [ref=e1563] [cursor=pointer]:
+                      - /url: /p/224350/bluestar-47-litres-2-star-minibar-refrigerator-with-adjustable-temperature-toughened-glass-shelf-mr60-gb-black
+                      - generic [ref=e1564]:
+                        - generic [ref=e1565]: ₹8,990
+                        - generic [ref=e1566]:
+                          - generic [ref=e1567]: MRP
+                          - generic [ref=e1568]: ₹11,990
+                        - generic [ref=e1569]:
+                          - generic [ref=e1570]: "25"
+                          - text: "% off"
+                    - link:
+                      - /url: /p/224350/bluestar-47-litres-2-star-minibar-refrigerator-with-adjustable-temperature-toughened-glass-shelf-mr60-gb-black
+          - link "View All" [ref=e1572] [cursor=pointer]:
+            - /url: /sale/exclusive-deals-and-offers
+      - link "Laptop" [ref=e1579] [cursor=pointer]:
+        - /url: https://www.vijaysales.com/sale/laptop-buckets/top-seller-lap
+        - img "Laptop" [ref=e1582]
+      - generic [ref=e1586]:
+        - generic [ref=e1587]:
+          - button "Show previous" [ref=e1588]:
+            - img "previous" [ref=e1589]
+          - button "Show next" [ref=e1590] [cursor=pointer]:
+            - img "next" [ref=e1591]
+        - generic [ref=e1593]:
+          - generic [ref=e1594]:
+            - link "Dell New 15 Laptop (Intel Core 3/ 8GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002001RINS1" [ref=e1595] [cursor=pointer]:
+              - /url: /p/243561/dell-new-15-laptop-intel-core-i3-8gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002001rins1
+              - img "Dell New 15 Laptop (Intel Core 3/ 8GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002001RINS1" [ref=e1597]
+            - link "Dell New 15 Laptop (Intel Core 3/ 8GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002001RINS1" [ref=e1599] [cursor=pointer]:
+              - /url: /p/243561/dell-new-15-laptop-intel-core-i3-8gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002001rins1
+              - generic [ref=e1600]: Dell New 15 Laptop (Intel Core 3/ 8GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002001RINS1
+            - generic [ref=e1601]:
+              - generic [ref=e1603]: Featured
+              - generic [ref=e1605]: New Arrival
+            - link "₹37,990 MRP ₹48,800 22 % off" [ref=e1606] [cursor=pointer]:
+              - /url: /p/243561/dell-new-15-laptop-intel-core-i3-8gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002001rins1
+              - generic [ref=e1607]:
+                - generic [ref=e1608]: ₹37,990
+                - generic [ref=e1609]:
+                  - generic [ref=e1610]: MRP
+                  - generic [ref=e1611]: ₹48,800
+                - generic [ref=e1612]:
+                  - generic [ref=e1613]: "22"
+                  - text: "% off"
+            - link:
+              - /url: /p/243561/dell-new-15-laptop-intel-core-i3-8gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002001rins1
+          - generic [ref=e1614]:
+            - link "Dell New 15 Laptop (Intel Core i3/ 16GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002101RINB1" [ref=e1615] [cursor=pointer]:
+              - /url: /p/244980/dell-new-15-laptop-intel-core-i3-16gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002101rinb1
+              - img "Dell New 15 Laptop (Intel Core i3/ 16GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002101RINB1" [ref=e1617]
+            - link "Dell New 15 Laptop (Intel Core i3/ 16GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002101RINB1" [ref=e1619] [cursor=pointer]:
+              - /url: /p/244980/dell-new-15-laptop-intel-core-i3-16gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002101rinb1
+              - generic [ref=e1620]: Dell New 15 Laptop (Intel Core i3/ 16GB RAM/ 512GB SSD/ 15.6 inch (39.62 cm) Display/ Intel UHD Graphics/ MS Office) ODC1525002101RINB1
+            - generic [ref=e1621]:
+              - generic [ref=e1623]: Featured
+              - generic [ref=e1625]: New Arrival
+            - link "₹41,990 MRP ₹47,000 11 % off" [ref=e1626] [cursor=pointer]:
+              - /url: /p/244980/dell-new-15-laptop-intel-core-i3-16gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002101rinb1
+              - generic [ref=e1627]:
+                - generic [ref=e1628]: ₹41,990
+                - generic [ref=e1629]:
+                  - generic [ref=e1630]: MRP
+                  - generic [ref=e1631]: ₹47,000
+                - generic [ref=e1632]:
+                  - generic [ref=e1633]: "11"
+                  - text: "% off"
+            - link:
+              - /url: /p/244980/dell-new-15-laptop-intel-core-i3-16gb-ram-512gb-ssd-156-inch-3962-cm-display-intel-uhd-graphics-ms-office-odc1525002101rinb1
+          - generic [ref=e1634]:
+            - link "Lenovo Slim3-15 12th Gen Laptop (Intel Core i5/ 16GB LPDDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD IPS Display/ Intel UHD Graphics/ Win 11/ MS-Office) 83ER00KRIN" [ref=e1635] [cursor=pointer]:
+              - /url: /p/236467/lenovo-slim3-15-12th-gen-laptop-intel-core-i5-16gb-lpddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-ips-display-intel-uhd-graphics-win-11-ms-office-83er00krin
+              - img "Lenovo Slim3-15 12th Gen Laptop (Intel Core i5/ 16GB LPDDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD IPS Display/ Intel UHD Graphics/ Win 11/ MS-Office) 83ER00KRIN" [ref=e1637]
+            - link "Lenovo Slim3-15 12th Gen Laptop (Intel Core i5/ 16GB LPDDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD IPS Display/ Intel UHD Graphics/ Win 11/ MS-Office) 83ER00KRIN" [ref=e1639] [cursor=pointer]:
+              - /url: /p/236467/lenovo-slim3-15-12th-gen-laptop-intel-core-i5-16gb-lpddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-ips-display-intel-uhd-graphics-win-11-ms-office-83er00krin
+              - generic [ref=e1640]: Lenovo Slim3-15 12th Gen Laptop (Intel Core i5/ 16GB LPDDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD IPS Display/ Intel UHD Graphics/ Win 11/ MS-Office) 83ER00KRIN
+            - generic [ref=e1641]:
+              - generic [ref=e1643]: Featured
+              - generic [ref=e1645]: New Arrival
+            - link "₹51,990 MRP ₹76,000 32 % off" [ref=e1646] [cursor=pointer]:
+              - /url: /p/236467/lenovo-slim3-15-12th-gen-laptop-intel-core-i5-16gb-lpddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-ips-display-intel-uhd-graphics-win-11-ms-office-83er00krin
+              - generic [ref=e1647]:
+                - generic [ref=e1648]: ₹51,990
+                - generic [ref=e1649]:
+                  - generic [ref=e1650]: MRP
+                  - generic [ref=e1651]: ₹76,000
+                - generic [ref=e1652]:
+                  - generic [ref=e1653]: "32"
+                  - text: "% off"
+            - link:
+              - /url: /p/236467/lenovo-slim3-15-12th-gen-laptop-intel-core-i5-16gb-lpddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-ips-display-intel-uhd-graphics-win-11-ms-office-83er00krin
+          - generic [ref=e1654]:
+            - link "Lenovo IdeaPad 5 Convertible Laptop (Intel Core i5 13th Gen/ 16GB LPDDR5x RAM/ 512GB SSD/ 14 Inch (35.56 cm) Touchscreen Display/ Intel UHD Graphics/ Backlit Keyboard/ Windows 11/ MS-Office) 83KX0058IN" [ref=e1655] [cursor=pointer]:
+              - /url: /p/238441/lenovo-ideapad-5-convertible-laptop-intel-core-i5-13th-gen-16gb-lpddr5x-ram-512gb-ssd-14-inch-35-56-cm-touchscreen-display-intel-uhd-graphics-backlit-keyboard-windows-11-ms-office-83kx0058in
+              - img "Lenovo IdeaPad 5 Convertible Laptop (Intel Core i5 13th Gen/ 16GB LPDDR5x RAM/ 512GB SSD/ 14 Inch (35.56 cm) Touchscreen Display/ Intel UHD Graphics/ Backlit Keyboard/ Windows 11/ MS-Office) 83KX0058IN" [ref=e1657]
+            - link "Lenovo IdeaPad 5 Convertible Laptop (Intel Core i5 13th Gen/ 16GB LPDDR5x RAM/ 512GB SSD/ 14 Inch (35.56 cm) Touchscreen Display/ Intel UHD Graphics/ Backlit Keyboard/ Windows 11/ MS-Office) 83KX0058IN" [ref=e1659] [cursor=pointer]:
+              - /url: /p/238441/lenovo-ideapad-5-convertible-laptop-intel-core-i5-13th-gen-16gb-lpddr5x-ram-512gb-ssd-14-inch-35-56-cm-touchscreen-display-intel-uhd-graphics-backlit-keyboard-windows-11-ms-office-83kx0058in
+              - generic [ref=e1660]: Lenovo IdeaPad 5 Convertible Laptop (Intel Core i5 13th Gen/ 16GB LPDDR5x RAM/ 512GB SSD/ 14 Inch (35.56 cm) Touchscreen Display/ Intel UHD Graphics/ Backlit Keyboard/ Windows 11/ MS-Office) 83KX0058IN
+            - generic [ref=e1661]:
+              - generic [ref=e1663]: Featured
+              - generic [ref=e1665]: Trending
+            - link "₹71,990 MRP ₹1,00,000 28 % off" [ref=e1666] [cursor=pointer]:
+              - /url: /p/238441/lenovo-ideapad-5-convertible-laptop-intel-core-i5-13th-gen-16gb-lpddr5x-ram-512gb-ssd-14-inch-35-56-cm-touchscreen-display-intel-uhd-graphics-backlit-keyboard-windows-11-ms-office-83kx0058in
+              - generic [ref=e1667]:
+                - generic [ref=e1668]: ₹71,990
+                - generic [ref=e1669]:
+                  - generic [ref=e1670]: MRP
+                  - generic [ref=e1671]: ₹1,00,000
+                - generic [ref=e1672]:
+                  - generic [ref=e1673]: "28"
+                  - text: "% off"
+            - link:
+              - /url: /p/238441/lenovo-ideapad-5-convertible-laptop-intel-core-i5-13th-gen-16gb-lpddr5x-ram-512gb-ssd-14-inch-35-56-cm-touchscreen-display-intel-uhd-graphics-backlit-keyboard-windows-11-ms-office-83kx0058in
+          - generic [ref=e1674]:
+            - link "HP Thin & Light Laptop (13th Gen Intel Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) Full HD Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 15-fr0049TU" [ref=e1675] [cursor=pointer]:
+              - /url: /p/241421/hp-thin-light-laptop-13th-gen-intel-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-full-hd-display-intel-uhd-graphics-windows-11-ms-office-15-fr0049tu
+              - img "HP Thin & Light Laptop (13th Gen Intel Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) Full HD Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 15-fr0049TU" [ref=e1677]
+            - link "HP Thin & Light Laptop (13th Gen Intel Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) Full HD Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 15-fr0049TU" [ref=e1679] [cursor=pointer]:
+              - /url: /p/241421/hp-thin-light-laptop-13th-gen-intel-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-full-hd-display-intel-uhd-graphics-windows-11-ms-office-15-fr0049tu
+              - generic [ref=e1680]: HP Thin & Light Laptop (13th Gen Intel Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) Full HD Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 15-fr0049TU
+            - generic [ref=e1681]:
+              - generic [ref=e1683]: Featured
+              - generic [ref=e1685]: Trending
+            - link "₹59,490 MRP ₹73,000 19 % off" [ref=e1686] [cursor=pointer]:
+              - /url: /p/241421/hp-thin-light-laptop-13th-gen-intel-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-full-hd-display-intel-uhd-graphics-windows-11-ms-office-15-fr0049tu
+              - generic [ref=e1687]:
+                - generic [ref=e1688]: ₹59,490
+                - generic [ref=e1689]:
+                  - generic [ref=e1690]: MRP
+                  - generic [ref=e1691]: ₹73,000
+                - generic [ref=e1692]:
+                  - generic [ref=e1693]: "19"
+                  - text: "% off"
+            - link:
+              - /url: /p/241421/hp-thin-light-laptop-13th-gen-intel-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-full-hd-display-intel-uhd-graphics-windows-11-ms-office-15-fr0049tu
+          - generic [ref=e1694]:
+            - link "Lenovo Yoga Slim 7 Laptop (Intel Core Ultra 5/ 16GB DDR5 RAM/ 1TB SSD/ 14 Inch (35.56 cm) WUXGA OLED Display/ Intel Arc Graphics/ Windows 11/ MS-Office) 83CV008YIN" [ref=e1695] [cursor=pointer]:
+              - /url: /p/239004/lenovo-yoga-slim-7-laptop-intel-core-ultra-5-16gb-ddr5-ram-1tb-ssd-14-inch-35-56-cm-wuxga-oled-display-intel-arc-graphics-windows-11-ms-office-83cv008yin
+              - img "Lenovo Yoga Slim 7 Laptop (Intel Core Ultra 5/ 16GB DDR5 RAM/ 1TB SSD/ 14 Inch (35.56 cm) WUXGA OLED Display/ Intel Arc Graphics/ Windows 11/ MS-Office) 83CV008YIN" [ref=e1697]
+            - link "Lenovo Yoga Slim 7 Laptop (Intel Core Ultra 5/ 16GB DDR5 RAM/ 1TB SSD/ 14 Inch (35.56 cm) WUXGA OLED Display/ Intel Arc Graphics/ Windows 11/ MS-Office) 83CV008YIN" [ref=e1699] [cursor=pointer]:
+              - /url: /p/239004/lenovo-yoga-slim-7-laptop-intel-core-ultra-5-16gb-ddr5-ram-1tb-ssd-14-inch-35-56-cm-wuxga-oled-display-intel-arc-graphics-windows-11-ms-office-83cv008yin
+              - generic [ref=e1700]: Lenovo Yoga Slim 7 Laptop (Intel Core Ultra 5/ 16GB DDR5 RAM/ 1TB SSD/ 14 Inch (35.56 cm) WUXGA OLED Display/ Intel Arc Graphics/ Windows 11/ MS-Office) 83CV008YIN
+            - generic [ref=e1701]:
+              - generic [ref=e1703]: Featured
+              - generic [ref=e1705]: Trending
+            - link "₹81,990 MRP ₹1,18,890 31 % off" [ref=e1706] [cursor=pointer]:
+              - /url: /p/239004/lenovo-yoga-slim-7-laptop-intel-core-ultra-5-16gb-ddr5-ram-1tb-ssd-14-inch-35-56-cm-wuxga-oled-display-intel-arc-graphics-windows-11-ms-office-83cv008yin
+              - generic [ref=e1707]:
+                - generic [ref=e1708]: ₹81,990
+                - generic [ref=e1709]:
+                  - generic [ref=e1710]: MRP
+                  - generic [ref=e1711]: ₹1,18,890
+                - generic [ref=e1712]:
+                  - generic [ref=e1713]: "31"
+                  - text: "% off"
+            - link:
+              - /url: /p/239004/lenovo-yoga-slim-7-laptop-intel-core-ultra-5-16gb-ddr5-ram-1tb-ssd-14-inch-35-56-cm-wuxga-oled-display-intel-arc-graphics-windows-11-ms-office-83cv008yin
+          - generic [ref=e1714]:
+            - link "Lenovo IdeaPad Slim 3 Thin & Light Laptop (13th Gen Intel Core i5/ 16GB DDR5 RAM/ 512GB SSD/ 15.3 Inch (38.86 cm) WUXGA IPS Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 83K100CFIN" [ref=e1715] [cursor=pointer]:
+              - /url: /p/239002/lenovo-ideapad-slim-3-thin-light-laptop-13th-gen-intel-core-i5-16gb-ddr5-ram-512gb-ssd-15-3-inch-38-86-cm-wuxga-ips-display-intel-uhd-graphics-windows-11-ms-office-83k100cfin
+              - img "Lenovo IdeaPad Slim 3 Thin & Light Laptop (13th Gen Intel Core i5/ 16GB DDR5 RAM/ 512GB SSD/ 15.3 Inch (38.86 cm) WUXGA IPS Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 83K100CFIN" [ref=e1717]
+            - link "Lenovo IdeaPad Slim 3 Thin & Light Laptop (13th Gen Intel Core i5/ 16GB DDR5 RAM/ 512GB SSD/ 15.3 Inch (38.86 cm) WUXGA IPS Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 83K100CFIN" [ref=e1719] [cursor=pointer]:
+              - /url: /p/239002/lenovo-ideapad-slim-3-thin-light-laptop-13th-gen-intel-core-i5-16gb-ddr5-ram-512gb-ssd-15-3-inch-38-86-cm-wuxga-ips-display-intel-uhd-graphics-windows-11-ms-office-83k100cfin
+              - generic [ref=e1720]: Lenovo IdeaPad Slim 3 Thin & Light Laptop (13th Gen Intel Core i5/ 16GB DDR5 RAM/ 512GB SSD/ 15.3 Inch (38.86 cm) WUXGA IPS Display/ Intel UHD Graphics/ Windows 11/ MS-Office) 83K100CFIN
+            - generic [ref=e1721]:
+              - generic [ref=e1723]: Featured
+              - generic [ref=e1725]: Trending
+            - link "₹57,999 MRP ₹85,990 33 % off" [ref=e1726] [cursor=pointer]:
+              - /url: /p/239002/lenovo-ideapad-slim-3-thin-light-laptop-13th-gen-intel-core-i5-16gb-ddr5-ram-512gb-ssd-15-3-inch-38-86-cm-wuxga-ips-display-intel-uhd-graphics-windows-11-ms-office-83k100cfin
+              - generic [ref=e1727]:
+                - generic [ref=e1728]: ₹57,999
+                - generic [ref=e1729]:
+                  - generic [ref=e1730]: MRP
+                  - generic [ref=e1731]: ₹85,990
+                - generic [ref=e1732]:
+                  - generic [ref=e1733]: "33"
+                  - text: "% off"
+            - link:
+              - /url: /p/239002/lenovo-ideapad-slim-3-thin-light-laptop-13th-gen-intel-core-i5-16gb-ddr5-ram-512gb-ssd-15-3-inch-38-86-cm-wuxga-ips-display-intel-uhd-graphics-windows-11-ms-office-83k100cfin
+          - generic [ref=e1734]:
+            - link "HP Victus Gaming Laptop (AMD Ryzen 7/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) 144 Hz Full HD IPS Display/ 6GB-NVIDIA GeForce RTX 3050 Graphics/ Windows 11 Home/ MS-Office) 15-fb3125AX" [ref=e1735] [cursor=pointer]:
+              - /url: /p/243554/hp-victus-gaming-laptop-amd-ryzen-7-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-144-hz-full-hd-ips-display-6gb-nvidia-geforce-rtx-3050-graphics-windows-11-home-ms-office-15-fb3125ax
+              - img "HP Victus Gaming Laptop (AMD Ryzen 7/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) 144 Hz Full HD IPS Display/ 6GB-NVIDIA GeForce RTX 3050 Graphics/ Windows 11 Home/ MS-Office) 15-fb3125AX" [ref=e1737]
+            - link "HP Victus Gaming Laptop (AMD Ryzen 7/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) 144 Hz Full HD IPS Display/ 6GB-NVIDIA GeForce RTX 3050 Graphics/ Windows 11 Home/ MS-Office) 15-fb3125AX" [ref=e1739] [cursor=pointer]:
+              - /url: /p/243554/hp-victus-gaming-laptop-amd-ryzen-7-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-144-hz-full-hd-ips-display-6gb-nvidia-geforce-rtx-3050-graphics-windows-11-home-ms-office-15-fb3125ax
+              - generic [ref=e1740]: HP Victus Gaming Laptop (AMD Ryzen 7/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.6 cm) 144 Hz Full HD IPS Display/ 6GB-NVIDIA GeForce RTX 3050 Graphics/ Windows 11 Home/ MS-Office) 15-fb3125AX
+            - generic [ref=e1741]:
+              - generic [ref=e1743]: Featured
+              - generic [ref=e1745]: Trending
+            - link "₹69,990 MRP ₹82,500 15 % off" [ref=e1746] [cursor=pointer]:
+              - /url: /p/243554/hp-victus-gaming-laptop-amd-ryzen-7-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-144-hz-full-hd-ips-display-6gb-nvidia-geforce-rtx-3050-graphics-windows-11-home-ms-office-15-fb3125ax
+              - generic [ref=e1747]:
+                - generic [ref=e1748]: ₹69,990
+                - generic [ref=e1749]:
+                  - generic [ref=e1750]: MRP
+                  - generic [ref=e1751]: ₹82,500
+                - generic [ref=e1752]:
+                  - generic [ref=e1753]: "15"
+                  - text: "% off"
+            - link:
+              - /url: /p/243554/hp-victus-gaming-laptop-amd-ryzen-7-16gb-ram-512gb-ssd-15-6-inch-39-6-cm-144-hz-full-hd-ips-display-6gb-nvidia-geforce-rtx-3050-graphics-windows-11-home-ms-office-15-fb3125ax
+          - generic [ref=e1754]:
+            - link "Acer Aspire Lite Laptop (AMD Ryzen 3/ 8GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) UN.31ZSI.044" [ref=e1755] [cursor=pointer]:
+              - /url: /p/239906/acer-aspire-lite-laptop-amd-ryzen-3-8gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-full-hd-display-amd-radeon-graphics-windows-11-ms-office-un-31zsi-044
+              - img "Acer Aspire Lite Laptop (AMD Ryzen 3/ 8GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) UN.31ZSI.044" [ref=e1757]
+            - link "Acer Aspire Lite Laptop (AMD Ryzen 3/ 8GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) UN.31ZSI.044" [ref=e1759] [cursor=pointer]:
+              - /url: /p/239906/acer-aspire-lite-laptop-amd-ryzen-3-8gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-full-hd-display-amd-radeon-graphics-windows-11-ms-office-un-31zsi-044
+              - generic [ref=e1760]: Acer Aspire Lite Laptop (AMD Ryzen 3/ 8GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) UN.31ZSI.044
+            - generic [ref=e1761]:
+              - generic [ref=e1763]: Featured
+              - generic [ref=e1765]: Trending
+            - link "₹31,990 MRP ₹50,999 37 % off" [ref=e1766] [cursor=pointer]:
+              - /url: /p/239906/acer-aspire-lite-laptop-amd-ryzen-3-8gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-full-hd-display-amd-radeon-graphics-windows-11-ms-office-un-31zsi-044
+              - generic [ref=e1767]:
+                - generic [ref=e1768]: ₹31,990
+                - generic [ref=e1769]:
+                  - generic [ref=e1770]: MRP
+                  - generic [ref=e1771]: ₹50,999
+                - generic [ref=e1772]:
+                  - generic [ref=e1773]: "37"
+                  - text: "% off"
+            - link:
+              - /url: /p/239906/acer-aspire-lite-laptop-amd-ryzen-3-8gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-full-hd-display-amd-radeon-graphics-windows-11-ms-office-un-31zsi-044
+          - generic [ref=e1774]:
+            - link "Acer Aspire ALG AL15G-53 Gaming Laptop (13th Gen Intel Core i5-13420H/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ 6 GB-NVIDIA GeForce RTX TM 3050 Graphics/ Windows 11/ MS-Office) UN.34LSI.00A" [ref=e1775] [cursor=pointer]:
+              - /url: /p/237962/acer-aspire-alg-al15g-53-gaming-laptop-13th-gen-intel-core-i5-13420h-16gb-ddr4-ram-512gb-ssd-156-inch-3962-cm-full-hd-display-6-gb-nvidia-geforce-rtx-tm-3050-graphics-windows-11-ms-office-un34lsi00a
+              - img "Acer Aspire ALG AL15G-53 Gaming Laptop (13th Gen Intel Core i5-13420H/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ 6 GB-NVIDIA GeForce RTX TM 3050 Graphics/ Windows 11/ MS-Office) UN.34LSI.00A" [ref=e1777]
+            - link "Acer Aspire ALG AL15G-53 Gaming Laptop (13th Gen Intel Core i5-13420H/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ 6 GB-NVIDIA GeForce RTX TM 3050 Graphics/ Windows 11/ MS-Office) UN.34LSI.00A" [ref=e1779] [cursor=pointer]:
+              - /url: /p/237962/acer-aspire-alg-al15g-53-gaming-laptop-13th-gen-intel-core-i5-13420h-16gb-ddr4-ram-512gb-ssd-156-inch-3962-cm-full-hd-display-6-gb-nvidia-geforce-rtx-tm-3050-graphics-windows-11-ms-office-un34lsi00a
+              - generic [ref=e1780]: Acer Aspire ALG AL15G-53 Gaming Laptop (13th Gen Intel Core i5-13420H/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Full HD Display/ 6 GB-NVIDIA GeForce RTX TM 3050 Graphics/ Windows 11/ MS-Office) UN.34LSI.00A
+            - generic [ref=e1781]:
+              - generic [ref=e1783]: Featured
+              - generic [ref=e1785]: Trending
+            - link "₹64,490 MRP ₹77,000 16 % off" [ref=e1786] [cursor=pointer]:
+              - /url: /p/237962/acer-aspire-alg-al15g-53-gaming-laptop-13th-gen-intel-core-i5-13420h-16gb-ddr4-ram-512gb-ssd-156-inch-3962-cm-full-hd-display-6-gb-nvidia-geforce-rtx-tm-3050-graphics-windows-11-ms-office-un34lsi00a
+              - generic [ref=e1787]:
+                - generic [ref=e1788]: ₹64,490
+                - generic [ref=e1789]:
+                  - generic [ref=e1790]: MRP
+                  - generic [ref=e1791]: ₹77,000
+                - generic [ref=e1792]:
+                  - generic [ref=e1793]: "16"
+                  - text: "% off"
+            - link:
+              - /url: /p/237962/acer-aspire-alg-al15g-53-gaming-laptop-13th-gen-intel-core-i5-13420h-16gb-ddr4-ram-512gb-ssd-156-inch-3962-cm-full-hd-display-6-gb-nvidia-geforce-rtx-tm-3050-graphics-windows-11-ms-office-un34lsi00a
+          - generic [ref=e1794]:
+            - link "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 7/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Display/ AMD Radeon™ Graphics/ Windows 11/ MS-Office) 82XM0114IN" [ref=e1795] [cursor=pointer]:
+              - /url: /p/241327/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-7-16gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-display-amd-radeontm-graphics-windows-11-ms-office-82xm0114in
+              - img "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 7/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Display/ AMD Radeon™ Graphics/ Windows 11/ MS-Office) 82XM0114IN" [ref=e1797]
+            - link "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 7/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Display/ AMD Radeon™ Graphics/ Windows 11/ MS-Office) 82XM0114IN" [ref=e1799] [cursor=pointer]:
+              - /url: /p/241327/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-7-16gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-display-amd-radeontm-graphics-windows-11-ms-office-82xm0114in
+              - generic [ref=e1800]: Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 7/ 16GB DDR4 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) Display/ AMD Radeon™ Graphics/ Windows 11/ MS-Office) 82XM0114IN
+            - generic [ref=e1801]:
+              - generic [ref=e1803]: Featured
+              - generic [ref=e1805]: Trending
+            - link "₹50,490 MRP ₹72,690 31 % off" [ref=e1806] [cursor=pointer]:
+              - /url: /p/241327/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-7-16gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-display-amd-radeontm-graphics-windows-11-ms-office-82xm0114in
+              - generic [ref=e1807]:
+                - generic [ref=e1808]: ₹50,490
+                - generic [ref=e1809]:
+                  - generic [ref=e1810]: MRP
+                  - generic [ref=e1811]: ₹72,690
+                - generic [ref=e1812]:
+                  - generic [ref=e1813]: "31"
+                  - text: "% off"
+            - link:
+              - /url: /p/241327/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-7-16gb-ddr4-ram-512gb-ssd-15-6-inch-39-62-cm-display-amd-radeontm-graphics-windows-11-ms-office-82xm0114in
+          - generic [ref=e1814]:
+            - link "Lenovo LOQ Gaming Laptop (12th Gen Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm)/ 6GB RTX™ 3050 Graphics/ Win 11/ MS Office) 83GS00LLIN" [ref=e1815] [cursor=pointer]:
+              - /url: /p/236786/lenovo-loq-15iax9-gaming-laptop-12th-gen-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-62-cm-6gb-rtxtm-3050-graphics-win-11-ms-office-83gs003qin
+              - img "Lenovo LOQ Gaming Laptop (12th Gen Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm)/ 6GB RTX™ 3050 Graphics/ Win 11/ MS Office) 83GS00LLIN" [ref=e1817]
+            - link "Lenovo LOQ Gaming Laptop (12th Gen Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm)/ 6GB RTX™ 3050 Graphics/ Win 11/ MS Office) 83GS00LLIN" [ref=e1819] [cursor=pointer]:
+              - /url: /p/236786/lenovo-loq-15iax9-gaming-laptop-12th-gen-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-62-cm-6gb-rtxtm-3050-graphics-win-11-ms-office-83gs003qin
+              - generic [ref=e1820]: Lenovo LOQ Gaming Laptop (12th Gen Core i5/ 16GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm)/ 6GB RTX™ 3050 Graphics/ Win 11/ MS Office) 83GS00LLIN
+            - generic [ref=e1821]:
+              - generic [ref=e1823]: Featured
+              - generic [ref=e1825]: New Arrival
+            - link "₹73,990 MRP ₹1,06,000 30 % off" [ref=e1826] [cursor=pointer]:
+              - /url: /p/236786/lenovo-loq-15iax9-gaming-laptop-12th-gen-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-62-cm-6gb-rtxtm-3050-graphics-win-11-ms-office-83gs003qin
+              - generic [ref=e1827]:
+                - generic [ref=e1828]: ₹73,990
+                - generic [ref=e1829]:
+                  - generic [ref=e1830]: MRP
+                  - generic [ref=e1831]: ₹1,06,000
+                - generic [ref=e1832]:
+                  - generic [ref=e1833]: "30"
+                  - text: "% off"
+            - link:
+              - /url: /p/236786/lenovo-loq-15iax9-gaming-laptop-12th-gen-core-i5-16gb-ram-512gb-ssd-15-6-inch-39-62-cm-6gb-rtxtm-3050-graphics-win-11-ms-office-83gs003qin
+          - generic [ref=e1834]:
+            - link "Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 5/ 24GB DDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ 4GB NVIDIA GeForce RTX 3050A Graphics/ Windows 11/ MS-Office) 83JC00JWIN" [ref=e1835] [cursor=pointer]:
+              - /url: /p/241405/lenovo-loq-15arp9-gaming-laptop-amd-ryzen-5-24gb-ddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-4gb-nvidia-geforce-rtx-3050a-graphics-windows-11-ms-office-83jc00jwin
+              - img "Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 5/ 24GB DDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ 4GB NVIDIA GeForce RTX 3050A Graphics/ Windows 11/ MS-Office) 83JC00JWIN" [ref=e1837]
+            - link "Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 5/ 24GB DDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ 4GB NVIDIA GeForce RTX 3050A Graphics/ Windows 11/ MS-Office) 83JC00JWIN" [ref=e1839] [cursor=pointer]:
+              - /url: /p/241405/lenovo-loq-15arp9-gaming-laptop-amd-ryzen-5-24gb-ddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-4gb-nvidia-geforce-rtx-3050a-graphics-windows-11-ms-office-83jc00jwin
+              - generic [ref=e1840]: Lenovo LOQ 15ARP9 Gaming Laptop (AMD Ryzen 5/ 24GB DDR5 RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ 4GB NVIDIA GeForce RTX 3050A Graphics/ Windows 11/ MS-Office) 83JC00JWIN
+            - generic [ref=e1841]:
+              - generic [ref=e1843]: Featured
+              - generic [ref=e1845]: Trending
+            - link "₹69,490 MRP ₹99,000 30 % off" [ref=e1846] [cursor=pointer]:
+              - /url: /p/241405/lenovo-loq-15arp9-gaming-laptop-amd-ryzen-5-24gb-ddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-4gb-nvidia-geforce-rtx-3050a-graphics-windows-11-ms-office-83jc00jwin
+              - generic [ref=e1847]:
+                - generic [ref=e1848]: ₹69,490
+                - generic [ref=e1849]:
+                  - generic [ref=e1850]: MRP
+                  - generic [ref=e1851]: ₹99,000
+                - generic [ref=e1852]:
+                  - generic [ref=e1853]: "30"
+                  - text: "% off"
+            - link:
+              - /url: /p/241405/lenovo-loq-15arp9-gaming-laptop-amd-ryzen-5-24gb-ddr5-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-4gb-nvidia-geforce-rtx-3050a-graphics-windows-11-ms-office-83jc00jwin
+          - generic [ref=e1854]:
+            - link "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 5/ 8GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) 82XM0140IN" [ref=e1855] [cursor=pointer]:
+              - /url: /p/243555/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-amd-radeon-graphics-windows-11-ms-office-82xm0140in
+              - img "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 5/ 8GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) 82XM0140IN" [ref=e1857]
+            - link "Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 5/ 8GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) 82XM0140IN" [ref=e1859] [cursor=pointer]:
+              - /url: /p/243555/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-amd-radeon-graphics-windows-11-ms-office-82xm0140in
+              - generic [ref=e1860]: Lenovo IdeaPad Slim 3 15ABR8 Thin & Light Laptop (AMD Ryzen 5/ 8GB RAM/ 512GB SSD/ 15.6 Inch (39.62 cm) FHD Display/ AMD Radeon Graphics/ Windows 11/ MS-Office) 82XM0140IN
+            - generic [ref=e1861]:
+              - generic [ref=e1863]: Featured
+              - generic [ref=e1865]: Trending
+            - link "₹37,990 MRP ₹61,290 38 % off" [ref=e1866] [cursor=pointer]:
+              - /url: /p/243555/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-amd-radeon-graphics-windows-11-ms-office-82xm0140in
+              - generic [ref=e1867]:
+                - generic [ref=e1868]: ₹37,990
+                - generic [ref=e1869]:
+                  - generic [ref=e1870]: MRP
+                  - generic [ref=e1871]: ₹61,290
+                - generic [ref=e1872]:
+                  - generic [ref=e1873]: "38"
+                  - text: "% off"
+            - link:
+              - /url: /p/243555/lenovo-ideapad-slim-3-15abr8-thin-light-laptop-amd-ryzen-5-8gb-ram-512gb-ssd-15-6-inch-39-62-cm-fhd-display-amd-radeon-graphics-windows-11-ms-office-82xm0140in
+          - generic [ref=e1874]:
+            - link "HP 15s Standard Laptop (Intel Core 5/ 8GB/ 512GB SSD/ Full HD/ 15.6 inch (39.62 cm) FHD Display/ Windows 11/ MS Office) 15-FD0651TU" [ref=e1875] [cursor=pointer]:
+              - /url: /p/245852/hp-15s-standard-laptop-intel-core-5-8gb-512gb-ssd-full-hd-15-6-inch-39-62-cm-fhd-display-windows-11-ms-office-15-fd0651tu
+              - img "HP 15s Standard Laptop (Intel Core 5/ 8GB/ 512GB SSD/ Full HD/ 15.6 inch (39.62 cm) FHD Display/ Windows 11/ MS Office) 15-FD0651TU" [ref=e1877]
+            - link "HP 15s Standard Laptop (Intel Core 5/ 8GB/ 512GB SSD/ Full HD/ 15.6 inch (39.62 cm) FHD Display/ Windows 11/ MS Office) 15-FD0651TU" [ref=e1879] [cursor=pointer]:
+              - /url: /p/245852/hp-15s-standard-laptop-intel-core-5-8gb-512gb-ssd-full-hd-15-6-inch-39-62-cm-fhd-display-windows-11-ms-office-15-fd0651tu
+              - generic [ref=e1880]: HP 15s Standard Laptop (Intel Core 5/ 8GB/ 512GB SSD/ Full HD/ 15.6 inch (39.62 cm) FHD Display/ Windows 11/ MS Office) 15-FD0651TU
+            - generic [ref=e1881]:
+              - generic [ref=e1883]: Featured
+              - generic [ref=e1885]: New Arrival
+            - link "₹48,880 MRP ₹68,792 29 % off" [ref=e1886] [cursor=pointer]:
+              - /url: /p/245852/hp-15s-standard-laptop-intel-core-5-8gb-512gb-ssd-full-hd-15-6-inch-39-62-cm-fhd-display-windows-11-ms-office-15-fd0651tu
+              - generic [ref=e1887]:
+                - generic [ref=e1888]: ₹48,880
+                - generic [ref=e1889]:
+                  - generic [ref=e1890]: MRP
+                  - generic [ref=e1891]: ₹68,792
+                - generic [ref=e1892]:
+                  - generic [ref=e1893]: "29"
+                  - text: "% off"
+            - link:
+              - /url: /p/245852/hp-15s-standard-laptop-intel-core-5-8gb-512gb-ssd-full-hd-15-6-inch-39-62-cm-fhd-display-windows-11-ms-office-15-fd0651tu
+          - generic [ref=e1894]:
+            - link "HP Envy x360 2-in-1 Laptop (Intel Core Ultra 5/ 16GB RAM/ 512GB SSD/ 14 inch (35.6 cm) OLED Display/ Intel® Graphics/ Windows 11) 14-fc0078TU" [ref=e1895] [cursor=pointer]:
+              - /url: /p/227550/hp-envy-x360-2-in-1-laptop-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-35-6-cm-oled-display-intel-graphics-windows-11-14-fc0078tu
+              - img "HP Envy x360 2-in-1 Laptop (Intel Core Ultra 5/ 16GB RAM/ 512GB SSD/ 14 inch (35.6 cm) OLED Display/ Intel® Graphics/ Windows 11) 14-fc0078TU" [ref=e1897]
+            - link "HP Envy x360 2-in-1 Laptop (Intel Core Ultra 5/ 16GB RAM/ 512GB SSD/ 14 inch (35.6 cm) OLED Display/ Intel® Graphics/ Windows 11) 14-fc0078TU" [ref=e1899] [cursor=pointer]:
+              - /url: /p/227550/hp-envy-x360-2-in-1-laptop-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-35-6-cm-oled-display-intel-graphics-windows-11-14-fc0078tu
+              - generic [ref=e1900]: HP Envy x360 2-in-1 Laptop (Intel Core Ultra 5/ 16GB RAM/ 512GB SSD/ 14 inch (35.6 cm) OLED Display/ Intel® Graphics/ Windows 11) 14-fc0078TU
+            - generic [ref=e1901]:
+              - generic [ref=e1903]: No Cost EMI
+              - generic [ref=e1905]: Trending
+            - link "₹89,990 MRP ₹1,19,000 24 % off" [ref=e1906] [cursor=pointer]:
+              - /url: /p/227550/hp-envy-x360-2-in-1-laptop-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-35-6-cm-oled-display-intel-graphics-windows-11-14-fc0078tu
+              - generic [ref=e1907]:
+                - generic [ref=e1908]: ₹89,990
+                - generic [ref=e1909]:
+                  - generic [ref=e1910]: MRP
+                  - generic [ref=e1911]: ₹1,19,000
+                - generic [ref=e1912]:
+                  - generic [ref=e1913]: "24"
+                  - text: "% off"
+            - link:
+              - /url: /p/227550/hp-envy-x360-2-in-1-laptop-intel-core-ultra-5-16gb-ram-512gb-ssd-14-inch-35-6-cm-oled-display-intel-graphics-windows-11-14-fc0078tu
+      - generic [ref=e1915]:
+        - img "air - purifiers" [ref=e1922] [cursor=pointer]
+        - img "Large audio" [ref=e1929] [cursor=pointer]
+      - generic [ref=e1931]:
+        - generic [ref=e1933]:
+          - generic [ref=e1935]:
+            - img "super offers"
+          - heading "Enhance your lifestyle with amazing offers that simplify your tech upgrades" [level=3] [ref=e1938]
+          - paragraph [ref=e1941]: Explore our collection of Home Appliances & Innovative Gadgets
+          - link "View All" [ref=e1943] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/exclusive-deals-and-offers
+        - generic [ref=e1947]:
+          - generic [ref=e1948]:
+            - button "Show previous" [ref=e1949]:
+              - img "previous" [ref=e1950]
+            - button "Show next" [ref=e1951] [cursor=pointer]:
+              - img "next" [ref=e1952]
+          - generic [ref=e1954]:
+            - generic [ref=e1955]:
+              - link "HP Laptop 2025 Intel Core i3 12th Gen/ 15.6\" FHD/ 8GB RAM/ 512GB SSD/ Windows 11/ HP Fast Charge/ MS Office | 15FD0751TU" [ref=e1956] [cursor=pointer]:
+                - /url: /p/242104/hp-laptop-15s-fd0751tu-intel-core-i3-12th-gen-15-6-fhd-8gb-ram-512gb-ssd-win-11-ms-office-silver
+                - img "HP Laptop 2025 Intel Core i3 12th Gen/ 15.6\" FHD/ 8GB RAM/ 512GB SSD/ Windows 11/ HP Fast Charge/ MS Office | 15FD0751TU" [ref=e1958]
+              - link "HP Laptop 2025 Intel Core i3 12th Gen/ 15.6\" FHD/ 8GB RAM/ 512GB SSD/ Windows 11/ HP Fast Charge/ MS Office | 15FD0751TU" [ref=e1960] [cursor=pointer]:
+                - /url: /p/242104/hp-laptop-15s-fd0751tu-intel-core-i3-12th-gen-15-6-fhd-8gb-ram-512gb-ssd-win-11-ms-office-silver
+                - generic [ref=e1961]: HP Laptop 2025 Intel Core i3 12th Gen/ 15.6" FHD/ 8GB RAM/ 512GB SSD/ Windows 11/ HP Fast Charge/ MS Office | 15FD0751TU
+              - link "₹31,999 MRP ₹42,300 24 % off" [ref=e1962] [cursor=pointer]:
+                - /url: /p/242104/hp-laptop-15s-fd0751tu-intel-core-i3-12th-gen-15-6-fhd-8gb-ram-512gb-ssd-win-11-ms-office-silver
+                - generic [ref=e1963]:
+                  - generic [ref=e1964]: ₹31,999
+                  - generic [ref=e1965]:
+                    - generic [ref=e1966]: MRP
+                    - generic [ref=e1967]: ₹42,300
+                  - generic [ref=e1968]:
+                    - generic [ref=e1969]: "24"
+                    - text: "% off"
+              - link:
+                - /url: /p/242104/hp-laptop-15s-fd0751tu-intel-core-i3-12th-gen-15-6-fhd-8gb-ram-512gb-ssd-win-11-ms-office-silver
+            - generic [ref=e1970]:
+              - link "Beats Studio Pro Wireless Headphones with ANC and Transparency Mode | Upto 40 Hours Battery Life | Clear Calls | One-touch Pairing (Black)" [ref=e1971] [cursor=pointer]:
+                - /url: /p/P234639/234639/beats-studio-pro-wireless-headphones-with-anc-and-transparency-mode-upto-40-hours-battery-life-clear-calls-one-touch-pairing-black
+                - img "Beats Studio Pro Wireless Headphones with ANC and Transparency Mode | Upto 40 Hours Battery Life | Clear Calls | One-touch Pairing (Black)" [ref=e1973]
+              - link "Beats Studio Pro Wireless Headphones with ANC and Transparency Mode | Upto 40 Hours Battery Life | Clear Calls | One-touch Pairing (Black)" [ref=e1975] [cursor=pointer]:
+                - /url: /p/P234639/234639/beats-studio-pro-wireless-headphones-with-anc-and-transparency-mode-upto-40-hours-battery-life-clear-calls-one-touch-pairing-black
+                - generic [ref=e1976]: Beats Studio Pro Wireless Headphones with ANC and Transparency Mode | Upto 40 Hours Battery Life | Clear Calls | One-touch Pairing (Black)
+              - link "₹23,990 MRP ₹37,900 37 % off" [ref=e1977] [cursor=pointer]:
+                - /url: /p/P234639/234639/beats-studio-pro-wireless-headphones-with-anc-and-transparency-mode-upto-40-hours-battery-life-clear-calls-one-touch-pairing-black
+                - generic [ref=e1978]:
+                  - generic [ref=e1979]: ₹23,990
+                  - generic [ref=e1980]:
+                    - generic [ref=e1981]: MRP
+                    - generic [ref=e1982]: ₹37,900
+                  - generic [ref=e1983]:
+                    - generic [ref=e1984]: "37"
+                    - text: "% off"
+              - link:
+                - /url: /p/P234639/234639/beats-studio-pro-wireless-headphones-with-anc-and-transparency-mode-upto-40-hours-battery-life-clear-calls-one-touch-pairing-black
+            - generic [ref=e1985]:
+              - link "Lifelong 4.2 Litres Air Fryer | 1350W Power | Digital Air-Fryer with 6 Presets | Hot Air Circulation | Temperature & Timer Control | Up to 90% Less Oil Usage (LLHFD439, Black)" [ref=e1986] [cursor=pointer]:
+                - /url: /p/241444/lifelong-4-2-litres-air-fryer-1350w-power-digital-air-fryer-with-6-presets-hot-air-circulation-temperature-timer-control-up-to-90-less-oil-usage-llhfd439-black
+                - img "Lifelong 4.2 Litres Air Fryer | 1350W Power | Digital Air-Fryer with 6 Presets | Hot Air Circulation | Temperature & Timer Control | Up to 90% Less Oil Usage (LLHFD439, Black)" [ref=e1988]
+              - link "Lifelong 4.2 Litres Air Fryer | 1350W Power | Digital Air-Fryer with 6 Presets | Hot Air Circulation | Temperature & Timer Control | Up to 90% Less Oil Usage (LLHFD439, Black)" [ref=e1990] [cursor=pointer]:
+                - /url: /p/241444/lifelong-4-2-litres-air-fryer-1350w-power-digital-air-fryer-with-6-presets-hot-air-circulation-temperature-timer-control-up-to-90-less-oil-usage-llhfd439-black
+                - generic [ref=e1991]: Lifelong 4.2 Litres Air Fryer | 1350W Power | Digital Air-Fryer with 6 Presets | Hot Air Circulation | Temperature & Timer Control | Up to 90% Less Oil Usage (LLHFD439, Black)
+              - link "₹2,899 MRP ₹10,999 74 % off" [ref=e1992] [cursor=pointer]:
+                - /url: /p/241444/lifelong-4-2-litres-air-fryer-1350w-power-digital-air-fryer-with-6-presets-hot-air-circulation-temperature-timer-control-up-to-90-less-oil-usage-llhfd439-black
+                - generic [ref=e1993]:
+                  - generic [ref=e1994]: ₹2,899
+                  - generic [ref=e1995]:
+                    - generic [ref=e1996]: MRP
+                    - generic [ref=e1997]: ₹10,999
+                  - generic [ref=e1998]:
+                    - generic [ref=e1999]: "74"
+                    - text: "% off"
+              - link:
+                - /url: /p/241444/lifelong-4-2-litres-air-fryer-1350w-power-digital-air-fryer-with-6-presets-hot-air-circulation-temperature-timer-control-up-to-90-less-oil-usage-llhfd439-black
+            - generic [ref=e2000]:
+              - link "Eureka Forbes Aquaguard Mist Nxt UV+ Water Purifier with Long Cartridge life, Energy Saving Mode, Mineral Charge Cartridge (White)" [ref=e2001] [cursor=pointer]:
+                - /url: /p/217777/eureka-forbes-aquaguard-mist-nxt-uv-water-purifier-with-long-cartridge-life-energy-saving-mode-mineral-charge-cartridge-white
+                - img "Eureka Forbes Aquaguard Mist Nxt UV+ Water Purifier with Long Cartridge life, Energy Saving Mode, Mineral Charge Cartridge (White)" [ref=e2003]
+              - link "Eureka Forbes Aquaguard Mist Nxt UV+ Water Purifier with Long Cartridge life, Energy Saving Mode, Mineral Charge Cartridge (White)" [ref=e2005] [cursor=pointer]:
+                - /url: /p/217777/eureka-forbes-aquaguard-mist-nxt-uv-water-purifier-with-long-cartridge-life-energy-saving-mode-mineral-charge-cartridge-white
+                - generic [ref=e2006]: Eureka Forbes Aquaguard Mist Nxt UV+ Water Purifier with Long Cartridge life, Energy Saving Mode, Mineral Charge Cartridge (White)
+              - link "₹6,204 MRP ₹10,000 38 % off" [ref=e2007] [cursor=pointer]:
+                - /url: /p/217777/eureka-forbes-aquaguard-mist-nxt-uv-water-purifier-with-long-cartridge-life-energy-saving-mode-mineral-charge-cartridge-white
+                - generic [ref=e2008]:
+                  - generic [ref=e2009]: ₹6,204
+                  - generic [ref=e2010]:
+                    - generic [ref=e2011]: MRP
+                    - generic [ref=e2012]: ₹10,000
+                  - generic [ref=e2013]:
+                    - generic [ref=e2014]: "38"
+                    - text: "% off"
+              - link:
+                - /url: /p/217777/eureka-forbes-aquaguard-mist-nxt-uv-water-purifier-with-long-cartridge-life-energy-saving-mode-mineral-charge-cartridge-white
+            - generic [ref=e2015]:
+              - link "TCL 80 cm (32 inches) HD‑Ready QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V4C)" [ref=e2016] [cursor=pointer]:
+                - /url: /p/243617/tcl-80-cm-32-inches-hd-ready-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v4c
+                - img "TCL 80 cm (32 inches) HD‑Ready QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V4C)" [ref=e2018]
+              - link "TCL 80 cm (32 inches) HD‑Ready QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V4C)" [ref=e2020] [cursor=pointer]:
+                - /url: /p/243617/tcl-80-cm-32-inches-hd-ready-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v4c
+                - generic [ref=e2021]: TCL 80 cm (32 inches) HD‑Ready QLED Smart Google TV with HDR10, Dolby Audio, Chromecast Built‑In & Voice Remote (32V4C)
+              - link "₹11,990 MRP ₹20,490 41 % off" [ref=e2022] [cursor=pointer]:
+                - /url: /p/243617/tcl-80-cm-32-inches-hd-ready-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v4c
+                - generic [ref=e2023]:
+                  - generic [ref=e2024]: ₹11,990
+                  - generic [ref=e2025]:
+                    - generic [ref=e2026]: MRP
+                    - generic [ref=e2027]: ₹20,490
+                  - generic [ref=e2028]:
+                    - generic [ref=e2029]: "41"
+                    - text: "% off"
+              - link:
+                - /url: /p/243617/tcl-80-cm-32-inches-hd-ready-qled-smart-google-tv-with-hdr10-dolby-audio-chromecast-built-in-voice-remote-32v4c
+            - generic [ref=e2030]:
+              - link "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2031] [cursor=pointer]:
+                - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                - img "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2033]
+              - link "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2035] [cursor=pointer]:
+                - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                - generic [ref=e2036]: Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)
+              - link "₹1,599 MRP ₹5,995 73 % off" [ref=e2037] [cursor=pointer]:
+                - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                - generic [ref=e2038]:
+                  - generic [ref=e2039]: ₹1,599
+                  - generic [ref=e2040]:
+                    - generic [ref=e2041]: MRP
+                    - generic [ref=e2042]: ₹5,995
+                  - generic [ref=e2043]:
+                    - generic [ref=e2044]: "73"
+                    - text: "% off"
+              - link:
+                - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+            - generic [ref=e2045]:
+              - link "Fire-Boltt Dominian 1.43 inch (36.3mm) AMOLED Smartwatch | Stainless Steel Design | Bluetooth Calling | Health & Sports Modes | IP67 Water Resistant | Weather Updates (Shadow Gold)" [ref=e2046] [cursor=pointer]:
+                - /url: /p/P246237/246241/fire-boltt-dominian-1-43-inch-36-3mm-amoled-smartwatch-stainless-steel-design-bluetooth-calling-health-sports-modes-ip67-water-resistant-weather-updates-shadow-gold
+                - img "Fire-Boltt Dominian 1.43 inch (36.3mm) AMOLED Smartwatch | Stainless Steel Design | Bluetooth Calling | Health & Sports Modes | IP67 Water Resistant | Weather Updates (Shadow Gold)" [ref=e2048]
+              - link "Fire-Boltt Dominian 1.43 inch (36.3mm) AMOLED Smartwatch | Stainless Steel Design | Bluetooth Calling | Health & Sports Modes | IP67 Water Resistant | Weather Updates (Shadow Gold)" [ref=e2050] [cursor=pointer]:
+                - /url: /p/P246237/246241/fire-boltt-dominian-1-43-inch-36-3mm-amoled-smartwatch-stainless-steel-design-bluetooth-calling-health-sports-modes-ip67-water-resistant-weather-updates-shadow-gold
+                - generic [ref=e2051]: Fire-Boltt Dominian 1.43 inch (36.3mm) AMOLED Smartwatch | Stainless Steel Design | Bluetooth Calling | Health & Sports Modes | IP67 Water Resistant | Weather Updates (Shadow Gold)
+              - link "₹1,699 MRP ₹21,000 92 % off" [ref=e2052] [cursor=pointer]:
+                - /url: /p/P246237/246241/fire-boltt-dominian-1-43-inch-36-3mm-amoled-smartwatch-stainless-steel-design-bluetooth-calling-health-sports-modes-ip67-water-resistant-weather-updates-shadow-gold
+                - generic [ref=e2053]:
+                  - generic [ref=e2054]: ₹1,699
+                  - generic [ref=e2055]:
+                    - generic [ref=e2056]: MRP
+                    - generic [ref=e2057]: ₹21,000
+                  - generic [ref=e2058]:
+                    - generic [ref=e2059]: "92"
+                    - text: "% off"
+              - link:
+                - /url: /p/P246237/246241/fire-boltt-dominian-1-43-inch-36-3mm-amoled-smartwatch-stainless-steel-design-bluetooth-calling-health-sports-modes-ip67-water-resistant-weather-updates-shadow-gold
+            - generic [ref=e2060]:
+              - link "Acer Aspire Lite Laptop (13th Gen Core i3-1305U/ 8 GB RAM/512GB SSD/ 15.6 Inch - 39.62cm FHD Display /Win 11 /MS Office / Grey) UN.34ESI.005 AL15-53" [ref=e2061] [cursor=pointer]:
+                - /url: /p/230211/acer-aspire-lite-laptop-13th-gen-core-i3-1305u-8-gb-ram-512gb-ssd-15-6-inch-39-62cm-fhd-display-win-11-ms-office-grey-un-34esi-005-al15-53
+                - img "Acer Aspire Lite Laptop (13th Gen Core i3-1305U/ 8 GB RAM/512GB SSD/ 15.6 Inch - 39.62cm FHD Display /Win 11 /MS Office / Grey) UN.34ESI.005 AL15-53" [ref=e2063]
+              - link "Acer Aspire Lite Laptop (13th Gen Core i3-1305U/ 8 GB RAM/512GB SSD/ 15.6 Inch - 39.62cm FHD Display /Win 11 /MS Office / Grey) UN.34ESI.005 AL15-53" [ref=e2065] [cursor=pointer]:
+                - /url: /p/230211/acer-aspire-lite-laptop-13th-gen-core-i3-1305u-8-gb-ram-512gb-ssd-15-6-inch-39-62cm-fhd-display-win-11-ms-office-grey-un-34esi-005-al15-53
+                - generic [ref=e2066]: Acer Aspire Lite Laptop (13th Gen Core i3-1305U/ 8 GB RAM/512GB SSD/ 15.6 Inch - 39.62cm FHD Display /Win 11 /MS Office / Grey) UN.34ESI.005 AL15-53
+              - link "₹33,990 MRP ₹52,990 36 % off" [ref=e2067] [cursor=pointer]:
+                - /url: /p/230211/acer-aspire-lite-laptop-13th-gen-core-i3-1305u-8-gb-ram-512gb-ssd-15-6-inch-39-62cm-fhd-display-win-11-ms-office-grey-un-34esi-005-al15-53
+                - generic [ref=e2068]:
+                  - generic [ref=e2069]: ₹33,990
+                  - generic [ref=e2070]:
+                    - generic [ref=e2071]: MRP
+                    - generic [ref=e2072]: ₹52,990
+                  - generic [ref=e2073]:
+                    - generic [ref=e2074]: "36"
+                    - text: "% off"
+              - link:
+                - /url: /p/230211/acer-aspire-lite-laptop-13th-gen-core-i3-1305u-8-gb-ram-512gb-ssd-15-6-inch-39-62cm-fhd-display-win-11-ms-office-grey-un-34esi-005-al15-53
+            - generic [ref=e2075]:
+              - link "IFB 24 Litres Solo Microwave with Multi-Stage Cooking, Steam Clean, Auto Defrost, Child Safety Lock (24PM2B, Black)" [ref=e2076] [cursor=pointer]:
+                - /url: /p/219653/ifb-24-litres-solo-microwave-with-multi-stage-cooking-steam-clean-auto-defrost-child-safety-lock-24pm2b-black
+                - img "IFB 24 Litres Solo Microwave with Multi-Stage Cooking, Steam Clean, Auto Defrost, Child Safety Lock (24PM2B, Black)" [ref=e2078]
+              - link "IFB 24 Litres Solo Microwave with Multi-Stage Cooking, Steam Clean, Auto Defrost, Child Safety Lock (24PM2B, Black)" [ref=e2080] [cursor=pointer]:
+                - /url: /p/219653/ifb-24-litres-solo-microwave-with-multi-stage-cooking-steam-clean-auto-defrost-child-safety-lock-24pm2b-black
+                - generic [ref=e2081]: IFB 24 Litres Solo Microwave with Multi-Stage Cooking, Steam Clean, Auto Defrost, Child Safety Lock (24PM2B, Black)
+              - link "₹7,490 MRP ₹8,990 17 % off" [ref=e2082] [cursor=pointer]:
+                - /url: /p/219653/ifb-24-litres-solo-microwave-with-multi-stage-cooking-steam-clean-auto-defrost-child-safety-lock-24pm2b-black
+                - generic [ref=e2083]:
+                  - generic [ref=e2084]: ₹7,490
+                  - generic [ref=e2085]:
+                    - generic [ref=e2086]: MRP
+                    - generic [ref=e2087]: ₹8,990
+                  - generic [ref=e2088]:
+                    - generic [ref=e2089]: "17"
+                    - text: "% off"
+              - link:
+                - /url: /p/219653/ifb-24-litres-solo-microwave-with-multi-stage-cooking-steam-clean-auto-defrost-child-safety-lock-24pm2b-black
+            - generic [ref=e2090]:
+              - link "Noise Endeavour 2 Rugged Smartwatch | 1.46 inch AMOLED Display | Built-in GPS | ABC Sensors | 7-Day Battery | 5ATM Water Resistant | AI | Strava Integration | iOS & Android (Silver Grey)" [ref=e2091] [cursor=pointer]:
+                - /url: /p/P245340/245342/noise-endeavour-2-rugged-smartwatch-1-46-inch-amoled-display-built-in-gps-abc-sensors-7-day-battery-5atm-water-resistant-ai-strava-integration-ios-android-silver-grey
+                - img "Noise Endeavour 2 Rugged Smartwatch | 1.46 inch AMOLED Display | Built-in GPS | ABC Sensors | 7-Day Battery | 5ATM Water Resistant | AI | Strava Integration | iOS & Android (Silver Grey)" [ref=e2093]
+              - link "Noise Endeavour 2 Rugged Smartwatch | 1.46 inch AMOLED Display | Built-in GPS | ABC Sensors | 7-Day Battery | 5ATM Water Resistant | AI | Strava Integration | iOS & Android (Silver Grey)" [ref=e2095] [cursor=pointer]:
+                - /url: /p/P245340/245342/noise-endeavour-2-rugged-smartwatch-1-46-inch-amoled-display-built-in-gps-abc-sensors-7-day-battery-5atm-water-resistant-ai-strava-integration-ios-android-silver-grey
+                - generic [ref=e2096]: Noise Endeavour 2 Rugged Smartwatch | 1.46 inch AMOLED Display | Built-in GPS | ABC Sensors | 7-Day Battery | 5ATM Water Resistant | AI | Strava Integration | iOS & Android (Silver Grey)
+              - link "₹5,999 MRP ₹7,999 25 % off" [ref=e2097] [cursor=pointer]:
+                - /url: /p/P245340/245342/noise-endeavour-2-rugged-smartwatch-1-46-inch-amoled-display-built-in-gps-abc-sensors-7-day-battery-5atm-water-resistant-ai-strava-integration-ios-android-silver-grey
+                - generic [ref=e2098]:
+                  - generic [ref=e2099]: ₹5,999
+                  - generic [ref=e2100]:
+                    - generic [ref=e2101]: MRP
+                    - generic [ref=e2102]: ₹7,999
+                  - generic [ref=e2103]:
+                    - generic [ref=e2104]: "25"
+                    - text: "% off"
+              - link:
+                - /url: /p/P245340/245342/noise-endeavour-2-rugged-smartwatch-1-46-inch-amoled-display-built-in-gps-abc-sensors-7-day-battery-5atm-water-resistant-ai-strava-integration-ios-android-silver-grey
+            - generic [ref=e2105]:
+              - link "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e2106] [cursor=pointer]:
+                - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                - img "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e2108]
+              - link "OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI" [ref=e2110] [cursor=pointer]:
+                - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                - generic [ref=e2111]: OnePlus 13R 5G (12GB RAM, 256GB Storage) Astral Trail | Snapdragon 8 Gen 3 | 6000mAh Battery | Smarter with Oneplus AI
+              - link "₹39,999 MRP ₹44,999 11 % off" [ref=e2112] [cursor=pointer]:
+                - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+                - generic [ref=e2113]:
+                  - generic [ref=e2114]: ₹39,999
+                  - generic [ref=e2115]:
+                    - generic [ref=e2116]: MRP
+                    - generic [ref=e2117]: ₹44,999
+                  - generic [ref=e2118]:
+                    - generic [ref=e2119]: "11"
+                    - text: "% off"
+              - link:
+                - /url: /p/P236561/236560/oneplus-13r-5g-12gb-ram-256gb-storage-astral-trail
+            - generic [ref=e2120]:
+              - link "Skullcandy Crusher Wireless Over-Ear Bluetooth Headphones with Adjustable Sensory Bass | Noise-Isolating Fit | 50Hr Battery | Mic | Travel Bag (Black)" [ref=e2121] [cursor=pointer]:
+                - /url: /p/245489/skullcandy-crusher-wireless-over-ear-bluetooth-headphones-with-adjustable-sensory-bass-noise-isolating-fit-50hr-battery-mic-travel-bag-black
+                - img "Skullcandy Crusher Wireless Over-Ear Bluetooth Headphones with Adjustable Sensory Bass | Noise-Isolating Fit | 50Hr Battery | Mic | Travel Bag (Black)" [ref=e2123]
+              - link "Skullcandy Crusher Wireless Over-Ear Bluetooth Headphones with Adjustable Sensory Bass | Noise-Isolating Fit | 50Hr Battery | Mic | Travel Bag (Black)" [ref=e2125] [cursor=pointer]:
+                - /url: /p/245489/skullcandy-crusher-wireless-over-ear-bluetooth-headphones-with-adjustable-sensory-bass-noise-isolating-fit-50hr-battery-mic-travel-bag-black
+                - generic [ref=e2126]: Skullcandy Crusher Wireless Over-Ear Bluetooth Headphones with Adjustable Sensory Bass | Noise-Isolating Fit | 50Hr Battery | Mic | Travel Bag (Black)
+              - link "₹7,999 MRP ₹39,999 80 % off" [ref=e2127] [cursor=pointer]:
+                - /url: /p/245489/skullcandy-crusher-wireless-over-ear-bluetooth-headphones-with-adjustable-sensory-bass-noise-isolating-fit-50hr-battery-mic-travel-bag-black
+                - generic [ref=e2128]:
+                  - generic [ref=e2129]: ₹7,999
+                  - generic [ref=e2130]:
+                    - generic [ref=e2131]: MRP
+                    - generic [ref=e2132]: ₹39,999
+                  - generic [ref=e2133]:
+                    - generic [ref=e2134]: "80"
+                    - text: "% off"
+              - link:
+                - /url: /p/245489/skullcandy-crusher-wireless-over-ear-bluetooth-headphones-with-adjustable-sensory-bass-noise-isolating-fit-50hr-battery-mic-travel-bag-black
+            - generic [ref=e2135]:
+              - link "Google Pixel 9a (8GB RAM, 256GB Storage) Obsidian" [ref=e2136] [cursor=pointer]:
+                - /url: /p/P238750/238750/google-pixel-9a-8gb-ram-256gb-storage-obsidian
+                - img "Google Pixel 9a (8GB RAM, 256GB Storage) Obsidian" [ref=e2138]
+              - link "Google Pixel 9a (8GB RAM, 256GB Storage) Obsidian" [ref=e2140] [cursor=pointer]:
+                - /url: /p/P238750/238750/google-pixel-9a-8gb-ram-256gb-storage-obsidian
+                - generic [ref=e2141]: Google Pixel 9a (8GB RAM, 256GB Storage) Obsidian
+              - link "₹44,999 MRP ₹49,999 10 % off" [ref=e2142] [cursor=pointer]:
+                - /url: /p/P238750/238750/google-pixel-9a-8gb-ram-256gb-storage-obsidian
+                - generic [ref=e2143]:
+                  - generic [ref=e2144]: ₹44,999
+                  - generic [ref=e2145]:
+                    - generic [ref=e2146]: MRP
+                    - generic [ref=e2147]: ₹49,999
+                  - generic [ref=e2148]:
+                    - generic [ref=e2149]: "10"
+                    - text: "% off"
+              - link:
+                - /url: /p/P238750/238750/google-pixel-9a-8gb-ram-256gb-storage-obsidian
+            - generic [ref=e2150]:
+              - link "Voltas Beko 6 KG Fully Automatic Top Load Washing Machine | 4 Wash Programs | Toughened Glass Lid | Lint Filter | Rat Mesh | Buzzer (WTL6004UEA, Grey)" [ref=e2151] [cursor=pointer]:
+                - /url: /p/P225333/225333/voltas-beko-6-kg-fully-automatic-top-load-washing-machine-with-4-wash-programs-4-water-levels-lint-filter-7000-rpm-motor-wtl6504uea
+                - img "Voltas Beko 6 KG Fully Automatic Top Load Washing Machine | 4 Wash Programs | Toughened Glass Lid | Lint Filter | Rat Mesh | Buzzer (WTL6004UEA, Grey)" [ref=e2153]
+              - link "Voltas Beko 6 KG Fully Automatic Top Load Washing Machine | 4 Wash Programs | Toughened Glass Lid | Lint Filter | Rat Mesh | Buzzer (WTL6004UEA, Grey)" [ref=e2155] [cursor=pointer]:
+                - /url: /p/P225333/225333/voltas-beko-6-kg-fully-automatic-top-load-washing-machine-with-4-wash-programs-4-water-levels-lint-filter-7000-rpm-motor-wtl6504uea
+                - generic [ref=e2156]: Voltas Beko 6 KG Fully Automatic Top Load Washing Machine | 4 Wash Programs | Toughened Glass Lid | Lint Filter | Rat Mesh | Buzzer (WTL6004UEA, Grey)
+              - link "₹11,490 MRP ₹20,490 44 % off" [ref=e2157] [cursor=pointer]:
+                - /url: /p/P225333/225333/voltas-beko-6-kg-fully-automatic-top-load-washing-machine-with-4-wash-programs-4-water-levels-lint-filter-7000-rpm-motor-wtl6504uea
+                - generic [ref=e2158]:
+                  - generic [ref=e2159]: ₹11,490
+                  - generic [ref=e2160]:
+                    - generic [ref=e2161]: MRP
+                    - generic [ref=e2162]: ₹20,490
+                  - generic [ref=e2163]:
+                    - generic [ref=e2164]: "44"
+                    - text: "% off"
+              - link:
+                - /url: /p/P225333/225333/voltas-beko-6-kg-fully-automatic-top-load-washing-machine-with-4-wash-programs-4-water-levels-lint-filter-7000-rpm-motor-wtl6504uea
+            - generic [ref=e2165]:
+              - link "LG 343 Litres Frost Free Double Door Refrigerator with Convertible, Smart Inverter Compressor (GL-S382SPZY, Shiny Steel)" [ref=e2166] [cursor=pointer]:
+                - /url: /p/P219492/200901/lg-360-ltrs-frost-free-double-door-refrigerator-gls382spzy-shiny-steel
+                - img "LG 343 Litres Frost Free Double Door Refrigerator with Convertible, Smart Inverter Compressor (GL-S382SPZY, Shiny Steel)" [ref=e2168]
+              - link "LG 343 Litres Frost Free Double Door Refrigerator with Convertible, Smart Inverter Compressor (GL-S382SPZY, Shiny Steel)" [ref=e2170] [cursor=pointer]:
+                - /url: /p/P219492/200901/lg-360-ltrs-frost-free-double-door-refrigerator-gls382spzy-shiny-steel
+                - generic [ref=e2171]: LG 343 Litres Frost Free Double Door Refrigerator with Convertible, Smart Inverter Compressor (GL-S382SPZY, Shiny Steel)
+              - link "₹37,599 MRP ₹49,999 25 % off" [ref=e2172] [cursor=pointer]:
+                - /url: /p/P219492/200901/lg-360-ltrs-frost-free-double-door-refrigerator-gls382spzy-shiny-steel
+                - generic [ref=e2173]:
+                  - generic [ref=e2174]: ₹37,599
+                  - generic [ref=e2175]:
+                    - generic [ref=e2176]: MRP
+                    - generic [ref=e2177]: ₹49,999
+                  - generic [ref=e2178]:
+                    - generic [ref=e2179]: "25"
+                    - text: "% off"
+              - link:
+                - /url: /p/P219492/200901/lg-360-ltrs-frost-free-double-door-refrigerator-gls382spzy-shiny-steel
+            - generic [ref=e2180]:
+              - link "Philips TAB4218/94 2.1CH 120W RMS Bluetooth Soundbar with Rich Bass | 3 EQ Modes | Multi-Connectivity Option with Supporting USB, HDMI(ARC), Optical, Coaxial & Aux-in (Black)" [ref=e2181] [cursor=pointer]:
+                - /url: /p/225485/philips-tab421894-21ch-120w-rms-bluetooth-soundbar-with-rich-bass-3-eq-modes-multi-connectivity-option-with-supporting-usb-hdmiarc-optical-coaxial-and-aux-in-black
+                - img "Philips TAB4218/94 2.1CH 120W RMS Bluetooth Soundbar with Rich Bass | 3 EQ Modes | Multi-Connectivity Option with Supporting USB, HDMI(ARC), Optical, Coaxial & Aux-in (Black)" [ref=e2183]
+              - link "Philips TAB4218/94 2.1CH 120W RMS Bluetooth Soundbar with Rich Bass | 3 EQ Modes | Multi-Connectivity Option with Supporting USB, HDMI(ARC), Optical, Coaxial & Aux-in (Black)" [ref=e2185] [cursor=pointer]:
+                - /url: /p/225485/philips-tab421894-21ch-120w-rms-bluetooth-soundbar-with-rich-bass-3-eq-modes-multi-connectivity-option-with-supporting-usb-hdmiarc-optical-coaxial-and-aux-in-black
+                - generic [ref=e2186]: Philips TAB4218/94 2.1CH 120W RMS Bluetooth Soundbar with Rich Bass | 3 EQ Modes | Multi-Connectivity Option with Supporting USB, HDMI(ARC), Optical, Coaxial & Aux-in (Black)
+              - link "₹7,499 MRP ₹13,490 44 % off" [ref=e2187] [cursor=pointer]:
+                - /url: /p/225485/philips-tab421894-21ch-120w-rms-bluetooth-soundbar-with-rich-bass-3-eq-modes-multi-connectivity-option-with-supporting-usb-hdmiarc-optical-coaxial-and-aux-in-black
+                - generic [ref=e2188]:
+                  - generic [ref=e2189]: ₹7,499
+                  - generic [ref=e2190]:
+                    - generic [ref=e2191]: MRP
+                    - generic [ref=e2192]: ₹13,490
+                  - generic [ref=e2193]:
+                    - generic [ref=e2194]: "44"
+                    - text: "% off"
+              - link:
+                - /url: /p/225485/philips-tab421894-21ch-120w-rms-bluetooth-soundbar-with-rich-bass-3-eq-modes-multi-connectivity-option-with-supporting-usb-hdmiarc-optical-coaxial-and-aux-in-black
+            - generic [ref=e2195]:
+              - link "Redmi Buds 6, TWS Earbuds With up to 42 hours Playtime, AI ENC, 60ms Low Latency, Spectre Black" [ref=e2196] [cursor=pointer]:
+                - /url: /p/P235776/235776/redmi-buds-6-tws-earbuds-with-up-to-42-hours-playtime-ai-enc-60ms-low-latency-spectre-black
+                - img "Redmi Buds 6, TWS Earbuds With up to 42 hours Playtime, AI ENC, 60ms Low Latency, Spectre Black" [ref=e2198]
+              - link "Redmi Buds 6, TWS Earbuds With up to 42 hours Playtime, AI ENC, 60ms Low Latency, Spectre Black" [ref=e2200] [cursor=pointer]:
+                - /url: /p/P235776/235776/redmi-buds-6-tws-earbuds-with-up-to-42-hours-playtime-ai-enc-60ms-low-latency-spectre-black
+                - generic [ref=e2201]: Redmi Buds 6, TWS Earbuds With up to 42 hours Playtime, AI ENC, 60ms Low Latency, Spectre Black
+              - link "₹2,799 MRP ₹4,999 44 % off" [ref=e2202] [cursor=pointer]:
+                - /url: /p/P235776/235776/redmi-buds-6-tws-earbuds-with-up-to-42-hours-playtime-ai-enc-60ms-low-latency-spectre-black
+                - generic [ref=e2203]:
+                  - generic [ref=e2204]: ₹2,799
+                  - generic [ref=e2205]:
+                    - generic [ref=e2206]: MRP
+                    - generic [ref=e2207]: ₹4,999
+                  - generic [ref=e2208]:
+                    - generic [ref=e2209]: "44"
+                    - text: "% off"
+              - link:
+                - /url: /p/P235776/235776/redmi-buds-6-tws-earbuds-with-up-to-42-hours-playtime-ai-enc-60ms-low-latency-spectre-black
+      - generic [ref=e2213]:
+        - heading "Gadgets & More" [level=3] [ref=e2216]
+        - generic [ref=e2220]:
+          - tablist [ref=e2221]:
+            - tab "Smartwatch" [selected] [ref=e2222] [cursor=pointer]
+            - tab "Connectors" [ref=e2223] [cursor=pointer]
+            - tab "Large Audio" [ref=e2224] [cursor=pointer]
+            - tab "Apple Accessories" [ref=e2225] [cursor=pointer]
+            - tab "Printer" [ref=e2226] [cursor=pointer]
+            - tab "Router" [ref=e2227] [cursor=pointer]
+            - tab "Gaming Controllers" [ref=e2228] [cursor=pointer]
+            - tab "Gaming Consoles" [ref=e2229] [cursor=pointer]
+            - tab "Mouse" [ref=e2230] [cursor=pointer]
+            - tab "Keyboard Mouse Combo" [ref=e2231] [cursor=pointer]
+            - tab "Keyboard" [ref=e2232] [cursor=pointer]
+          - tabpanel "Smartwatch" [ref=e2233]:
+            - generic [ref=e2237]:
+              - generic [ref=e2238]:
+                - button "Show previous" [ref=e2239]:
+                  - img "previous" [ref=e2240]
+                - button "Show next" [ref=e2241] [cursor=pointer]:
+                  - img "next" [ref=e2242]
+              - generic [ref=e2244]:
+                - generic [ref=e2245]:
+                  - link "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2246] [cursor=pointer]:
+                    - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                    - img "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2248]
+                  - link "Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)" [ref=e2250] [cursor=pointer]:
+                    - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                    - generic [ref=e2251]: Fastrack Reflex Horizon Smartwatch with 4.95 cm Horizon Curve Display | Bluetooth Calling | 100 Plus Sports Modes | Smart Notifications Alerts (Black)
+                  - generic [ref=e2254]: Best Seller
+                  - link "₹1,599 MRP ₹5,995 73 % off" [ref=e2255] [cursor=pointer]:
+                    - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                    - generic [ref=e2256]:
+                      - generic [ref=e2257]: ₹1,599
+                      - generic [ref=e2258]:
+                        - generic [ref=e2259]: MRP
+                        - generic [ref=e2260]: ₹5,995
+                      - generic [ref=e2261]:
+                        - generic [ref=e2262]: "73"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/219683/fastrack-reflex-horizon-smartwatch-with-4-95-cm-horizon-curve-display-bluetooth-calling-100-plus-sports-modes-smart-notifications-alerts-black
+                - generic [ref=e2263]:
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2264] [cursor=pointer]:
+                    - /url: /p/P247600/247600/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - img "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2266]
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2268] [cursor=pointer]:
+                    - /url: /p/P247600/247600/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - generic [ref=e2269]: Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)
+                  - generic [ref=e2272]: New Arrival
+                  - link "₹43,499 MRP ₹43,900 1 % off" [ref=e2273] [cursor=pointer]:
+                    - /url: /p/P247600/247600/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - generic [ref=e2274]:
+                      - generic [ref=e2275]: ₹43,499
+                      - generic [ref=e2276]:
+                        - generic [ref=e2277]: MRP
+                        - generic [ref=e2278]: ₹43,900
+                      - generic [ref=e2279]:
+                        - generic [ref=e2280]: "1"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P247600/247600/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                - generic [ref=e2281]:
+                  - link "CMF by Nothing Watch Pro 2 Bluetooth Calling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Ash Grey)" [ref=e2282] [cursor=pointer]:
+                    - /url: /p/P230988/230988/cmf-by-nothing-watch-pro-2-bluetooth-calling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-ash-grey
+                    - img "CMF by Nothing Watch Pro 2 Bluetooth Calling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Ash Grey)" [ref=e2284]
+                  - link "CMF by Nothing Watch Pro 2 Bluetooth Calling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Ash Grey)" [ref=e2286] [cursor=pointer]:
+                    - /url: /p/P230988/230988/cmf-by-nothing-watch-pro-2-bluetooth-calling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-ash-grey
+                    - generic [ref=e2287]: CMF by Nothing Watch Pro 2 Bluetooth Calling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Ash Grey)
+                  - link "₹4,999 MRP ₹5,999 17 % off" [ref=e2288] [cursor=pointer]:
+                    - /url: /p/P230988/230988/cmf-by-nothing-watch-pro-2-bluetooth-calling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-ash-grey
+                    - generic [ref=e2289]:
+                      - generic [ref=e2290]: ₹4,999
+                      - generic [ref=e2291]:
+                        - generic [ref=e2292]: MRP
+                        - generic [ref=e2293]: ₹5,999
+                      - generic [ref=e2294]:
+                        - generic [ref=e2295]: "17"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P230988/230988/cmf-by-nothing-watch-pro-2-bluetooth-calling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-ash-grey
+                - generic [ref=e2296]:
+                  - link "Fire-Boltt Crest Smartwatch with 2.02 inch AMOLED Display | SpO₂ Monitoring | Quick Dial | Voice Assistant | Smart Notifications | 120 Sports Modes | Always-On Display (Grey Wavy)" [ref=e2297] [cursor=pointer]:
+                    - /url: /p/246254/fire-boltt-crest-smartwatch-with-2-02-inch-amoled-display-spo-monitoring-quick-dial-voice-assistant-smart-notifications-120-sports-modes-always-on-display-grey-wavy
+                    - img "Fire-Boltt Crest Smartwatch with 2.02 inch AMOLED Display | SpO₂ Monitoring | Quick Dial | Voice Assistant | Smart Notifications | 120 Sports Modes | Always-On Display (Grey Wavy)" [ref=e2299]
+                  - link "Fire-Boltt Crest Smartwatch with 2.02 inch AMOLED Display | SpO₂ Monitoring | Quick Dial | Voice Assistant | Smart Notifications | 120 Sports Modes | Always-On Display (Grey Wavy)" [ref=e2301] [cursor=pointer]:
+                    - /url: /p/246254/fire-boltt-crest-smartwatch-with-2-02-inch-amoled-display-spo-monitoring-quick-dial-voice-assistant-smart-notifications-120-sports-modes-always-on-display-grey-wavy
+                    - generic [ref=e2302]: Fire-Boltt Crest Smartwatch with 2.02 inch AMOLED Display | SpO₂ Monitoring | Quick Dial | Voice Assistant | Smart Notifications | 120 Sports Modes | Always-On Display (Grey Wavy)
+                  - generic [ref=e2305]: New Arrival
+                  - link "₹2,449 MRP ₹18,999 87 % off" [ref=e2306] [cursor=pointer]:
+                    - /url: /p/246254/fire-boltt-crest-smartwatch-with-2-02-inch-amoled-display-spo-monitoring-quick-dial-voice-assistant-smart-notifications-120-sports-modes-always-on-display-grey-wavy
+                    - generic [ref=e2307]:
+                      - generic [ref=e2308]: ₹2,449
+                      - generic [ref=e2309]:
+                        - generic [ref=e2310]: MRP
+                        - generic [ref=e2311]: ₹18,999
+                      - generic [ref=e2312]:
+                        - generic [ref=e2313]: "87"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/246254/fire-boltt-crest-smartwatch-with-2-02-inch-amoled-display-spo-monitoring-quick-dial-voice-assistant-smart-notifications-120-sports-modes-always-on-display-grey-wavy
+                - generic [ref=e2314]:
+                  - link "Apple Watch Series 10 GPS 42mm Jet Black Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150–200mm wrists)" [ref=e2315] [cursor=pointer]:
+                    - /url: /p/P232348/232353/apple-watch-series-10-gps-42mm-jet-black-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150-200mm-wrists
+                    - img "Apple Watch Series 10 GPS 42mm Jet Black Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150–200mm wrists)" [ref=e2317]
+                  - link "Apple Watch Series 10 GPS 42mm Jet Black Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150–200mm wrists)" [ref=e2319] [cursor=pointer]:
+                    - /url: /p/P232348/232353/apple-watch-series-10-gps-42mm-jet-black-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150-200mm-wrists
+                    - generic [ref=e2320]: Apple Watch Series 10 GPS 42mm Jet Black Aluminium Case with Black Sport Band - M/L Strap Size (Bands fits 150–200mm wrists)
+                  - link "₹37,490 MRP ₹40,900 8 % off" [ref=e2321] [cursor=pointer]:
+                    - /url: /p/P232348/232353/apple-watch-series-10-gps-42mm-jet-black-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150-200mm-wrists
+                    - generic [ref=e2322]:
+                      - generic [ref=e2323]: ₹37,490
+                      - generic [ref=e2324]:
+                        - generic [ref=e2325]: MRP
+                        - generic [ref=e2326]: ₹40,900
+                      - generic [ref=e2327]:
+                        - generic [ref=e2328]: "8"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P232348/232353/apple-watch-series-10-gps-42mm-jet-black-aluminium-case-with-black-sport-band-m-l-strap-size-bands-fits-150-200mm-wrists
+                - generic [ref=e2329]:
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Moonstone)" [ref=e2330] [cursor=pointer]:
+                    - /url: /p/P247600/247601/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-moonstone
+                    - img "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Moonstone)" [ref=e2332]
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Moonstone)" [ref=e2334] [cursor=pointer]:
+                    - /url: /p/P247600/247601/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-moonstone
+                    - generic [ref=e2335]: Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Moonstone)
+                  - generic [ref=e2338]: New Arrival
+                  - link "₹43,499 MRP ₹43,900 1 % off" [ref=e2339] [cursor=pointer]:
+                    - /url: /p/P247600/247601/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-moonstone
+                    - generic [ref=e2340]:
+                      - generic [ref=e2341]: ₹43,499
+                      - generic [ref=e2342]:
+                        - generic [ref=e2343]: MRP
+                        - generic [ref=e2344]: ₹43,900
+                      - generic [ref=e2345]:
+                        - generic [ref=e2346]: "1"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P247600/247601/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-moonstone
+                - generic [ref=e2347]:
+                  - link "Noise NoiseFit Twist Go Smart Watch with Bluetooth Calling, 1.39 inch TFT Display, 100+ Watch Faces, AI voice assistant (Jet Black)" [ref=e2348] [cursor=pointer]:
+                    - /url: /p/P227191/227191/noise-noisefit-twist-go-smart-watch-with-bluetooth-calling-1-39-inch-tft-display-100-watch-faces-ai-voice-assistant-jet-black
+                    - img "Noise NoiseFit Twist Go Smart Watch with Bluetooth Calling, 1.39 inch TFT Display, 100+ Watch Faces, AI voice assistant (Jet Black)" [ref=e2350]
+                  - link "Noise NoiseFit Twist Go Smart Watch with Bluetooth Calling, 1.39 inch TFT Display, 100+ Watch Faces, AI voice assistant (Jet Black)" [ref=e2352] [cursor=pointer]:
+                    - /url: /p/P227191/227191/noise-noisefit-twist-go-smart-watch-with-bluetooth-calling-1-39-inch-tft-display-100-watch-faces-ai-voice-assistant-jet-black
+                    - generic [ref=e2353]: Noise NoiseFit Twist Go Smart Watch with Bluetooth Calling, 1.39 inch TFT Display, 100+ Watch Faces, AI voice assistant (Jet Black)
+                  - generic [ref=e2356]: Best Seller
+                  - link "₹1,499 MRP ₹4,999 70 % off" [ref=e2357] [cursor=pointer]:
+                    - /url: /p/P227191/227191/noise-noisefit-twist-go-smart-watch-with-bluetooth-calling-1-39-inch-tft-display-100-watch-faces-ai-voice-assistant-jet-black
+                    - generic [ref=e2358]:
+                      - generic [ref=e2359]: ₹1,499
+                      - generic [ref=e2360]:
+                        - generic [ref=e2361]: MRP
+                        - generic [ref=e2362]: ₹4,999
+                      - generic [ref=e2363]:
+                        - generic [ref=e2364]: "70"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P227191/227191/noise-noisefit-twist-go-smart-watch-with-bluetooth-calling-1-39-inch-tft-display-100-watch-faces-ai-voice-assistant-jet-black
+                - generic [ref=e2365]:
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Porcelain)" [ref=e2366] [cursor=pointer]:
+                    - /url: /p/P247600/247602/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-porcelain
+                    - img "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Porcelain)" [ref=e2368]
+                  - link "Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Porcelain)" [ref=e2370] [cursor=pointer]:
+                    - /url: /p/P247600/247602/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-porcelain
+                    - generic [ref=e2371]: Google Pixel Watch 4 | 45mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Porcelain)
+                  - generic [ref=e2374]: New Arrival
+                  - link "₹43,499 MRP ₹43,900 1 % off" [ref=e2375] [cursor=pointer]:
+                    - /url: /p/P247600/247602/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-porcelain
+                    - generic [ref=e2376]:
+                      - generic [ref=e2377]: ₹43,499
+                      - generic [ref=e2378]:
+                        - generic [ref=e2379]: MRP
+                        - generic [ref=e2380]: ₹43,900
+                      - generic [ref=e2381]:
+                        - generic [ref=e2382]: "1"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P247600/247602/google-pixel-watch-4-45mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-porcelain
+                - generic [ref=e2383]:
+                  - link "CMF by Nothing Watch Pro 2 Bluetooth Caling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Dark Grey)" [ref=e2384] [cursor=pointer]:
+                    - /url: /p/P230988/230987/cmf-by-nothing-watch-pro-2-bluetooth-caling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-dark-grey
+                    - img "CMF by Nothing Watch Pro 2 Bluetooth Caling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Dark Grey)" [ref=e2386]
+                  - link "CMF by Nothing Watch Pro 2 Bluetooth Caling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Dark Grey)" [ref=e2388] [cursor=pointer]:
+                    - /url: /p/P230988/230987/cmf-by-nothing-watch-pro-2-bluetooth-caling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-dark-grey
+                    - generic [ref=e2389]: CMF by Nothing Watch Pro 2 Bluetooth Caling Smartwatch with 1.32 inch AMOLED Display, GPS, 120 Sports Modes, Functional Crown (Dark Grey)
+                  - link "₹4,999 MRP ₹5,999 17 % off" [ref=e2390] [cursor=pointer]:
+                    - /url: /p/P230988/230987/cmf-by-nothing-watch-pro-2-bluetooth-caling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-dark-grey
+                    - generic [ref=e2391]:
+                      - generic [ref=e2392]: ₹4,999
+                      - generic [ref=e2393]:
+                        - generic [ref=e2394]: MRP
+                        - generic [ref=e2395]: ₹5,999
+                      - generic [ref=e2396]:
+                        - generic [ref=e2397]: "17"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P230988/230987/cmf-by-nothing-watch-pro-2-bluetooth-caling-smartwatch-with-1-32-inch-amoled-display-gps-120-sports-modes-functional-crown-dark-grey
+                - generic [ref=e2398]:
+                  - link "Google Pixel Watch 4 | 41mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2399] [cursor=pointer]:
+                    - /url: /p/P247600/247603/google-pixel-watch-4-41mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - img "Google Pixel Watch 4 | 41mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2401]
+                  - link "Google Pixel Watch 4 | 41mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)" [ref=e2403] [cursor=pointer]:
+                    - /url: /p/P247600/247603/google-pixel-watch-4-41mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - generic [ref=e2404]: Google Pixel Watch 4 | 41mm AMOLED Display | Personalised Fitness Insights | Gemini AI Assistant | Up to 40H Battery (Obsidian)
+                  - generic [ref=e2407]: New Arrival
+                  - link "₹39,100 MRP ₹39,900 2 % off" [ref=e2408] [cursor=pointer]:
+                    - /url: /p/P247600/247603/google-pixel-watch-4-41mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+                    - generic [ref=e2409]:
+                      - generic [ref=e2410]: ₹39,100
+                      - generic [ref=e2411]:
+                        - generic [ref=e2412]: MRP
+                        - generic [ref=e2413]: ₹39,900
+                      - generic [ref=e2414]:
+                        - generic [ref=e2415]: "2"
+                        - text: "% off"
+                  - link:
+                    - /url: /p/P247600/247603/google-pixel-watch-4-41mm-amoled-display-personalised-fitness-insights-gemini-ai-assistant-up-to-40h-battery-obsidian
+      - generic [ref=e2417]:
+        - heading "Discover Leading Brands" [level=2] [ref=e2420]
+        - paragraph [ref=e2423]: Explore a curated selection of leading brands, where innovation meets quality, only at Vijay Sales.
+        - generic [ref=e2425]:
+          - link "vise" [ref=e2428] [cursor=pointer]:
+            - /url: /plp/brand/Vise?brand=Vise
+            - img "vise"
+          - link "apple" [ref=e2431] [cursor=pointer]:
+            - /url: /brands/apple-store
+            - img "apple"
+          - link "LG" [ref=e2434] [cursor=pointer]:
+            - /url: /brands/lg-store
+            - img "LG"
+          - link "samsung" [ref=e2437] [cursor=pointer]:
+            - /url: /brands/samsung-store
+            - img "samsung"
+          - link "sony" [ref=e2440] [cursor=pointer]:
+            - /url: /brands/sony-store
+            - img "sony"
+          - link "whirpool" [ref=e2443] [cursor=pointer]:
+            - /url: /plp?brand=Whirlpool
+            - img "whirpool"
+          - link "haier" [ref=e2446] [cursor=pointer]:
+            - /url: /brands/oneplus-store
+            - img "haier"
+          - link "mi" [ref=e2449] [cursor=pointer]:
+            - /url: /plp?brand=mi
+            - img "mi"
+        - link "Shop Top Brands" [ref=e2451] [cursor=pointer]:
+          - /url: /brands
+      - generic [ref=e2453] [cursor=pointer]:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "upto"
+        - paragraph [ref=e2458]:
+          - text: Instant Discount on selected banks.
+          - link "See Products" [ref=e2459]:
+            - /url: /plp
+      - generic [ref=e2461]:
+        - generic [ref=e2465] [cursor=pointer]:
+          - generic [ref=e2466]:
+            - heading "Your Reliable Partners" [level=3] [ref=e2467]
+            - paragraph [ref=e2469]: Directing your choices with expertise every step of the way.
+            - link "Explore Our story" [ref=e2471]:
+              - /url: /about-us
+          - img "Reliable logo error" [ref=e2474]
+        - generic [ref=e2478]:
+          - img "logo" [ref=e2481]
+          - paragraph [ref=e2484]: Unlock perks—your gateway to exclusive loyalty points
+          - generic [ref=e2486]:
+            - spinbutton "Mobile Number" [ref=e2487]
+            - generic [ref=e2488]: Mobile Number
+          - button "Verify Number" [ref=e2490] [cursor=pointer]
+        - generic [ref=e2494]:
+          - generic [ref=e2495]:
+            - heading "Do not forget to include the VS+ Extended Warranty with your purchase" [level=3] [ref=e2496]
+            - paragraph [ref=e2498]: Protect your electronics and appliances beyond the standard coverage
+          - img "Reliable logo error" [ref=e2501]
+      - generic [ref=e2503]:
+        - generic [ref=e2506]:
+          - heading "160+" [level=3] [ref=e2507]
+          - generic [ref=e2508]:
+            - paragraph [ref=e2509]:
+              - text: Discover 160+
+              - text: Showrooms at Prime
+              - text: Locations Near You.
+            - paragraph [ref=e2510]
+        - generic [ref=e2513]:
+          - heading "1Cr+" [level=3] [ref=e2514]
+          - paragraph [ref=e2516]:
+            - text: Happy
+            - text: Customers
+        - generic [ref=e2519]:
+          - heading "1000+" [level=3] [ref=e2520]
+          - paragraph [ref=e2522]:
+            - text: Delivering to
+            - text: 1000+ cities
+            - text: across
+      - generic [ref=e2524]:
+        - generic [ref=e2529]:
+          - heading "Sustainable Electronics, Responsible Disposal" [level=3] [ref=e2530]
+          - link "Know More" [ref=e2532] [cursor=pointer]:
+            - /url: /e-waste-recycling
+        - generic [ref=e2536]:
+          - generic [ref=e2539]:
+            - paragraph [ref=e2540]: "1"
+            - heading "Collect e-Waste" [level=3] [ref=e2541]
+            - generic [ref=e2542]:
+              - paragraph [ref=e2543]:
+                - text: Gather electronic waste
+                - text: for eco-friendly disposal
+                - text: and recycling.
+              - paragraph [ref=e2544]
+          - generic [ref=e2547]:
+            - paragraph [ref=e2548]: "2"
+            - heading "Drop-off" [level=3] [ref=e2549]
+            - generic [ref=e2550]:
+              - paragraph [ref=e2551]: Drop off your e-waste at designated centers for responsible recycling.
+              - paragraph [ref=e2552]
+          - generic [ref=e2555]:
+            - paragraph [ref=e2556]: "3"
+            - heading "Contribute to Change" [level=3] [ref=e2557]
+            - generic [ref=e2558]:
+              - paragraph [ref=e2559]: Join us to make a difference and shape a better future together
+              - paragraph [ref=e2560]
+        - img "green-watse" [ref=e2561]
+  - contentinfo [ref=e2562]:
+    - generic [ref=e2564]:
+      - generic [ref=e2570]:
+        - generic [ref=e2572]:
+          - generic [ref=e2573]:
+            - heading "Extended Warranty" [level=2] [ref=e2574]
+            - paragraph [ref=e2576]: Got a question? Look no further calls us.
+          - generic [ref=e2578]:
+            - img "Extended Warranty"
+        - generic [ref=e2580]:
+          - generic [ref=e2581]:
+            - heading "Free Delivery" [level=2] [ref=e2582]
+            - paragraph [ref=e2584]: Available on all our products.
+          - generic [ref=e2586]:
+            - img "Free Delivery"
+        - generic [ref=e2588]:
+          - generic [ref=e2589]:
+            - heading "Trusted Tech Delivered Fast" [level=2] [ref=e2590]
+            - paragraph [ref=e2592]: now in 90 Minutes
+          - generic [ref=e2594]:
+            - img "Same Day Shipping"
+        - generic [ref=e2596]:
+          - generic [ref=e2597]:
+            - heading "Easy Installment" [level=2] [ref=e2598]
+            - paragraph [ref=e2600]: Pay for your purchase in easy EMIs.
+          - generic [ref=e2602]:
+            - img "Easy Installment"
+      - generic [ref=e2608]:
+        - generic [ref=e2610]:
+          - generic [ref=e2612]:
+            - heading "Stay in touch with us, get product updates, offers, discounts directly to your inbox" [level=3] [ref=e2615]
+            - generic [ref=e2617]:
+              - textbox "Enter Email Address" [ref=e2618]
+              - generic [ref=e2619]: Enter Email Address
+            - group [ref=e2621]:
+              - generic [ref=e2622]:
+                - checkbox "By selecting this option you agree with our Privacy policy and Terms & Conditions" [checked] [ref=e2623] [cursor=pointer]
+                - generic [ref=e2624]: By selecting this option you agree with our Privacy policy and Terms & Conditions
+            - button "Subscribe" [ref=e2626] [cursor=pointer]
+          - generic [ref=e2628]:
+            - generic [ref=e2630]:
+              - generic [ref=e2632]:
+                - heading "Categories" [level=4] [ref=e2633]:
+                  - text: Categories
+                  - link:
+                    - /url: /c/laptops
+                - list [ref=e2634]:
+                  - listitem [ref=e2635]:
+                    - link "Television" [ref=e2636] [cursor=pointer]:
+                      - /url: /c/televisions
+                  - listitem [ref=e2637]:
+                    - link "Smartphone" [ref=e2638] [cursor=pointer]:
+                      - /url: /c/smartphones
+                  - listitem [ref=e2639]:
+                    - link "Laptops" [ref=e2640] [cursor=pointer]:
+                      - /url: /c/laptops
+                  - listitem [ref=e2641]:
+                    - link "Washing Machines" [ref=e2642] [cursor=pointer]:
+                      - /url: /c/washing-machines
+                  - listitem [ref=e2643]:
+                    - link "Party Speakers" [ref=e2644] [cursor=pointer]:
+                      - /url: /c/party-speakers
+                  - listitem [ref=e2645]:
+                    - link "Gaming" [ref=e2646] [cursor=pointer]:
+                      - /url: /c/gaming
+              - generic [ref=e2648]:
+                - heading "Services" [level=4] [ref=e2649]
+                - list [ref=e2650]:
+                  - listitem [ref=e2651]:
+                    - link "Cancellation and Return" [ref=e2652] [cursor=pointer]:
+                      - /url: /faqs.html
+                  - listitem [ref=e2653]:
+                    - link "Loyalty Program" [ref=e2654] [cursor=pointer]:
+                      - /url: /loyalty
+                  - listitem [ref=e2655]:
+                    - link "VS Warranty" [ref=e2656] [cursor=pointer]:
+                      - /url: /vswarranty
+                  - listitem [ref=e2657]:
+                    - link "Enquires/B2B Orders" [ref=e2658] [cursor=pointer]:
+                      - /url: /content/vijaysaleswebsite/us/en/b2b-enquiry-form
+              - generic [ref=e2660]:
+                - heading "Trending Products" [level=4] [ref=e2661]
+                - list [ref=e2662]:
+                  - listitem [ref=e2663]:
+                    - link "iPhone 17" [ref=e2664] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17
+                  - listitem [ref=e2665]:
+                    - link "iPhone 17 Pro" [ref=e2666] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                  - listitem [ref=e2667]:
+                    - link "iPhone 17 Pro Max" [ref=e2668] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                  - listitem [ref=e2669]:
+                    - link "iPhone Air" [ref=e2670] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-air
+                  - listitem [ref=e2671]:
+                    - link "TV" [ref=e2672] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/c/televisions
+                  - listitem [ref=e2673]:
+                    - link "Washing Machine" [ref=e2674] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/c/washing-machines
+                  - listitem [ref=e2675]:
+                    - link "Water Purifier" [ref=e2676] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/c/water-purifiers
+                  - listitem [ref=e2677]:
+                    - link "Smartwatch" [ref=e2678] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/c/smart-watches
+                  - listitem [ref=e2679]:
+                    - link "Microwave" [ref=e2680] [cursor=pointer]:
+                      - /url: https://www.vijaysales.com/c/microwave
+            - generic [ref=e2682]:
+              - generic [ref=e2684]:
+                - heading "About us" [level=4] [ref=e2685]:
+                  - link "About us" [ref=e2686] [cursor=pointer]:
+                    - /url: /about-us
+                    - text: About us
+                - heading "Careers" [level=4] [ref=e2687]:
+                  - link "Careers" [ref=e2688] [cursor=pointer]:
+                    - /url: /careers
+                - heading "e-Waste" [level=4] [ref=e2689]:
+                  - link "e-Waste" [ref=e2690] [cursor=pointer]:
+                    - /url: /e-waste-recycling
+                - heading "Contact" [level=4] [ref=e2691]:
+                  - link "Contact" [ref=e2692] [cursor=pointer]:
+                    - /url: /contact-us
+                - heading "Blogs" [level=4] [ref=e2693]:
+                  - link "Blogs" [ref=e2694] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/blog-listing
+                - heading "Order Status" [level=4] [ref=e2695]:
+                  - link "Order Status" [ref=e2696] [cursor=pointer]:
+                    - /url: /profile-page/my-order
+                - paragraph [ref=e2697]
+              - generic [ref=e2699]:
+                - heading "Help Center" [level=4] [ref=e2700]:
+                  - link "Help Center" [ref=e2701] [cursor=pointer]:
+                    - /url: /contact-us
+                - heading "Shipping & Delivery" [level=4] [ref=e2702]:
+                  - link "Shipping & Delivery" [ref=e2703] [cursor=pointer]:
+                    - /url: /faqs?faq=shipping-options
+                - heading "My Account" [level=4] [ref=e2704]:
+                  - link "My Account" [ref=e2705] [cursor=pointer]:
+                    - /url: /profile-page/overview
+              - list [ref=e2708]:
+                - listitem [ref=e2709]:
+                  - link "Pricing and Payments" [ref=e2710] [cursor=pointer]:
+                    - /url: /faqs?faq=payment-and-returns
+                - listitem [ref=e2711]:
+                  - link "Store Locator" [ref=e2712] [cursor=pointer]:
+                    - /url: /store-locator
+              - list [ref=e2715]:
+                - listitem [ref=e2716]:
+                  - link "Brand Stores" [ref=e2717] [cursor=pointer]:
+                    - /url: /brands.html
+                - listitem [ref=e2718]:
+                  - link "Terms of Use" [ref=e2719] [cursor=pointer]:
+                    - /url: /faqs?faq=terms-of-use
+                - listitem [ref=e2720]:
+                  - link "Caution Notice" [ref=e2721] [cursor=pointer]:
+                    - /url: /faqs
+                - listitem [ref=e2722]:
+                  - link "Privacy Policy" [ref=e2723] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/privacy-policy
+        - generic [ref=e2725]:
+          - generic [ref=e2727]:
+            - heading "Follow us on Socials" [level=3] [ref=e2730]
+            - generic [ref=e2732]:
+              - generic:
+                - generic:
+                  - link "whatsapp-icon":
+                    - /url: https://api.whatsapp.com/send?phone=917045926060&text=Hello
+                    - img "whatsapp-icon"
+              - generic:
+                - generic:
+                  - link "facebook-icon":
+                    - /url: https://www.facebook.com/VijaySales/
+                    - img "facebook-icon"
+              - generic:
+                - generic:
+                  - link "twitter-icon":
+                    - /url: https://x.com/VijaySales
+                    - img "twitter-icon"
+              - generic:
+                - generic:
+                  - link "instagram-icon":
+                    - /url: https://www.instagram.com/vijaysalesofficial/
+                    - img "instagram-icon"
+              - generic:
+                - generic:
+                  - link "youtube-icon":
+                    - /url: https://www.youtube.com/user/vijaysalesstore
+                    - img "youtube-icon"
+              - generic:
+                - generic:
+                  - link "linkedIn-icon":
+                    - /url: https://in.linkedin.com/company/vijaysales
+                    - img "linkedIn-icon"
+          - generic [ref=e2734]:
+            - heading "Download The Service App" [level=6] [ref=e2737]
+            - generic [ref=e2739]:
+              - generic:
+                - generic:
+                  - link "google-play-store-icon":
+                    - /url: https://play.google.com/store/apps/details?id=com.vijaysales.vscare
+                    - img "google-play-store-icon"
+              - generic:
+                - generic:
+                  - link "apple-store-icon":
+                    - /url: https://apps.apple.com/in/app/my-vs-vijaysales/id1278356034
+                    - img "apple-store-icon"
+      - generic [ref=e2745]:
+        - generic [ref=e2747]:
+          - generic [ref=e2749]:
+            - heading "AIR CONDITIONERS" [level=4] [ref=e2750]
+            - list [ref=e2751]:
+              - listitem [ref=e2752]:
+                - link "Vise ACs" [ref=e2753] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=Vise
+              - listitem [ref=e2754]:
+                - link "Voltas ACs" [ref=e2755] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=Voltas
+              - listitem [ref=e2756]:
+                - link "Daikin ACs" [ref=e2757] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=Daikin
+              - listitem [ref=e2758]:
+                - link "LG ACs" [ref=e2759] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=LG
+              - listitem [ref=e2760]:
+                - link "Bluestar ACs" [ref=e2761] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=Bluestar
+              - listitem [ref=e2762]:
+                - link "Godrej ACs" [ref=e2763] [cursor=pointer]:
+                  - /url: /c/air-conditioners.html?brand=Godrej
+              - listitem [ref=e2764]:
+                - link "Mitsubishi ACs" [ref=e2765] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Mitsubishi
+              - listitem [ref=e2766]:
+                - link "Carrier ACs" [ref=e2767] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Carrier
+              - listitem [ref=e2768]:
+                - link "Hitachi ACs" [ref=e2769] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Hitachi
+              - listitem [ref=e2770]:
+                - link "Panasonic ACs" [ref=e2771] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Panasonic
+              - listitem [ref=e2772]:
+                - link "Samsung ACs" [ref=e2773] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Samsung
+              - listitem [ref=e2774]:
+                - link "Haier ACs" [ref=e2775] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Haier
+              - listitem [ref=e2776]:
+                - link "Ogeneral ACs" [ref=e2777] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Ogeneral
+              - listitem [ref=e2778]:
+                - link "Split ACs" [ref=e2779] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Split
+              - listitem [ref=e2780]:
+                - link "Window ACs" [ref=e2781] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Window
+              - listitem [ref=e2782]:
+                - link "Less than 1 Ton ACs" [ref=e2783] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+              - listitem [ref=e2784]:
+                - link "1 Ton ACs" [ref=e2785] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+              - listitem [ref=e2786]:
+                - link "1.2 Ton ACs" [ref=e2787] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+              - listitem [ref=e2788]:
+                - link "1.5 Ton ACs" [ref=e2789] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+              - listitem [ref=e2790]:
+                - link "1.8 Ton ACs" [ref=e2791] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.6%20Ton%20to%201.9%20Ton
+              - listitem [ref=e2792]:
+                - link "2 Ton ACs" [ref=e2793] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+              - listitem [ref=e2794]:
+                - link "2.2 Ton ACs" [ref=e2795] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+              - listitem [ref=e2796]:
+                - link "2.5 Ton ACs" [ref=e2797] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+              - listitem [ref=e2798]:
+                - link "3 Ton ACs" [ref=e2799] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+              - listitem [ref=e2800]:
+                - link "2 Star ACs" [ref=e2801] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=547
+              - listitem [ref=e2802]:
+                - link "3 Star ACs" [ref=e2803] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=550
+              - listitem [ref=e2804]:
+                - link "4 Star ACs" [ref=e2805] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=553
+              - listitem [ref=e2806]:
+                - link "5 Star ACs" [ref=e2807] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=556
+              - listitem [ref=e2808]:
+                - link "Fixed Speed ACs" [ref=e2809] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Fixed%20Speed
+              - listitem [ref=e2810]:
+                - link "Inverter ACs" [ref=e2811] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Inverter
+              - listitem [ref=e2812]:
+                - link "Upto 120 SqFt ACs" [ref=e2813] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=Upto%20120%20SqFt
+              - listitem [ref=e2814]:
+                - link "121 Sq Ft to 180 Sq Ft ACs" [ref=e2815] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=121%20Sq%20Ft%20to%20180%20Sq%20Ft
+              - listitem [ref=e2816]:
+                - link "181 Sq Ft to 240 Sq Ft ACs" [ref=e2817] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=181%20Sq%20Ft%20to%20240%20Sq%20Ft
+              - listitem [ref=e2818]:
+                - link "241 Sq Ft to 300 Sq Ft ACs" [ref=e2819] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=241%20Sq%20Ft%20to%20300%20Sq%20Ft
+          - generic [ref=e2821]:
+            - heading "LED TV" [level=4] [ref=e2822]
+            - list [ref=e2823]:
+              - listitem [ref=e2824]:
+                - link "SANSUI TV" [ref=e2825] [cursor=pointer]:
+                  - /url: /c/televisions?brand=SANSUI
+              - listitem [ref=e2826]:
+                - link "Vise TV" [ref=e2827] [cursor=pointer]:
+                  - /url: /c/televisions?brand=Vise
+              - listitem [ref=e2828]:
+                - link "Samsung TV" [ref=e2829] [cursor=pointer]:
+                  - /url: /c/televisions?brand=Samsung
+              - listitem [ref=e2830]:
+                - link "LG TV" [ref=e2831] [cursor=pointer]:
+                  - /url: /c/televisions?brand=LG
+              - listitem [ref=e2832]:
+                - link "Sony TV" [ref=e2833] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Sony
+              - listitem [ref=e2834]:
+                - link "Panasonic TV" [ref=e2835] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Panasonic
+              - listitem [ref=e2836]:
+                - link "OLED TV" [ref=e2837] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?technology=OLED
+              - listitem [ref=e2838]:
+                - link "4K/ULTRA HD TV" [ref=e2839] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=4K/ULTRA%20HD
+              - listitem [ref=e2840]:
+                - link "FULL HD TV" [ref=e2841] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=FULL%20HD
+              - listitem [ref=e2842]:
+                - link "HD TV" [ref=e2843] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD
+              - listitem [ref=e2844]:
+                - link "HD READY TV" [ref=e2845] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD%20READY
+              - listitem [ref=e2846]:
+                - link "25 - 32 inch TV" [ref=e2847] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=32%20inch%20to%2039%20inch
+              - listitem [ref=e2848]:
+                - link "33 - 44 inch TV" [ref=e2849] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+              - listitem [ref=e2850]:
+                - link "45 - 50 inch TV" [ref=e2851] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+              - listitem [ref=e2852]:
+                - link "51 - 55 inch TV" [ref=e2853] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=50%20inch%20to%2059%20inch
+              - listitem [ref=e2854]:
+                - link "56 - 65 inch TV" [ref=e2855] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=60%20inch%20to%2069%20inch
+              - listitem [ref=e2856]:
+                - link "66 inch and above TV" [ref=e2857] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=70%20inch%20and%20Above
+          - generic [ref=e2859]:
+            - heading "TELEVISIONS & ENTERTAINMENT" [level=4] [ref=e2860]
+            - list [ref=e2861]:
+              - listitem [ref=e2862]:
+                - link "LED TV" [ref=e2863] [cursor=pointer]:
+                  - /url: /c/televisions?technology=LED
+              - listitem [ref=e2864]:
+                - link "HD Ready TV" [ref=e2865] [cursor=pointer]:
+                  - /url: /c/televisions?resolution=HD%20READY
+              - listitem [ref=e2866]:
+                - link "HD TV" [ref=e2867] [cursor=pointer]:
+                  - /url: /c/televisions?resolution=HD
+              - listitem [ref=e2868]:
+                - link "UHD / 4K TV" [ref=e2869] [cursor=pointer]:
+                  - /url: /c/televisions?resolution=4K/ULTRA%20HD
+              - listitem [ref=e2870]:
+                - link "Full HD TV" [ref=e2871] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/c/televisions?resolution=FULL%20HD
+              - listitem [ref=e2872]:
+                - link "Streaming Devices" [ref=e2873] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=TV%20Accessories
+              - listitem [ref=e2874]:
+                - link "Audio Accessories" [ref=e2875] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Audio%20Accessories
+              - listitem [ref=e2876]:
+                - link "Gaming Consoles" [ref=e2877] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming
+              - listitem [ref=e2878]:
+                - link "Gaming Controllers" [ref=e2879] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming%20Controllers
+              - listitem [ref=e2880]:
+                - link "Soundbars" [ref=e2881] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/soundbars
+              - listitem [ref=e2882]:
+                - link "Home Theatre" [ref=e2883] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-theaters
+              - listitem [ref=e2884]:
+                - link "Speakers" [ref=e2885] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/speakers
+              - listitem [ref=e2886]:
+                - link "Party Speakers" [ref=e2887] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers
+          - generic [ref=e2889]:
+            - heading "LARGE APPLIANCES" [level=4] [ref=e2890]
+            - list [ref=e2891]:
+              - listitem [ref=e2892]:
+                - link "Air Conditioners" [ref=e2893] [cursor=pointer]:
+                  - /url: /c/air-conditioners
+              - listitem [ref=e2894]:
+                - link "Split AC" [ref=e2895] [cursor=pointer]:
+                  - /url: /c/air-conditioners?ac_type=Split
+              - listitem [ref=e2896]:
+                - link "Window AC" [ref=e2897] [cursor=pointer]:
+                  - /url: /c/air-conditioners?ac_type=Window
+              - listitem [ref=e2898]:
+                - link "Portable AC" [ref=e2899] [cursor=pointer]:
+                  - /url: /c/air-conditioners?ac_type=Portable
+              - listitem [ref=e2900]:
+                - link "Washing and Drying" [ref=e2901] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+              - listitem [ref=e2902]:
+                - link "Fully Automatic Top Load" [ref=e2903] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Top%20Loading
+              - listitem [ref=e2904]:
+                - link "Semi Automatic Top Load" [ref=e2905] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Semi%20Automatic
+              - listitem [ref=e2906]:
+                - link "Fully Automatic Front Load" [ref=e2907] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Front%20Loading
+              - listitem [ref=e2908]:
+                - link "Front Load Washer and Dryer" [ref=e2909] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+              - listitem [ref=e2910]:
+                - link "Dryer" [ref=e2911] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+              - listitem [ref=e2912]:
+                - link "Dishwasher" [ref=e2913] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/dishwashers
+              - listitem [ref=e2914]:
+                - link "Refrigerators" [ref=e2915] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators
+              - listitem [ref=e2916]:
+                - link "Single Door" [ref=e2917] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Single%20Door
+              - listitem [ref=e2918]:
+                - link "Double Door" [ref=e2919] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Double%20Door
+              - listitem [ref=e2920]:
+                - link "Triple Door" [ref=e2921] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Triple%20Door
+              - listitem [ref=e2922]:
+                - link "Side By Side" [ref=e2923] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?refrigerator_type=Side%20by%20Side%20Refrigerator
+          - generic [ref=e2925]:
+            - heading "KITCHEN APPLIANCES" [level=4] [ref=e2926]
+            - list [ref=e2927]:
+              - listitem [ref=e2928]:
+                - link "Atta Maker" [ref=e2929] [cursor=pointer]:
+                  - /url: /c/atta-maker
+              - listitem [ref=e2930]:
+                - link "Built In Ovens" [ref=e2931] [cursor=pointer]:
+                  - /url: /c/microwave-and-otgs
+              - listitem [ref=e2932]:
+                - link "Chimney" [ref=e2933] [cursor=pointer]:
+                  - /url: /c/chimneys
+              - listitem [ref=e2934]:
+                - link "Chopper" [ref=e2935] [cursor=pointer]:
+                  - /url: /c/choppers
+              - listitem [ref=e2936]:
+                - link "Coffee Maker" [ref=e2937] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/coffee-machines
+              - listitem [ref=e2938]:
+                - link "Cooktop" [ref=e2939] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/c/cooktop
+              - listitem [ref=e2940]:
+                - link "Food Processor" [ref=e2941] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/food-processors
+              - listitem [ref=e2942]:
+                - link "Air Fryer" [ref=e2943] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-fryers
+              - listitem [ref=e2944]:
+                - link "Hand Blender" [ref=e2945] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+              - listitem [ref=e2946]:
+                - link "Hand Mixer" [ref=e2947] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+              - listitem [ref=e2948]:
+                - link "HOB" [ref=e2949] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/built-in-hobs
+              - listitem [ref=e2950]:
+                - link "Juicer" [ref=e2951] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/c/juicer
+              - listitem [ref=e2952]:
+                - link "Juicer Mixer Grinders" [ref=e2953] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/c/juicers-mixers-and-grinders
+              - listitem [ref=e2954]:
+                - link "Grinder" [ref=e2955] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/c/mixer-grinder
+              - listitem [ref=e2956]:
+                - link "Kettles" [ref=e2957] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/kettles
+              - listitem [ref=e2958]:
+                - link "Microwave" [ref=e2959] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave
+              - listitem [ref=e2960]:
+                - link "Oven" [ref=e2961] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+              - listitem [ref=e2962]:
+                - link "Toaster" [ref=e2963] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/c/sandwich-toasters
+              - listitem [ref=e2964]:
+                - link "Popup Toaster" [ref=e2965] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/popup-toasters
+              - listitem [ref=e2966]:
+                - link "Sandwich Toaster" [ref=e2967] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/sandwich-toasters
+              - listitem [ref=e2968]:
+                - link "Wet Grinder" [ref=e2969] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/wet-grinders
+              - listitem [ref=e2970]:
+                - link "Mixer" [ref=e2971] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicers-mixers-and-grinders
+          - generic [ref=e2973]:
+            - heading "HEADPHONES & SPEAKERS" [level=4] [ref=e2974]
+            - list [ref=e2975]:
+              - listitem [ref=e2976]:
+                - link "Truly Wireless Earbuds" [ref=e2977] [cursor=pointer]:
+                  - /url: /c/truly-wireless-earbuds
+              - listitem [ref=e2978]:
+                - link "Neckbands" [ref=e2979] [cursor=pointer]:
+                  - /url: /c/neckbands
+              - listitem [ref=e2980]:
+                - link "Headphones" [ref=e2981] [cursor=pointer]:
+                  - /url: /c/headphones
+              - listitem [ref=e2982]:
+                - link "Earphones" [ref=e2983] [cursor=pointer]:
+                  - /url: /c/earphones
+              - listitem [ref=e2984]:
+                - link "Portable Speakers" [ref=e2985] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/portable-speakers
+          - generic [ref=e2987]:
+            - heading "HEALTH & GROOMING" [level=4] [ref=e2988]
+            - list [ref=e2989]:
+              - listitem [ref=e2990]:
+                - link "Trimmers" [ref=e2991] [cursor=pointer]:
+                  - /url: /c/trimmers
+              - listitem [ref=e2992]:
+                - link "Shavers" [ref=e2993] [cursor=pointer]:
+                  - /url: /c/shavers
+              - listitem [ref=e2994]:
+                - link "Hair Stylers" [ref=e2995] [cursor=pointer]:
+                  - /url: /c/hair-stylers
+              - listitem [ref=e2996]:
+                - link "Hair Straightners" [ref=e2997] [cursor=pointer]:
+                  - /url: /c/hair-straighteners
+              - listitem [ref=e2998]:
+                - link "Hair Dryers" [ref=e2999] [cursor=pointer]:
+                  - /url: /c/hair-dryers
+          - generic [ref=e3001]:
+            - heading "TABLETS" [level=4] [ref=e3002]
+            - list [ref=e3003]:
+              - listitem [ref=e3004]:
+                - link "Tablets" [ref=e3005] [cursor=pointer]:
+                  - /url: /c/tablets
+              - listitem [ref=e3006]:
+                - link "iPads" [ref=e3007] [cursor=pointer]:
+                  - /url: /c/ipads
+              - listitem [ref=e3008]:
+                - link "Graphics Tablets" [ref=e3009] [cursor=pointer]:
+                  - /url: /c/graphic-tablets
+          - generic [ref=e3011]:
+            - heading "MOBILES & ACCESSORIES" [level=4] [ref=e3012]
+            - list [ref=e3013]:
+              - listitem [ref=e3014]:
+                - link "Smartphones" [ref=e3015] [cursor=pointer]:
+                  - /url: /c/smartphones
+              - listitem [ref=e3016]:
+                - link "iPhones" [ref=e3017] [cursor=pointer]:
+                  - /url: /c/iphones
+              - listitem [ref=e3018]:
+                - link "Basic Phones" [ref=e3019] [cursor=pointer]:
+                  - /url: /c/basic-phones
+              - listitem [ref=e3020]:
+                - link "Cables" [ref=e3021] [cursor=pointer]:
+                  - /url: /c/cables
+              - listitem [ref=e3022]:
+                - link "Adapters" [ref=e3023] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/adapters
+              - listitem [ref=e3024]:
+                - link "Power Bank" [ref=e3025] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/power-bank
+              - listitem [ref=e3026]:
+                - link "Cases and Covers" [ref=e3027] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/cases-and-covers
+          - generic [ref=e3029]:
+            - heading "COMPUTER ACCESSORIES" [level=4] [ref=e3030]
+            - list [ref=e3031]:
+              - listitem [ref=e3032]:
+                - link "Mouse" [ref=e3033] [cursor=pointer]:
+                  - /url: /c/computer-accessories?categories=Mouse
+              - listitem [ref=e3034]:
+                - link "Keyboards" [ref=e3035] [cursor=pointer]:
+                  - /url: /c/computer-accessories?categories=Keyboards
+              - listitem [ref=e3036]:
+                - link "Keyboard Mouse Combo" [ref=e3037] [cursor=pointer]:
+                  - /url: /c/computer-accessories?categories=Keyboard%20Mouse%20Combo
+              - listitem [ref=e3038]:
+                - link "Bags" [ref=e3039] [cursor=pointer]:
+                  - /url: /c/computer-accessories?categories=Bags
+              - listitem [ref=e3040]:
+                - link "Cooling Pad" [ref=e3041] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+              - listitem [ref=e3042]:
+                - link "Laptop Stand" [ref=e3043] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+              - listitem [ref=e3044]:
+                - link "Peripherals" [ref=e3045] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Peripherals
+              - listitem [ref=e3046]:
+                - link "Pen Drives" [ref=e3047] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/pen-drives
+              - listitem [ref=e3048]:
+                - link "SSD" [ref=e3049] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/ssd
+              - listitem [ref=e3050]:
+                - link "Hard Disks" [ref=e3051] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/hard-disks
+          - generic [ref=e3053]:
+            - heading "COMPUTERS & LAPTOPS" [level=4] [ref=e3054]
+            - list [ref=e3055]:
+              - listitem [ref=e3056]:
+                - link "Laptops" [ref=e3057] [cursor=pointer]:
+                  - /url: /c/laptops
+              - listitem [ref=e3058]:
+                - link "MacBook" [ref=e3059] [cursor=pointer]:
+                  - /url: /c/macbooks
+              - listitem [ref=e3060]:
+                - link "Gaming Laptops" [ref=e3061] [cursor=pointer]:
+                  - /url: /c/laptops?usage=Gamers
+              - listitem [ref=e3062]:
+                - link "Desktops" [ref=e3063] [cursor=pointer]:
+                  - /url: /c/laptops-and-accessories?categories=Desktops
+              - listitem [ref=e3064]:
+                - link "All in One Desktops" [ref=e3065] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/c/laptops-and-accessories?desktops=All%20in%20One%20Desktops
+              - listitem [ref=e3066]:
+                - link "iMac" [ref=e3067] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?desktops=iMac
+              - listitem [ref=e3068]:
+                - link "Printer" [ref=e3069] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+              - listitem [ref=e3070]:
+                - link "Inkjet Printers" [ref=e3071] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Inkjet
+              - listitem [ref=e3072]:
+                - link "Laser Printers" [ref=e3073] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Laser
+              - listitem [ref=e3074]:
+                - link "Inktank Printers" [ref=e3075] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+              - listitem [ref=e3076]:
+                - link "Thermal Printers" [ref=e3077] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+              - listitem [ref=e3078]:
+                - link "Routers" [ref=e3079] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/routers
+          - generic [ref=e3081]:
+            - heading "WEARABLE TECH" [level=4] [ref=e3082]
+            - list [ref=e3083]:
+              - listitem [ref=e3084]:
+                - link "Smart Watch" [ref=e3085] [cursor=pointer]:
+                  - /url: /c/smart-watches
+        - generic [ref=e3087]:
+          - paragraph [ref=e3090]: © 2013-2025, Vijay Sales. All rights reserved.
+          - generic [ref=e3092]:
+            - paragraph [ref=e3093]: We Accept
+            - list [ref=e3094]:
+              - listitem [ref=e3095]:
+                - img "Visa Card" [ref=e3096]
+              - listitem [ref=e3097]:
+                - img "American Express Card" [ref=e3098]
+              - listitem [ref=e3099]:
+                - img "Master Card" [ref=e3100]
+              - listitem [ref=e3101]:
+                - img "Pine Labs Card" [ref=e3102]
+              - listitem [ref=e3103]:
+                - img "Pay U" [ref=e3104]
+```

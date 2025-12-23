@@ -1,0 +1,2078 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - banner [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "vs-logo-img" [ref=e14] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en
+            - img "vs-logo-img" [ref=e15]
+          - generic [ref=e16]:
+            - img "locate-icon" [ref=e17] [cursor=pointer]
+            - paragraph [ref=e18] [cursor=pointer]:
+              - text: Deliver to
+              - link "Select your location" [ref=e19]:
+                - /url: "#"
+          - generic [ref=e21]:
+            - img "search-icon" [ref=e22]
+            - textbox "Search for phone, TV, home appliances..." [ref=e23]: iphone 16 plus
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - img "Store Locator icon" [ref=e27] [cursor=pointer]
+              - link "Store Locator" [ref=e28] [cursor=pointer]:
+                - /url: /store-locator
+            - listitem [ref=e29]:
+              - img "Help Center icon" [ref=e30] [cursor=pointer]
+              - link "Help Center" [ref=e31] [cursor=pointer]:
+                - /url: /contact-us
+          - link "wishlist-empty-icon" [ref=e33] [cursor=pointer]:
+            - /url: /profile-page/wishlist
+            - img "wishlist-empty-icon" [ref=e34]
+          - link "prelogin-icon" [ref=e36] [cursor=pointer]:
+            - /url: /login
+            - img "prelogin-icon" [ref=e37]
+          - link "cart-icon" [ref=e39] [cursor=pointer]:
+            - /url: /cart
+            - img "cart-icon" [ref=e40]
+        - list [ref=e43]:
+          - listitem [ref=e44] [cursor=pointer]:
+            - link "Mobiles, Tablets & Accessories" [ref=e45]:
+              - /url: /c/mobiles-tablets-and-accessories
+          - listitem [ref=e46] [cursor=pointer]:
+            - link "Laptops & Accessories" [ref=e47]:
+              - /url: /c/laptops-and-accessories
+          - listitem [ref=e48] [cursor=pointer]:
+            - link "Home Appliances" [ref=e49]:
+              - /url: /c/home-appliances
+          - listitem [ref=e50] [cursor=pointer]:
+            - link "Kitchen Appliances" [ref=e51]:
+              - /url: /c/kitchen-appliances
+          - listitem [ref=e52] [cursor=pointer]:
+            - link "TV & Entertainment" [ref=e53]:
+              - /url: /c/television-and-entertainment
+          - listitem [ref=e54] [cursor=pointer]:
+            - link "Personal Care" [ref=e55]:
+              - /url: /c/grooming-and-fitness
+          - listitem [ref=e56] [cursor=pointer]:
+            - link "Headphones & Speakers" [ref=e57]:
+              - /url: /c/headphones-and-speakers
+          - listitem [ref=e58] [cursor=pointer]:
+            - link "Brand Stores" [ref=e59]:
+              - /url: /brands
+          - listitem [ref=e60] [cursor=pointer]:
+            - link "Loyalty Hub" [ref=e61]:
+              - /url: /loyalty
+    - generic [ref=e62]:
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - link:
+            - /url: /product-listing-page
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Smartphone" [ref=e73] [cursor=pointer]:
+                - /url: /c/smartphones
+            - listitem [ref=e74]:
+              - link "iPhone" [ref=e75] [cursor=pointer]:
+                - /url: /c/iphones
+            - listitem [ref=e76]:
+              - link "Basic Phone" [ref=e77] [cursor=pointer]:
+                - /url: /c/basic-phones
+            - listitem [ref=e78]:
+              - link "Smart Watch" [ref=e79] [cursor=pointer]:
+                - /url: /c/smart-watches
+            - listitem [ref=e80]:
+              - link "Charger" [ref=e81] [cursor=pointer]:
+                - /url: /c/adapters
+            - listitem [ref=e82]:
+              - link "Tablets" [ref=e83] [cursor=pointer]:
+                - /url: /c/tablets
+            - listitem [ref=e84]:
+              - link "Tablet Accessories" [ref=e85] [cursor=pointer]:
+                - /url: /sale/tablet-accessories
+            - listitem [ref=e86]:
+              - link "iPad" [ref=e87] [cursor=pointer]:
+                - /url: /c/ipads
+            - listitem [ref=e88]:
+              - link "Graphic Tablet" [ref=e89] [cursor=pointer]:
+                - /url: /c/graphic-tablets
+            - listitem [ref=e90]:
+              - link "Power Bank" [ref=e91] [cursor=pointer]:
+                - /url: /c/power-bank
+            - listitem [ref=e92]:
+              - link "Cable" [ref=e93] [cursor=pointer]:
+                - /url: /c/cables
+            - listitem [ref=e94]:
+              - link "Cases and Cover" [ref=e95] [cursor=pointer]:
+                - /url: /c/cases-and-covers
+        - generic [ref=e102]:
+          - link "Smartphone" [ref=e107] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/mobile-store
+            - img "Smartphone" [ref=e108]
+          - link "cmf-accessories" [ref=e113] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/accessories/cmf-and-nothing-accessories
+            - img "cmf-accessories" [ref=e114]
+      - generic [ref=e116]:
+        - generic [ref=e122]:
+          - link:
+            - /url: "#"
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Laptop" [ref=e125] [cursor=pointer]:
+                - /url: /c/laptops
+            - listitem [ref=e126]:
+              - link "MacBook" [ref=e127] [cursor=pointer]:
+                - /url: /c/macbooks
+            - listitem [ref=e128]:
+              - link "Printer" [ref=e129] [cursor=pointer]:
+                - /url: /c/printers
+            - listitem [ref=e130]:
+              - link "Router" [ref=e131] [cursor=pointer]:
+                - /url: /c/routers
+            - listitem [ref=e132]:
+              - link "Computer Accessories" [ref=e133] [cursor=pointer]:
+                - /url: /c/computer-accessories
+            - listitem [ref=e134]:
+              - link "Hard Disk" [ref=e135] [cursor=pointer]:
+                - /url: /c/hard-disks
+            - listitem [ref=e136]:
+              - link "Pendrives" [ref=e137] [cursor=pointer]:
+                - /url: /c/pen-drives
+            - listitem [ref=e138]:
+              - link "SSD" [ref=e139] [cursor=pointer]:
+                - /url: /c/ssd
+            - listitem [ref=e140]:
+              - link "Desktop" [ref=e141] [cursor=pointer]:
+                - /url: /c/desktops
+        - generic [ref=e148]:
+          - link "abcd" [ref=e153] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/open-box-store
+            - img "abcd" [ref=e154]
+          - link "Laptops" [ref=e159] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/c/laptops?categories=Refurbished%20Laptops
+            - img "Laptops" [ref=e160]
+      - generic [ref=e162]:
+        - generic [ref=e168]:
+          - link:
+            - /url: "#"
+          - list [ref=e169]:
+            - listitem [ref=e170]:
+              - link "Air Conditioner" [ref=e171] [cursor=pointer]:
+                - /url: /c/air-conditioners
+            - listitem [ref=e172]:
+              - link "Washing Machine" [ref=e173] [cursor=pointer]:
+                - /url: /c/washing-machines
+            - listitem [ref=e174]:
+              - link "Refrigerator" [ref=e175] [cursor=pointer]:
+                - /url: /c/refrigerators
+            - listitem [ref=e176]:
+              - link "Geyser" [ref=e177] [cursor=pointer]:
+                - /url: /c/geysers-and-water-heaters
+            - listitem [ref=e178]:
+              - link "Air Purifier" [ref=e179] [cursor=pointer]:
+                - /url: /c/air-purifiers
+            - listitem [ref=e180]:
+              - link "Vacuum Cleaner" [ref=e181] [cursor=pointer]:
+                - /url: /c/vacuum-cleaners
+            - listitem [ref=e182]:
+              - link "Dishwasher" [ref=e183] [cursor=pointer]:
+                - /url: /c/dishwashers
+            - listitem [ref=e184]:
+              - link "Iron" [ref=e185] [cursor=pointer]:
+                - /url: /c/irons
+            - listitem [ref=e186]:
+              - link "Electronic Safe" [ref=e187] [cursor=pointer]:
+                - /url: /c/electronic-safe
+            - listitem [ref=e188]:
+              - link "Dehumidifier" [ref=e189] [cursor=pointer]:
+                - /url: /c/dehumidifiers
+            - listitem [ref=e190]:
+              - link "Garment Steamer" [ref=e191] [cursor=pointer]:
+                - /url: /c/garment-steamers
+            - listitem [ref=e192]:
+              - link "Fans" [ref=e193] [cursor=pointer]:
+                - /url: /c/fans
+            - listitem [ref=e194]:
+              - link "Air Cooler" [ref=e195] [cursor=pointer]:
+                - /url: /c/air-coolers
+            - listitem [ref=e196]:
+              - link "Water Dispenser" [ref=e197] [cursor=pointer]:
+                - /url: /c/water-dispensers
+            - listitem [ref=e198]:
+              - link "Security Camera & Dashcam" [ref=e199] [cursor=pointer]:
+                - /url: /sale/security-camera-and-dashcam
+            - listitem [ref=e200]:
+              - link "Stabilizer" [ref=e201] [cursor=pointer]:
+                - /url: /c/stabilizers
+            - listitem [ref=e202]:
+              - link "Wine Cooler" [ref=e203] [cursor=pointer]:
+                - /url: /c/wine-cooler
+            - listitem [ref=e204]:
+              - link "Dryer" [ref=e205] [cursor=pointer]:
+                - /url: /c/dryers
+            - listitem [ref=e206]:
+              - link "Smart Home Devices" [ref=e207] [cursor=pointer]:
+                - /url: /c/smart-home-accessories
+            - listitem [ref=e208]:
+              - link "Room Heater" [ref=e209] [cursor=pointer]:
+                - /url: /c/room-heaters
+        - link "Washing machine" [ref=e219] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/washing-machines
+          - img "Washing machine" [ref=e220]
+      - generic [ref=e222]:
+        - generic [ref=e228]:
+          - link:
+            - /url: "#"
+          - list [ref=e229]:
+            - listitem [ref=e230]:
+              - link "Mixer Grinder" [ref=e231] [cursor=pointer]:
+                - /url: /c/mixer-grinder
+            - listitem [ref=e232]:
+              - link "Nutri Blend" [ref=e233] [cursor=pointer]:
+                - /url: /c/nutri-blender
+            - listitem [ref=e234]:
+              - link "Microwave" [ref=e235] [cursor=pointer]:
+                - /url: /c/microwave
+            - listitem [ref=e236]:
+              - link "Air Fryer" [ref=e237] [cursor=pointer]:
+                - /url: /c/air-fryers
+            - listitem [ref=e238]:
+              - link "Water Purifier" [ref=e239] [cursor=pointer]:
+                - /url: /c/water-purifiers
+            - listitem [ref=e240]:
+              - link "Coffee Maker" [ref=e241] [cursor=pointer]:
+                - /url: /c/coffee-machines
+            - listitem [ref=e242]:
+              - link "Kettle" [ref=e243] [cursor=pointer]:
+                - /url: /c/kettles
+            - listitem [ref=e244]:
+              - link "Cooktop" [ref=e245] [cursor=pointer]:
+                - /url: /c/cooktop
+            - listitem [ref=e246]:
+              - link "Juicer Mixer Grinder" [ref=e247] [cursor=pointer]:
+                - /url: /c/juicers-mixers-and-grinders
+            - listitem [ref=e248]:
+              - link "Hand Mixer and Blender" [ref=e249] [cursor=pointer]:
+                - /url: /c/hand-mixers-and-blenders
+        - generic [ref=e255]:
+          - link:
+            - /url: "#"
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - link "Chimney" [ref=e258] [cursor=pointer]:
+                - /url: /c/chimneys
+            - listitem [ref=e259]:
+              - link "Atta Maker" [ref=e260] [cursor=pointer]:
+                - /url: /c/atta-maker
+            - listitem [ref=e261]:
+              - link "Food Processor" [ref=e262] [cursor=pointer]:
+                - /url: /c/food-processors
+            - listitem [ref=e263]:
+              - link "OTG" [ref=e264] [cursor=pointer]:
+                - /url: /c/microwave-and-otgs
+            - listitem [ref=e265]:
+              - link "Popup Toaster" [ref=e266] [cursor=pointer]:
+                - /url: /c/popup-toasters
+            - listitem [ref=e267]:
+              - link "Sandwich Maker" [ref=e268] [cursor=pointer]:
+                - /url: /c/sandwich-toasters
+            - listitem [ref=e269]:
+              - link "Chopper" [ref=e270] [cursor=pointer]:
+                - /url: /c/choppers
+            - listitem [ref=e271]:
+              - link "HOB" [ref=e272] [cursor=pointer]:
+                - /url: /c/built-in-hobs
+            - listitem [ref=e273]:
+              - link "Juicer" [ref=e274] [cursor=pointer]:
+                - /url: /c/juicer
+            - listitem [ref=e275]:
+              - link "Wet Grinder" [ref=e276] [cursor=pointer]:
+                - /url: /c/wet-grinders
+        - link "Microwaves" [ref=e288] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/microwave
+          - img "Microwaves" [ref=e289]
+      - generic [ref=e291]:
+        - generic [ref=e297]:
+          - link:
+            - /url: "#"
+          - list [ref=e298]:
+            - listitem [ref=e299]:
+              - link "Television" [ref=e300] [cursor=pointer]:
+                - /url: /c/televisions
+            - listitem [ref=e301]:
+              - link "Soundbar" [ref=e302] [cursor=pointer]:
+                - /url: /c/soundbars
+            - listitem [ref=e303]:
+              - link "Home Theatre" [ref=e304] [cursor=pointer]:
+                - /url: /c/home-theaters
+            - listitem [ref=e305]:
+              - link "Speaker" [ref=e306] [cursor=pointer]:
+                - /url: /c/speakers
+            - listitem [ref=e307]:
+              - link "Party Speaker" [ref=e308] [cursor=pointer]:
+                - /url: /c/party-speakers
+            - listitem [ref=e309]:
+              - link "Gaming" [ref=e310] [cursor=pointer]:
+                - /url: /c/gaming
+            - listitem [ref=e311]:
+              - link "TV Accessories" [ref=e312] [cursor=pointer]:
+                - /url: /c/tv-accessories
+        - generic [ref=e319]:
+          - link "abcd" [ref=e324] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/c/televisions?brand=Vise
+            - img "abcd" [ref=e325]
+          - link "abcd" [ref=e330] [cursor=pointer]:
+            - /url: /c/large-audio
+            - img "abcd" [ref=e331]
+      - generic [ref=e333]:
+        - generic [ref=e339]:
+          - link:
+            - /url: "#"
+          - list [ref=e340]:
+            - listitem [ref=e341]:
+              - link "Trimmer" [ref=e342] [cursor=pointer]:
+                - /url: /c/trimmers
+            - listitem [ref=e343]:
+              - link "Shaver" [ref=e344] [cursor=pointer]:
+                - /url: /c/shavers
+            - listitem [ref=e345]:
+              - link "Hair Straightener" [ref=e346] [cursor=pointer]:
+                - /url: /c/hair-straighteners
+            - listitem [ref=e347]:
+              - link "Hair Dryer" [ref=e348] [cursor=pointer]:
+                - /url: /c/hair-dryers
+            - listitem [ref=e349]:
+              - link "Hair Styler" [ref=e350] [cursor=pointer]:
+                - /url: /c/hair-stylers
+            - listitem [ref=e351]:
+              - link "Massager" [ref=e352] [cursor=pointer]:
+                - /url: /c/massagers
+        - link "abcd" [ref=e362] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/personal-care?brand=Bombae,Bombay%20Shaving%20Company
+          - img "abcd" [ref=e363]
+      - generic [ref=e365]:
+        - generic [ref=e371]:
+          - link:
+            - /url: "#"
+          - list [ref=e372]:
+            - listitem [ref=e373]:
+              - link "Truly Wireless Earbud" [ref=e374] [cursor=pointer]:
+                - /url: /c/truly-wireless-earbuds
+            - listitem [ref=e375]:
+              - link "Neckband" [ref=e376] [cursor=pointer]:
+                - /url: /c/neckbands
+            - listitem [ref=e377]:
+              - link "Headphone" [ref=e378] [cursor=pointer]:
+                - /url: /c/headphones
+            - listitem [ref=e379]:
+              - link "Earphone" [ref=e380] [cursor=pointer]:
+                - /url: /c/earphones
+            - listitem [ref=e381]:
+              - link "Portable Speaker" [ref=e382] [cursor=pointer]:
+                - /url: /c/portable-speakers
+        - link "Bose" [ref=e392] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/sale/audio/bose-audio
+          - img "Bose" [ref=e393]
+      - generic [ref=e395]:
+        - generic [ref=e401]:
+          - link:
+            - /url: "#"
+          - list [ref=e402]:
+            - listitem [ref=e403]:
+              - link "Apple" [ref=e404] [cursor=pointer]:
+                - /url: /brands/apple-store
+            - listitem [ref=e405]:
+              - link "Vise" [ref=e406] [cursor=pointer]:
+                - /url: /plp/brand/Vise?brand=Vise
+            - listitem [ref=e407]:
+              - link "Asus" [ref=e408] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/?brand=ASUS
+            - listitem [ref=e409]:
+              - link "JBL" [ref=e410] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/brand/JBL?brand=JBL
+            - listitem [ref=e411]:
+              - link "LG" [ref=e412] [cursor=pointer]:
+                - /url: /brands/lg-store
+            - listitem [ref=e413]:
+              - link "OnePlus" [ref=e414] [cursor=pointer]:
+                - /url: /brands/oneplus-store
+            - listitem [ref=e415]:
+              - link "Samsung" [ref=e416] [cursor=pointer]:
+                - /url: /brands/samsung-store
+            - listitem [ref=e417]:
+              - link "Sony" [ref=e418] [cursor=pointer]:
+                - /url: /brands/sony-store
+            - listitem [ref=e419]:
+              - link "Boat" [ref=e420] [cursor=pointer]:
+                - /url: /brands/boat_store
+        - generic [ref=e427]:
+          - link "abcd" [ref=e432] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/audio/boat-audio
+            - img "abcd" [ref=e433]
+          - link "iPhone 17" [ref=e438] [cursor=pointer]:
+            - /url: /brands/apple-store
+            - img "iPhone 17" [ref=e439]
+  - generic [ref=e442]:
+    - generic [ref=e444]:
+      - generic [ref=e446]:
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - img "filter label" [ref=e451]
+              - paragraph [ref=e452]: Filters
+            - link "Clear All" [ref=e454] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e455]:
+            - generic [ref=e458] [cursor=pointer]:
+              - checkbox "Exclude out of stock" [ref=e459]
+              - text: Exclude out of stock
+            - generic [ref=e460]:
+              - generic [ref=e461]:
+                - button "Color" [ref=e462] [cursor=pointer]:
+                  - generic [ref=e463]:
+                    - paragraph [ref=e464]: Color
+                    - img [ref=e465]
+                - generic [ref=e467]:
+                  - generic [ref=e469] [cursor=pointer]:
+                    - checkbox "Black" [ref=e470]
+                    - text: Black
+                  - generic [ref=e472] [cursor=pointer]:
+                    - checkbox "Blue" [ref=e473]
+                    - text: Blue
+                  - generic [ref=e475] [cursor=pointer]:
+                    - checkbox "Pink" [ref=e476]
+                    - text: Pink
+                  - generic [ref=e478] [cursor=pointer]:
+                    - checkbox "Transparent" [ref=e479]
+                    - text: Transparent
+                  - button "View More" [ref=e480] [cursor=pointer]
+              - generic [ref=e481]:
+                - button "Brand" [ref=e482] [cursor=pointer]:
+                  - generic [ref=e483]:
+                    - paragraph [ref=e484]: Brand
+                    - img [ref=e485]
+                - generic [ref=e487]:
+                  - generic [ref=e489] [cursor=pointer]:
+                    - checkbox "Apple" [ref=e490]
+                    - text: Apple
+                  - generic [ref=e492] [cursor=pointer]:
+                    - checkbox "STM" [ref=e493]
+                    - text: STM
+                  - generic [ref=e495] [cursor=pointer]:
+                    - checkbox "Vaku Luxos" [ref=e496]
+                    - text: Vaku Luxos
+                  - generic [ref=e498] [cursor=pointer]:
+                    - checkbox "Alfred Victor" [ref=e499]
+                    - text: Alfred Victor
+                  - button "View More" [ref=e500] [cursor=pointer]
+              - generic [ref=e501]:
+                - button "Case Type" [ref=e502] [cursor=pointer]:
+                  - generic [ref=e503]:
+                    - paragraph [ref=e504]: Case Type
+                    - img [ref=e505]
+                - generic [ref=e507]:
+                  - generic [ref=e509] [cursor=pointer]:
+                    - checkbox "Clear Case" [ref=e510]
+                    - text: Clear Case
+                  - generic [ref=e512] [cursor=pointer]:
+                    - checkbox "Silicon/Rubber" [ref=e513]
+                    - text: Silicon/Rubber
+              - generic [ref=e514]:
+                - button "Model" [ref=e515] [cursor=pointer]:
+                  - generic [ref=e516]:
+                    - paragraph [ref=e517]: Model
+                    - img [ref=e518]
+                - generic [ref=e522] [cursor=pointer]:
+                  - checkbox "Apple iPhone 16 Plus" [ref=e523]
+                  - text: Apple iPhone 16 Plus
+              - generic [ref=e524]:
+                - button "Specialty" [ref=e525] [cursor=pointer]:
+                  - generic [ref=e526]:
+                    - paragraph [ref=e527]: Specialty
+                    - img [ref=e528]
+                - generic [ref=e530]:
+                  - generic [ref=e532] [cursor=pointer]:
+                    - checkbox "Best Display" [ref=e533]
+                    - text: Best Display
+                  - generic [ref=e535] [cursor=pointer]:
+                    - checkbox "Flagship" [ref=e536]
+                    - text: Flagship
+                  - generic [ref=e538] [cursor=pointer]:
+                    - checkbox "High Storage" [ref=e539]
+                    - text: High Storage
+              - generic [ref=e540]:
+                - button "Camera Setup" [ref=e541] [cursor=pointer]:
+                  - generic [ref=e542]:
+                    - paragraph [ref=e543]: Camera Setup
+                    - img [ref=e544]
+                - generic [ref=e548] [cursor=pointer]:
+                  - checkbox "Dual Camera" [ref=e549]
+                  - text: Dual Camera
+              - generic [ref=e550]:
+                - button "Internal Storage" [ref=e551] [cursor=pointer]:
+                  - generic [ref=e552]:
+                    - paragraph [ref=e553]: Internal Storage
+                    - img [ref=e554]
+                - generic [ref=e556]:
+                  - generic [ref=e558] [cursor=pointer]:
+                    - checkbox "128 GB" [ref=e559]
+                    - text: 128 GB
+                  - generic [ref=e561] [cursor=pointer]:
+                    - checkbox "256 GB" [ref=e562]
+                    - text: 256 GB
+                  - generic [ref=e564] [cursor=pointer]:
+                    - checkbox "512 GB" [ref=e565]
+                    - text: 512 GB
+              - generic [ref=e566]:
+                - button "Screen Size" [ref=e567] [cursor=pointer]:
+                  - generic [ref=e568]:
+                    - paragraph [ref=e569]: Screen Size
+                    - img [ref=e570]
+                - generic [ref=e574] [cursor=pointer]:
+                  - checkbox "6.6 inch and Above" [ref=e575]
+                  - text: 6.6 inch and Above
+              - generic [ref=e576]:
+                - button "Price" [ref=e577] [cursor=pointer]:
+                  - generic [ref=e578]:
+                    - paragraph [ref=e579]: Price
+                    - img [ref=e580]
+                - generic [ref=e583]:
+                  - generic [ref=e584]:
+                    - generic [ref=e586]: ₹100
+                    - generic [ref=e588]: ₹3,60,000
+                  - generic:
+                    - slider: "100"
+                    - slider: "360000"
+        - generic [ref=e591]:
+          - generic [ref=e592]:
+            - generic [ref=e593]:
+              - heading "Search Listing" [level=1] [ref=e594]
+              - generic [ref=e595]: (Showing 1 – 30 products of 38 products)
+            - generic [ref=e596]:
+              - button "Sort By sortby dropdown" [ref=e597] [cursor=pointer]:
+                - generic [ref=e598]: Sort By
+                - img "sortby dropdown" [ref=e599]
+              - list [ref=e601]:
+                - listitem [ref=e602] [cursor=pointer]: "Price: Low to High"
+                - listitem [ref=e603] [cursor=pointer]: "Price: High to Low"
+                - listitem [ref=e604] [cursor=pointer]: New Arrivals
+                - listitem [ref=e605] [cursor=pointer]: Discounts
+          - generic [ref=e607]:
+            - link "Apple iPhone 16 Plus (128GB Storage, Black) Compare Apple iPhone 16 Plus (128GB Storage, Black) ★★★★★ ₹76,690 MRP ₹79,900 4% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e610] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232270/apple-iphone-16-plus-128gb-storage-black
+              - generic [ref=e611]:
+                - img "Apple iPhone 16 Plus (128GB Storage, Black)" [ref=e612]
+                - generic [ref=e615]:
+                  - checkbox "Compare" [ref=e616]
+                  - text: Compare
+              - generic [ref=e618]: Apple iPhone 16 Plus (128GB Storage, Black)
+              - generic [ref=e620]: ★★★★★
+              - generic [ref=e621]:
+                - generic [ref=e622]: ₹76,690
+                - generic [ref=e623]:
+                  - generic [ref=e624]:
+                    - generic [ref=e625]: MRP
+                    - generic [ref=e626]: ₹79,900
+                  - generic [ref=e627]:
+                    - generic [ref=e628]: 4%
+                    - generic [ref=e629]: "Off"
+              - generic [ref=e632]:
+                - img "product deals" [ref=e633]
+                - generic [ref=e634]: Extra Deals Available
+              - generic [ref=e635]:
+                - generic [ref=e637]:
+                  - img "Same Day Shipping" [ref=e639]
+                  - paragraph [ref=e641]: Free delivery in 90 minutes
+                - generic [ref=e642]:
+                  - img "Wishlist" [ref=e645]
+                  - img "Shopping Cart" [ref=e648]
+            - link "Apple iPhone 16 Plus (256GB Storage, Pink) Compare Apple iPhone 16 Plus (256GB Storage, Pink) Apple iPhone 16 Plus (256GB Storage, Pink) ★★★★★ ₹86,490 MRP ₹89,900 4% Off product deals Extra Deals Available Same Day Shipping Free delivery by 12 December, 2025 Wishlist Shopping Cart" [active] [ref=e651] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232277/apple-iphone-16-plus-256gb-storage-pink
+              - generic [ref=e652]:
+                - img "Apple iPhone 16 Plus (256GB Storage, Pink)" [ref=e653]
+                - generic [ref=e656]:
+                  - checkbox "Compare" [ref=e657]
+                  - text: Compare
+              - generic [ref=e658]:
+                - generic [ref=e659]: Apple iPhone 16 Plus (256GB Storage, Pink)
+                - generic [ref=e660]: Apple iPhone 16 Plus (256GB Storage, Pink)
+              - generic [ref=e662]: ★★★★★
+              - generic [ref=e663]:
+                - generic [ref=e664]: ₹86,490
+                - generic [ref=e665]:
+                  - generic [ref=e666]:
+                    - generic [ref=e667]: MRP
+                    - generic [ref=e668]: ₹89,900
+                  - generic [ref=e669]:
+                    - generic [ref=e670]: 4%
+                    - generic [ref=e671]: "Off"
+              - generic [ref=e674]:
+                - img "product deals" [ref=e675]
+                - generic [ref=e676]: Extra Deals Available
+              - generic [ref=e677]:
+                - generic [ref=e679]:
+                  - img "Same Day Shipping" [ref=e681]
+                  - paragraph [ref=e683]: Free delivery by 12 December, 2025
+                - generic [ref=e684]:
+                  - img "Wishlist" [ref=e687]
+                  - img "Shopping Cart" [ref=e690]
+            - link "Apple iPhone 16 Plus (128GB Storage, Ultramarine) Compare Apple iPhone 16 Plus (128GB Storage, Ultramarine) ★★★★★ ₹76,690 MRP ₹79,900 4% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e693] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232273/apple-iphone-16-plus-128gb-storage-ultramarine
+              - generic [ref=e694]:
+                - img "Apple iPhone 16 Plus (128GB Storage, Ultramarine)" [ref=e695]
+                - generic [ref=e698]:
+                  - checkbox "Compare" [ref=e699]
+                  - text: Compare
+              - generic [ref=e701]: Apple iPhone 16 Plus (128GB Storage, Ultramarine)
+              - generic [ref=e703]: ★★★★★
+              - generic [ref=e704]:
+                - generic [ref=e705]: ₹76,690
+                - generic [ref=e706]:
+                  - generic [ref=e707]:
+                    - generic [ref=e708]: MRP
+                    - generic [ref=e709]: ₹79,900
+                  - generic [ref=e710]:
+                    - generic [ref=e711]: 4%
+                    - generic [ref=e712]: "Off"
+              - generic [ref=e715]:
+                - img "product deals" [ref=e716]
+                - generic [ref=e717]: Extra Deals Available
+              - generic [ref=e718]:
+                - generic [ref=e720]:
+                  - img "Same Day Shipping" [ref=e722]
+                  - paragraph [ref=e724]: Free delivery by Tomorrow
+                - generic [ref=e725]:
+                  - img "Wishlist" [ref=e728]
+                  - img "Shopping Cart" [ref=e731]
+            - link "Apple iPhone 16 Plus (128GB Storage, Pink) Compare Apple iPhone 16 Plus (128GB Storage, Pink) ★★★★★ ₹76,690 MRP ₹79,900 4% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e734] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232272/apple-iphone-16-plus-128gb-storage-pink
+              - generic [ref=e735]:
+                - img "Apple iPhone 16 Plus (128GB Storage, Pink)" [ref=e736]
+                - generic [ref=e739]:
+                  - checkbox "Compare" [ref=e740]
+                  - text: Compare
+              - generic [ref=e742]: Apple iPhone 16 Plus (128GB Storage, Pink)
+              - generic [ref=e744]: ★★★★★
+              - generic [ref=e745]:
+                - generic [ref=e746]: ₹76,690
+                - generic [ref=e747]:
+                  - generic [ref=e748]:
+                    - generic [ref=e749]: MRP
+                    - generic [ref=e750]: ₹79,900
+                  - generic [ref=e751]:
+                    - generic [ref=e752]: 4%
+                    - generic [ref=e753]: "Off"
+              - generic [ref=e756]:
+                - img "product deals" [ref=e757]
+                - generic [ref=e758]: Extra Deals Available
+              - generic [ref=e759]:
+                - generic [ref=e761]:
+                  - img "Same Day Shipping" [ref=e763]
+                  - paragraph [ref=e765]: Free delivery in 90 minutes
+                - generic [ref=e766]:
+                  - img "Wishlist" [ref=e769]
+                  - img "Shopping Cart" [ref=e772]
+            - link "Apple iPhone 16 Plus (512GB Storage, Ultramarine) Compare Apple iPhone 16 Plus (512GB Storage, Ultramarine) ★★★★★ ₹1,01,900 MRP ₹1,09,900 7% Off product deals Extra Deals Available Same Day Shipping Free delivery by 11 December, 2025 Wishlist Shopping Cart" [ref=e775] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232283/apple-iphone-16-plus-512gb-storage-ultramarine
+              - generic [ref=e776]:
+                - img "Apple iPhone 16 Plus (512GB Storage, Ultramarine)" [ref=e777]
+                - generic [ref=e780]:
+                  - checkbox "Compare" [ref=e781]
+                  - text: Compare
+              - generic [ref=e783]: Apple iPhone 16 Plus (512GB Storage, Ultramarine)
+              - generic [ref=e785]: ★★★★★
+              - generic [ref=e786]:
+                - generic [ref=e787]: ₹1,01,900
+                - generic [ref=e788]:
+                  - generic [ref=e789]:
+                    - generic [ref=e790]: MRP
+                    - generic [ref=e791]: ₹1,09,900
+                  - generic [ref=e792]:
+                    - generic [ref=e793]: 7%
+                    - generic [ref=e794]: "Off"
+              - generic [ref=e797]:
+                - img "product deals" [ref=e798]
+                - generic [ref=e799]: Extra Deals Available
+              - generic [ref=e800]:
+                - generic [ref=e802]:
+                  - img "Same Day Shipping" [ref=e804]
+                  - paragraph [ref=e806]: Free delivery by 11 December, 2025
+                - generic [ref=e807]:
+                  - img "Wishlist" [ref=e810]
+                  - img "Shopping Cart" [ref=e813]
+            - link "Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Black) Compare Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Black) ₹199 MRP ₹1,990 90% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e816] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/231474/alfred-victor-silicon-case-for-iphone-16-plus-with-mag-safe-black
+              - generic [ref=e817]:
+                - img "Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Black)" [ref=e818]
+                - generic [ref=e821]:
+                  - checkbox "Compare" [ref=e822]
+                  - text: Compare
+              - generic [ref=e824]: Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Black)
+              - text: ★★★★★
+              - generic [ref=e825]:
+                - generic [ref=e826]: ₹199
+                - generic [ref=e827]:
+                  - generic [ref=e828]:
+                    - generic [ref=e829]: MRP
+                    - generic [ref=e830]: ₹1,990
+                  - generic [ref=e831]:
+                    - generic [ref=e832]: 90%
+                    - generic [ref=e833]: "Off"
+              - generic [ref=e836]:
+                - img "product deals" [ref=e837]
+                - generic [ref=e838]: Extra Deals Available
+              - generic [ref=e839]:
+                - generic [ref=e841]:
+                  - img "Same Day Shipping" [ref=e843]
+                  - paragraph [ref=e845]: Free delivery in 90 minutes
+                - generic [ref=e846]:
+                  - img "Wishlist" [ref=e849]
+                  - img "Shopping Cart" [ref=e852]
+            - link "Apple iPhone 16 Plus Clear Case with MagSafe Compare Apple iPhone 16 Plus Clear Case with MagSafe ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery by 12 December, 2025 Wishlist Shopping Cart" [ref=e855] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234349/apple-iphone-16-plus-clear-case-with-magsafe
+              - generic [ref=e856]:
+                - img "Apple iPhone 16 Plus Clear Case with MagSafe" [ref=e857]
+                - generic [ref=e860]:
+                  - checkbox "Compare" [ref=e861]
+                  - text: Compare
+              - generic [ref=e863]: Apple iPhone 16 Plus Clear Case with MagSafe
+              - text: ★★★★★
+              - generic [ref=e864]:
+                - generic [ref=e865]: ₹2,499
+                - generic [ref=e866]:
+                  - generic [ref=e867]:
+                    - generic [ref=e868]: MRP
+                    - generic [ref=e869]: ₹4,900
+                  - generic [ref=e870]:
+                    - generic [ref=e871]: 49%
+                    - generic [ref=e872]: "Off"
+              - generic [ref=e875]:
+                - img "product deals" [ref=e876]
+                - generic [ref=e877]: Extra Deals Available
+              - generic [ref=e878]:
+                - generic [ref=e880]:
+                  - img "Same Day Shipping" [ref=e882]
+                  - paragraph [ref=e884]: Free delivery by 12 December, 2025
+                - generic [ref=e885]:
+                  - img "Wishlist" [ref=e888]
+                  - img "Shopping Cart" [ref=e891]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Black Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Black ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e894] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234345/apple-iphone-16-plus-silicone-case-with-magsafe-black
+              - generic [ref=e895]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Black" [ref=e896]
+                - generic [ref=e899]:
+                  - checkbox "Compare" [ref=e900]
+                  - text: Compare
+              - generic [ref=e902]: Apple iPhone 16 Plus Silicone Case With Magsafe - Black
+              - text: ★★★★★
+              - generic [ref=e903]:
+                - generic [ref=e904]: ₹2,499
+                - generic [ref=e905]:
+                  - generic [ref=e906]:
+                    - generic [ref=e907]: MRP
+                    - generic [ref=e908]: ₹4,900
+                  - generic [ref=e909]:
+                    - generic [ref=e910]: 49%
+                    - generic [ref=e911]: "Off"
+              - generic [ref=e914]:
+                - img "product deals" [ref=e915]
+                - generic [ref=e916]: Extra Deals Available
+              - generic [ref=e917]:
+                - generic [ref=e919]:
+                  - img "Same Day Shipping" [ref=e921]
+                  - paragraph [ref=e923]: Free delivery in 90 minutes
+                - generic [ref=e924]:
+                  - img "Wishlist" [ref=e927]
+                  - img "Shopping Cart" [ref=e930]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Lake Green Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Lake Green ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e933] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234362/apple-iphone-16-plus-silicone-case-with-magsafe-lake-green
+              - generic [ref=e934]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Lake Green" [ref=e935]
+                - generic [ref=e938]:
+                  - checkbox "Compare" [ref=e939]
+                  - text: Compare
+              - generic [ref=e941]: Apple iPhone 16 Plus Silicone Case With Magsafe - Lake Green
+              - text: ★★★★★
+              - generic [ref=e942]:
+                - generic [ref=e943]: ₹2,499
+                - generic [ref=e944]:
+                  - generic [ref=e945]:
+                    - generic [ref=e946]: MRP
+                    - generic [ref=e947]: ₹4,900
+                  - generic [ref=e948]:
+                    - generic [ref=e949]: 49%
+                    - generic [ref=e950]: "Off"
+              - generic [ref=e953]:
+                - img "product deals" [ref=e954]
+                - generic [ref=e955]: Extra Deals Available
+              - generic [ref=e956]:
+                - generic [ref=e958]:
+                  - img "Same Day Shipping" [ref=e960]
+                  - paragraph [ref=e962]: Free delivery in 90 minutes
+                - generic [ref=e963]:
+                  - img "Wishlist" [ref=e966]
+                  - img "Shopping Cart" [ref=e969]
+            - link "Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Blue) Compare Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Blue) ★★★★★ ₹199 MRP ₹1,990 90% Off Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e972] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/231473/alfred-victor-silicon-case-for-iphone-16-plus-with-mag-safe-blue
+              - generic [ref=e973]:
+                - img "Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Blue)" [ref=e974]
+                - generic [ref=e977]:
+                  - checkbox "Compare" [ref=e978]
+                  - text: Compare
+              - generic [ref=e980]: Alfred Victor Silicon Case For iPhone 16 Plus with Mag Safe (Blue)
+              - generic [ref=e982]: ★★★★★
+              - generic [ref=e983]:
+                - generic [ref=e984]: ₹199
+                - generic [ref=e985]:
+                  - generic [ref=e986]:
+                    - generic [ref=e987]: MRP
+                    - generic [ref=e988]: ₹1,990
+                  - generic [ref=e989]:
+                    - generic [ref=e990]: 90%
+                    - generic [ref=e991]: "Off"
+              - generic [ref=e992]:
+                - generic [ref=e994]:
+                  - img "Same Day Shipping" [ref=e996]
+                  - paragraph [ref=e998]: Free delivery in 90 minutes
+                - generic [ref=e999]:
+                  - img "Wishlist" [ref=e1002]
+                  - img "Shopping Cart" [ref=e1005]
+            - link "Apple iPhone 16 Plus Silicone Case with MagSafe - Denim Compare Apple iPhone 16 Plus Silicone Case with MagSafe - Denim ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e1008] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234353/apple-iphone-16-plus-silicone-case-with-magsafe-denim
+              - generic [ref=e1009]:
+                - img "Apple iPhone 16 Plus Silicone Case with MagSafe - Denim" [ref=e1010]
+                - generic [ref=e1013]:
+                  - checkbox "Compare" [ref=e1014]
+                  - text: Compare
+              - generic [ref=e1016]: Apple iPhone 16 Plus Silicone Case with MagSafe - Denim
+              - text: ★★★★★
+              - generic [ref=e1017]:
+                - generic [ref=e1018]: ₹2,499
+                - generic [ref=e1019]:
+                  - generic [ref=e1020]:
+                    - generic [ref=e1021]: MRP
+                    - generic [ref=e1022]: ₹4,900
+                  - generic [ref=e1023]:
+                    - generic [ref=e1024]: 49%
+                    - generic [ref=e1025]: "Off"
+              - generic [ref=e1028]:
+                - img "product deals" [ref=e1029]
+                - generic [ref=e1030]: Extra Deals Available
+              - generic [ref=e1031]:
+                - generic [ref=e1033]:
+                  - img "Same Day Shipping" [ref=e1035]
+                  - paragraph [ref=e1037]: Free delivery in 90 minutes
+                - generic [ref=e1038]:
+                  - img "Wishlist" [ref=e1041]
+                  - img "Shopping Cart" [ref=e1044]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Stone Grey Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Stone Grey ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery by 11 December, 2025 Wishlist Shopping Cart" [ref=e1047] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234369/apple-iphone-16-plus-silicone-case-with-magsafe-stone-grey
+              - generic [ref=e1048]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Stone Grey" [ref=e1049]
+                - generic [ref=e1052]:
+                  - checkbox "Compare" [ref=e1053]
+                  - text: Compare
+              - generic [ref=e1055]: Apple iPhone 16 Plus Silicone Case With Magsafe - Stone Grey
+              - text: ★★★★★
+              - generic [ref=e1056]:
+                - generic [ref=e1057]: ₹2,499
+                - generic [ref=e1058]:
+                  - generic [ref=e1059]:
+                    - generic [ref=e1060]: MRP
+                    - generic [ref=e1061]: ₹4,900
+                  - generic [ref=e1062]:
+                    - generic [ref=e1063]: 49%
+                    - generic [ref=e1064]: "Off"
+              - generic [ref=e1067]:
+                - img "product deals" [ref=e1068]
+                - generic [ref=e1069]: Extra Deals Available
+              - generic [ref=e1070]:
+                - generic [ref=e1072]:
+                  - img "Same Day Shipping" [ref=e1074]
+                  - paragraph [ref=e1076]: Free delivery by 11 December, 2025
+                - generic [ref=e1077]:
+                  - img "Wishlist" [ref=e1080]
+                  - img "Shopping Cart" [ref=e1083]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Plum Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Plum ★★★★★ ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e1086] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234365/apple-iphone-16-plus-silicone-case-with-magsafe-plum
+              - generic [ref=e1087]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Plum" [ref=e1088]
+                - generic [ref=e1091]:
+                  - checkbox "Compare" [ref=e1092]
+                  - text: Compare
+              - generic [ref=e1094]: Apple iPhone 16 Plus Silicone Case With Magsafe - Plum
+              - generic [ref=e1096]: ★★★★★
+              - generic [ref=e1097]:
+                - generic [ref=e1098]: ₹2,499
+                - generic [ref=e1099]:
+                  - generic [ref=e1100]:
+                    - generic [ref=e1101]: MRP
+                    - generic [ref=e1102]: ₹4,900
+                  - generic [ref=e1103]:
+                    - generic [ref=e1104]: 49%
+                    - generic [ref=e1105]: "Off"
+              - generic [ref=e1108]:
+                - img "product deals" [ref=e1109]
+                - generic [ref=e1110]: Extra Deals Available
+              - generic [ref=e1111]:
+                - generic [ref=e1113]:
+                  - img "Same Day Shipping" [ref=e1115]
+                  - paragraph [ref=e1117]: Free delivery in 90 minutes
+                - generic [ref=e1118]:
+                  - img "Wishlist" [ref=e1121]
+                  - img "Shopping Cart" [ref=e1124]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Fuchsia Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Fuchsia ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e1127] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234357/apple-iphone-16-plus-silicone-case-with-magsafe-fuchsia
+              - generic [ref=e1128]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Fuchsia" [ref=e1129]
+                - generic [ref=e1132]:
+                  - checkbox "Compare" [ref=e1133]
+                  - text: Compare
+              - generic [ref=e1135]: Apple iPhone 16 Plus Silicone Case With Magsafe - Fuchsia
+              - text: ★★★★★
+              - generic [ref=e1136]:
+                - generic [ref=e1137]: ₹2,499
+                - generic [ref=e1138]:
+                  - generic [ref=e1139]:
+                    - generic [ref=e1140]: MRP
+                    - generic [ref=e1141]: ₹4,900
+                  - generic [ref=e1142]:
+                    - generic [ref=e1143]: 49%
+                    - generic [ref=e1144]: "Off"
+              - generic [ref=e1147]:
+                - img "product deals" [ref=e1148]
+                - generic [ref=e1149]: Extra Deals Available
+              - generic [ref=e1150]:
+                - generic [ref=e1152]:
+                  - img "Same Day Shipping" [ref=e1154]
+                  - paragraph [ref=e1156]: Free delivery in 90 minutes
+                - generic [ref=e1157]:
+                  - img "Wishlist" [ref=e1160]
+                  - img "Shopping Cart" [ref=e1163]
+            - link "Stuffcool Magsafe Compatible Clear Case + Tempered Glass for iPhone 16 Plus Compare Stuffcool Magsafe Compatible Clear Case + Tempered Glass for iPhone 16 Plus ₹599 MRP ₹2,799 79% Off Same Day Shipping Free delivery by 11 December, 2025 Wishlist Shopping Cart" [ref=e1166] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234501/stuffcool-magsafe-compatible-clear-case-tempered-glass-for-iphone-16-plus
+              - generic [ref=e1167]:
+                - img "Stuffcool Magsafe Compatible Clear Case + Tempered Glass for iPhone 16 Plus" [ref=e1168]
+                - generic [ref=e1171]:
+                  - checkbox "Compare" [ref=e1172]
+                  - text: Compare
+              - generic [ref=e1174]: Stuffcool Magsafe Compatible Clear Case + Tempered Glass for iPhone 16 Plus
+              - text: ★★★★★
+              - generic [ref=e1175]:
+                - generic [ref=e1176]: ₹599
+                - generic [ref=e1177]:
+                  - generic [ref=e1178]:
+                    - generic [ref=e1179]: MRP
+                    - generic [ref=e1180]: ₹2,799
+                  - generic [ref=e1181]:
+                    - generic [ref=e1182]: 79%
+                    - generic [ref=e1183]: "Off"
+              - generic [ref=e1184]:
+                - generic [ref=e1186]:
+                  - img "Same Day Shipping" [ref=e1188]
+                  - paragraph [ref=e1190]: Free delivery by 11 December, 2025
+                - generic [ref=e1191]:
+                  - img "Wishlist" [ref=e1194]
+                  - img "Shopping Cart" [ref=e1197]
+            - link "Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Blue Compare Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Blue ₹899 MRP ₹2,299 61% Off product deals Extra Deals Available Same Day Shipping Free delivery by 11 December, 2025 Wishlist Shopping Cart" [ref=e1200] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234487/vaku-luxos-iphone-16-plus-castros-magpro-with-magnetic-alloy-ring-metal-kickstand-scratch-resistant-slim-military-grade-protection-back-cover-blue
+              - generic [ref=e1201]:
+                - img "Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Blue" [ref=e1202]
+                - generic [ref=e1205]:
+                  - checkbox "Compare" [ref=e1206]
+                  - text: Compare
+              - generic [ref=e1208]: Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Blue
+              - text: ★★★★★
+              - generic [ref=e1209]:
+                - generic [ref=e1210]: ₹899
+                - generic [ref=e1211]:
+                  - generic [ref=e1212]:
+                    - generic [ref=e1213]: MRP
+                    - generic [ref=e1214]: ₹2,299
+                  - generic [ref=e1215]:
+                    - generic [ref=e1216]: 61%
+                    - generic [ref=e1217]: "Off"
+              - generic [ref=e1220]:
+                - img "product deals" [ref=e1221]
+                - generic [ref=e1222]: Extra Deals Available
+              - generic [ref=e1223]:
+                - generic [ref=e1225]:
+                  - img "Same Day Shipping" [ref=e1227]
+                  - paragraph [ref=e1229]: Free delivery by 11 December, 2025
+                - generic [ref=e1230]:
+                  - img "Wishlist" [ref=e1233]
+                  - img "Shopping Cart" [ref=e1236]
+            - link "Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Black Compare Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Black ★★★★★ ₹899 MRP ₹2,299 61% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1239] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234486/vaku-luxos-iphone-16-plus-castros-magpro-with-magnetic-alloy-ring-metal-kickstand-scratch-resistant-slim-military-grade-protection-back-cover-black
+              - generic [ref=e1240]:
+                - img "Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Black" [ref=e1241]
+                - generic [ref=e1244]:
+                  - checkbox "Compare" [ref=e1245]
+                  - text: Compare
+              - generic [ref=e1247]: Vaku Luxos iPhone 16 Plus Castros MagPro with Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Back Cover, Black
+              - generic [ref=e1249]: ★★★★★
+              - generic [ref=e1250]:
+                - generic [ref=e1251]: ₹899
+                - generic [ref=e1252]:
+                  - generic [ref=e1253]:
+                    - generic [ref=e1254]: MRP
+                    - generic [ref=e1255]: ₹2,299
+                  - generic [ref=e1256]:
+                    - generic [ref=e1257]: 61%
+                    - generic [ref=e1258]: "Off"
+              - generic [ref=e1261]:
+                - img "product deals" [ref=e1262]
+                - generic [ref=e1263]: Extra Deals Available
+              - generic [ref=e1264]:
+                - generic [ref=e1266]:
+                  - img "Same Day Shipping" [ref=e1268]
+                  - paragraph [ref=e1270]: Free delivery by Tomorrow
+                - generic [ref=e1271]:
+                  - img "Wishlist" [ref=e1274]
+                  - img "Shopping Cart" [ref=e1277]
+            - link "Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Blue) Compare Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Blue) ₹899 MRP ₹2,099 57% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1280] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234479/vaku-luxos-iphone-16-plus-vortex-magpro-gel-cushion-slim-fit-shockproof-crystal-clear-camera-metal-ring-back-cover-blue
+              - generic [ref=e1281]:
+                - img "Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Blue)" [ref=e1282]
+                - generic [ref=e1285]:
+                  - checkbox "Compare" [ref=e1286]
+                  - text: Compare
+              - generic [ref=e1288]: Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Blue)
+              - text: ★★★★★
+              - generic [ref=e1289]:
+                - generic [ref=e1290]: ₹899
+                - generic [ref=e1291]:
+                  - generic [ref=e1292]:
+                    - generic [ref=e1293]: MRP
+                    - generic [ref=e1294]: ₹2,099
+                  - generic [ref=e1295]:
+                    - generic [ref=e1296]: 57%
+                    - generic [ref=e1297]: "Off"
+              - generic [ref=e1300]:
+                - img "product deals" [ref=e1301]
+                - generic [ref=e1302]: Extra Deals Available
+              - generic [ref=e1303]:
+                - generic [ref=e1305]:
+                  - img "Same Day Shipping" [ref=e1307]
+                  - paragraph [ref=e1309]: Free delivery by Tomorrow
+                - generic [ref=e1310]:
+                  - img "Wishlist" [ref=e1313]
+                  - img "Shopping Cart" [ref=e1316]
+            - link "Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Black) Compare Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Black) ₹899 MRP ₹2,099 57% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1319] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234478/vaku-luxos-iphone-16-plus-vortex-magpro-gel-cushion-slim-fit-shockproof-crystal-clear-camera-metal-ring-back-cover-black
+              - generic [ref=e1320]:
+                - img "Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Black)" [ref=e1321]
+                - generic [ref=e1324]:
+                  - checkbox "Compare" [ref=e1325]
+                  - text: Compare
+              - generic [ref=e1327]: Vaku Luxos, iPhone 16 Plus Vortex Magpro Gel Cushion Slim Fit, Shockproof, Crystal Clear Camera Metal Ring Back Cover (Black)
+              - text: ★★★★★
+              - generic [ref=e1328]:
+                - generic [ref=e1329]: ₹899
+                - generic [ref=e1330]:
+                  - generic [ref=e1331]:
+                    - generic [ref=e1332]: MRP
+                    - generic [ref=e1333]: ₹2,099
+                  - generic [ref=e1334]:
+                    - generic [ref=e1335]: 57%
+                    - generic [ref=e1336]: "Off"
+              - generic [ref=e1339]:
+                - img "product deals" [ref=e1340]
+                - generic [ref=e1341]: Extra Deals Available
+              - generic [ref=e1342]:
+                - generic [ref=e1344]:
+                  - img "Same Day Shipping" [ref=e1346]
+                  - paragraph [ref=e1348]: Free delivery by Tomorrow
+                - generic [ref=e1349]:
+                  - img "Wishlist" [ref=e1352]
+                  - img "Shopping Cart" [ref=e1355]
+            - link "Vaku Luxos iPhone 16 Plus Infinity MagPro Gradient Colored 6.5 Feet Drop Protection, Shockproof Magsafe Compatible Back Cover, (Blue/Purple) Compare Vaku Luxos iPhone 16 Plus Infinity MagPro Gradient Colored 6.5 Feet Drop Protection, Shockproof Magsafe Compatible Back Cover, (Blue/Purple) ₹899 MRP ₹2,099 57% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1358] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234474/vaku-luxos-iphone-16-plus-infinity-magpro-gradient-colored-6-5-feet-drop-protection-shockproof-magsafe-compatible-back-cover-blue-purple
+              - generic [ref=e1359]:
+                - img "Vaku Luxos iPhone 16 Plus Infinity MagPro Gradient Colored 6.5 Feet Drop Protection, Shockproof Magsafe Compatible Back Cover, (Blue/Purple)" [ref=e1360]
+                - generic [ref=e1363]:
+                  - checkbox "Compare" [ref=e1364]
+                  - text: Compare
+              - generic [ref=e1366]: Vaku Luxos iPhone 16 Plus Infinity MagPro Gradient Colored 6.5 Feet Drop Protection, Shockproof Magsafe Compatible Back Cover, (Blue/Purple)
+              - text: ★★★★★
+              - generic [ref=e1367]:
+                - generic [ref=e1368]: ₹899
+                - generic [ref=e1369]:
+                  - generic [ref=e1370]:
+                    - generic [ref=e1371]: MRP
+                    - generic [ref=e1372]: ₹2,099
+                  - generic [ref=e1373]:
+                    - generic [ref=e1374]: 57%
+                    - generic [ref=e1375]: "Off"
+              - generic [ref=e1378]:
+                - img "product deals" [ref=e1379]
+                - generic [ref=e1380]: Extra Deals Available
+              - generic [ref=e1381]:
+                - generic [ref=e1383]:
+                  - img "Same Day Shipping" [ref=e1385]
+                  - paragraph [ref=e1387]: Free delivery by Tomorrow
+                - generic [ref=e1388]:
+                  - img "Wishlist" [ref=e1391]
+                  - img "Shopping Cart" [ref=e1394]
+            - link "Vaku Luxos iPhone 16 Plus Solace MagPro With Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Cover, Black Compare Vaku Luxos iPhone 16 Plus Solace MagPro With Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Cover, Black ★★★★★ ₹899 MRP ₹2,299 61% Off product deals Extra Deals Available Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1397] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234470/vaku-luxos-iphone-16-plus-solace-magpro-with-magnetic-alloy-ring-metal-kickstand-scratch-resistant-slim-military-grade-protection-cover-black
+              - generic [ref=e1398]:
+                - img "Vaku Luxos iPhone 16 Plus Solace MagPro With Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Cover, Black" [ref=e1399]
+                - generic [ref=e1402]:
+                  - checkbox "Compare" [ref=e1403]
+                  - text: Compare
+              - generic [ref=e1405]: Vaku Luxos iPhone 16 Plus Solace MagPro With Magnetic Alloy Ring Metal Kickstand, Scratch Resistant Slim Military-Grade Protection Cover, Black
+              - generic [ref=e1407]: ★★★★★
+              - generic [ref=e1408]:
+                - generic [ref=e1409]: ₹899
+                - generic [ref=e1410]:
+                  - generic [ref=e1411]:
+                    - generic [ref=e1412]: MRP
+                    - generic [ref=e1413]: ₹2,299
+                  - generic [ref=e1414]:
+                    - generic [ref=e1415]: 61%
+                    - generic [ref=e1416]: "Off"
+              - generic [ref=e1419]:
+                - img "product deals" [ref=e1420]
+                - generic [ref=e1421]: Extra Deals Available
+              - generic [ref=e1422]:
+                - generic [ref=e1424]:
+                  - img "Same Day Shipping" [ref=e1426]
+                  - paragraph [ref=e1428]: Free delivery by Tomorrow
+                - generic [ref=e1429]:
+                  - img "Wishlist" [ref=e1432]
+                  - img "Shopping Cart" [ref=e1435]
+            - link "Vaku Luxos 2In1 Combo Apple iPhone 16 Plus Glassy MagPro Clear TPU Shockproof Scratch Resistant Case Back Cover with 3D Tempered Glass Compare Vaku Luxos 2In1 Combo Apple iPhone 16 Plus Glassy MagPro Clear TPU Shockproof Scratch Resistant Case Back Cover with 3D Tempered Glass ★★★★★ ₹699 MRP ₹1,999 65% Off Same Day Shipping Free delivery by Tomorrow Wishlist Shopping Cart" [ref=e1438] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/231991/vaku-luxos-2in1-combo-apple-iphone-16-plus-glassy-magpro-clear-tpu-shockproof-scratch-resistant-case-back-cover-with-3d-tempered-glass
+              - generic [ref=e1439]:
+                - img "Vaku Luxos 2In1 Combo Apple iPhone 16 Plus Glassy MagPro Clear TPU Shockproof Scratch Resistant Case Back Cover with 3D Tempered Glass" [ref=e1440]
+                - generic [ref=e1443]:
+                  - checkbox "Compare" [ref=e1444]
+                  - text: Compare
+              - generic [ref=e1446]: Vaku Luxos 2In1 Combo Apple iPhone 16 Plus Glassy MagPro Clear TPU Shockproof Scratch Resistant Case Back Cover with 3D Tempered Glass
+              - generic [ref=e1448]: ★★★★★
+              - generic [ref=e1449]:
+                - generic [ref=e1450]: ₹699
+                - generic [ref=e1451]:
+                  - generic [ref=e1452]:
+                    - generic [ref=e1453]: MRP
+                    - generic [ref=e1454]: ₹1,999
+                  - generic [ref=e1455]:
+                    - generic [ref=e1456]: 65%
+                    - generic [ref=e1457]: "Off"
+              - generic [ref=e1458]:
+                - generic [ref=e1460]:
+                  - img "Same Day Shipping" [ref=e1462]
+                  - paragraph [ref=e1464]: Free delivery by Tomorrow
+                - generic [ref=e1465]:
+                  - img "Wishlist" [ref=e1468]
+                  - img "Shopping Cart" [ref=e1471]
+            - link "Muvtech iPhone 16 Plus Full Tempered Glass Compare Muvtech iPhone 16 Plus Full Tempered Glass ★★★★★ ₹299 MRP ₹5,990 95% Off Same Day Shipping Free delivery in 90 minutes Wishlist Shopping Cart" [ref=e1474] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234530/muvtech-iphone-16-plus-full-tempered-glass
+              - generic [ref=e1475]:
+                - img "Muvtech iPhone 16 Plus Full Tempered Glass" [ref=e1476]
+                - generic [ref=e1479]:
+                  - checkbox "Compare" [ref=e1480]
+                  - text: Compare
+              - generic [ref=e1482]: Muvtech iPhone 16 Plus Full Tempered Glass
+              - generic [ref=e1484]: ★★★★★
+              - generic [ref=e1485]:
+                - generic [ref=e1486]: ₹299
+                - generic [ref=e1487]:
+                  - generic [ref=e1488]:
+                    - generic [ref=e1489]: MRP
+                    - generic [ref=e1490]: ₹5,990
+                  - generic [ref=e1491]:
+                    - generic [ref=e1492]: 95%
+                    - generic [ref=e1493]: "Off"
+              - generic [ref=e1494]:
+                - generic [ref=e1496]:
+                  - img "Same Day Shipping" [ref=e1498]
+                  - paragraph [ref=e1500]: Free delivery in 90 minutes
+                - generic [ref=e1501]:
+                  - img "Wishlist" [ref=e1504]
+                  - img "Shopping Cart" [ref=e1507]
+            - link "Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Pink) Compare Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Pink) ₹67,900 MRP ₹89,900 24% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1510] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/232266/store-display-unit-apple-iphone-16-plus-128gb-storage-pink
+              - generic [ref=e1511]:
+                - img "Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Pink)" [ref=e1512]
+                - generic [ref=e1515]:
+                  - checkbox "Compare" [ref=e1516]
+                  - text: Compare
+              - generic [ref=e1518]: Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Pink)
+              - text: ★★★★★
+              - generic [ref=e1519]:
+                - generic [ref=e1520]: ₹67,900
+                - generic [ref=e1521]:
+                  - generic [ref=e1522]:
+                    - generic [ref=e1523]: MRP
+                    - generic [ref=e1524]: ₹89,900
+                  - generic [ref=e1525]:
+                    - generic [ref=e1526]: 24%
+                    - generic [ref=e1527]: "Off"
+              - generic [ref=e1530]:
+                - img "product deals" [ref=e1531]
+                - generic [ref=e1532]: Extra Deals Available
+              - generic [ref=e1533]:
+                - generic [ref=e1536]:
+                  - paragraph [ref=e1537]: Out Of Stock
+                  - button "Notify Me" [ref=e1538]
+                - img "Wishlist" [ref=e1542]
+            - link "Apple iPhone 16 Plus (128GB Storage, White) Compare Apple iPhone 16 Plus (128GB Storage, White) ★★★★★ ₹76,690 MRP ₹79,900 4% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1545] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232271/apple-iphone-16-plus-128gb-storage-white
+              - generic [ref=e1546]:
+                - img "Apple iPhone 16 Plus (128GB Storage, White)" [ref=e1547]
+                - generic [ref=e1550]:
+                  - checkbox "Compare" [ref=e1551]
+                  - text: Compare
+              - generic [ref=e1553]: Apple iPhone 16 Plus (128GB Storage, White)
+              - generic [ref=e1555]: ★★★★★
+              - generic [ref=e1556]:
+                - generic [ref=e1557]: ₹76,690
+                - generic [ref=e1558]:
+                  - generic [ref=e1559]:
+                    - generic [ref=e1560]: MRP
+                    - generic [ref=e1561]: ₹79,900
+                  - generic [ref=e1562]:
+                    - generic [ref=e1563]: 4%
+                    - generic [ref=e1564]: "Off"
+              - generic [ref=e1567]:
+                - img "product deals" [ref=e1568]
+                - generic [ref=e1569]: Extra Deals Available
+              - generic [ref=e1570]:
+                - generic [ref=e1573]:
+                  - paragraph [ref=e1574]: Out Of Stock
+                  - button "Notify Me" [ref=e1575]
+                - img "Wishlist" [ref=e1579]
+            - link "Apple iPhone 16 Plus (128GB Storage, Teal) Compare Apple iPhone 16 Plus (128GB Storage, Teal) ★★★★★ ₹76,690 MRP ₹79,900 4% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1582] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232274/apple-iphone-16-plus-128gb-storage-teal
+              - generic [ref=e1583]:
+                - img "Apple iPhone 16 Plus (128GB Storage, Teal)" [ref=e1584]
+                - generic [ref=e1587]:
+                  - checkbox "Compare" [ref=e1588]
+                  - text: Compare
+              - generic [ref=e1590]: Apple iPhone 16 Plus (128GB Storage, Teal)
+              - generic [ref=e1592]: ★★★★★
+              - generic [ref=e1593]:
+                - generic [ref=e1594]: ₹76,690
+                - generic [ref=e1595]:
+                  - generic [ref=e1596]:
+                    - generic [ref=e1597]: MRP
+                    - generic [ref=e1598]: ₹79,900
+                  - generic [ref=e1599]:
+                    - generic [ref=e1600]: 4%
+                    - generic [ref=e1601]: "Off"
+              - generic [ref=e1604]:
+                - img "product deals" [ref=e1605]
+                - generic [ref=e1606]: Extra Deals Available
+              - generic [ref=e1607]:
+                - generic [ref=e1610]:
+                  - paragraph [ref=e1611]: Out Of Stock
+                  - button "Notify Me" [ref=e1612]
+                - img "Wishlist" [ref=e1616]
+            - link "Apple iPhone 16 Plus (256GB Storage, Teal) Compare Apple iPhone 16 Plus (256GB Storage, Teal) ★★★★★ ₹86,490 MRP ₹89,900 4% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1619] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232279/apple-iphone-16-plus-256gb-storage-teal
+              - generic [ref=e1620]:
+                - img "Apple iPhone 16 Plus (256GB Storage, Teal)" [ref=e1621]
+                - generic [ref=e1624]:
+                  - checkbox "Compare" [ref=e1625]
+                  - text: Compare
+              - generic [ref=e1627]: Apple iPhone 16 Plus (256GB Storage, Teal)
+              - generic [ref=e1629]: ★★★★★
+              - generic [ref=e1630]:
+                - generic [ref=e1631]: ₹86,490
+                - generic [ref=e1632]:
+                  - generic [ref=e1633]:
+                    - generic [ref=e1634]: MRP
+                    - generic [ref=e1635]: ₹89,900
+                  - generic [ref=e1636]:
+                    - generic [ref=e1637]: 4%
+                    - generic [ref=e1638]: "Off"
+              - generic [ref=e1641]:
+                - img "product deals" [ref=e1642]
+                - generic [ref=e1643]: Extra Deals Available
+              - generic [ref=e1644]:
+                - generic [ref=e1647]:
+                  - paragraph [ref=e1648]: Out Of Stock
+                  - button "Notify Me" [ref=e1649]
+                - img "Wishlist" [ref=e1653]
+            - link "Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Black) Compare Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Black) ₹66,900 MRP ₹89,900 26% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1656] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/235139/store-display-unit-apple-iphone-16-plus-128gb-storage-black
+              - generic [ref=e1657]:
+                - img "Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Black)" [ref=e1658]
+                - generic [ref=e1661]:
+                  - checkbox "Compare" [ref=e1662]
+                  - text: Compare
+              - generic [ref=e1664]: Store Display Unit - Apple iPhone 16 Plus (128GB Storage, Black)
+              - text: ★★★★★
+              - generic [ref=e1665]:
+                - generic [ref=e1666]: ₹66,900
+                - generic [ref=e1667]:
+                  - generic [ref=e1668]:
+                    - generic [ref=e1669]: MRP
+                    - generic [ref=e1670]: ₹89,900
+                  - generic [ref=e1671]:
+                    - generic [ref=e1672]: 26%
+                    - generic [ref=e1673]: "Off"
+              - generic [ref=e1676]:
+                - img "product deals" [ref=e1677]
+                - generic [ref=e1678]: Extra Deals Available
+              - generic [ref=e1679]:
+                - generic [ref=e1682]:
+                  - paragraph [ref=e1683]: Out Of Stock
+                  - button "Notify Me" [ref=e1684]
+                - img "Wishlist" [ref=e1688]
+            - link "Apple iPhone 16 Plus (256GB Storage, Black) Compare Apple iPhone 16 Plus (256GB Storage, Black) ★★★★★ ₹86,490 MRP ₹89,900 4% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1691] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/P232270/232275/apple-iphone-16-plus-256gb-storage-black
+              - generic [ref=e1692]:
+                - img "Apple iPhone 16 Plus (256GB Storage, Black)" [ref=e1693]
+                - generic [ref=e1696]:
+                  - checkbox "Compare" [ref=e1697]
+                  - text: Compare
+              - generic [ref=e1699]: Apple iPhone 16 Plus (256GB Storage, Black)
+              - generic [ref=e1701]: ★★★★★
+              - generic [ref=e1702]:
+                - generic [ref=e1703]: ₹86,490
+                - generic [ref=e1704]:
+                  - generic [ref=e1705]:
+                    - generic [ref=e1706]: MRP
+                    - generic [ref=e1707]: ₹89,900
+                  - generic [ref=e1708]:
+                    - generic [ref=e1709]: 4%
+                    - generic [ref=e1710]: "Off"
+              - generic [ref=e1713]:
+                - img "product deals" [ref=e1714]
+                - generic [ref=e1715]: Extra Deals Available
+              - generic [ref=e1716]:
+                - generic [ref=e1719]:
+                  - paragraph [ref=e1720]: Out Of Stock
+                  - button "Notify Me" [ref=e1721]
+                - img "Wishlist" [ref=e1725]
+            - link "Apple iPhone 16 Plus Silicone Case With Magsafe - Ultramarine Compare Apple iPhone 16 Plus Silicone Case With Magsafe - Ultramarine ₹2,499 MRP ₹4,900 49% Off product deals Extra Deals Available Out Of Stock Notify Me Wishlist" [ref=e1728] [cursor=pointer]:
+              - /url: https://www.vijaysales.com/p/234373/apple-iphone-16-plus-silicone-case-with-magsafe-ultramarine
+              - generic [ref=e1729]:
+                - img "Apple iPhone 16 Plus Silicone Case With Magsafe - Ultramarine" [ref=e1730]
+                - generic [ref=e1733]:
+                  - checkbox "Compare" [ref=e1734]
+                  - text: Compare
+              - generic [ref=e1736]: Apple iPhone 16 Plus Silicone Case With Magsafe - Ultramarine
+              - text: ★★★★★
+              - generic [ref=e1737]:
+                - generic [ref=e1738]: ₹2,499
+                - generic [ref=e1739]:
+                  - generic [ref=e1740]:
+                    - generic [ref=e1741]: MRP
+                    - generic [ref=e1742]: ₹4,900
+                  - generic [ref=e1743]:
+                    - generic [ref=e1744]: 49%
+                    - generic [ref=e1745]: "Off"
+              - generic [ref=e1748]:
+                - img "product deals" [ref=e1749]
+                - generic [ref=e1750]: Extra Deals Available
+              - generic [ref=e1751]:
+                - generic [ref=e1754]:
+                  - paragraph [ref=e1755]: Out Of Stock
+                  - button "Notify Me" [ref=e1756]
+                - img "Wishlist" [ref=e1760]
+          - generic [ref=e1761]:
+            - link "left-arrow PREV":
+              - /url: javascript:void(0)
+              - img "left-arrow"
+              - text: PREV
+            - list [ref=e1762]:
+              - listitem [ref=e1763] [cursor=pointer]: "1"
+              - listitem [ref=e1764] [cursor=pointer]: "2"
+            - link "NEXT right-arrow" [ref=e1765] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: NEXT
+              - img "right-arrow" [ref=e1766]
+      - button "Undo" [ref=e1770]
+    - generic [ref=e1772]:
+      - generic [ref=e1773]:
+        - img "plus" [ref=e1776] [cursor=pointer]
+        - img "plus" [ref=e1779] [cursor=pointer]
+        - img "plus" [ref=e1782] [cursor=pointer]
+        - img "plus" [ref=e1785] [cursor=pointer]
+      - generic [ref=e1786]:
+        - button "Clear All" [ref=e1787] [cursor=pointer]
+        - button "Compare" [ref=e1788] [cursor=pointer]
+        - button "close" [ref=e1789] [cursor=pointer]:
+          - img "close" [ref=e1790]
+  - generic [ref=e1793]:
+    - generic [ref=e1799]:
+      - generic [ref=e1801]:
+        - generic [ref=e1802]:
+          - heading "Extended Warranty" [level=2] [ref=e1803]
+          - paragraph [ref=e1805]: Got a question? Look no further calls us.
+        - img "Extended Warranty" [ref=e1808]
+      - generic [ref=e1810]:
+        - generic [ref=e1811]:
+          - heading "Free Delivery" [level=2] [ref=e1812]
+          - paragraph [ref=e1814]: Available on all our products.
+        - img "Free Delivery" [ref=e1817]
+      - generic [ref=e1819]:
+        - generic [ref=e1820]:
+          - heading "Trusted Tech Delivered Fast" [level=2] [ref=e1821]
+          - paragraph [ref=e1823]: now in 90 Minutes
+        - img "Same Day Shipping" [ref=e1826]
+      - generic [ref=e1828]:
+        - generic [ref=e1829]:
+          - heading "Easy Installment" [level=2] [ref=e1830]
+          - paragraph [ref=e1832]: Pay for your purchase in easy EMIs.
+        - img "Easy Installment" [ref=e1835]
+    - generic [ref=e1841]:
+      - generic [ref=e1843]:
+        - generic [ref=e1845]:
+          - heading "Stay in touch with us, get product updates, offers, discounts directly to your inbox" [level=3] [ref=e1848]
+          - generic [ref=e1850]:
+            - textbox "Enter Email Address" [ref=e1851]
+            - generic [ref=e1852]: Enter Email Address
+          - group [ref=e1854]:
+            - generic [ref=e1855]:
+              - checkbox "By selecting this option you agree with our Privacy policy and Terms & Conditions" [checked] [ref=e1856] [cursor=pointer]
+              - generic [ref=e1857]: By selecting this option you agree with our Privacy policy and Terms & Conditions
+          - button "Subscribe" [ref=e1859] [cursor=pointer]
+        - generic [ref=e1861]:
+          - generic [ref=e1863]:
+            - generic [ref=e1865]:
+              - heading "Categories" [level=4] [ref=e1866]:
+                - text: Categories
+                - link:
+                  - /url: /c/laptops
+              - list [ref=e1867]:
+                - listitem [ref=e1868]:
+                  - link "Television" [ref=e1869] [cursor=pointer]:
+                    - /url: /c/televisions
+                - listitem [ref=e1870]:
+                  - link "Smartphone" [ref=e1871] [cursor=pointer]:
+                    - /url: /c/smartphones
+                - listitem [ref=e1872]:
+                  - link "Laptops" [ref=e1873] [cursor=pointer]:
+                    - /url: /c/laptops
+                - listitem [ref=e1874]:
+                  - link "Washing Machines" [ref=e1875] [cursor=pointer]:
+                    - /url: /c/washing-machines
+                - listitem [ref=e1876]:
+                  - link "Party Speakers" [ref=e1877] [cursor=pointer]:
+                    - /url: /c/party-speakers
+                - listitem [ref=e1878]:
+                  - link "Gaming" [ref=e1879] [cursor=pointer]:
+                    - /url: /c/gaming
+            - generic [ref=e1881]:
+              - heading "Services" [level=4] [ref=e1882]
+              - list [ref=e1883]:
+                - listitem [ref=e1884]:
+                  - link "Cancellation and Return" [ref=e1885] [cursor=pointer]:
+                    - /url: /faqs.html
+                - listitem [ref=e1886]:
+                  - link "Loyalty Program" [ref=e1887] [cursor=pointer]:
+                    - /url: /loyalty
+                - listitem [ref=e1888]:
+                  - link "VS Warranty" [ref=e1889] [cursor=pointer]:
+                    - /url: /vswarranty
+                - listitem [ref=e1890]:
+                  - link "Enquires/B2B Orders" [ref=e1891] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/b2b-enquiry-form
+            - generic [ref=e1893]:
+              - heading "Trending Products" [level=4] [ref=e1894]
+              - list [ref=e1895]:
+                - listitem [ref=e1896]:
+                  - link "iPhone 17" [ref=e1897] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17
+                - listitem [ref=e1898]:
+                  - link "iPhone 17 Pro" [ref=e1899] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e1900]:
+                  - link "iPhone 17 Pro Max" [ref=e1901] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e1902]:
+                  - link "iPhone Air" [ref=e1903] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-air
+                - listitem [ref=e1904]:
+                  - link "TV" [ref=e1905] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/televisions
+                - listitem [ref=e1906]:
+                  - link "Washing Machine" [ref=e1907] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/washing-machines
+                - listitem [ref=e1908]:
+                  - link "Water Purifier" [ref=e1909] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/water-purifiers
+                - listitem [ref=e1910]:
+                  - link "Smartwatch" [ref=e1911] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/smart-watches
+                - listitem [ref=e1912]:
+                  - link "Microwave" [ref=e1913] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/microwave
+          - generic [ref=e1915]:
+            - generic [ref=e1917]:
+              - heading "About us" [level=4] [ref=e1918]:
+                - link "About us" [ref=e1919] [cursor=pointer]:
+                  - /url: /about-us
+                  - text: About us
+              - heading "Careers" [level=4] [ref=e1920]:
+                - link "Careers" [ref=e1921] [cursor=pointer]:
+                  - /url: /careers
+              - heading "e-Waste" [level=4] [ref=e1922]:
+                - link "e-Waste" [ref=e1923] [cursor=pointer]:
+                  - /url: /e-waste-recycling
+              - heading "Contact" [level=4] [ref=e1924]:
+                - link "Contact" [ref=e1925] [cursor=pointer]:
+                  - /url: /contact-us
+              - heading "Blogs" [level=4] [ref=e1926]:
+                - link "Blogs" [ref=e1927] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/blog-listing
+              - heading "Order Status" [level=4] [ref=e1928]:
+                - link "Order Status" [ref=e1929] [cursor=pointer]:
+                  - /url: /profile-page/my-order
+              - paragraph [ref=e1930]
+            - generic [ref=e1932]:
+              - heading "Help Center" [level=4] [ref=e1933]:
+                - link "Help Center" [ref=e1934] [cursor=pointer]:
+                  - /url: /contact-us
+              - heading "Shipping & Delivery" [level=4] [ref=e1935]:
+                - link "Shipping & Delivery" [ref=e1936] [cursor=pointer]:
+                  - /url: /faqs?faq=shipping-options
+              - heading "My Account" [level=4] [ref=e1937]:
+                - link "My Account" [ref=e1938] [cursor=pointer]:
+                  - /url: /profile-page/overview
+            - list [ref=e1941]:
+              - listitem [ref=e1942]:
+                - link "Pricing and Payments" [ref=e1943] [cursor=pointer]:
+                  - /url: /faqs?faq=payment-and-returns
+              - listitem [ref=e1944]:
+                - link "Store Locator" [ref=e1945] [cursor=pointer]:
+                  - /url: /store-locator
+            - list [ref=e1948]:
+              - listitem [ref=e1949]:
+                - link "Brand Stores" [ref=e1950] [cursor=pointer]:
+                  - /url: /brands.html
+              - listitem [ref=e1951]:
+                - link "Terms of Use" [ref=e1952] [cursor=pointer]:
+                  - /url: /faqs?faq=terms-of-use
+              - listitem [ref=e1953]:
+                - link "Caution Notice" [ref=e1954] [cursor=pointer]:
+                  - /url: /faqs
+              - listitem [ref=e1955]:
+                - link "Privacy Policy" [ref=e1956] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/privacy-policy
+      - generic [ref=e1958]:
+        - generic [ref=e1960]:
+          - heading "Follow us on Socials" [level=3] [ref=e1963]
+          - generic [ref=e1965]:
+            - link "whatsapp-icon" [ref=e1968] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?phone=917045926060&text=Hello
+              - img "whatsapp-icon" [ref=e1969]
+            - link "facebook-icon" [ref=e1972] [cursor=pointer]:
+              - /url: https://www.facebook.com/VijaySales/
+              - img "facebook-icon" [ref=e1973]
+            - link "twitter-icon" [ref=e1976] [cursor=pointer]:
+              - /url: https://x.com/VijaySales
+              - img "twitter-icon" [ref=e1977]
+            - link "instagram-icon" [ref=e1980] [cursor=pointer]:
+              - /url: https://www.instagram.com/vijaysalesofficial/
+              - img "instagram-icon" [ref=e1981]
+            - link "youtube-icon" [ref=e1984] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/vijaysalesstore
+              - img "youtube-icon" [ref=e1985]
+            - link "linkedIn-icon" [ref=e1988] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/vijaysales
+              - img "linkedIn-icon" [ref=e1989]
+        - generic [ref=e1991]:
+          - heading "Download The Service App" [level=6] [ref=e1994]
+          - generic [ref=e1996]:
+            - link "google-play-store-icon" [ref=e1999] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.vijaysales.vscare
+              - img "google-play-store-icon" [ref=e2000]
+            - link "apple-store-icon" [ref=e2003] [cursor=pointer]:
+              - /url: https://apps.apple.com/in/app/my-vs-vijaysales/id1278356034
+              - img "apple-store-icon" [ref=e2004]
+    - generic [ref=e2010]:
+      - generic [ref=e2012]:
+        - generic [ref=e2014]:
+          - heading "AIR CONDITIONERS" [level=4] [ref=e2015]
+          - list [ref=e2016]:
+            - listitem [ref=e2017]:
+              - link "Vise ACs" [ref=e2018] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Vise
+            - listitem [ref=e2019]:
+              - link "Voltas ACs" [ref=e2020] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Voltas
+            - listitem [ref=e2021]:
+              - link "Daikin ACs" [ref=e2022] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Daikin
+            - listitem [ref=e2023]:
+              - link "LG ACs" [ref=e2024] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=LG
+            - listitem [ref=e2025]:
+              - link "Bluestar ACs" [ref=e2026] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Bluestar
+            - listitem [ref=e2027]:
+              - link "Godrej ACs" [ref=e2028] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Godrej
+            - listitem [ref=e2029]:
+              - link "Mitsubishi ACs" [ref=e2030] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Mitsubishi
+            - listitem [ref=e2031]:
+              - link "Carrier ACs" [ref=e2032] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Carrier
+            - listitem [ref=e2033]:
+              - link "Hitachi ACs" [ref=e2034] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Hitachi
+            - listitem [ref=e2035]:
+              - link "Panasonic ACs" [ref=e2036] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Panasonic
+            - listitem [ref=e2037]:
+              - link "Samsung ACs" [ref=e2038] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Samsung
+            - listitem [ref=e2039]:
+              - link "Haier ACs" [ref=e2040] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Haier
+            - listitem [ref=e2041]:
+              - link "Ogeneral ACs" [ref=e2042] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Ogeneral
+            - listitem [ref=e2043]:
+              - link "Split ACs" [ref=e2044] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Split
+            - listitem [ref=e2045]:
+              - link "Window ACs" [ref=e2046] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Window
+            - listitem [ref=e2047]:
+              - link "Less than 1 Ton ACs" [ref=e2048] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e2049]:
+              - link "1 Ton ACs" [ref=e2050] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e2051]:
+              - link "1.2 Ton ACs" [ref=e2052] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e2053]:
+              - link "1.5 Ton ACs" [ref=e2054] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e2055]:
+              - link "1.8 Ton ACs" [ref=e2056] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.6%20Ton%20to%201.9%20Ton
+            - listitem [ref=e2057]:
+              - link "2 Ton ACs" [ref=e2058] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e2059]:
+              - link "2.2 Ton ACs" [ref=e2060] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e2061]:
+              - link "2.5 Ton ACs" [ref=e2062] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e2063]:
+              - link "3 Ton ACs" [ref=e2064] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e2065]:
+              - link "2 Star ACs" [ref=e2066] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=547
+            - listitem [ref=e2067]:
+              - link "3 Star ACs" [ref=e2068] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=550
+            - listitem [ref=e2069]:
+              - link "4 Star ACs" [ref=e2070] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=553
+            - listitem [ref=e2071]:
+              - link "5 Star ACs" [ref=e2072] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=556
+            - listitem [ref=e2073]:
+              - link "Fixed Speed ACs" [ref=e2074] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Fixed%20Speed
+            - listitem [ref=e2075]:
+              - link "Inverter ACs" [ref=e2076] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Inverter
+            - listitem [ref=e2077]:
+              - link "Upto 120 SqFt ACs" [ref=e2078] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=Upto%20120%20SqFt
+            - listitem [ref=e2079]:
+              - link "121 Sq Ft to 180 Sq Ft ACs" [ref=e2080] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=121%20Sq%20Ft%20to%20180%20Sq%20Ft
+            - listitem [ref=e2081]:
+              - link "181 Sq Ft to 240 Sq Ft ACs" [ref=e2082] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=181%20Sq%20Ft%20to%20240%20Sq%20Ft
+            - listitem [ref=e2083]:
+              - link "241 Sq Ft to 300 Sq Ft ACs" [ref=e2084] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=241%20Sq%20Ft%20to%20300%20Sq%20Ft
+        - generic [ref=e2086]:
+          - heading "LED TV" [level=4] [ref=e2087]
+          - list [ref=e2088]:
+            - listitem [ref=e2089]:
+              - link "SANSUI TV" [ref=e2090] [cursor=pointer]:
+                - /url: /c/televisions?brand=SANSUI
+            - listitem [ref=e2091]:
+              - link "Vise TV" [ref=e2092] [cursor=pointer]:
+                - /url: /c/televisions?brand=Vise
+            - listitem [ref=e2093]:
+              - link "Samsung TV" [ref=e2094] [cursor=pointer]:
+                - /url: /c/televisions?brand=Samsung
+            - listitem [ref=e2095]:
+              - link "LG TV" [ref=e2096] [cursor=pointer]:
+                - /url: /c/televisions?brand=LG
+            - listitem [ref=e2097]:
+              - link "Sony TV" [ref=e2098] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Sony
+            - listitem [ref=e2099]:
+              - link "Panasonic TV" [ref=e2100] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Panasonic
+            - listitem [ref=e2101]:
+              - link "OLED TV" [ref=e2102] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?technology=OLED
+            - listitem [ref=e2103]:
+              - link "4K/ULTRA HD TV" [ref=e2104] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e2105]:
+              - link "FULL HD TV" [ref=e2106] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=FULL%20HD
+            - listitem [ref=e2107]:
+              - link "HD TV" [ref=e2108] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD
+            - listitem [ref=e2109]:
+              - link "HD READY TV" [ref=e2110] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD%20READY
+            - listitem [ref=e2111]:
+              - link "25 - 32 inch TV" [ref=e2112] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=32%20inch%20to%2039%20inch
+            - listitem [ref=e2113]:
+              - link "33 - 44 inch TV" [ref=e2114] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e2115]:
+              - link "45 - 50 inch TV" [ref=e2116] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e2117]:
+              - link "51 - 55 inch TV" [ref=e2118] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=50%20inch%20to%2059%20inch
+            - listitem [ref=e2119]:
+              - link "56 - 65 inch TV" [ref=e2120] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=60%20inch%20to%2069%20inch
+            - listitem [ref=e2121]:
+              - link "66 inch and above TV" [ref=e2122] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=70%20inch%20and%20Above
+        - generic [ref=e2124]:
+          - heading "TELEVISIONS & ENTERTAINMENT" [level=4] [ref=e2125]
+          - list [ref=e2126]:
+            - listitem [ref=e2127]:
+              - link "LED TV" [ref=e2128] [cursor=pointer]:
+                - /url: /c/televisions?technology=LED
+            - listitem [ref=e2129]:
+              - link "HD Ready TV" [ref=e2130] [cursor=pointer]:
+                - /url: /c/televisions?resolution=HD%20READY
+            - listitem [ref=e2131]:
+              - link "HD TV" [ref=e2132] [cursor=pointer]:
+                - /url: /c/televisions?resolution=HD
+            - listitem [ref=e2133]:
+              - link "UHD / 4K TV" [ref=e2134] [cursor=pointer]:
+                - /url: /c/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e2135]:
+              - link "Full HD TV" [ref=e2136] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/c/televisions?resolution=FULL%20HD
+            - listitem [ref=e2137]:
+              - link "Streaming Devices" [ref=e2138] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=TV%20Accessories
+            - listitem [ref=e2139]:
+              - link "Audio Accessories" [ref=e2140] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Audio%20Accessories
+            - listitem [ref=e2141]:
+              - link "Gaming Consoles" [ref=e2142] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming
+            - listitem [ref=e2143]:
+              - link "Gaming Controllers" [ref=e2144] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming%20Controllers
+            - listitem [ref=e2145]:
+              - link "Soundbars" [ref=e2146] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/soundbars
+            - listitem [ref=e2147]:
+              - link "Home Theatre" [ref=e2148] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-theaters
+            - listitem [ref=e2149]:
+              - link "Speakers" [ref=e2150] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/speakers
+            - listitem [ref=e2151]:
+              - link "Party Speakers" [ref=e2152] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers
+        - generic [ref=e2154]:
+          - heading "LARGE APPLIANCES" [level=4] [ref=e2155]
+          - list [ref=e2156]:
+            - listitem [ref=e2157]:
+              - link "Air Conditioners" [ref=e2158] [cursor=pointer]:
+                - /url: /c/air-conditioners
+            - listitem [ref=e2159]:
+              - link "Split AC" [ref=e2160] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Split
+            - listitem [ref=e2161]:
+              - link "Window AC" [ref=e2162] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Window
+            - listitem [ref=e2163]:
+              - link "Portable AC" [ref=e2164] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Portable
+            - listitem [ref=e2165]:
+              - link "Washing and Drying" [ref=e2166] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e2167]:
+              - link "Fully Automatic Top Load" [ref=e2168] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Top%20Loading
+            - listitem [ref=e2169]:
+              - link "Semi Automatic Top Load" [ref=e2170] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Semi%20Automatic
+            - listitem [ref=e2171]:
+              - link "Fully Automatic Front Load" [ref=e2172] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Front%20Loading
+            - listitem [ref=e2173]:
+              - link "Front Load Washer and Dryer" [ref=e2174] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e2175]:
+              - link "Dryer" [ref=e2176] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e2177]:
+              - link "Dishwasher" [ref=e2178] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dishwashers
+            - listitem [ref=e2179]:
+              - link "Refrigerators" [ref=e2180] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators
+            - listitem [ref=e2181]:
+              - link "Single Door" [ref=e2182] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Single%20Door
+            - listitem [ref=e2183]:
+              - link "Double Door" [ref=e2184] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Double%20Door
+            - listitem [ref=e2185]:
+              - link "Triple Door" [ref=e2186] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Triple%20Door
+            - listitem [ref=e2187]:
+              - link "Side By Side" [ref=e2188] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?refrigerator_type=Side%20by%20Side%20Refrigerator
+        - generic [ref=e2190]:
+          - heading "KITCHEN APPLIANCES" [level=4] [ref=e2191]
+          - list [ref=e2192]:
+            - listitem [ref=e2193]:
+              - link "Atta Maker" [ref=e2194] [cursor=pointer]:
+                - /url: /c/atta-maker
+            - listitem [ref=e2195]:
+              - link "Built In Ovens" [ref=e2196] [cursor=pointer]:
+                - /url: /c/microwave-and-otgs
+            - listitem [ref=e2197]:
+              - link "Chimney" [ref=e2198] [cursor=pointer]:
+                - /url: /c/chimneys
+            - listitem [ref=e2199]:
+              - link "Chopper" [ref=e2200] [cursor=pointer]:
+                - /url: /c/choppers
+            - listitem [ref=e2201]:
+              - link "Coffee Maker" [ref=e2202] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/coffee-machines
+            - listitem [ref=e2203]:
+              - link "Cooktop" [ref=e2204] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/cooktop
+            - listitem [ref=e2205]:
+              - link "Food Processor" [ref=e2206] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/food-processors
+            - listitem [ref=e2207]:
+              - link "Air Fryer" [ref=e2208] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-fryers
+            - listitem [ref=e2209]:
+              - link "Hand Blender" [ref=e2210] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e2211]:
+              - link "Hand Mixer" [ref=e2212] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e2213]:
+              - link "HOB" [ref=e2214] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/built-in-hobs
+            - listitem [ref=e2215]:
+              - link "Juicer" [ref=e2216] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicer
+            - listitem [ref=e2217]:
+              - link "Juicer Mixer Grinders" [ref=e2218] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicers-mixers-and-grinders
+            - listitem [ref=e2219]:
+              - link "Grinder" [ref=e2220] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/mixer-grinder
+            - listitem [ref=e2221]:
+              - link "Kettles" [ref=e2222] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/kettles
+            - listitem [ref=e2223]:
+              - link "Microwave" [ref=e2224] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave
+            - listitem [ref=e2225]:
+              - link "Oven" [ref=e2226] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+            - listitem [ref=e2227]:
+              - link "Toaster" [ref=e2228] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/sandwich-toasters
+            - listitem [ref=e2229]:
+              - link "Popup Toaster" [ref=e2230] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/popup-toasters
+            - listitem [ref=e2231]:
+              - link "Sandwich Toaster" [ref=e2232] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/sandwich-toasters
+            - listitem [ref=e2233]:
+              - link "Wet Grinder" [ref=e2234] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/wet-grinders
+            - listitem [ref=e2235]:
+              - link "Mixer" [ref=e2236] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicers-mixers-and-grinders
+        - generic [ref=e2238]:
+          - heading "HEADPHONES & SPEAKERS" [level=4] [ref=e2239]
+          - list [ref=e2240]:
+            - listitem [ref=e2241]:
+              - link "Truly Wireless Earbuds" [ref=e2242] [cursor=pointer]:
+                - /url: /c/truly-wireless-earbuds
+            - listitem [ref=e2243]:
+              - link "Neckbands" [ref=e2244] [cursor=pointer]:
+                - /url: /c/neckbands
+            - listitem [ref=e2245]:
+              - link "Headphones" [ref=e2246] [cursor=pointer]:
+                - /url: /c/headphones
+            - listitem [ref=e2247]:
+              - link "Earphones" [ref=e2248] [cursor=pointer]:
+                - /url: /c/earphones
+            - listitem [ref=e2249]:
+              - link "Portable Speakers" [ref=e2250] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/portable-speakers
+        - generic [ref=e2252]:
+          - heading "HEALTH & GROOMING" [level=4] [ref=e2253]
+          - list [ref=e2254]:
+            - listitem [ref=e2255]:
+              - link "Trimmers" [ref=e2256] [cursor=pointer]:
+                - /url: /c/trimmers
+            - listitem [ref=e2257]:
+              - link "Shavers" [ref=e2258] [cursor=pointer]:
+                - /url: /c/shavers
+            - listitem [ref=e2259]:
+              - link "Hair Stylers" [ref=e2260] [cursor=pointer]:
+                - /url: /c/hair-stylers
+            - listitem [ref=e2261]:
+              - link "Hair Straightners" [ref=e2262] [cursor=pointer]:
+                - /url: /c/hair-straighteners
+            - listitem [ref=e2263]:
+              - link "Hair Dryers" [ref=e2264] [cursor=pointer]:
+                - /url: /c/hair-dryers
+        - generic [ref=e2266]:
+          - heading "TABLETS" [level=4] [ref=e2267]
+          - list [ref=e2268]:
+            - listitem [ref=e2269]:
+              - link "Tablets" [ref=e2270] [cursor=pointer]:
+                - /url: /c/tablets
+            - listitem [ref=e2271]:
+              - link "iPads" [ref=e2272] [cursor=pointer]:
+                - /url: /c/ipads
+            - listitem [ref=e2273]:
+              - link "Graphics Tablets" [ref=e2274] [cursor=pointer]:
+                - /url: /c/graphic-tablets
+        - generic [ref=e2276]:
+          - heading "MOBILES & ACCESSORIES" [level=4] [ref=e2277]
+          - list [ref=e2278]:
+            - listitem [ref=e2279]:
+              - link "Smartphones" [ref=e2280] [cursor=pointer]:
+                - /url: /c/smartphones
+            - listitem [ref=e2281]:
+              - link "iPhones" [ref=e2282] [cursor=pointer]:
+                - /url: /c/iphones
+            - listitem [ref=e2283]:
+              - link "Basic Phones" [ref=e2284] [cursor=pointer]:
+                - /url: /c/basic-phones
+            - listitem [ref=e2285]:
+              - link "Cables" [ref=e2286] [cursor=pointer]:
+                - /url: /c/cables
+            - listitem [ref=e2287]:
+              - link "Adapters" [ref=e2288] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/adapters
+            - listitem [ref=e2289]:
+              - link "Power Bank" [ref=e2290] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/power-bank
+            - listitem [ref=e2291]:
+              - link "Cases and Covers" [ref=e2292] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cases-and-covers
+        - generic [ref=e2294]:
+          - heading "COMPUTER ACCESSORIES" [level=4] [ref=e2295]
+          - list [ref=e2296]:
+            - listitem [ref=e2297]:
+              - link "Mouse" [ref=e2298] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Mouse
+            - listitem [ref=e2299]:
+              - link "Keyboards" [ref=e2300] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Keyboards
+            - listitem [ref=e2301]:
+              - link "Keyboard Mouse Combo" [ref=e2302] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Keyboard%20Mouse%20Combo
+            - listitem [ref=e2303]:
+              - link "Bags" [ref=e2304] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Bags
+            - listitem [ref=e2305]:
+              - link "Cooling Pad" [ref=e2306] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e2307]:
+              - link "Laptop Stand" [ref=e2308] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e2309]:
+              - link "Peripherals" [ref=e2310] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Peripherals
+            - listitem [ref=e2311]:
+              - link "Pen Drives" [ref=e2312] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/pen-drives
+            - listitem [ref=e2313]:
+              - link "SSD" [ref=e2314] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ssd
+            - listitem [ref=e2315]:
+              - link "Hard Disks" [ref=e2316] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hard-disks
+        - generic [ref=e2318]:
+          - heading "COMPUTERS & LAPTOPS" [level=4] [ref=e2319]
+          - list [ref=e2320]:
+            - listitem [ref=e2321]:
+              - link "Laptops" [ref=e2322] [cursor=pointer]:
+                - /url: /c/laptops
+            - listitem [ref=e2323]:
+              - link "MacBook" [ref=e2324] [cursor=pointer]:
+                - /url: /c/macbooks
+            - listitem [ref=e2325]:
+              - link "Gaming Laptops" [ref=e2326] [cursor=pointer]:
+                - /url: /c/laptops?usage=Gamers
+            - listitem [ref=e2327]:
+              - link "Desktops" [ref=e2328] [cursor=pointer]:
+                - /url: /c/laptops-and-accessories?categories=Desktops
+            - listitem [ref=e2329]:
+              - link "All in One Desktops" [ref=e2330] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/c/laptops-and-accessories?desktops=All%20in%20One%20Desktops
+            - listitem [ref=e2331]:
+              - link "iMac" [ref=e2332] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?desktops=iMac
+            - listitem [ref=e2333]:
+              - link "Printer" [ref=e2334] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e2335]:
+              - link "Inkjet Printers" [ref=e2336] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Inkjet
+            - listitem [ref=e2337]:
+              - link "Laser Printers" [ref=e2338] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Laser
+            - listitem [ref=e2339]:
+              - link "Inktank Printers" [ref=e2340] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e2341]:
+              - link "Thermal Printers" [ref=e2342] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e2343]:
+              - link "Routers" [ref=e2344] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/routers
+        - generic [ref=e2346]:
+          - heading "WEARABLE TECH" [level=4] [ref=e2347]
+          - list [ref=e2348]:
+            - listitem [ref=e2349]:
+              - link "Smart Watch" [ref=e2350] [cursor=pointer]:
+                - /url: /c/smart-watches
+      - generic [ref=e2352]:
+        - paragraph [ref=e2355]: © 2013-2025, Vijay Sales. All rights reserved.
+        - generic [ref=e2357]:
+          - paragraph [ref=e2358]: We Accept
+          - list [ref=e2359]:
+            - listitem [ref=e2360]:
+              - img "Visa Card" [ref=e2361]
+            - listitem [ref=e2362]:
+              - img "American Express Card" [ref=e2363]
+            - listitem [ref=e2364]:
+              - img "Master Card" [ref=e2365]
+            - listitem [ref=e2366]:
+              - img "Pine Labs Card" [ref=e2367]
+            - listitem [ref=e2368]:
+              - img "Pay U" [ref=e2369]
+```

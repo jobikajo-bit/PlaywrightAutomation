@@ -1,0 +1,14 @@
+{
+  "firstName": "Jobi",
+  "lastName": "Jo",
+  "email": "jobika12@mailinator.com",
+  "gender": "2",
+  "mobile": "7766554433",
+  "subjects": ["Maths"],
+  "hobbies": ["3"],
+  "picturePath": "C:/Users/TD/Desktop/test images/t1.jpeg",
+  "address": "84 ss street",
+  "state": "NCR",
+  "city": "Delhi"
+}
+

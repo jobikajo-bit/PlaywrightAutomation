@@ -1,0 +1,1496 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e7]:
+      - banner [ref=e8]:
+        - link "logo" [ref=e9] [cursor=pointer]:
+          - /url: /dashboard
+          - img "logo" [ref=e10]
+      - generic [ref=e11]:
+        - generic [ref=e13] [cursor=pointer]:
+          - generic [ref=e14]: Automation1's workspace
+          - generic [ref=e15]:
+            - generic [ref=e18]:
+              - img "personal" [ref=e19]
+              - text: Personal
+            - generic [ref=e20]:
+              - img "TemplateIcon" [ref=e21]
+              - generic [ref=e22]: Templates
+            - generic [ref=e23]:
+              - img "knowledge" [ref=e24]
+              - generic [ref=e25]: Knowledge
+            - generic [ref=e26]:
+              - img "share" [ref=e27]
+              - text: Shared with me
+        - generic [ref=e28]:
+          - generic [ref=e30]:
+            - generic [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]: Snaptrude Org
+              - img [ref=e35]
+            - img [ref=e37] [cursor=pointer]
+          - link "A automation" [ref=e41] [cursor=pointer]:
+            - /url: /dashboard/team/10229
+            - generic [ref=e42]:
+              - generic [ref=e43]: A
+              - text: automation
+          - link "T team1" [ref=e47] [cursor=pointer]:
+            - /url: /dashboard/team/12963
+            - generic [ref=e48]:
+              - generic [ref=e49]: T
+              - text: team1
+          - link "SP sanity P2" [ref=e53] [cursor=pointer]:
+            - /url: /dashboard/team/13025
+            - generic [ref=e54]:
+              - generic [ref=e55]: SP
+              - text: sanity P2
+          - link "T teamfurniture" [ref=e59] [cursor=pointer]:
+            - /url: /dashboard/team/13306
+            - generic [ref=e60]:
+              - generic [ref=e61]: T
+              - text: teamfurniture
+          - link "T testfurniture" [ref=e65] [cursor=pointer]:
+            - /url: /dashboard/team/13308
+            - generic [ref=e66]:
+              - generic [ref=e67]: T
+              - text: testfurniture
+          - link "T Testing3" [ref=e71] [cursor=pointer]:
+            - /url: /dashboard/team/13325
+            - generic [ref=e72]:
+              - generic [ref=e73]: T
+              - text: Testing3
+          - link "T TC_SNT_P1_083" [ref=e77] [cursor=pointer]:
+            - /url: /dashboard/team/13326
+            - generic [ref=e78]:
+              - generic [ref=e79]: T
+              - text: TC_SNT_P1_083
+          - link "T teamtest" [ref=e83] [cursor=pointer]:
+            - /url: /dashboard/team/13367
+            - generic [ref=e84]:
+              - generic [ref=e85]: T
+              - text: teamtest
+          - link "T team1" [ref=e89] [cursor=pointer]:
+            - /url: /dashboard/team/13460
+            - generic [ref=e90]:
+              - generic [ref=e91]: T
+              - text: team1
+          - link "T team1" [ref=e95] [cursor=pointer]:
+            - /url: /dashboard/team/13461
+            - generic [ref=e96]:
+              - generic [ref=e97]: T
+              - text: team1
+          - link "T team1" [ref=e101] [cursor=pointer]:
+            - /url: /dashboard/team/13462
+            - generic [ref=e102]:
+              - generic [ref=e103]: T
+              - text: team1
+          - link "S sanityTeam" [ref=e107] [cursor=pointer]:
+            - /url: /dashboard/team/13710
+            - generic [ref=e108]:
+              - generic [ref=e109]: S
+              - text: sanityTeam
+      - generic [ref=e112] [cursor=pointer]:
+        - img [ref=e113]
+        - generic [ref=e114]: Help
+    - generic [ref=e115]:
+      - generic [ref=e116]:
+        - generic [ref=e119]:
+          - img "search" [ref=e121]
+          - textbox "Search projects or folders" [ref=e122]
+        - generic [ref=e124]:
+          - generic [ref=e125]:
+            - button "bell" [ref=e126] [cursor=pointer]:
+              - button "bell" [ref=e127]:
+                - img "bell" [ref=e128]
+            - generic [ref=e132]: You don’t have any notification yet
+          - img "avatar" [ref=e136] [cursor=pointer]
+      - generic [ref=e137]:
+        - generic [ref=e138]:
+          - generic [ref=e141]: Personal
+          - generic [ref=e143]:
+            - button "New Project" [ref=e144] [cursor=pointer]:
+              - img [ref=e145]
+              - text: New Project
+            - button "New folder" [ref=e146] [cursor=pointer]:
+              - img [ref=e147]
+              - text: New folder
+        - generic [ref=e150]:
+          - button "Sort by Last modified" [ref=e151] [cursor=pointer]:
+            - generic [ref=e152]:
+              - img [ref=e154]
+              - generic [ref=e155]: Sort by
+              - generic [ref=e156]: Last modified
+              - img [ref=e158]
+          - generic:
+            - generic [ref=e160] [cursor=pointer]: Alphabetical
+            - generic [ref=e162] [cursor=pointer]: Date created
+            - generic [ref=e164] [cursor=pointer]: Last modified
+        - generic [ref=e167]:
+          - generic [ref=e168]:
+            - generic [ref=e171] [cursor=pointer]:
+              - link "folder 33639" [ref=e172]:
+                - /url: /dashboard/folder/30699
+                - img "folder" [ref=e174]
+                - textbox [ref=e176]: "33639"
+              - generic [ref=e177]:
+                - button [ref=e178]
+                - generic:
+                  - generic [ref=e180]: Rename
+                  - generic [ref=e182]: Delete
+            - generic [ref=e185] [cursor=pointer]:
+              - link "folder 33623" [ref=e186]:
+                - /url: /dashboard/folder/30689
+                - img "folder" [ref=e188]
+                - textbox [ref=e190]: "33623"
+              - generic [ref=e191]:
+                - button [ref=e192]
+                - generic:
+                  - generic [ref=e194]: Rename
+                  - generic [ref=e196]: Delete
+            - generic [ref=e199] [cursor=pointer]:
+              - link "folder 33561" [ref=e200]:
+                - /url: /dashboard/folder/30617
+                - img "folder" [ref=e202]
+                - textbox [ref=e204]: "33561"
+              - generic [ref=e205]:
+                - button [ref=e206]
+                - generic:
+                  - generic [ref=e208]: Rename
+                  - generic [ref=e210]: Delete
+            - generic [ref=e213] [cursor=pointer]:
+              - link "folder 33558" [ref=e214]:
+                - /url: /dashboard/folder/30607
+                - img "folder" [ref=e216]
+                - textbox [ref=e218]: "33558"
+              - generic [ref=e219]:
+                - button [ref=e220]
+                - generic:
+                  - generic [ref=e222]: Rename
+                  - generic [ref=e224]: Delete
+            - generic [ref=e227] [cursor=pointer]:
+              - link "folder 33555" [ref=e228]:
+                - /url: /dashboard/folder/30597
+                - img "folder" [ref=e230]
+                - textbox [ref=e232]: "33555"
+              - generic [ref=e233]:
+                - button [ref=e234]
+                - generic:
+                  - generic [ref=e236]: Rename
+                  - generic [ref=e238]: Delete
+            - generic [ref=e241] [cursor=pointer]:
+              - link "folder 33553" [ref=e242]:
+                - /url: /dashboard/folder/30586
+                - img "folder" [ref=e244]
+                - textbox [ref=e246]: "33553"
+              - generic [ref=e247]:
+                - button [ref=e248]
+                - generic:
+                  - generic [ref=e250]: Rename
+                  - generic [ref=e252]: Delete
+            - generic [ref=e255] [cursor=pointer]:
+              - link "folder 33551" [ref=e256]:
+                - /url: /dashboard/folder/30576
+                - img "folder" [ref=e258]
+                - textbox [ref=e260]: "33551"
+              - generic [ref=e261]:
+                - button [ref=e262]
+                - generic:
+                  - generic [ref=e264]: Rename
+                  - generic [ref=e266]: Delete
+            - generic [ref=e269] [cursor=pointer]:
+              - link "folder 33550" [ref=e270]:
+                - /url: /dashboard/folder/30558
+                - img "folder" [ref=e272]
+                - textbox [ref=e274]: "33550"
+              - generic [ref=e275]:
+                - button [ref=e276]
+                - generic:
+                  - generic [ref=e278]: Rename
+                  - generic [ref=e280]: Delete
+            - generic [ref=e283] [cursor=pointer]:
+              - link "folder 33549" [ref=e284]:
+                - /url: /dashboard/folder/30556
+                - img "folder" [ref=e286]
+                - textbox [ref=e288]: "33549"
+              - generic [ref=e289]:
+                - button [ref=e290]
+                - generic:
+                  - generic [ref=e292]: Rename
+                  - generic [ref=e294]: Delete
+            - generic [ref=e297] [cursor=pointer]:
+              - link "folder 33537" [ref=e298]:
+                - /url: /dashboard/folder/30545
+                - img "folder" [ref=e300]
+                - textbox [ref=e302]: "33537"
+              - generic [ref=e303]:
+                - button [ref=e304]
+                - generic:
+                  - generic [ref=e306]: Rename
+                  - generic [ref=e308]: Delete
+            - generic [ref=e311] [cursor=pointer]:
+              - link "folder 33536" [ref=e312]:
+                - /url: /dashboard/folder/30535
+                - img "folder" [ref=e314]
+                - textbox [ref=e316]: "33536"
+              - generic [ref=e317]:
+                - button [ref=e318]
+                - generic:
+                  - generic [ref=e320]: Rename
+                  - generic [ref=e322]: Delete
+            - generic [ref=e325] [cursor=pointer]:
+              - link "folder 33535" [ref=e326]:
+                - /url: /dashboard/folder/30525
+                - img "folder" [ref=e328]
+                - textbox [ref=e330]: "33535"
+              - generic [ref=e331]:
+                - button [ref=e332]
+                - generic:
+                  - generic [ref=e334]: Rename
+                  - generic [ref=e336]: Delete
+            - generic [ref=e339] [cursor=pointer]:
+              - link "folder 33534" [ref=e340]:
+                - /url: /dashboard/folder/30515
+                - img "folder" [ref=e342]
+                - textbox [ref=e344]: "33534"
+              - generic [ref=e345]:
+                - button [ref=e346]
+                - generic:
+                  - generic [ref=e348]: Rename
+                  - generic [ref=e350]: Delete
+            - generic [ref=e353] [cursor=pointer]:
+              - link "folder 33533" [ref=e354]:
+                - /url: /dashboard/folder/30505
+                - img "folder" [ref=e356]
+                - textbox [ref=e358]: "33533"
+              - generic [ref=e359]:
+                - button [ref=e360]
+                - generic:
+                  - generic [ref=e362]: Rename
+                  - generic [ref=e364]: Delete
+            - generic [ref=e367] [cursor=pointer]:
+              - link "folder 33532" [ref=e368]:
+                - /url: /dashboard/folder/30495
+                - img "folder" [ref=e370]
+                - textbox [ref=e372]: "33532"
+              - generic [ref=e373]:
+                - button [ref=e374]
+                - generic:
+                  - generic [ref=e376]: Rename
+                  - generic [ref=e378]: Delete
+            - generic [ref=e381] [cursor=pointer]:
+              - link "folder 33449" [ref=e382]:
+                - /url: /dashboard/folder/30485
+                - img "folder" [ref=e384]
+                - textbox [ref=e386]: "33449"
+              - generic [ref=e387]:
+                - button [ref=e388]
+                - generic:
+                  - generic [ref=e390]: Rename
+                  - generic [ref=e392]: Delete
+            - generic [ref=e395] [cursor=pointer]:
+              - link "folder 33426" [ref=e396]:
+                - /url: /dashboard/folder/30474
+                - img "folder" [ref=e398]
+                - textbox [ref=e400]: "33426"
+              - generic [ref=e401]:
+                - button [ref=e402]
+                - generic:
+                  - generic [ref=e404]: Rename
+                  - generic [ref=e406]: Delete
+            - generic [ref=e409] [cursor=pointer]:
+              - link "folder 33418" [ref=e410]:
+                - /url: /dashboard/folder/30464
+                - img "folder" [ref=e412]
+                - textbox [ref=e414]: "33418"
+              - generic [ref=e415]:
+                - button [ref=e416]
+                - generic:
+                  - generic [ref=e418]: Rename
+                  - generic [ref=e420]: Delete
+            - generic [ref=e423] [cursor=pointer]:
+              - link "folder 33412" [ref=e424]:
+                - /url: /dashboard/folder/30454
+                - img "folder" [ref=e426]
+                - textbox [ref=e428]: "33412"
+              - generic [ref=e429]:
+                - button [ref=e430]
+                - generic:
+                  - generic [ref=e432]: Rename
+                  - generic [ref=e434]: Delete
+            - generic [ref=e437] [cursor=pointer]:
+              - link "folder 33401" [ref=e438]:
+                - /url: /dashboard/folder/30436
+                - img "folder" [ref=e440]
+                - textbox [ref=e442]: "33401"
+              - generic [ref=e443]:
+                - button [ref=e444]
+                - generic:
+                  - generic [ref=e446]: Rename
+                  - generic [ref=e448]: Delete
+            - generic [ref=e451] [cursor=pointer]:
+              - link "folder 33400" [ref=e452]:
+                - /url: /dashboard/folder/30410
+                - img "folder" [ref=e454]
+                - textbox [ref=e456]: "33400"
+              - generic [ref=e457]:
+                - button [ref=e458]
+                - generic:
+                  - generic [ref=e460]: Rename
+                  - generic [ref=e462]: Delete
+            - generic [ref=e465] [cursor=pointer]:
+              - link "folder 33388" [ref=e466]:
+                - /url: /dashboard/folder/30379
+                - img "folder" [ref=e468]
+                - textbox [ref=e470]: "33388"
+              - generic [ref=e471]:
+                - button [ref=e472]
+                - generic:
+                  - generic [ref=e474]: Rename
+                  - generic [ref=e476]: Delete
+            - generic [ref=e479] [cursor=pointer]:
+              - link "folder 33389" [ref=e480]:
+                - /url: /dashboard/folder/30365
+                - img "folder" [ref=e482]
+                - textbox [ref=e484]: "33389"
+              - generic [ref=e485]:
+                - button [ref=e486]
+                - generic:
+                  - generic [ref=e488]: Rename
+                  - generic [ref=e490]: Delete
+            - generic [ref=e493] [cursor=pointer]:
+              - link "folder 33342" [ref=e494]:
+                - /url: /dashboard/folder/30320
+                - img "folder" [ref=e496]
+                - textbox [ref=e498]: "33342"
+              - generic [ref=e499]:
+                - button [ref=e500]
+                - generic:
+                  - generic [ref=e502]: Rename
+                  - generic [ref=e504]: Delete
+            - generic [ref=e507] [cursor=pointer]:
+              - link "folder 33323" [ref=e508]:
+                - /url: /dashboard/folder/30305
+                - img "folder" [ref=e510]
+                - textbox [ref=e512]: "33323"
+              - generic [ref=e513]:
+                - button [ref=e514]
+                - generic:
+                  - generic [ref=e516]: Rename
+                  - generic [ref=e518]: Delete
+            - generic [ref=e521] [cursor=pointer]:
+              - link "folder 33310" [ref=e522]:
+                - /url: /dashboard/folder/30274
+                - img "folder" [ref=e524]
+                - textbox [ref=e526]: "33310"
+              - generic [ref=e527]:
+                - button [ref=e528]
+                - generic:
+                  - generic [ref=e530]: Rename
+                  - generic [ref=e532]: Delete
+            - generic [ref=e535] [cursor=pointer]:
+              - link "folder 33302" [ref=e536]:
+                - /url: /dashboard/folder/30238
+                - img "folder" [ref=e538]
+                - textbox [ref=e540]: "33302"
+              - generic [ref=e541]:
+                - button [ref=e542]
+                - generic:
+                  - generic [ref=e544]: Rename
+                  - generic [ref=e546]: Delete
+            - generic [ref=e549] [cursor=pointer]:
+              - link "folder 33302" [ref=e550]:
+                - /url: /dashboard/folder/30237
+                - img "folder" [ref=e552]
+                - textbox [ref=e554]: "33302"
+              - generic [ref=e555]:
+                - button [ref=e556]
+                - generic:
+                  - generic [ref=e558]: Rename
+                  - generic [ref=e560]: Delete
+            - generic [ref=e563] [cursor=pointer]:
+              - link "folder 33302" [ref=e564]:
+                - /url: /dashboard/folder/30236
+                - img "folder" [ref=e566]
+                - textbox [ref=e568]: "33302"
+              - generic [ref=e569]:
+                - button [ref=e570]
+                - generic:
+                  - generic [ref=e572]: Rename
+                  - generic [ref=e574]: Delete
+            - generic [ref=e577] [cursor=pointer]:
+              - link "folder 33300" [ref=e578]:
+                - /url: /dashboard/folder/30219
+                - img "folder" [ref=e580]
+                - textbox [ref=e582]: "33300"
+              - generic [ref=e583]:
+                - button [ref=e584]
+                - generic:
+                  - generic [ref=e586]: Rename
+                  - generic [ref=e588]: Delete
+            - generic [ref=e591] [cursor=pointer]:
+              - link "folder 33285" [ref=e592]:
+                - /url: /dashboard/folder/30193
+                - img "folder" [ref=e594]
+                - textbox [ref=e596]: "33285"
+              - generic [ref=e597]:
+                - button [ref=e598]
+                - generic:
+                  - generic [ref=e600]: Rename
+                  - generic [ref=e602]: Delete
+            - generic [ref=e605] [cursor=pointer]:
+              - link "folder 33284" [ref=e606]:
+                - /url: /dashboard/folder/30167
+                - img "folder" [ref=e608]
+                - textbox [ref=e610]: "33284"
+              - generic [ref=e611]:
+                - button [ref=e612]
+                - generic:
+                  - generic [ref=e614]: Rename
+                  - generic [ref=e616]: Delete
+            - generic [ref=e619] [cursor=pointer]:
+              - link "folder 33255" [ref=e620]:
+                - /url: /dashboard/folder/30084
+                - img "folder" [ref=e622]
+                - textbox [ref=e624]: "33255"
+              - generic [ref=e625]:
+                - button [ref=e626]
+                - generic:
+                  - generic [ref=e628]: Rename
+                  - generic [ref=e630]: Delete
+            - generic [ref=e633] [cursor=pointer]:
+              - link "folder 33225" [ref=e634]:
+                - /url: /dashboard/folder/30047
+                - img "folder" [ref=e636]
+                - textbox [ref=e638]: "33225"
+              - generic [ref=e639]:
+                - button [ref=e640]
+                - generic:
+                  - generic [ref=e642]: Rename
+                  - generic [ref=e644]: Delete
+            - generic [ref=e647] [cursor=pointer]:
+              - link "folder 33225" [ref=e648]:
+                - /url: /dashboard/folder/30046
+                - img "folder" [ref=e650]
+                - textbox [ref=e652]: "33225"
+              - generic [ref=e653]:
+                - button [ref=e654]
+                - generic:
+                  - generic [ref=e656]: Rename
+                  - generic [ref=e658]: Delete
+            - generic [ref=e661] [cursor=pointer]:
+              - link "folder 33225" [ref=e662]:
+                - /url: /dashboard/folder/30045
+                - img "folder" [ref=e664]
+                - textbox [ref=e666]: "33225"
+              - generic [ref=e667]:
+                - button [ref=e668]
+                - generic:
+                  - generic [ref=e670]: Rename
+                  - generic [ref=e672]: Delete
+            - generic [ref=e675] [cursor=pointer]:
+              - link "folder 33217" [ref=e676]:
+                - /url: /dashboard/folder/30017
+                - img "folder" [ref=e678]
+                - textbox [ref=e680]: "33217"
+              - generic [ref=e681]:
+                - button [ref=e682]
+                - generic:
+                  - generic [ref=e684]: Rename
+                  - generic [ref=e686]: Delete
+            - generic [ref=e689] [cursor=pointer]:
+              - link "folder 33200" [ref=e690]:
+                - /url: /dashboard/folder/29991
+                - img "folder" [ref=e692]
+                - textbox [ref=e694]: "33200"
+              - generic [ref=e695]:
+                - button [ref=e696]
+                - generic:
+                  - generic [ref=e698]: Rename
+                  - generic [ref=e700]: Delete
+            - generic [ref=e703] [cursor=pointer]:
+              - link "folder 33200" [ref=e704]:
+                - /url: /dashboard/folder/29990
+                - img "folder" [ref=e706]
+                - textbox [ref=e708]: "33200"
+              - generic [ref=e709]:
+                - button [ref=e710]
+                - generic:
+                  - generic [ref=e712]: Rename
+                  - generic [ref=e714]: Delete
+            - generic [ref=e717] [cursor=pointer]:
+              - link "folder 33188" [ref=e718]:
+                - /url: /dashboard/folder/29959
+                - img "folder" [ref=e720]
+                - textbox [ref=e722]: "33188"
+              - generic [ref=e723]:
+                - button [ref=e724]
+                - generic:
+                  - generic [ref=e726]: Rename
+                  - generic [ref=e728]: Delete
+            - generic [ref=e731] [cursor=pointer]:
+              - link "folder 33102" [ref=e732]:
+                - /url: /dashboard/folder/29933
+                - img "folder" [ref=e734]
+                - textbox [ref=e736]: "33102"
+              - generic [ref=e737]:
+                - button [ref=e738]
+                - generic:
+                  - generic [ref=e740]: Rename
+                  - generic [ref=e742]: Delete
+            - generic [ref=e745] [cursor=pointer]:
+              - link "folder 33101" [ref=e746]:
+                - /url: /dashboard/folder/29923
+                - img "folder" [ref=e748]
+                - textbox [ref=e750]: "33101"
+              - generic [ref=e751]:
+                - button [ref=e752]
+                - generic:
+                  - generic [ref=e754]: Rename
+                  - generic [ref=e756]: Delete
+            - generic [ref=e759] [cursor=pointer]:
+              - link "folder 33100" [ref=e760]:
+                - /url: /dashboard/folder/29913
+                - img "folder" [ref=e762]
+                - textbox [ref=e764]: "33100"
+              - generic [ref=e765]:
+                - button [ref=e766]
+                - generic:
+                  - generic [ref=e768]: Rename
+                  - generic [ref=e770]: Delete
+            - generic [ref=e773] [cursor=pointer]:
+              - link "folder 33096" [ref=e774]:
+                - /url: /dashboard/folder/29903
+                - img "folder" [ref=e776]
+                - textbox [ref=e778]: "33096"
+              - generic [ref=e779]:
+                - button [ref=e780]
+                - generic:
+                  - generic [ref=e782]: Rename
+                  - generic [ref=e784]: Delete
+            - generic [ref=e787] [cursor=pointer]:
+              - link "folder 33095" [ref=e788]:
+                - /url: /dashboard/folder/29893
+                - img "folder" [ref=e790]
+                - textbox [ref=e792]: "33095"
+              - generic [ref=e793]:
+                - button [ref=e794]
+                - generic:
+                  - generic [ref=e796]: Rename
+                  - generic [ref=e798]: Delete
+            - generic [ref=e801] [cursor=pointer]:
+              - link "folder 33094" [ref=e802]:
+                - /url: /dashboard/folder/29883
+                - img "folder" [ref=e804]
+                - textbox [ref=e806]: "33094"
+              - generic [ref=e807]:
+                - button [ref=e808]
+                - generic:
+                  - generic [ref=e810]: Rename
+                  - generic [ref=e812]: Delete
+            - generic [ref=e815] [cursor=pointer]:
+              - link "folder 33093" [ref=e816]:
+                - /url: /dashboard/folder/29873
+                - img "folder" [ref=e818]
+                - textbox [ref=e820]: "33093"
+              - generic [ref=e821]:
+                - button [ref=e822]
+                - generic:
+                  - generic [ref=e824]: Rename
+                  - generic [ref=e826]: Delete
+            - generic [ref=e829] [cursor=pointer]:
+              - link "folder 33087" [ref=e830]:
+                - /url: /dashboard/folder/29863
+                - img "folder" [ref=e832]
+                - textbox [ref=e834]: "33087"
+              - generic [ref=e835]:
+                - button [ref=e836]
+                - generic:
+                  - generic [ref=e838]: Rename
+                  - generic [ref=e840]: Delete
+            - generic [ref=e843] [cursor=pointer]:
+              - link "folder 32391" [ref=e844]:
+                - /url: /dashboard/folder/29666
+                - img "folder" [ref=e846]
+                - textbox [ref=e848]: "32391"
+              - generic [ref=e849]:
+                - button [ref=e850]
+                - generic:
+                  - generic [ref=e852]: Rename
+                  - generic [ref=e854]: Delete
+            - generic [ref=e857] [cursor=pointer]:
+              - link "folder 32353" [ref=e858]:
+                - /url: /dashboard/folder/29655
+                - img "folder" [ref=e860]
+                - textbox [ref=e862]: "32353"
+              - generic [ref=e863]:
+                - button [ref=e864]
+                - generic:
+                  - generic [ref=e866]: Rename
+                  - generic [ref=e868]: Delete
+            - generic [ref=e871] [cursor=pointer]:
+              - link "folder 32286" [ref=e872]:
+                - /url: /dashboard/folder/29633
+                - img "folder" [ref=e874]
+                - textbox [ref=e876]: "32286"
+              - generic [ref=e877]:
+                - button [ref=e878]
+                - generic:
+                  - generic [ref=e880]: Rename
+                  - generic [ref=e882]: Delete
+            - generic [ref=e885] [cursor=pointer]:
+              - link "folder 32219" [ref=e886]:
+                - /url: /dashboard/folder/29617
+                - img "folder" [ref=e888]
+                - textbox [ref=e890]: "32219"
+              - generic [ref=e891]:
+                - button [ref=e892]
+                - generic:
+                  - generic [ref=e894]: Rename
+                  - generic [ref=e896]: Delete
+            - generic [ref=e899] [cursor=pointer]:
+              - link "folder test" [ref=e900]:
+                - /url: /dashboard/folder/29574
+                - img "folder" [ref=e902]
+                - textbox [ref=e904]: test
+              - generic [ref=e905]:
+                - button [ref=e906]
+                - generic:
+                  - generic [ref=e908]: Rename
+                  - generic [ref=e910]: Delete
+            - generic [ref=e913] [cursor=pointer]:
+              - link "folder Testing" [ref=e914]:
+                - /url: /dashboard/folder/29547
+                - img "folder" [ref=e916]
+                - textbox [ref=e918]: Testing
+              - generic [ref=e919]:
+                - button [ref=e920]
+                - generic:
+                  - generic [ref=e922]: Rename
+                  - generic [ref=e924]: Delete
+            - generic [ref=e927] [cursor=pointer]:
+              - link "folder TC_121" [ref=e928]:
+                - /url: /dashboard/folder/29537
+                - img "folder" [ref=e930]
+                - textbox [ref=e932]: TC_121
+              - generic [ref=e933]:
+                - button [ref=e934]
+                - generic:
+                  - generic [ref=e936]: Rename
+                  - generic [ref=e938]: Delete
+            - generic [ref=e941] [cursor=pointer]:
+              - link "folder 27336" [ref=e942]:
+                - /url: /dashboard/folder/28869
+                - img "folder" [ref=e944]
+                - textbox [ref=e946]: "27336"
+              - generic [ref=e947]:
+                - button [ref=e948]
+                - generic:
+                  - generic [ref=e950]: Rename
+                  - generic [ref=e952]: Delete
+            - generic [ref=e955] [cursor=pointer]:
+              - link "folder 27320" [ref=e956]:
+                - /url: /dashboard/folder/28808
+                - img "folder" [ref=e958]
+                - textbox [ref=e960]: "27320"
+              - generic [ref=e961]:
+                - button [ref=e962]
+                - generic:
+                  - generic [ref=e964]: Rename
+                  - generic [ref=e966]: Delete
+            - generic [ref=e969] [cursor=pointer]:
+              - link "folder 27152" [ref=e970]:
+                - /url: /dashboard/folder/28738
+                - img "folder" [ref=e972]
+                - textbox [ref=e974]: "27152"
+              - generic [ref=e975]:
+                - button [ref=e976]
+                - generic:
+                  - generic [ref=e978]: Rename
+                  - generic [ref=e980]: Delete
+            - generic [ref=e983] [cursor=pointer]:
+              - link "folder 27129" [ref=e984]:
+                - /url: /dashboard/folder/28617
+                - img "folder" [ref=e986]
+                - textbox [ref=e988]: "27129"
+              - generic [ref=e989]:
+                - button [ref=e990]
+                - generic:
+                  - generic [ref=e992]: Rename
+                  - generic [ref=e994]: Delete
+            - generic [ref=e997] [cursor=pointer]:
+              - link "folder 27052" [ref=e998]:
+                - /url: /dashboard/folder/28556
+                - img "folder" [ref=e1000]
+                - textbox [ref=e1002]: "27052"
+              - generic [ref=e1003]:
+                - button [ref=e1004]
+                - generic:
+                  - generic [ref=e1006]: Rename
+                  - generic [ref=e1008]: Delete
+            - generic [ref=e1011] [cursor=pointer]:
+              - link "folder 27042" [ref=e1012]:
+                - /url: /dashboard/folder/28376
+                - img "folder" [ref=e1014]
+                - textbox [ref=e1016]: "27042"
+              - generic [ref=e1017]:
+                - button [ref=e1018]
+                - generic:
+                  - generic [ref=e1020]: Rename
+                  - generic [ref=e1022]: Delete
+            - generic [ref=e1025] [cursor=pointer]:
+              - link "folder 27037" [ref=e1026]:
+                - /url: /dashboard/folder/28316
+                - img "folder" [ref=e1028]
+                - textbox [ref=e1030]: "27037"
+              - generic [ref=e1031]:
+                - button [ref=e1032]
+                - generic:
+                  - generic [ref=e1034]: Rename
+                  - generic [ref=e1036]: Delete
+            - generic [ref=e1039] [cursor=pointer]:
+              - link "folder 26890" [ref=e1040]:
+                - /url: /dashboard/folder/28249
+                - img "folder" [ref=e1042]
+                - textbox [ref=e1044]: "26890"
+              - generic [ref=e1045]:
+                - button [ref=e1046]
+                - generic:
+                  - generic [ref=e1048]: Rename
+                  - generic [ref=e1050]: Delete
+            - generic [ref=e1053] [cursor=pointer]:
+              - link "folder 26887" [ref=e1054]:
+                - /url: /dashboard/folder/28189
+                - img "folder" [ref=e1056]
+                - textbox [ref=e1058]: "26887"
+              - generic [ref=e1059]:
+                - button [ref=e1060]
+                - generic:
+                  - generic [ref=e1062]: Rename
+                  - generic [ref=e1064]: Delete
+            - generic [ref=e1067] [cursor=pointer]:
+              - link "folder 26882" [ref=e1068]:
+                - /url: /dashboard/folder/28128
+                - img "folder" [ref=e1070]
+                - textbox [ref=e1072]: "26882"
+              - generic [ref=e1073]:
+                - button [ref=e1074]
+                - generic:
+                  - generic [ref=e1076]: Rename
+                  - generic [ref=e1078]: Delete
+            - generic [ref=e1081] [cursor=pointer]:
+              - link "folder 26877" [ref=e1082]:
+                - /url: /dashboard/folder/28068
+                - img "folder" [ref=e1084]
+                - textbox [ref=e1086]: "26877"
+              - generic [ref=e1087]:
+                - button [ref=e1088]
+                - generic:
+                  - generic [ref=e1090]: Rename
+                  - generic [ref=e1092]: Delete
+            - generic [ref=e1095] [cursor=pointer]:
+              - link "folder dev" [ref=e1096]:
+                - /url: /dashboard/folder/14436
+                - img "folder" [ref=e1098]
+                - textbox [ref=e1100]: dev
+              - generic [ref=e1101]:
+                - button [ref=e1102]
+                - generic:
+                  - generic [ref=e1104]: Rename
+                  - generic [ref=e1106]: Delete
+          - grid "grid" [ref=e1109]:
+            - rowgroup [ref=e1110]:
+              - generic [ref=e1111]:
+                - generic [ref=e1114]:
+                  - link "AI Workflow Project Edited 2 minutes ago" [ref=e1115] [cursor=pointer]:
+                    - /url: /model/AW9FSG
+                    - img [ref=e1117]
+                    - generic [ref=e1118]:
+                      - img [ref=e1120]
+                      - generic [ref=e1121]:
+                        - textbox [ref=e1122]: AI Workflow Project
+                        - generic [ref=e1123]: Edited 2 minutes ago
+                  - button [ref=e1125] [cursor=pointer]
+                - generic [ref=e1128]:
+                  - link "AI Workflow Project Edited 2 minutes ago" [ref=e1129] [cursor=pointer]:
+                    - /url: /model/AROQ9G
+                    - img [ref=e1131]
+                    - generic [ref=e1132]:
+                      - img [ref=e1134]
+                      - generic [ref=e1135]:
+                        - textbox [ref=e1136]: AI Workflow Project
+                        - generic [ref=e1137]: Edited 2 minutes ago
+                  - button [ref=e1139] [cursor=pointer]
+                - generic [ref=e1142]:
+                  - link "AI Workflow Project Edited 2 minutes ago" [ref=e1143] [cursor=pointer]:
+                    - /url: /model/ADHKC3
+                    - img [ref=e1145]
+                    - generic [ref=e1146]:
+                      - img [ref=e1148]
+                      - generic [ref=e1149]:
+                        - textbox [ref=e1150]: AI Workflow Project
+                        - generic [ref=e1151]: Edited 2 minutes ago
+                  - button [ref=e1153] [cursor=pointer]
+              - generic [ref=e1154]:
+                - generic [ref=e1157]:
+                  - link "Small Office Building for 10 Employees Edited 2 minutes ago" [ref=e1158] [cursor=pointer]:
+                    - /url: /model/A6D3X7
+                    - img [ref=e1160]
+                    - generic [ref=e1161]:
+                      - img [ref=e1163]
+                      - generic [ref=e1164]:
+                        - textbox [ref=e1165]: Small Office Building for 10 Employees
+                        - generic [ref=e1166]: Edited 2 minutes ago
+                  - button [ref=e1168] [cursor=pointer]
+                - generic [ref=e1171]:
+                  - link "AI Workflow Project Edited 3 minutes ago" [ref=e1172] [cursor=pointer]:
+                    - /url: /model/A0P06B
+                    - img [ref=e1174]
+                    - generic [ref=e1175]:
+                      - img [ref=e1177]
+                      - generic [ref=e1178]:
+                        - textbox [ref=e1179]: AI Workflow Project
+                        - generic [ref=e1180]: Edited 3 minutes ago
+                  - button [ref=e1182] [cursor=pointer]
+                - generic [ref=e1185]:
+                  - link "AI Workflow Project Edited 3 minutes ago" [ref=e1186] [cursor=pointer]:
+                    - /url: /model/AO312I
+                    - img [ref=e1188]
+                    - generic [ref=e1189]:
+                      - img [ref=e1191]
+                      - generic [ref=e1192]:
+                        - textbox [ref=e1193]: AI Workflow Project
+                        - generic [ref=e1194]: Edited 3 minutes ago
+                  - button [ref=e1196] [cursor=pointer]
+              - generic [ref=e1197]:
+                - generic [ref=e1200]:
+                  - link "AI Workflow Project Edited 3 minutes ago" [ref=e1201] [cursor=pointer]:
+                    - /url: /model/ASAEE6
+                    - img [ref=e1203]
+                    - generic [ref=e1204]:
+                      - img [ref=e1206]
+                      - generic [ref=e1207]:
+                        - textbox [ref=e1208]: AI Workflow Project
+                        - generic [ref=e1209]: Edited 3 minutes ago
+                  - button [ref=e1211] [cursor=pointer]
+                - generic [ref=e1214]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1215] [cursor=pointer]:
+                    - /url: /model/APBWIC
+                    - img [ref=e1217]
+                    - generic [ref=e1218]:
+                      - img [ref=e1220]
+                      - generic [ref=e1221]:
+                        - textbox [ref=e1222]: AI Workflow Project
+                        - generic [ref=e1223]: Edited 4 minutes ago
+                  - button [ref=e1225] [cursor=pointer]
+                - generic [ref=e1228]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1229] [cursor=pointer]:
+                    - /url: /model/AC9A9E
+                    - img [ref=e1231]
+                    - generic [ref=e1232]:
+                      - img [ref=e1234]
+                      - generic [ref=e1235]:
+                        - textbox [ref=e1236]: AI Workflow Project
+                        - generic [ref=e1237]: Edited 4 minutes ago
+                  - button [ref=e1239] [cursor=pointer]
+              - generic [ref=e1240]:
+                - generic [ref=e1243]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1244] [cursor=pointer]:
+                    - /url: /model/A5E9BG
+                    - img [ref=e1246]
+                    - generic [ref=e1247]:
+                      - img [ref=e1249]
+                      - generic [ref=e1250]:
+                        - textbox [ref=e1251]: AI Workflow Project
+                        - generic [ref=e1252]: Edited 4 minutes ago
+                  - button [ref=e1254] [cursor=pointer]
+                - generic [ref=e1257]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1258] [cursor=pointer]:
+                    - /url: /model/ADMCZZ
+                    - img [ref=e1260]
+                    - generic [ref=e1261]:
+                      - img [ref=e1263]
+                      - generic [ref=e1264]:
+                        - textbox [ref=e1265]: AI Workflow Project
+                        - generic [ref=e1266]: Edited 4 minutes ago
+                  - button [ref=e1268] [cursor=pointer]
+                - generic [ref=e1271]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1272] [cursor=pointer]:
+                    - /url: /model/A6V6HX
+                    - img [ref=e1274]
+                    - generic [ref=e1275]:
+                      - img [ref=e1277]
+                      - generic [ref=e1278]:
+                        - textbox [ref=e1279]: AI Workflow Project
+                        - generic [ref=e1280]: Edited 4 minutes ago
+                  - button [ref=e1282] [cursor=pointer]
+              - generic [ref=e1283]:
+                - generic [ref=e1286]:
+                  - link "AI Workflow Project Edited 4 minutes ago" [ref=e1287] [cursor=pointer]:
+                    - /url: /model/ASCXDX
+                    - img [ref=e1289]
+                    - generic [ref=e1290]:
+                      - img [ref=e1292]
+                      - generic [ref=e1293]:
+                        - textbox [ref=e1294]: AI Workflow Project
+                        - generic [ref=e1295]: Edited 4 minutes ago
+                  - button [ref=e1297] [cursor=pointer]
+                - generic [ref=e1300]:
+                  - link "Small Scale Office for 10 Employees Edited 4 minutes ago" [ref=e1301] [cursor=pointer]:
+                    - /url: /model/AF5VUD
+                    - img [ref=e1303]
+                    - generic [ref=e1304]:
+                      - img [ref=e1306]
+                      - generic [ref=e1307]:
+                        - textbox [ref=e1308]: Small Scale Office for 10 Employees
+                        - generic [ref=e1309]: Edited 4 minutes ago
+                  - button [ref=e1311] [cursor=pointer]
+                - generic [ref=e1314]:
+                  - link "Small Office Building for 10 Employees Edited 12 minutes ago" [ref=e1315] [cursor=pointer]:
+                    - /url: /model/AU1NNG
+                    - img [ref=e1317]
+                    - generic [ref=e1318]:
+                      - img [ref=e1320]
+                      - generic [ref=e1321]:
+                        - textbox [ref=e1322]: Small Office Building for 10 Employees
+                        - generic [ref=e1323]: Edited 12 minutes ago
+                  - button [ref=e1325] [cursor=pointer]
+              - generic [ref=e1326]:
+                - generic [ref=e1329]:
+                  - link "Small Office Building for 10 Employees Edited 24 minutes ago" [ref=e1330] [cursor=pointer]:
+                    - /url: /model/A68BKT
+                    - img [ref=e1332]
+                    - generic [ref=e1333]:
+                      - img [ref=e1335]
+                      - generic [ref=e1336]:
+                        - textbox [ref=e1337]: Small Office Building for 10 Employees
+                        - generic [ref=e1338]: Edited 24 minutes ago
+                  - button [ref=e1340] [cursor=pointer]
+                - generic [ref=e1343]:
+                  - link "Small Office for 10 Employees Edited 33 minutes ago" [ref=e1344] [cursor=pointer]:
+                    - /url: /model/ABGG2V
+                    - img [ref=e1346]
+                    - generic [ref=e1347]:
+                      - img [ref=e1349]
+                      - generic [ref=e1350]:
+                        - textbox [ref=e1351]: Small Office for 10 Employees
+                        - generic [ref=e1352]: Edited 33 minutes ago
+                  - button [ref=e1354] [cursor=pointer]
+                - generic [ref=e1357]:
+                  - link "Untitled Edited 42 minutes ago" [ref=e1358] [cursor=pointer]:
+                    - /url: /model/AFMDZV
+                    - img [ref=e1360]
+                    - generic [ref=e1361]:
+                      - img [ref=e1363]
+                      - generic [ref=e1364]:
+                        - textbox [ref=e1365]: Untitled
+                        - generic [ref=e1366]: Edited 42 minutes ago
+                  - button [ref=e1368] [cursor=pointer]
+              - generic [ref=e1369]:
+                - generic [ref=e1372]:
+                  - link "Boutique Office Building (10-Person Open Workspace) Edited 52 minutes ago" [ref=e1373] [cursor=pointer]:
+                    - /url: /model/ACMMFY
+                    - img [ref=e1375]
+                    - generic [ref=e1376]:
+                      - img [ref=e1378]
+                      - generic [ref=e1379]:
+                        - textbox [ref=e1380]: Boutique Office Building (10-Person Open Workspace)
+                        - generic [ref=e1381]: Edited 52 minutes ago
+                  - button [ref=e1383] [cursor=pointer]
+                - generic [ref=e1386]:
+                  - link "Small Urban Office for 10 Employees Edited 1 hour ago" [ref=e1387] [cursor=pointer]:
+                    - /url: /model/A4MRHB
+                    - img [ref=e1389]
+                    - generic [ref=e1390]:
+                      - img [ref=e1392]
+                      - generic [ref=e1393]:
+                        - textbox [ref=e1394]: Small Urban Office for 10 Employees
+                        - generic [ref=e1395]: Edited 1 hour ago
+                  - button [ref=e1397] [cursor=pointer]
+                - generic [ref=e1400]:
+                  - link "Untitled Edited 1 hour ago" [ref=e1401] [cursor=pointer]:
+                    - /url: /model/AT4KY3
+                    - img [ref=e1403]
+                    - generic [ref=e1404]:
+                      - img [ref=e1406]
+                      - generic [ref=e1407]:
+                        - textbox [ref=e1408]: Untitled
+                        - generic [ref=e1409]: Edited 1 hour ago
+                  - button [ref=e1411] [cursor=pointer]
+              - generic [ref=e1412]:
+                - generic [ref=e1415]:
+                  - link "Small Office Building for 10 Employees Edited 1 hour ago" [ref=e1416] [cursor=pointer]:
+                    - /url: /model/AOH6TY
+                    - img [ref=e1418]
+                    - generic [ref=e1419]:
+                      - img [ref=e1421]
+                      - generic [ref=e1422]:
+                        - textbox [ref=e1423]: Small Office Building for 10 Employees
+                        - generic [ref=e1424]: Edited 1 hour ago
+                  - button [ref=e1426] [cursor=pointer]
+                - generic [ref=e1429]:
+                  - link "Untitled Edited 1 hour ago" [ref=e1430] [cursor=pointer]:
+                    - /url: /model/ARHFI9
+                    - img [ref=e1432]
+                    - generic [ref=e1433]:
+                      - img [ref=e1435]
+                      - generic [ref=e1436]:
+                        - textbox [ref=e1437]: Untitled
+                        - generic [ref=e1438]: Edited 1 hour ago
+                  - button [ref=e1440] [cursor=pointer]
+                - generic [ref=e1443]:
+                  - link "10-Employee Urban Office Building Edited 1 hour ago" [ref=e1444] [cursor=pointer]:
+                    - /url: /model/AJWU42
+                    - img [ref=e1446]
+                    - generic [ref=e1447]:
+                      - img [ref=e1449]
+                      - generic [ref=e1450]:
+                        - textbox [ref=e1451]: 10-Employee Urban Office Building
+                        - generic [ref=e1452]: Edited 1 hour ago
+                  - button [ref=e1454] [cursor=pointer]
+              - generic [ref=e1455]:
+                - generic [ref=e1458]:
+                  - link "Small Office Building for 10 Employees Edited 1 hour ago" [ref=e1459] [cursor=pointer]:
+                    - /url: /model/A91Z01
+                    - img [ref=e1461]
+                    - generic [ref=e1462]:
+                      - img [ref=e1464]
+                      - generic [ref=e1465]:
+                        - textbox [ref=e1466]: Small Office Building for 10 Employees
+                        - generic [ref=e1467]: Edited 1 hour ago
+                  - button [ref=e1469] [cursor=pointer]
+                - generic [ref=e1472]:
+                  - link "Small Urban Office for 10 Employees Edited 2 hours ago" [ref=e1473] [cursor=pointer]:
+                    - /url: /model/ALURAC
+                    - img [ref=e1475]
+                    - generic [ref=e1476]:
+                      - img [ref=e1478]
+                      - generic [ref=e1479]:
+                        - textbox [ref=e1480]: Small Urban Office for 10 Employees
+                        - generic [ref=e1481]: Edited 2 hours ago
+                  - button [ref=e1483] [cursor=pointer]
+                - generic [ref=e1486]:
+                  - link "Untitled Edited 2 hours ago" [ref=e1487] [cursor=pointer]:
+                    - /url: /model/A8IVUI
+                    - img [ref=e1489]
+                    - generic [ref=e1490]:
+                      - img [ref=e1492]
+                      - generic [ref=e1493]:
+                        - textbox [ref=e1494]: Untitled
+                        - generic [ref=e1495]: Edited 2 hours ago
+                  - button [ref=e1497] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - generic:
+    - generic:
+      - generic: Open project
+    - generic:
+      - generic: Open In AI mode
+    - generic:
+      - generic: Open In New Tab
+    - generic:
+      - generic: Rename
+    - generic:
+      - generic:
+        - generic:
+          - generic: Duplicate Project
+    - generic:
+      - generic: Delete
+  - iframe [ref=e1498]:
+    
+  - iframe [ref=e1500]:
+    - generic [active] [ref=f14e1]:
+      - generic "Intercom":
+        - region "Intercom messenger":
+          - button "Open Intercom Messenger" [ref=f14e2] [cursor=pointer]:
+            - img [ref=f14e4]
+            - img [ref=f14e7]
+```
