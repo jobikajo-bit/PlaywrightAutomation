@@ -70,34 +70,14 @@ await page.locator('//canvas[@id="canvas"]').click({
     }
   });
   AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
-
-  await page.getByRole('img', { name: 'copy' }).click();
-  await page.locator('//canvas[@id="canvas"]').click({
-    position: {
-      x: 443,
-      y: 427
-    }
-  });
-  await page.getByTestId('copy-array-distance-input').click({
-    force: true,
-    position: {
-      x: 410,
-      y: 470
-    }
-  });
-  await page.getByTestId('copy-array-distance-input').press('Tab');
-  await page.getByTestId('copy-array-number-of-copies-input-input').fill('3');
+await page.getByRole('img', { name: 'copy' }).click();
+  await page.locator('#canvas').click();
+  await page.mouse.move(431, 273);
+  await page.getByTestId('copy-array-number-of-copies-input-input').fill('4');
   await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
   await page.locator('body').press('Escape');
-  
-  AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
-
-  
-
-})
-
-
-
+    
+  })
 
 
 

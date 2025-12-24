@@ -58,24 +58,22 @@ await page.locator('//canvas[@id="canvas"]').click({
   await page.locator('//img[@id="img-top-menu-bar-design-copy"]').click();
 await page.locator('//canvas[@id="canvas"]').click({
   position: {
-      x: 551,
-      y: 294
+      x: 415,
+      y: 248
     }
   });
 
-await page.getByTestId('copy-array-distance-input').click({
-    position: {
-      x: 558,
-      y: 388
-    }
-  });
-await page.getByTestId('copy-array-number-of-copies-input-input').fill('4');
+await page.mouse.move(511, 294);
+    
+  await page.getByTestId('copy-array-number-of-copies-input-input').fill('4');
+
 await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
 await page.locator('body').press('Escape');
 
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
 
 })
+
 
 
 

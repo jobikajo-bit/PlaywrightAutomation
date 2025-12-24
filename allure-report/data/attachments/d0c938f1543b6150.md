@@ -1,0 +1,1139 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - banner [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "vs-logo-img" [ref=e14] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en
+            - img "vs-logo-img" [ref=e15]
+          - generic [ref=e16]:
+            - img "locate-icon" [ref=e17] [cursor=pointer]
+            - paragraph [ref=e18] [cursor=pointer]:
+              - text: Deliver to
+              - link "Select your location" [ref=e19]:
+                - /url: "#"
+          - generic [ref=e21]:
+            - img "search-icon" [ref=e22]
+            - textbox "Search for phone, TV, home appliances..." [ref=e23]: iphone 16 plus
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - img "Store Locator icon" [ref=e27] [cursor=pointer]
+              - link "Store Locator" [ref=e28] [cursor=pointer]:
+                - /url: /store-locator
+            - listitem [ref=e29]:
+              - img "Help Center icon" [ref=e30] [cursor=pointer]
+              - link "Help Center" [ref=e31] [cursor=pointer]:
+                - /url: /contact-us
+          - link "wishlist-empty-icon" [ref=e33] [cursor=pointer]:
+            - /url: /profile-page/wishlist
+            - img "wishlist-empty-icon" [ref=e34]
+          - link "prelogin-icon" [ref=e36] [cursor=pointer]:
+            - /url: /login
+            - img "prelogin-icon" [ref=e37]
+          - link "cart-icon" [ref=e39] [cursor=pointer]:
+            - /url: /cart
+            - img "cart-icon" [ref=e40]
+        - list [ref=e43]:
+          - listitem [ref=e44] [cursor=pointer]:
+            - link "Mobiles, Tablets & Accessories" [ref=e45]:
+              - /url: /c/mobiles-tablets-and-accessories
+          - listitem [ref=e46] [cursor=pointer]:
+            - link "Laptops & Accessories" [ref=e47]:
+              - /url: /c/laptops-and-accessories
+          - listitem [ref=e48] [cursor=pointer]:
+            - link "Home Appliances" [ref=e49]:
+              - /url: /c/home-appliances
+          - listitem [ref=e50] [cursor=pointer]:
+            - link "Kitchen Appliances" [ref=e51]:
+              - /url: /c/kitchen-appliances
+          - listitem [ref=e52] [cursor=pointer]:
+            - link "TV & Entertainment" [ref=e53]:
+              - /url: /c/television-and-entertainment
+          - listitem [ref=e54] [cursor=pointer]:
+            - link "Personal Care" [ref=e55]:
+              - /url: /c/grooming-and-fitness
+          - listitem [ref=e56] [cursor=pointer]:
+            - link "Headphones & Speakers" [ref=e57]:
+              - /url: /c/headphones-and-speakers
+          - listitem [ref=e58] [cursor=pointer]:
+            - link "Brand Stores" [ref=e59]:
+              - /url: /brands
+          - listitem [ref=e60] [cursor=pointer]:
+            - link "Loyalty Hub" [ref=e61]:
+              - /url: /loyalty
+    - generic [ref=e62]:
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - link:
+            - /url: /product-listing-page
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Smartphone" [ref=e73] [cursor=pointer]:
+                - /url: /c/smartphones
+            - listitem [ref=e74]:
+              - link "iPhone" [ref=e75] [cursor=pointer]:
+                - /url: /c/iphones
+            - listitem [ref=e76]:
+              - link "Basic Phone" [ref=e77] [cursor=pointer]:
+                - /url: /c/basic-phones
+            - listitem [ref=e78]:
+              - link "Smart Watch" [ref=e79] [cursor=pointer]:
+                - /url: /c/smart-watches
+            - listitem [ref=e80]:
+              - link "Charger" [ref=e81] [cursor=pointer]:
+                - /url: /c/adapters
+            - listitem [ref=e82]:
+              - link "Tablets" [ref=e83] [cursor=pointer]:
+                - /url: /c/tablets
+            - listitem [ref=e84]:
+              - link "Tablet Accessories" [ref=e85] [cursor=pointer]:
+                - /url: /sale/tablet-accessories
+            - listitem [ref=e86]:
+              - link "iPad" [ref=e87] [cursor=pointer]:
+                - /url: /c/ipads
+            - listitem [ref=e88]:
+              - link "Graphic Tablet" [ref=e89] [cursor=pointer]:
+                - /url: /c/graphic-tablets
+            - listitem [ref=e90]:
+              - link "Power Bank" [ref=e91] [cursor=pointer]:
+                - /url: /c/power-bank
+            - listitem [ref=e92]:
+              - link "Cable" [ref=e93] [cursor=pointer]:
+                - /url: /c/cables
+            - listitem [ref=e94]:
+              - link "Cases and Cover" [ref=e95] [cursor=pointer]:
+                - /url: /c/cases-and-covers
+        - generic [ref=e102]:
+          - link "Smartphone" [ref=e107] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/mobile-store
+            - img "Smartphone" [ref=e108]
+          - link "cmf-accessories" [ref=e113] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/accessories/cmf-and-nothing-accessories
+            - img "cmf-accessories" [ref=e114]
+      - generic [ref=e116]:
+        - generic [ref=e122]:
+          - link:
+            - /url: "#"
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Laptop" [ref=e125] [cursor=pointer]:
+                - /url: /c/laptops
+            - listitem [ref=e126]:
+              - link "MacBook" [ref=e127] [cursor=pointer]:
+                - /url: /c/macbooks
+            - listitem [ref=e128]:
+              - link "Printer" [ref=e129] [cursor=pointer]:
+                - /url: /c/printers
+            - listitem [ref=e130]:
+              - link "Router" [ref=e131] [cursor=pointer]:
+                - /url: /c/routers
+            - listitem [ref=e132]:
+              - link "Computer Accessories" [ref=e133] [cursor=pointer]:
+                - /url: /c/computer-accessories
+            - listitem [ref=e134]:
+              - link "Hard Disk" [ref=e135] [cursor=pointer]:
+                - /url: /c/hard-disks
+            - listitem [ref=e136]:
+              - link "Pendrives" [ref=e137] [cursor=pointer]:
+                - /url: /c/pen-drives
+            - listitem [ref=e138]:
+              - link "SSD" [ref=e139] [cursor=pointer]:
+                - /url: /c/ssd
+            - listitem [ref=e140]:
+              - link "Desktop" [ref=e141] [cursor=pointer]:
+                - /url: /c/desktops
+        - generic [ref=e148]:
+          - link "abcd" [ref=e153] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/open-box-store
+            - img "abcd" [ref=e154]
+          - link "Laptops" [ref=e159] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/c/laptops?categories=Refurbished%20Laptops
+            - img "Laptops" [ref=e160]
+      - generic [ref=e162]:
+        - generic [ref=e168]:
+          - link:
+            - /url: "#"
+          - list [ref=e169]:
+            - listitem [ref=e170]:
+              - link "Air Conditioner" [ref=e171] [cursor=pointer]:
+                - /url: /c/air-conditioners
+            - listitem [ref=e172]:
+              - link "Washing Machine" [ref=e173] [cursor=pointer]:
+                - /url: /c/washing-machines
+            - listitem [ref=e174]:
+              - link "Refrigerator" [ref=e175] [cursor=pointer]:
+                - /url: /c/refrigerators
+            - listitem [ref=e176]:
+              - link "Geyser" [ref=e177] [cursor=pointer]:
+                - /url: /c/geysers-and-water-heaters
+            - listitem [ref=e178]:
+              - link "Air Purifier" [ref=e179] [cursor=pointer]:
+                - /url: /c/air-purifiers
+            - listitem [ref=e180]:
+              - link "Vacuum Cleaner" [ref=e181] [cursor=pointer]:
+                - /url: /c/vacuum-cleaners
+            - listitem [ref=e182]:
+              - link "Dishwasher" [ref=e183] [cursor=pointer]:
+                - /url: /c/dishwashers
+            - listitem [ref=e184]:
+              - link "Iron" [ref=e185] [cursor=pointer]:
+                - /url: /c/irons
+            - listitem [ref=e186]:
+              - link "Electronic Safe" [ref=e187] [cursor=pointer]:
+                - /url: /c/electronic-safe
+            - listitem [ref=e188]:
+              - link "Dehumidifier" [ref=e189] [cursor=pointer]:
+                - /url: /c/dehumidifiers
+            - listitem [ref=e190]:
+              - link "Garment Steamer" [ref=e191] [cursor=pointer]:
+                - /url: /c/garment-steamers
+            - listitem [ref=e192]:
+              - link "Fans" [ref=e193] [cursor=pointer]:
+                - /url: /c/fans
+            - listitem [ref=e194]:
+              - link "Air Cooler" [ref=e195] [cursor=pointer]:
+                - /url: /c/air-coolers
+            - listitem [ref=e196]:
+              - link "Water Dispenser" [ref=e197] [cursor=pointer]:
+                - /url: /c/water-dispensers
+            - listitem [ref=e198]:
+              - link "Security Camera & Dashcam" [ref=e199] [cursor=pointer]:
+                - /url: /sale/security-camera-and-dashcam
+            - listitem [ref=e200]:
+              - link "Stabilizer" [ref=e201] [cursor=pointer]:
+                - /url: /c/stabilizers
+            - listitem [ref=e202]:
+              - link "Wine Cooler" [ref=e203] [cursor=pointer]:
+                - /url: /c/wine-cooler
+            - listitem [ref=e204]:
+              - link "Dryer" [ref=e205] [cursor=pointer]:
+                - /url: /c/dryers
+            - listitem [ref=e206]:
+              - link "Smart Home Devices" [ref=e207] [cursor=pointer]:
+                - /url: /c/smart-home-accessories
+            - listitem [ref=e208]:
+              - link "Room Heater" [ref=e209] [cursor=pointer]:
+                - /url: /c/room-heaters
+        - link "Dishwashers" [ref=e219] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/search-listing?q=Dishwashers
+          - img "Dishwashers" [ref=e220]
+      - generic [ref=e222]:
+        - generic [ref=e228]:
+          - link:
+            - /url: "#"
+          - list [ref=e229]:
+            - listitem [ref=e230]:
+              - link "Mixer Grinder" [ref=e231] [cursor=pointer]:
+                - /url: /c/mixer-grinder
+            - listitem [ref=e232]:
+              - link "Nutri Blend" [ref=e233] [cursor=pointer]:
+                - /url: /c/nutri-blender
+            - listitem [ref=e234]:
+              - link "Microwave" [ref=e235] [cursor=pointer]:
+                - /url: /c/microwave
+            - listitem [ref=e236]:
+              - link "Air Fryer" [ref=e237] [cursor=pointer]:
+                - /url: /c/air-fryers
+            - listitem [ref=e238]:
+              - link "Water Purifier" [ref=e239] [cursor=pointer]:
+                - /url: /c/water-purifiers
+            - listitem [ref=e240]:
+              - link "Coffee Maker" [ref=e241] [cursor=pointer]:
+                - /url: /c/coffee-machines
+            - listitem [ref=e242]:
+              - link "Kettle" [ref=e243] [cursor=pointer]:
+                - /url: /c/kettles
+            - listitem [ref=e244]:
+              - link "Cooktop" [ref=e245] [cursor=pointer]:
+                - /url: /c/cooktop
+            - listitem [ref=e246]:
+              - link "Juicer Mixer Grinder" [ref=e247] [cursor=pointer]:
+                - /url: /c/juicers-mixers-and-grinders
+            - listitem [ref=e248]:
+              - link "Hand Mixer and Blender" [ref=e249] [cursor=pointer]:
+                - /url: /c/hand-mixers-and-blenders
+        - generic [ref=e255]:
+          - link:
+            - /url: "#"
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - link "Chimney" [ref=e258] [cursor=pointer]:
+                - /url: /c/chimneys
+            - listitem [ref=e259]:
+              - link "Atta Maker" [ref=e260] [cursor=pointer]:
+                - /url: /c/atta-maker
+            - listitem [ref=e261]:
+              - link "Food Processor" [ref=e262] [cursor=pointer]:
+                - /url: /c/food-processors
+            - listitem [ref=e263]:
+              - link "OTG" [ref=e264] [cursor=pointer]:
+                - /url: /c/microwave-and-otgs
+            - listitem [ref=e265]:
+              - link "Popup Toaster" [ref=e266] [cursor=pointer]:
+                - /url: /c/popup-toasters
+            - listitem [ref=e267]:
+              - link "Sandwich Maker" [ref=e268] [cursor=pointer]:
+                - /url: /c/sandwich-toasters
+            - listitem [ref=e269]:
+              - link "Chopper" [ref=e270] [cursor=pointer]:
+                - /url: /c/choppers
+            - listitem [ref=e271]:
+              - link "HOB" [ref=e272] [cursor=pointer]:
+                - /url: /c/built-in-hobs
+            - listitem [ref=e273]:
+              - link "Juicer" [ref=e274] [cursor=pointer]:
+                - /url: /c/juicer
+            - listitem [ref=e275]:
+              - link "Wet Grinder" [ref=e276] [cursor=pointer]:
+                - /url: /c/wet-grinders
+        - link "Microwaves" [ref=e288] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/microwave
+          - img "Microwaves" [ref=e289]
+      - generic [ref=e291]:
+        - generic [ref=e297]:
+          - link:
+            - /url: "#"
+          - list [ref=e298]:
+            - listitem [ref=e299]:
+              - link "Television" [ref=e300] [cursor=pointer]:
+                - /url: /c/televisions
+            - listitem [ref=e301]:
+              - link "Soundbar" [ref=e302] [cursor=pointer]:
+                - /url: /c/soundbars
+            - listitem [ref=e303]:
+              - link "Home Theatre" [ref=e304] [cursor=pointer]:
+                - /url: /c/home-theaters
+            - listitem [ref=e305]:
+              - link "Speaker" [ref=e306] [cursor=pointer]:
+                - /url: /c/speakers
+            - listitem [ref=e307]:
+              - link "Party Speaker" [ref=e308] [cursor=pointer]:
+                - /url: /c/party-speakers
+            - listitem [ref=e309]:
+              - link "Gaming" [ref=e310] [cursor=pointer]:
+                - /url: /c/gaming
+            - listitem [ref=e311]:
+              - link "TV Accessories" [ref=e312] [cursor=pointer]:
+                - /url: /c/tv-accessories
+        - generic [ref=e319]:
+          - link "Gaming" [ref=e324] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/play-station/fortnite-bundle
+            - img "Gaming" [ref=e325]
+          - link "abcd" [ref=e330] [cursor=pointer]:
+            - /url: /c/large-audio
+            - img "abcd" [ref=e331]
+      - generic [ref=e333]:
+        - generic [ref=e339]:
+          - link:
+            - /url: "#"
+          - list [ref=e340]:
+            - listitem [ref=e341]:
+              - link "Trimmer" [ref=e342] [cursor=pointer]:
+                - /url: /c/trimmers
+            - listitem [ref=e343]:
+              - link "Shaver" [ref=e344] [cursor=pointer]:
+                - /url: /c/shavers
+            - listitem [ref=e345]:
+              - link "Hair Straightener" [ref=e346] [cursor=pointer]:
+                - /url: /c/hair-straighteners
+            - listitem [ref=e347]:
+              - link "Hair Dryer" [ref=e348] [cursor=pointer]:
+                - /url: /c/hair-dryers
+            - listitem [ref=e349]:
+              - link "Hair Styler" [ref=e350] [cursor=pointer]:
+                - /url: /c/hair-stylers
+            - listitem [ref=e351]:
+              - link "Massager" [ref=e352] [cursor=pointer]:
+                - /url: /c/massagers
+        - link "abcd" [ref=e362] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/personal-care?brand=Bombae,Bombay%20Shaving%20Company
+          - img "abcd" [ref=e363]
+      - generic [ref=e365]:
+        - generic [ref=e371]:
+          - link:
+            - /url: "#"
+          - list [ref=e372]:
+            - listitem [ref=e373]:
+              - link "Truly Wireless Earbud" [ref=e374] [cursor=pointer]:
+                - /url: /c/truly-wireless-earbuds
+            - listitem [ref=e375]:
+              - link "Neckband" [ref=e376] [cursor=pointer]:
+                - /url: /c/neckbands
+            - listitem [ref=e377]:
+              - link "Headphone" [ref=e378] [cursor=pointer]:
+                - /url: /c/headphones
+            - listitem [ref=e379]:
+              - link "Earphone" [ref=e380] [cursor=pointer]:
+                - /url: /c/earphones
+            - listitem [ref=e381]:
+              - link "Portable Speaker" [ref=e382] [cursor=pointer]:
+                - /url: /c/portable-speakers
+        - link "Bose" [ref=e392] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/sale/audio/bose-audio
+          - img "Bose" [ref=e393]
+      - generic [ref=e395]:
+        - generic [ref=e401]:
+          - link:
+            - /url: "#"
+          - list [ref=e402]:
+            - listitem [ref=e403]:
+              - link "Apple" [ref=e404] [cursor=pointer]:
+                - /url: /brands/apple-store
+            - listitem [ref=e405]:
+              - link "Vise" [ref=e406] [cursor=pointer]:
+                - /url: /plp/brand/Vise?brand=Vise
+            - listitem [ref=e407]:
+              - link "Asus" [ref=e408] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/?brand=ASUS
+            - listitem [ref=e409]:
+              - link "JBL" [ref=e410] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/brand/JBL?brand=JBL
+            - listitem [ref=e411]:
+              - link "LG" [ref=e412] [cursor=pointer]:
+                - /url: /brands/lg-store
+            - listitem [ref=e413]:
+              - link "OnePlus" [ref=e414] [cursor=pointer]:
+                - /url: /brands/oneplus-store
+            - listitem [ref=e415]:
+              - link "Samsung" [ref=e416] [cursor=pointer]:
+                - /url: /brands/samsung-store
+            - listitem [ref=e417]:
+              - link "Sony" [ref=e418] [cursor=pointer]:
+                - /url: /brands/sony-store
+            - listitem [ref=e419]:
+              - link "Boat" [ref=e420] [cursor=pointer]:
+                - /url: /brands/boat_store
+        - generic [ref=e427]:
+          - link "abcd" [ref=e432] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/audio/boat-audio
+            - img "abcd" [ref=e433]
+          - link "iPhone 17" [ref=e438] [cursor=pointer]:
+            - /url: /brands/apple-store
+            - img "iPhone 17" [ref=e439]
+  - generic [ref=e442]:
+    - generic [ref=e444]:
+      - generic [ref=e446]:
+        - generic [ref=e448]:
+          - generic [ref=e449]:
+            - generic [ref=e450]:
+              - img "filter label" [ref=e451]
+              - paragraph [ref=e452]: Filters
+            - link "Clear All" [ref=e454] [cursor=pointer]:
+              - /url: ""
+          - generic [ref=e458] [cursor=pointer]:
+            - checkbox "Exclude out of stock" [ref=e459]
+            - text: Exclude out of stock
+        - generic [ref=e461]:
+          - generic [ref=e462]:
+            - heading "Search Listing" [level=1] [ref=e464]
+            - generic [ref=e465]:
+              - button "Sort By sortby dropdown" [ref=e466] [cursor=pointer]:
+                - generic [ref=e467]: Sort By
+                - img "sortby dropdown" [ref=e468]
+              - list [ref=e470]:
+                - listitem [ref=e471] [cursor=pointer]: "Price: Low to High"
+                - listitem [ref=e472] [cursor=pointer]: "Price: High to Low"
+                - listitem [ref=e473] [cursor=pointer]: New Arrivals
+                - listitem [ref=e474] [cursor=pointer]: Discounts
+          - generic [ref=e585]:
+            - link "left-arrow PREV" [ref=e586] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - img "left-arrow" [ref=e587]
+              - text: PREV
+            - list
+            - link "NEXT right-arrow" [ref=e588] [cursor=pointer]:
+              - /url: javascript:void(0)
+              - text: NEXT
+              - img "right-arrow" [ref=e589]
+      - button "Undo" [ref=e593]
+    - generic [ref=e595]:
+      - generic [ref=e596]:
+        - img "plus" [ref=e599] [cursor=pointer]
+        - img "plus" [ref=e602] [cursor=pointer]
+        - img "plus" [ref=e605] [cursor=pointer]
+        - img "plus" [ref=e608] [cursor=pointer]
+      - generic [ref=e609]:
+        - button "Clear All" [ref=e610] [cursor=pointer]
+        - button "Compare" [ref=e611] [cursor=pointer]
+        - button "close" [ref=e612] [cursor=pointer]:
+          - img "close" [ref=e613]
+  - generic [ref=e616]:
+    - generic [ref=e622]:
+      - generic [ref=e624]:
+        - generic [ref=e625]:
+          - heading "Extended Warranty" [level=2] [ref=e626]
+          - paragraph [ref=e628]: Got a question? Look no further calls us.
+        - img "Extended Warranty" [ref=e631]
+      - generic [ref=e633]:
+        - generic [ref=e634]:
+          - heading "Free Delivery" [level=2] [ref=e635]
+          - paragraph [ref=e637]: Available on all our products.
+        - img "Free Delivery" [ref=e640]
+      - generic [ref=e642]:
+        - generic [ref=e643]:
+          - heading "Trusted Tech Delivered Fast" [level=2] [ref=e644]
+          - paragraph [ref=e646]: now in 90 Minutes
+        - img "Same Day Shipping" [ref=e649]
+      - generic [ref=e651]:
+        - generic [ref=e652]:
+          - heading "Easy Installment" [level=2] [ref=e653]
+          - paragraph [ref=e655]: Pay for your purchase in easy EMIs.
+        - img "Easy Installment" [ref=e658]
+    - generic [ref=e664]:
+      - generic [ref=e666]:
+        - generic [ref=e668]:
+          - heading "Stay in touch with us, get product updates, offers, discounts directly to your inbox" [level=3] [ref=e671]
+          - generic [ref=e673]:
+            - textbox "Enter Email Address" [ref=e674]
+            - generic [ref=e675]: Enter Email Address
+          - group [ref=e677]:
+            - generic [ref=e678]:
+              - checkbox "By selecting this option you agree with our Privacy policy and Terms & Conditions" [checked] [ref=e679] [cursor=pointer]
+              - generic [ref=e680]: By selecting this option you agree with our Privacy policy and Terms & Conditions
+          - button "Subscribe" [ref=e682] [cursor=pointer]
+        - generic [ref=e684]:
+          - generic [ref=e686]:
+            - generic [ref=e688]:
+              - heading "Categories" [level=4] [ref=e689]:
+                - text: Categories
+                - link:
+                  - /url: /c/laptops
+              - list [ref=e690]:
+                - listitem [ref=e691]:
+                  - link "Television" [ref=e692] [cursor=pointer]:
+                    - /url: /c/televisions
+                - listitem [ref=e693]:
+                  - link "Smartphone" [ref=e694] [cursor=pointer]:
+                    - /url: /c/smartphones
+                - listitem [ref=e695]:
+                  - link "Laptops" [ref=e696] [cursor=pointer]:
+                    - /url: /c/laptops
+                - listitem [ref=e697]:
+                  - link "Washing Machines" [ref=e698] [cursor=pointer]:
+                    - /url: /c/washing-machines
+                - listitem [ref=e699]:
+                  - link "Party Speakers" [ref=e700] [cursor=pointer]:
+                    - /url: /c/party-speakers
+                - listitem [ref=e701]:
+                  - link "Gaming" [ref=e702] [cursor=pointer]:
+                    - /url: /c/gaming
+            - generic [ref=e704]:
+              - heading "Services" [level=4] [ref=e705]
+              - list [ref=e706]:
+                - listitem [ref=e707]:
+                  - link "Cancellation and Return" [ref=e708] [cursor=pointer]:
+                    - /url: /faqs.html
+                - listitem [ref=e709]:
+                  - link "Loyalty Program" [ref=e710] [cursor=pointer]:
+                    - /url: /loyalty
+                - listitem [ref=e711]:
+                  - link "VS Warranty" [ref=e712] [cursor=pointer]:
+                    - /url: /vswarranty
+                - listitem [ref=e713]:
+                  - link "Enquires/B2B Orders" [ref=e714] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/b2b-enquiry-form
+            - generic [ref=e716]:
+              - heading "Trending Products" [level=4] [ref=e717]
+              - list [ref=e718]:
+                - listitem [ref=e719]:
+                  - link "iPhone 17" [ref=e720] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17
+                - listitem [ref=e721]:
+                  - link "iPhone 17 Pro" [ref=e722] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e723]:
+                  - link "iPhone 17 Pro Max" [ref=e724] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e725]:
+                  - link "iPhone Air" [ref=e726] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-air
+                - listitem [ref=e727]:
+                  - link "TV" [ref=e728] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/televisions
+                - listitem [ref=e729]:
+                  - link "Washing Machine" [ref=e730] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/washing-machines
+                - listitem [ref=e731]:
+                  - link "Water Purifier" [ref=e732] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/water-purifiers
+                - listitem [ref=e733]:
+                  - link "Smartwatch" [ref=e734] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/smart-watches
+                - listitem [ref=e735]:
+                  - link "Microwave" [ref=e736] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/microwave
+          - generic [ref=e738]:
+            - generic [ref=e740]:
+              - heading "About us" [level=4] [ref=e741]:
+                - link "About us" [ref=e742] [cursor=pointer]:
+                  - /url: /about-us
+                  - text: About us
+              - heading "Careers" [level=4] [ref=e743]:
+                - link "Careers" [ref=e744] [cursor=pointer]:
+                  - /url: /careers
+              - heading "e-Waste" [level=4] [ref=e745]:
+                - link "e-Waste" [ref=e746] [cursor=pointer]:
+                  - /url: /e-waste-recycling
+              - heading "Contact" [level=4] [ref=e747]:
+                - link "Contact" [ref=e748] [cursor=pointer]:
+                  - /url: /contact-us
+              - heading "Blogs" [level=4] [ref=e749]:
+                - link "Blogs" [ref=e750] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/blog-listing
+              - heading "Order Status" [level=4] [ref=e751]:
+                - link "Order Status" [ref=e752] [cursor=pointer]:
+                  - /url: /profile-page/my-order
+              - paragraph [ref=e753]
+            - generic [ref=e755]:
+              - heading "Help Center" [level=4] [ref=e756]:
+                - link "Help Center" [ref=e757] [cursor=pointer]:
+                  - /url: /contact-us
+              - heading "Shipping & Delivery" [level=4] [ref=e758]:
+                - link "Shipping & Delivery" [ref=e759] [cursor=pointer]:
+                  - /url: /faqs?faq=shipping-options
+              - heading "My Account" [level=4] [ref=e760]:
+                - link "My Account" [ref=e761] [cursor=pointer]:
+                  - /url: /profile-page/overview
+            - list [ref=e764]:
+              - listitem [ref=e765]:
+                - link "Pricing and Payments" [ref=e766] [cursor=pointer]:
+                  - /url: /faqs?faq=payment-and-returns
+              - listitem [ref=e767]:
+                - link "Store Locator" [ref=e768] [cursor=pointer]:
+                  - /url: /store-locator
+            - list [ref=e771]:
+              - listitem [ref=e772]:
+                - link "Brand Stores" [ref=e773] [cursor=pointer]:
+                  - /url: /brands.html
+              - listitem [ref=e774]:
+                - link "Terms of Use" [ref=e775] [cursor=pointer]:
+                  - /url: /faqs?faq=terms-of-use
+              - listitem [ref=e776]:
+                - link "Caution Notice" [ref=e777] [cursor=pointer]:
+                  - /url: /faqs
+              - listitem [ref=e778]:
+                - link "Privacy Policy" [ref=e779] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/privacy-policy
+      - generic [ref=e781]:
+        - generic [ref=e783]:
+          - heading "Follow us on Socials" [level=3] [ref=e786]
+          - generic [ref=e788]:
+            - link "whatsapp-icon" [ref=e791] [cursor=pointer]:
+              - /url: https://api.whatsapp.com/send?phone=917045926060&text=Hello
+              - img "whatsapp-icon" [ref=e792]
+            - link "facebook-icon" [ref=e795] [cursor=pointer]:
+              - /url: https://www.facebook.com/VijaySales/
+              - img "facebook-icon" [ref=e796]
+            - link "twitter-icon" [ref=e799] [cursor=pointer]:
+              - /url: https://x.com/VijaySales
+              - img "twitter-icon" [ref=e800]
+            - link "instagram-icon" [ref=e803] [cursor=pointer]:
+              - /url: https://www.instagram.com/vijaysalesofficial/
+              - img "instagram-icon" [ref=e804]
+            - link "youtube-icon" [ref=e807] [cursor=pointer]:
+              - /url: https://www.youtube.com/user/vijaysalesstore
+              - img "youtube-icon" [ref=e808]
+            - link "linkedIn-icon" [ref=e811] [cursor=pointer]:
+              - /url: https://in.linkedin.com/company/vijaysales
+              - img "linkedIn-icon" [ref=e812]
+        - generic [ref=e814]:
+          - heading "Download The Service App" [level=6] [ref=e817]
+          - generic [ref=e819]:
+            - link "google-play-store-icon" [ref=e822] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.vijaysales.vscare
+              - img "google-play-store-icon" [ref=e823]
+            - link "apple-store-icon" [ref=e826] [cursor=pointer]:
+              - /url: https://apps.apple.com/in/app/my-vs-vijaysales/id1278356034
+              - img "apple-store-icon" [ref=e827]
+    - generic [ref=e833]:
+      - generic [ref=e835]:
+        - generic [ref=e837]:
+          - heading "AIR CONDITIONERS" [level=4] [ref=e838]
+          - list [ref=e839]:
+            - listitem [ref=e840]:
+              - link "Vise ACs" [ref=e841] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Vise
+            - listitem [ref=e842]:
+              - link "Voltas ACs" [ref=e843] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Voltas
+            - listitem [ref=e844]:
+              - link "Daikin ACs" [ref=e845] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Daikin
+            - listitem [ref=e846]:
+              - link "LG ACs" [ref=e847] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=LG
+            - listitem [ref=e848]:
+              - link "Bluestar ACs" [ref=e849] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Bluestar
+            - listitem [ref=e850]:
+              - link "Godrej ACs" [ref=e851] [cursor=pointer]:
+                - /url: /c/air-conditioners.html?brand=Godrej
+            - listitem [ref=e852]:
+              - link "Mitsubishi ACs" [ref=e853] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Mitsubishi
+            - listitem [ref=e854]:
+              - link "Carrier ACs" [ref=e855] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Carrier
+            - listitem [ref=e856]:
+              - link "Hitachi ACs" [ref=e857] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Hitachi
+            - listitem [ref=e858]:
+              - link "Panasonic ACs" [ref=e859] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Panasonic
+            - listitem [ref=e860]:
+              - link "Samsung ACs" [ref=e861] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Samsung
+            - listitem [ref=e862]:
+              - link "Haier ACs" [ref=e863] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Haier
+            - listitem [ref=e864]:
+              - link "Ogeneral ACs" [ref=e865] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Ogeneral
+            - listitem [ref=e866]:
+              - link "Split ACs" [ref=e867] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Split
+            - listitem [ref=e868]:
+              - link "Window ACs" [ref=e869] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Window
+            - listitem [ref=e870]:
+              - link "Less than 1 Ton ACs" [ref=e871] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e872]:
+              - link "1 Ton ACs" [ref=e873] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e874]:
+              - link "1.2 Ton ACs" [ref=e875] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e876]:
+              - link "1.5 Ton ACs" [ref=e877] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e878]:
+              - link "1.8 Ton ACs" [ref=e879] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.6%20Ton%20to%201.9%20Ton
+            - listitem [ref=e880]:
+              - link "2 Ton ACs" [ref=e881] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e882]:
+              - link "2.2 Ton ACs" [ref=e883] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e884]:
+              - link "2.5 Ton ACs" [ref=e885] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e886]:
+              - link "3 Ton ACs" [ref=e887] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e888]:
+              - link "2 Star ACs" [ref=e889] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=547
+            - listitem [ref=e890]:
+              - link "3 Star ACs" [ref=e891] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=550
+            - listitem [ref=e892]:
+              - link "4 Star ACs" [ref=e893] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=553
+            - listitem [ref=e894]:
+              - link "5 Star ACs" [ref=e895] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?energy_rating=556
+            - listitem [ref=e896]:
+              - link "Fixed Speed ACs" [ref=e897] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Fixed%20Speed
+            - listitem [ref=e898]:
+              - link "Inverter ACs" [ref=e899] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?technology=Inverter
+            - listitem [ref=e900]:
+              - link "Upto 120 SqFt ACs" [ref=e901] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=Upto%20120%20SqFt
+            - listitem [ref=e902]:
+              - link "121 Sq Ft to 180 Sq Ft ACs" [ref=e903] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=121%20Sq%20Ft%20to%20180%20Sq%20Ft
+            - listitem [ref=e904]:
+              - link "181 Sq Ft to 240 Sq Ft ACs" [ref=e905] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=181%20Sq%20Ft%20to%20240%20Sq%20Ft
+            - listitem [ref=e906]:
+              - link "241 Sq Ft to 300 Sq Ft ACs" [ref=e907] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ideal_room_size=241%20Sq%20Ft%20to%20300%20Sq%20Ft
+        - generic [ref=e909]:
+          - heading "LED TV" [level=4] [ref=e910]
+          - list [ref=e911]:
+            - listitem [ref=e912]:
+              - link "SANSUI TV" [ref=e913] [cursor=pointer]:
+                - /url: /c/televisions?brand=SANSUI
+            - listitem [ref=e914]:
+              - link "Vise TV" [ref=e915] [cursor=pointer]:
+                - /url: /c/televisions?brand=Vise
+            - listitem [ref=e916]:
+              - link "Samsung TV" [ref=e917] [cursor=pointer]:
+                - /url: /c/televisions?brand=Samsung
+            - listitem [ref=e918]:
+              - link "LG TV" [ref=e919] [cursor=pointer]:
+                - /url: /c/televisions?brand=LG
+            - listitem [ref=e920]:
+              - link "Sony TV" [ref=e921] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Sony
+            - listitem [ref=e922]:
+              - link "Panasonic TV" [ref=e923] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Panasonic
+            - listitem [ref=e924]:
+              - link "OLED TV" [ref=e925] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?technology=OLED
+            - listitem [ref=e926]:
+              - link "4K/ULTRA HD TV" [ref=e927] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e928]:
+              - link "FULL HD TV" [ref=e929] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=FULL%20HD
+            - listitem [ref=e930]:
+              - link "HD TV" [ref=e931] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD
+            - listitem [ref=e932]:
+              - link "HD READY TV" [ref=e933] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD%20READY
+            - listitem [ref=e934]:
+              - link "25 - 32 inch TV" [ref=e935] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=32%20inch%20to%2039%20inch
+            - listitem [ref=e936]:
+              - link "33 - 44 inch TV" [ref=e937] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e938]:
+              - link "45 - 50 inch TV" [ref=e939] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e940]:
+              - link "51 - 55 inch TV" [ref=e941] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=50%20inch%20to%2059%20inch
+            - listitem [ref=e942]:
+              - link "56 - 65 inch TV" [ref=e943] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=60%20inch%20to%2069%20inch
+            - listitem [ref=e944]:
+              - link "66 inch and above TV" [ref=e945] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=70%20inch%20and%20Above
+        - generic [ref=e947]:
+          - heading "TELEVISIONS & ENTERTAINMENT" [level=4] [ref=e948]
+          - list [ref=e949]:
+            - listitem [ref=e950]:
+              - link "LED TV" [ref=e951] [cursor=pointer]:
+                - /url: /c/televisions?technology=LED
+            - listitem [ref=e952]:
+              - link "HD Ready TV" [ref=e953] [cursor=pointer]:
+                - /url: /c/televisions?resolution=HD%20READY
+            - listitem [ref=e954]:
+              - link "HD TV" [ref=e955] [cursor=pointer]:
+                - /url: /c/televisions?resolution=HD
+            - listitem [ref=e956]:
+              - link "UHD / 4K TV" [ref=e957] [cursor=pointer]:
+                - /url: /c/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e958]:
+              - link "Full HD TV" [ref=e959] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/c/televisions?resolution=FULL%20HD
+            - listitem [ref=e960]:
+              - link "Streaming Devices" [ref=e961] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=TV%20Accessories
+            - listitem [ref=e962]:
+              - link "Audio Accessories" [ref=e963] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Audio%20Accessories
+            - listitem [ref=e964]:
+              - link "Gaming Consoles" [ref=e965] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming
+            - listitem [ref=e966]:
+              - link "Gaming Controllers" [ref=e967] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming%20Controllers
+            - listitem [ref=e968]:
+              - link "Soundbars" [ref=e969] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/soundbars
+            - listitem [ref=e970]:
+              - link "Home Theatre" [ref=e971] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-theaters
+            - listitem [ref=e972]:
+              - link "Speakers" [ref=e973] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/speakers
+            - listitem [ref=e974]:
+              - link "Party Speakers" [ref=e975] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers
+        - generic [ref=e977]:
+          - heading "LARGE APPLIANCES" [level=4] [ref=e978]
+          - list [ref=e979]:
+            - listitem [ref=e980]:
+              - link "Air Conditioners" [ref=e981] [cursor=pointer]:
+                - /url: /c/air-conditioners
+            - listitem [ref=e982]:
+              - link "Split AC" [ref=e983] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Split
+            - listitem [ref=e984]:
+              - link "Window AC" [ref=e985] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Window
+            - listitem [ref=e986]:
+              - link "Portable AC" [ref=e987] [cursor=pointer]:
+                - /url: /c/air-conditioners?ac_type=Portable
+            - listitem [ref=e988]:
+              - link "Washing and Drying" [ref=e989] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e990]:
+              - link "Fully Automatic Top Load" [ref=e991] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Top%20Loading
+            - listitem [ref=e992]:
+              - link "Semi Automatic Top Load" [ref=e993] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Semi%20Automatic
+            - listitem [ref=e994]:
+              - link "Fully Automatic Front Load" [ref=e995] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Front%20Loading
+            - listitem [ref=e996]:
+              - link "Front Load Washer and Dryer" [ref=e997] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e998]:
+              - link "Dryer" [ref=e999] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e1000]:
+              - link "Dishwasher" [ref=e1001] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dishwashers
+            - listitem [ref=e1002]:
+              - link "Refrigerators" [ref=e1003] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators
+            - listitem [ref=e1004]:
+              - link "Single Door" [ref=e1005] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Single%20Door
+            - listitem [ref=e1006]:
+              - link "Double Door" [ref=e1007] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Double%20Door
+            - listitem [ref=e1008]:
+              - link "Triple Door" [ref=e1009] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Triple%20Door
+            - listitem [ref=e1010]:
+              - link "Side By Side" [ref=e1011] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?refrigerator_type=Side%20by%20Side%20Refrigerator
+        - generic [ref=e1013]:
+          - heading "KITCHEN APPLIANCES" [level=4] [ref=e1014]
+          - list [ref=e1015]:
+            - listitem [ref=e1016]:
+              - link "Atta Maker" [ref=e1017] [cursor=pointer]:
+                - /url: /c/atta-maker
+            - listitem [ref=e1018]:
+              - link "Built In Ovens" [ref=e1019] [cursor=pointer]:
+                - /url: /c/microwave-and-otgs
+            - listitem [ref=e1020]:
+              - link "Chimney" [ref=e1021] [cursor=pointer]:
+                - /url: /c/chimneys
+            - listitem [ref=e1022]:
+              - link "Chopper" [ref=e1023] [cursor=pointer]:
+                - /url: /c/choppers
+            - listitem [ref=e1024]:
+              - link "Coffee Maker" [ref=e1025] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/coffee-machines
+            - listitem [ref=e1026]:
+              - link "Cooktop" [ref=e1027] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/cooktop
+            - listitem [ref=e1028]:
+              - link "Food Processor" [ref=e1029] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/food-processors
+            - listitem [ref=e1030]:
+              - link "Air Fryer" [ref=e1031] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-fryers
+            - listitem [ref=e1032]:
+              - link "Hand Blender" [ref=e1033] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e1034]:
+              - link "Hand Mixer" [ref=e1035] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e1036]:
+              - link "HOB" [ref=e1037] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/built-in-hobs
+            - listitem [ref=e1038]:
+              - link "Juicer" [ref=e1039] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicer
+            - listitem [ref=e1040]:
+              - link "Juicer Mixer Grinders" [ref=e1041] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicers-mixers-and-grinders
+            - listitem [ref=e1042]:
+              - link "Grinder" [ref=e1043] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/mixer-grinder
+            - listitem [ref=e1044]:
+              - link "Kettles" [ref=e1045] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/kettles
+            - listitem [ref=e1046]:
+              - link "Microwave" [ref=e1047] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave
+            - listitem [ref=e1048]:
+              - link "Oven" [ref=e1049] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+            - listitem [ref=e1050]:
+              - link "Toaster" [ref=e1051] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/sandwich-toasters
+            - listitem [ref=e1052]:
+              - link "Popup Toaster" [ref=e1053] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/popup-toasters
+            - listitem [ref=e1054]:
+              - link "Sandwich Toaster" [ref=e1055] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/sandwich-toasters
+            - listitem [ref=e1056]:
+              - link "Wet Grinder" [ref=e1057] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/wet-grinders
+            - listitem [ref=e1058]:
+              - link "Mixer" [ref=e1059] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicers-mixers-and-grinders
+        - generic [ref=e1061]:
+          - heading "HEADPHONES & SPEAKERS" [level=4] [ref=e1062]
+          - list [ref=e1063]:
+            - listitem [ref=e1064]:
+              - link "Truly Wireless Earbuds" [ref=e1065] [cursor=pointer]:
+                - /url: /c/truly-wireless-earbuds
+            - listitem [ref=e1066]:
+              - link "Neckbands" [ref=e1067] [cursor=pointer]:
+                - /url: /c/neckbands
+            - listitem [ref=e1068]:
+              - link "Headphones" [ref=e1069] [cursor=pointer]:
+                - /url: /c/headphones
+            - listitem [ref=e1070]:
+              - link "Earphones" [ref=e1071] [cursor=pointer]:
+                - /url: /c/earphones
+            - listitem [ref=e1072]:
+              - link "Portable Speakers" [ref=e1073] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/portable-speakers
+        - generic [ref=e1075]:
+          - heading "HEALTH & GROOMING" [level=4] [ref=e1076]
+          - list [ref=e1077]:
+            - listitem [ref=e1078]:
+              - link "Trimmers" [ref=e1079] [cursor=pointer]:
+                - /url: /c/trimmers
+            - listitem [ref=e1080]:
+              - link "Shavers" [ref=e1081] [cursor=pointer]:
+                - /url: /c/shavers
+            - listitem [ref=e1082]:
+              - link "Hair Stylers" [ref=e1083] [cursor=pointer]:
+                - /url: /c/hair-stylers
+            - listitem [ref=e1084]:
+              - link "Hair Straightners" [ref=e1085] [cursor=pointer]:
+                - /url: /c/hair-straighteners
+            - listitem [ref=e1086]:
+              - link "Hair Dryers" [ref=e1087] [cursor=pointer]:
+                - /url: /c/hair-dryers
+        - generic [ref=e1089]:
+          - heading "TABLETS" [level=4] [ref=e1090]
+          - list [ref=e1091]:
+            - listitem [ref=e1092]:
+              - link "Tablets" [ref=e1093] [cursor=pointer]:
+                - /url: /c/tablets
+            - listitem [ref=e1094]:
+              - link "iPads" [ref=e1095] [cursor=pointer]:
+                - /url: /c/ipads
+            - listitem [ref=e1096]:
+              - link "Graphics Tablets" [ref=e1097] [cursor=pointer]:
+                - /url: /c/graphic-tablets
+        - generic [ref=e1099]:
+          - heading "MOBILES & ACCESSORIES" [level=4] [ref=e1100]
+          - list [ref=e1101]:
+            - listitem [ref=e1102]:
+              - link "Smartphones" [ref=e1103] [cursor=pointer]:
+                - /url: /c/smartphones
+            - listitem [ref=e1104]:
+              - link "iPhones" [ref=e1105] [cursor=pointer]:
+                - /url: /c/iphones
+            - listitem [ref=e1106]:
+              - link "Basic Phones" [ref=e1107] [cursor=pointer]:
+                - /url: /c/basic-phones
+            - listitem [ref=e1108]:
+              - link "Cables" [ref=e1109] [cursor=pointer]:
+                - /url: /c/cables
+            - listitem [ref=e1110]:
+              - link "Adapters" [ref=e1111] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/adapters
+            - listitem [ref=e1112]:
+              - link "Power Bank" [ref=e1113] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/power-bank
+            - listitem [ref=e1114]:
+              - link "Cases and Covers" [ref=e1115] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cases-and-covers
+        - generic [ref=e1117]:
+          - heading "COMPUTER ACCESSORIES" [level=4] [ref=e1118]
+          - list [ref=e1119]:
+            - listitem [ref=e1120]:
+              - link "Mouse" [ref=e1121] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Mouse
+            - listitem [ref=e1122]:
+              - link "Keyboards" [ref=e1123] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Keyboards
+            - listitem [ref=e1124]:
+              - link "Keyboard Mouse Combo" [ref=e1125] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Keyboard%20Mouse%20Combo
+            - listitem [ref=e1126]:
+              - link "Bags" [ref=e1127] [cursor=pointer]:
+                - /url: /c/computer-accessories?categories=Bags
+            - listitem [ref=e1128]:
+              - link "Cooling Pad" [ref=e1129] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e1130]:
+              - link "Laptop Stand" [ref=e1131] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e1132]:
+              - link "Peripherals" [ref=e1133] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Peripherals
+            - listitem [ref=e1134]:
+              - link "Pen Drives" [ref=e1135] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/pen-drives
+            - listitem [ref=e1136]:
+              - link "SSD" [ref=e1137] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ssd
+            - listitem [ref=e1138]:
+              - link "Hard Disks" [ref=e1139] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hard-disks
+        - generic [ref=e1141]:
+          - heading "COMPUTERS & LAPTOPS" [level=4] [ref=e1142]
+          - list [ref=e1143]:
+            - listitem [ref=e1144]:
+              - link "Laptops" [ref=e1145] [cursor=pointer]:
+                - /url: /c/laptops
+            - listitem [ref=e1146]:
+              - link "MacBook" [ref=e1147] [cursor=pointer]:
+                - /url: /c/macbooks
+            - listitem [ref=e1148]:
+              - link "Gaming Laptops" [ref=e1149] [cursor=pointer]:
+                - /url: /c/laptops?usage=Gamers
+            - listitem [ref=e1150]:
+              - link "Desktops" [ref=e1151] [cursor=pointer]:
+                - /url: /c/laptops-and-accessories?categories=Desktops
+            - listitem [ref=e1152]:
+              - link "All in One Desktops" [ref=e1153] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/c/laptops-and-accessories?desktops=All%20in%20One%20Desktops
+            - listitem [ref=e1154]:
+              - link "iMac" [ref=e1155] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?desktops=iMac
+            - listitem [ref=e1156]:
+              - link "Printer" [ref=e1157] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1158]:
+              - link "Inkjet Printers" [ref=e1159] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Inkjet
+            - listitem [ref=e1160]:
+              - link "Laser Printers" [ref=e1161] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Laser
+            - listitem [ref=e1162]:
+              - link "Inktank Printers" [ref=e1163] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1164]:
+              - link "Thermal Printers" [ref=e1165] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1166]:
+              - link "Routers" [ref=e1167] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/routers
+        - generic [ref=e1169]:
+          - heading "WEARABLE TECH" [level=4] [ref=e1170]
+          - list [ref=e1171]:
+            - listitem [ref=e1172]:
+              - link "Smart Watch" [ref=e1173] [cursor=pointer]:
+                - /url: /c/smart-watches
+      - generic [ref=e1175]:
+        - paragraph [ref=e1178]: © 2013-2025, Vijay Sales. All rights reserved.
+        - generic [ref=e1180]:
+          - paragraph [ref=e1181]: We Accept
+          - list [ref=e1182]:
+            - listitem [ref=e1183]:
+              - img "Visa Card" [ref=e1184]
+            - listitem [ref=e1185]:
+              - img "American Express Card" [ref=e1186]
+            - listitem [ref=e1187]:
+              - img "Master Card" [ref=e1188]
+            - listitem [ref=e1189]:
+              - img "Pine Labs Card" [ref=e1190]
+            - listitem [ref=e1191]:
+              - img "Pay U" [ref=e1192]
+```
