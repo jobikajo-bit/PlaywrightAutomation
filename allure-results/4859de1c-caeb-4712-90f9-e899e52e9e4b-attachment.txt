@@ -1,0 +1,7 @@
+Vendor name found: ABC Technologies Pvt Ltd
+Agreement Start Date (UI): 31/01/2025
+Agreement Start Date (Expected): 31/01/2025
+Agreement End Date (UI): 31/01/2027
+Agreement End Date (Expected): 31/01/2027
+Agreement Duration (UI): 24 Month
+Procured by Spendflo value from UI: Yes

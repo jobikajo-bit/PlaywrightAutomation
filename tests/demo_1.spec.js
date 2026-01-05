@@ -1,0 +1,15 @@
+await page.goto('https://test.spendflo.com/');
+await page.goto('https://test.spendflo.com/account/login');
+await page.locator('[data-test-id="input-identifier"]').fill('prabhakaran.s@trackdfect.com');
+await page.locator('[data-test-id="submit-btn"]').click();
+await page.locator('[data-test-id="input-password"]').fill('Test@123$');
+await page.locator('[data-test-id="submit-btn"]').click();
+await page.locator('div').filter({ hasText: /^Vendor Management$/ }).first().click();
+await page.getByRole('link', { name: 'Agreements' }).click();
+await page.getByRole('button', { name: '+ Add Agreement' }).click();
+await page.getByText('click here').click();
+await page.getByText('Drop a file here to upload, or click here to browseMaximum file size 5MB').setInputFiles('Order_Agreement.pdf');
+await page.getByRole('button', { name: 'Continue' }).click();
+await page.getByRole('button', { name: 'Continue' }).click();
+await page.goto('https://test.spendflo.com/create/product-and-vendor-v2');
+await expect(page.getByRole('textbox', { name: 'Search...' })).toHaveValue('ABC Technologies Pvt Ltd');

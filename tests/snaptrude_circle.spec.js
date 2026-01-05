@@ -65,12 +65,14 @@ await page.locator('//canvas[@id="canvas"]').click({
 
 await page.mouse.move(511, 294);
     
-  await page.getByTestId('copy-array-number-of-copies-input-input').fill('4');
-
+   await page.getByTestId('copy-array-distance-input').press('Tab');
+await page.getByTestId('copy-array-number-of-copies-input-input').fill('2');
 await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
 await page.locator('body').press('Escape');
 
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
+
+
 
 })
 

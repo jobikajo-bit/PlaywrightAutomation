@@ -1,0 +1,276 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic:
+        - generic:
+          - generic [ref=e6]:
+            - img "leading-icon" [ref=e7]
+            - textbox [active] [ref=e9]: "5100.00"
+            - generic [ref=e10]: mm
+          - generic:
+            - generic:
+              - img "leading icon"
+              - textbox [ref=e11]: "4"
+    - generic [ref=e13]:
+      - generic [ref=e15]:
+        - link [ref=e16] [cursor=pointer]:
+          - /url: /dashboard
+          - generic [ref=e17]:
+            - img [ref=e18]
+            - img [ref=e20]
+        - generic [ref=e22]:
+          - button [ref=e23] [cursor=pointer]:
+            - img [ref=e24]
+          - button [ref=e26] [cursor=pointer]:
+            - img [ref=e27]
+        - generic [ref=e32] [cursor=pointer]:
+          - generic [ref=e33]: Test Project
+          - img ">" [ref=e36]
+      - generic [ref=e38]:
+        - generic [ref=e40] [cursor=pointer]:
+          - img "Program" [ref=e41]
+          - generic [ref=e42]: Program
+        - generic [ref=e43]:
+          - generic [ref=e44] [cursor=pointer]:
+            - img "Design" [ref=e45]
+            - generic [ref=e46]: Design
+          - generic [ref=e47]:
+            - generic [ref=e51] [cursor=pointer]:
+              - img "pointer" [ref=e52]
+              - img "dropdown" [ref=e55]
+            - img "draw" [ref=e59] [cursor=pointer]
+            - img "arc" [ref=e62] [cursor=pointer]
+            - generic [ref=e63]:
+              - img "drawCircle" [ref=e65] [cursor=pointer]
+              - tooltip "Circle": Circle
+            - img "rectangle" [ref=e68] [cursor=pointer]
+            - img "eraseEdge" [ref=e71] [cursor=pointer]
+            - img "move" [ref=e75] [cursor=pointer]
+            - generic [ref=e76]:
+              - img "copy" [ref=e78] [cursor=pointer]
+              - tooltip "Copy/Array": Copy/Array
+            - img "rotate" [ref=e81] [cursor=pointer]
+            - img "offsetSplit" [ref=e84] [cursor=pointer]
+            - img "edit" [ref=e88] [cursor=pointer]
+            - img "verticalResize" [ref=e91] [cursor=pointer]
+            - img "addLayer" [ref=e94] [cursor=pointer]
+            - img "removeLayer" [ref=e97] [cursor=pointer]
+            - img "scale" [ref=e101] [cursor=pointer]
+            - img "angle" [ref=e104] [cursor=pointer]
+        - generic [ref=e106] [cursor=pointer]:
+          - img "BIM" [ref=e107]
+          - generic [ref=e108]: BIM
+        - generic [ref=e110] [cursor=pointer]:
+          - img "Present" [ref=e111]
+          - generic [ref=e112]: Present
+      - generic [ref=e113]:
+        - img "Comments" [ref=e118] [cursor=pointer]
+        - img "Object Properties" [ref=e125] [cursor=pointer]
+        - img "Areas" [ref=e130] [cursor=pointer]
+        - img "Adjacency" [ref=e135] [cursor=pointer]
+        - img "Sustainability" [ref=e140] [cursor=pointer]
+        - button "Share" [ref=e143] [cursor=pointer]
+    - generic [ref=e144]:
+      - complementary [ref=e145]:
+        - generic [ref=e146]:
+          - generic [ref=e147]:
+            - list [ref=e148]:
+              - listitem [ref=e149] [cursor=pointer]: Views
+              - listitem [ref=e150] [cursor=pointer]: Stories
+            - list [ref=e151]:
+              - button [ref=e153] [cursor=pointer]:
+                - img [ref=e154]
+          - list [ref=e159]:
+            - listitem [ref=e160]:
+              - generic [ref=e161]:
+                - generic [ref=e162] [cursor=pointer]:
+                  - img [ref=e163]
+                  - generic [ref=e166]:
+                    - heading "Plans" [level=5] [ref=e167]
+                    - img [ref=e168]
+                - button [ref=e171] [cursor=pointer]:
+                  - img [ref=e172]
+              - list [ref=e173]:
+                - listitem [ref=e176] [cursor=pointer]:
+                  - img [ref=e178]
+                  - generic [ref=e183]: Plan 1
+                  - img [ref=e189]
+                - listitem [ref=e196] [cursor=pointer]:
+                  - img [ref=e198]
+                  - generic [ref=e203]: Site Plan
+                  - img [ref=e209]
+            - listitem [ref=e214]:
+              - generic [ref=e216] [cursor=pointer]:
+                - img "Elevations" [ref=e217]
+                - generic [ref=e218]:
+                  - heading "Elevations" [level=5] [ref=e219]
+                  - img [ref=e220]
+              - list [ref=e222]:
+                - listitem [ref=e223] [cursor=pointer]:
+                  - img "North" [ref=e224]
+                  - generic [ref=e227]: North
+                - listitem [ref=e228] [cursor=pointer]:
+                  - img "East" [ref=e229]
+                  - generic [ref=e232]: East
+                - listitem [ref=e233] [cursor=pointer]:
+                  - img "South" [ref=e234]
+                  - generic [ref=e237]: South
+                - listitem [ref=e238] [cursor=pointer]:
+                  - img "West" [ref=e239]
+                  - generic [ref=e242]: West
+            - listitem [ref=e243]:
+              - generic [ref=e244]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - img "3D Views" [ref=e246]
+                  - generic [ref=e247]:
+                    - heading "3D Views" [level=5] [ref=e248]
+                    - img [ref=e249]
+                - button [ref=e252] [cursor=pointer]:
+                  - img [ref=e253]
+              - list [ref=e254]:
+                - listitem [ref=e255] [cursor=pointer]:
+                  - img "Default" [ref=e256]
+                  - generic [ref=e259]: Default
+            - listitem [ref=e260]:
+              - generic [ref=e261]:
+                - generic [ref=e262] [cursor=pointer]:
+                  - img "AI Renders" [ref=e263]
+                  - generic [ref=e264]:
+                    - heading "AI Renders" [level=5] [ref=e265]
+                    - img [ref=e266]
+                - button [ref=e269] [cursor=pointer]:
+                  - img [ref=e270]
+              - list [ref=e271]:
+                - listitem [ref=e272]:
+                  - paragraph [ref=e273]: No renders yet. Create your first render by clicking the + button.
+      - img "left panel hover icon" [ref=e277]
+      - generic [ref=e281]:
+        - paragraph [ref=e283]: Areas Analysis
+        - generic [ref=e285]:
+          - generic [ref=e286]:
+            - generic [ref=e288]:
+              - generic [ref=e289] [cursor=pointer]:
+                - img [ref=e290]
+                - generic [ref=e291]: Carpet Area
+                - img [ref=e292]
+              - generic [ref=e293]:
+                - button "Filter settings" [ref=e296] [cursor=pointer]:
+                  - img "Filter settings" [ref=e297]
+                - img [ref=e298] [cursor=pointer]
+                - img [ref=e300] [cursor=pointer]
+            - img [ref=e306]:
+              - img [ref=e307]:
+                - generic [ref=e310]: 11 m²
+          - generic [ref=e312]: "Total Carpet Area: 11.30"
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - generic [ref=e316]: Labels
+            - generic [ref=e317]:
+              - text: Area (m
+              - superscript [ref=e318]: "2"
+              - text: )
+          - generic [ref=e320]:
+            - generic [ref=e323] [cursor=pointer]:
+              - generic [ref=e326]:
+                - generic [ref=e327]: Default
+                - img [ref=e329]
+              - generic [ref=e330]: "11.30"
+            - generic [ref=e334]:
+              - generic [ref=e337]: Default
+              - generic [ref=e338]: "11.30"
+      - generic:
+        - generic [ref=e342]:
+          - button "Project Settings" [ref=e346] [cursor=pointer]:
+            - img [ref=e347]
+          - button "Show All (U)" [ref=e353] [cursor=pointer]:
+            - img [ref=e354]
+          - generic [ref=e361] [cursor=pointer]:
+            - button "Zoom Extents (Shift + Z)" [ref=e362]:
+              - img [ref=e363]
+            - img "dropdown" [ref=e369]
+        - generic [ref=e370]:
+          - generic [ref=e372]:
+            - img "search" [ref=e373]
+            - textbox "Search tools or commands"
+          - generic [ref=e375]:
+            - generic [ref=e377] [cursor=pointer]:
+              - img "Guide icon" [ref=e378]
+              - generic [ref=e379]:
+                - text: Master the basics
+                - generic [ref=e381]:
+                  - generic [ref=e386]: "0"
+                  - generic [ref=e389]: /7
+              - img "Guide icon" [ref=e390]
+            - generic:
+              - generic:
+                - generic:
+                  - generic: Space-First
+                - generic:
+                  - generic: Form-First
+                - generic:
+                  - generic: Unit Based
+              - generic:
+                - generic:
+                  - generic: 1. Create (or upload) a program
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 2. Import Toposolid
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 3. Draw Site
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 4. Study adjacencies
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 5. Lay out your building
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 6. Present your concept
+                  - generic:
+                    - generic: Watch
+                - generic:
+                  - generic: 7. Export to revit
+                  - generic:
+                    - generic: Watch
+        - generic [ref=e393]:
+          - generic [ref=e395]:
+            - generic:
+              - button "True North":
+                - generic:
+                  - img "Rotating Needle"
+                  - img "Compass Base"
+          - button "Position Camera" [ref=e399] [cursor=pointer]:
+            - img [ref=e400]
+          - button "Pan" [ref=e410] [cursor=pointer]:
+            - img [ref=e411]
+          - button "Go to 3D (Shift + >)" [ref=e418] [cursor=pointer]:
+            - img [ref=e419]
+  - iframe [ref=e422]:
+    
+  - generic [ref=e424]:
+    - iframe [ref=e426]:
+      - generic [active] [ref=f15e1]:
+        - generic "Intercom":
+          - region "Intercom messenger":
+            - button "Open Intercom Messenger" [ref=f15e2] [cursor=pointer]:
+              - img [ref=f15e4]
+              - img [ref=f15e7]
+    - iframe [ref=e427]:
+      - generic [active] [ref=f16e1]:
+        - generic "Intercom":
+          - region "Intercom messenger":
+            - button "Open Intercom Messenger" [ref=f16e2] [cursor=pointer]:
+              - generic [ref=f16e4]:
+                - generic [ref=f16e5]: Need help?
+                - generic [ref=f16e6]: The team typically replies in under 1m
+    - text: ;
+```

@@ -54,5 +54,24 @@ await page.locator('//canvas[@id="canvas"]').click({
 
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
 
+await page.locator('//img[@id="img-top-menu-bar-design-copy"]').click();
+await page.locator('//canvas[@id="canvas"]').click({
+ position: {
+      x: 510,
+      y: 227
+    }
+  });
+
+await page.mouse.move(511, 294);
+    
+  await page.getByTestId('copy-array-distance-input').press('Tab');
+await page.getByTestId('copy-array-number-of-copies-input-input').fill('3');
+await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
+await page.locator('body').press('Escape');
+
+AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
+
+
 
 });
+

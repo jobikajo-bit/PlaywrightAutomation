@@ -1,0 +1,200 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img [ref=e12]
+        - navigation [ref=e17]:
+          - list [ref=e19]:
+            - link "Requests" [ref=e20] [cursor=pointer]:
+              - /url: /v2/requests
+              - listitem [ref=e22]:
+                - heading "Requests" [level=5] [ref=e24]
+            - listitem [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]:
+                - heading "Insights" [level=5] [ref=e29]
+                - img [ref=e30]
+            - listitem [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]:
+                - heading "Vendor Management" [level=5] [ref=e36]
+                - img [ref=e37]
+      - generic [ref=e39]:
+        - button "Create a Request" [ref=e42] [cursor=pointer]:
+          - paragraph [ref=e43]:
+            - generic [ref=e44]:
+              - img [ref=e45]
+              - paragraph [ref=e47]: Create a Request
+        - generic [ref=e49]:
+          - button [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - generic [ref=e55] [cursor=pointer]:
+            - button [ref=e57]:
+              - img [ref=e58]
+            - generic [ref=e62]: "1"
+        - img "UserCircleUnfilled" [ref=e65] [cursor=pointer]
+    - generic [ref=e67]:
+      - generic [ref=e70]:
+        - link "VENDOR MANAGEMENT" [ref=e72] [cursor=pointer]:
+          - /url: /create/dashboard/insights
+          - paragraph [ref=e73]: VENDOR MANAGEMENT
+        - generic [ref=e74]:
+          - generic [ref=e75]: /
+          - link "AGREEMENTS" [ref=e76] [cursor=pointer]:
+            - /url: /agreements
+            - paragraph [ref=e77]: AGREEMENTS
+        - generic [ref=e78]:
+          - generic [ref=e79]: /
+          - paragraph [ref=e80]: ADD AGREEMENTS
+      - generic [ref=e82]:
+        - generic [ref=e84]:
+          - heading "Add an Agreement" [level=2] [ref=e85]
+          - paragraph [ref=e86]: Please review the agreement details to update any missing/incorrect information.
+        - generic [ref=e87]:
+          - generic [ref=e89]:
+            - generic [ref=e91]:
+              - generic [ref=e92]:
+                - list [ref=e94]:
+                  - tab [selected] [ref=e96]:
+                    - paragraph [ref=e97]:
+                      - heading [level=4] [ref=e98]:
+                        - img [ref=e99]
+                - generic [ref=e105]: Vendor Details
+              - generic [ref=e106]:
+                - list [ref=e108]:
+                  - tab "2" [ref=e110]:
+                    - paragraph [ref=e111]:
+                      - heading "2" [level=4] [ref=e112]
+                - generic [ref=e116]: Agreement Details
+            - generic [ref=e121]:
+              - generic [ref=e122]:
+                - generic [ref=e124]:
+                  - button "Agreement Details" [ref=e127] [cursor=pointer]:
+                    - generic [ref=e128]:
+                      - img [ref=e129]
+                      - paragraph [ref=e131]: Agreement Details
+                  - generic [ref=e132]:
+                    - img [ref=e133]
+                    - paragraph [ref=e135]: 2/8 fields remaining
+                - generic [ref=e137]:
+                  - generic [ref=e138]:
+                    - generic [ref=e139]:
+                      - generic [ref=e141]:
+                        - generic [ref=e142]: Agreement Start Date *
+                        - img [ref=e145]
+                      - generic [ref=e148]:
+                        - img [ref=e150]
+                        - textbox "dd/MM/yyyy" [ref=e158]: 31/01/2025
+                        - button [ref=e159] [cursor=pointer]:
+                          - img [ref=e160]
+                    - generic [ref=e162]:
+                      - generic [ref=e164]:
+                        - generic [ref=e165]: Agreement End Date *
+                        - img [ref=e168]
+                      - generic [ref=e171]:
+                        - img [ref=e173]
+                        - textbox "dd/MM/yyyy" [ref=e181]: 31/01/2027
+                        - button [ref=e182] [cursor=pointer]:
+                          - img [ref=e183]
+                    - generic [ref=e185]:
+                      - generic [ref=e187]:
+                        - generic [ref=e188]: First Quote *
+                        - img [ref=e191]
+                      - generic [ref=e193]:
+                        - paragraph [ref=e195]: USD
+                        - generic [ref=e198]:
+                          - img [ref=e200]
+                          - spinbutton [ref=e203]
+                    - generic [ref=e204]:
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: Contracted Value *
+                        - img [ref=e211]
+                      - generic [ref=e213]:
+                        - button "USD" [ref=e216] [cursor=pointer]:
+                          - generic [ref=e217]:
+                            - generic [ref=e219]: USD
+                            - img
+                        - generic [ref=e222]:
+                          - img [ref=e224]
+                          - spinbutton [ref=e229]: "55875"
+                    - generic [ref=e230]:
+                      - generic [ref=e232]:
+                        - generic [ref=e233]: Agreement Duration
+                        - img [ref=e236]
+                      - paragraph [ref=e238]: 24 Month
+                    - generic [ref=e239]:
+                      - generic [ref=e241]:
+                        - generic [ref=e242]: Total Savings
+                        - img [ref=e245]
+                      - generic [ref=e247]:
+                        - paragraph [ref=e249]: USD
+                        - spinbutton [disabled] [ref=e253]
+                    - generic [ref=e254]:
+                      - generic [ref=e256]:
+                        - generic [ref=e257]: Procured by Spendflo *
+                        - img [ref=e260]
+                      - button "Yes" [ref=e262] [cursor=pointer]:
+                        - generic [ref=e263]:
+                          - img [ref=e265]
+                          - generic [ref=e269]: "Yes"
+                          - img
+                  - generic [ref=e270]:
+                    - generic [ref=e272]:
+                      - generic [ref=e274]:
+                        - generic [ref=e275]: Payment Terms *
+                        - img [ref=e278]
+                      - button "Net 30" [ref=e280] [cursor=pointer]:
+                        - generic [ref=e281]:
+                          - img [ref=e283]
+                          - generic [ref=e289]: Net 30
+                          - img
+                    - generic [ref=e291]:
+                      - generic [ref=e293]:
+                        - generic [ref=e294]: Billing Frequency *
+                        - img [ref=e297]
+                      - button "Annual" [ref=e299] [cursor=pointer]:
+                        - generic [ref=e300]:
+                          - img [ref=e302]
+                          - generic [ref=e308]: Annual
+                          - img
+                    - generic [ref=e309]:
+                      - generic [ref=e310]:
+                        - generic [ref=e312]:
+                          - generic [ref=e313]: Agreement Owner *
+                          - img [ref=e316]
+                        - generic [ref=e319]:
+                          - img [ref=e321]
+                          - textbox "Search" [ref=e324]
+                      - button
+                    - generic [ref=e325]:
+                      - generic [ref=e327]:
+                        - generic [ref=e328]: Does this auto renew? *
+                        - img [ref=e331]
+                      - button "No" [ref=e333] [cursor=pointer]:
+                        - generic [ref=e334]:
+                          - img [ref=e336]
+                          - generic [ref=e342]: "No"
+                          - img
+              - generic [ref=e345]:
+                - button "Pricing Details" [active] [ref=e348] [cursor=pointer]:
+                  - generic [ref=e349]:
+                    - img [ref=e350]
+                    - paragraph [ref=e352]: Pricing Details
+                - generic [ref=e353]:
+                  - img [ref=e354]
+                  - paragraph [ref=e356]: All Done
+          - generic [ref=e365]:
+            - button "Clear All" [ref=e367] [cursor=pointer]:
+              - paragraph [ref=e368]: Clear All
+            - generic [ref=e369]:
+              - button "Go Back" [ref=e370] [cursor=pointer]:
+                - paragraph [ref=e371]: Go Back
+              - button "Save & Continue" [disabled] [ref=e372]:
+                - paragraph [ref=e373]: Save & Continue
+  - iframe [ref=e376]:
+    - button "Open Platform Tour & Resources" [ref=f2e4] [cursor=pointer]:
+      - generic [ref=f2e5]: "?"
+```
