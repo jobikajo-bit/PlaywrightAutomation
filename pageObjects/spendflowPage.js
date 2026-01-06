@@ -17,7 +17,6 @@ export class SpendflowPage {
     this.agrementendDate = page.locator('input#endDate').first();
     //this.contractedvalue = page.getByPlaceholder('Enter Cost').first();
     this.agreementduration = page.locator( '//span[normalize-space()="Agreement Duration"]/ancestor::label/following-sibling::p');
-<<<<<<< HEAD
    this.procuredBySpendfloValue = page.locator('//*[text()="Procured by Spendflo"]//following::span[text()="Yes"]');
    this.paymentTerms =page.locator('//*[text()="Payment Terms"]//following::span[text()="Net 30"]');
    this.billingFrequency=page.locator('//*[text()="Billing Frequency"]//following::span[text()="Annual"]');
@@ -41,13 +40,6 @@ this.offeringNameInput = page.locator('//span[text()="Offering Name"]//following
 
 
 }
-=======
-   //this.procuredBySpendfloValue = this.page.locator("text=Procured by Spendflo");
-
-
-  
-  }
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
 
   async navigateToAgreements() {
     await this.vendorManagement.click();
@@ -157,10 +149,7 @@ async verifyAgreementDuration(expectedDuration) {
     await expect(this.agreementduration).toHaveText(expectedDuration);
 }
 
-<<<<<<< HEAD
 /*
-=======
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
 async verifyProcuredBySpendflo(expectedValue) {
   await this.procuredBySpendfloValue.scrollIntoViewIfNeeded();
   await expect(this.procuredBySpendfloValue).toBeVisible();
@@ -194,7 +183,6 @@ async verifyProcuredBySpendflo(expectedValue) {
 }*/
 
 
-<<<<<<< HEAD
 
 // pageObjects/spendflowpage.js
 async verifyProcuredBySpendflo(expectedValue) {
@@ -459,7 +447,3 @@ async verifyAmount(expectedValue) {
 
   
 
-=======
-}
-
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352

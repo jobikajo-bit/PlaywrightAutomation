@@ -38,7 +38,6 @@ AllureUtils.takeScreenshot(page, 'Snaptrude Blank Canvas Loaded');
 //await page.click('div[class="flex h-5 w-5 cursor-pointer items-center justify-center p-2 active:scale-95"]');
 
 await page.locator('//img[@id="img-top-menu-bar-design-arc"]').click();
-<<<<<<< HEAD
 await page.locator('//canvas[@id="canvas"]').click({
  position: {
       x: 497,
@@ -132,24 +131,10 @@ await page.locator('//canvas[@id="canvas"]').click({
      await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
      await page.locator('body').press('Escape');
    });
-=======
-await page.locator('//canvas[@id="canvas"]').click();
-
-
-
-  AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
-
-   })  ;
-   
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
 
 
 
 
-
-<<<<<<< HEAD
 
 
   
-=======
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352

@@ -112,11 +112,17 @@ await page.waitForTimeout(3000);
     }
   });
   await page.mouse.move(591, 352);
-   await page.getByTestId('copy-array-distance-input').press('Tab');
+  await page.getByTestId('copy-array-distance-input').press('Enter');
+
+ //await page.getByTestId('copy-array-distance-input').press('Enter');
+ AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Copied');
+
+ /*
+ await page.getByTestId('copy-array-distance-input').press('Tab');
 await page.getByTestId('copy-array-number-of-copies-input-input').fill('2');
 await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
 await page.locator('body').press('Escape');
-AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Copied');
+AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Copied'); *./
 
   
 

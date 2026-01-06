@@ -39,7 +39,48 @@ AllureUtils.takeScreenshot(page, 'Snaptrude Blank Canvas Loaded');
     state: 'attached',
     timeout: 60000
   });
+await page.locator('//button[@data-tooltip-id="view-toggle-tooltip-3d"]').click();
+
+await page.locator('//div[text()="BIM"]').click();
+await page.locator('//div[@id="div-top-menu-bar-drawCircle"]').click();
+
+await page.locator('//canvas[@id="canvas"]').click({
+    position: {
+      x: 620,
+      y: 438
+    }
+  });
+await page.locator('//canvas[@id="canvas"]').click({
+    position: {
+      x: 651,
+      y: 412
+    }
+  });
 
 
+await page.locator('//canvas[@id="canvas"]').press('Enter');
+AllureUtils.takeScreenshot(page, 'Snaptrude Circle Drawn');
+await page.locator('//div[@id="div-top-menu-bar-rectangle"]').click();
+await page.locator('//canvas[@id="canvas"]').click({
+    position: {
+      x: 430,
+      y: 440
+    }
+  });
+await page.locator('//canvas[@id="canvas"]').click({
+    position: {
+      x: 516,
+      y: 455
+    }
+  });
+await page.locator('//canvas[@id="canvas"]').press('Enter');
+AllureUtils.takeScreenshot(page, 'Snaptrude Rectangle Drawn');
+
+
+await page.locator('//canvas[@id="canvas"]').press('ControlOrMeta+a');
+await page.locator('//div[@id="object_properties_panel"]').getByText('6').click();
+AllureUtils.takeScreenshot(page, 'Snaptrude Objects Selected');
 
 });
+
+

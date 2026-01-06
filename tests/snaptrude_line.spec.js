@@ -71,7 +71,6 @@ await page.locator('//canvas[@id="canvas"]').click({
   });
   AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
 await page.getByRole('img', { name: 'copy' }).click();
-<<<<<<< HEAD
   await page.locator('//canvas[@id="canvas"]').click({
     position: {
       x: 413,
@@ -86,14 +85,6 @@ await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter')
 await page.locator('body').press('Escape');
 
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
-=======
-  await page.locator('#canvas').click();
-  await page.mouse.move(431, 273);
-  await page.getByTestId('copy-array-number-of-copies-input-input').fill('4');
-  await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
-  await page.locator('body').press('Escape');
-    
->>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
   })
 
 
