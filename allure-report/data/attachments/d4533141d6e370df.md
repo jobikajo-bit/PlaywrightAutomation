@@ -1,0 +1,1908 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e9]:
+    - banner [ref=e10]:
+      - generic [ref=e11]:
+        - generic [ref=e12]:
+          - link "vs-logo-img" [ref=e14] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en
+            - img "vs-logo-img" [ref=e15]
+          - generic [ref=e16]:
+            - img "locate-icon" [ref=e17] [cursor=pointer]
+            - paragraph [ref=e18] [cursor=pointer]:
+              - text: Virudunagar 626001
+              - link "Change Location" [ref=e19]:
+                - /url: "#"
+          - generic [ref=e21]:
+            - img "search-icon" [ref=e22]
+            - textbox "Search for phone, TV, home appliances..." [ref=e23]
+          - list [ref=e25]:
+            - listitem [ref=e26]:
+              - img "Store Locator icon" [ref=e27] [cursor=pointer]
+              - link "Store Locator" [ref=e28] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/store-locator.html
+            - listitem [ref=e29]:
+              - img "Help Center icon" [ref=e30] [cursor=pointer]
+              - link "Help Center" [ref=e31] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/contact-us
+          - link "wishlist-empty-icon" [ref=e33] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en/profile-page/wishlist.html
+            - img "wishlist-empty-icon" [ref=e34]
+          - link "prelogin-icon" [ref=e36] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en/login
+            - img "prelogin-icon" [ref=e37]
+          - link "cart-icon" [ref=e39] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en/cart
+            - img "cart-icon" [ref=e40]
+        - list [ref=e43]:
+          - listitem [ref=e44] [cursor=pointer]:
+            - link "Mobiles, Tablets & Accessories" [ref=e45]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/mobiles-tablets-and-accessories
+          - listitem [ref=e46] [cursor=pointer]:
+            - link "Laptops & Accessories" [ref=e47]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories
+          - listitem [ref=e48] [cursor=pointer]:
+            - link "Home Appliances" [ref=e49]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-appliances
+          - listitem [ref=e50] [cursor=pointer]:
+            - link "Kitchen Appliances" [ref=e51]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/kitchen-appliances
+          - listitem [ref=e52] [cursor=pointer]:
+            - link "TV & Entertainment" [ref=e53]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment
+          - listitem [ref=e54] [cursor=pointer]:
+            - link "Personal Care" [ref=e55]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/grooming-and-fitness
+          - listitem [ref=e56] [cursor=pointer]:
+            - link "Headphones & Speakers" [ref=e57]:
+              - /url: /content/vijaysaleswebsite/us/en/listing-pages/headphones-and-speakers
+          - listitem [ref=e58] [cursor=pointer]:
+            - link "Brand Stores" [ref=e59]:
+              - /url: /content/vijaysaleswebsite/us/en/brands.html
+          - listitem [ref=e60] [cursor=pointer]:
+            - link "Loyalty Hub" [ref=e61]:
+              - /url: /content/vijaysaleswebsite/us/en/loyalty.html
+    - generic [ref=e62]:
+      - generic [ref=e64]:
+        - generic [ref=e70]:
+          - link:
+            - /url: /content/vijaysaleswebsite/us/en/product-listing-page
+          - list [ref=e71]:
+            - listitem [ref=e72]:
+              - link "Smartphone" [ref=e73] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/smartphones
+            - listitem [ref=e74]:
+              - link "iPhone" [ref=e75] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/iphones
+            - listitem [ref=e76]:
+              - link "Basic Phone" [ref=e77] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/basic-phones
+            - listitem [ref=e78]:
+              - link "Smart Watch" [ref=e79] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/smart-watches
+            - listitem [ref=e80]:
+              - link "Charger" [ref=e81] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/adapters
+            - listitem [ref=e82]:
+              - link "Tablets" [ref=e83] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/tablets
+            - listitem [ref=e84]:
+              - link "Tablet Accessories" [ref=e85] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/sale/tablet-accessories
+            - listitem [ref=e86]:
+              - link "iPad" [ref=e87] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ipads
+            - listitem [ref=e88]:
+              - link "Graphic Tablet" [ref=e89] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/graphic-tablets
+            - listitem [ref=e90]:
+              - link "Power Bank" [ref=e91] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/power-bank
+            - listitem [ref=e92]:
+              - link "Cable" [ref=e93] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cables
+            - listitem [ref=e94]:
+              - link "Cases and Cover" [ref=e95] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cases-and-covers
+        - generic [ref=e102]:
+          - link "Smartphone" [ref=e107] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/mobile-store
+            - img "Smartphone" [ref=e108]
+          - link "cmf-accessories" [ref=e113] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/accessories/cmf-and-nothing-accessories
+            - img "cmf-accessories" [ref=e114]
+      - generic [ref=e116]:
+        - generic [ref=e122]:
+          - link:
+            - /url: "#"
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Laptop" [ref=e125] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops
+            - listitem [ref=e126]:
+              - link "MacBook" [ref=e127] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/macbooks
+            - listitem [ref=e128]:
+              - link "Printer" [ref=e129] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e130]:
+              - link "Router" [ref=e131] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/routers
+            - listitem [ref=e132]:
+              - link "Computer Accessories" [ref=e133] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories
+            - listitem [ref=e134]:
+              - link "Hard Disk" [ref=e135] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hard-disks
+            - listitem [ref=e136]:
+              - link "Pendrives" [ref=e137] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/pen-drives
+            - listitem [ref=e138]:
+              - link "SSD" [ref=e139] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ssd
+            - listitem [ref=e140]:
+              - link "Desktop" [ref=e141] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/desktops
+        - generic [ref=e148]:
+          - link "abcd" [ref=e153] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/event-pages/open-box-store
+            - img "abcd" [ref=e154]
+          - link "Laptops" [ref=e159] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/c/laptops?categories=Refurbished%20Laptops
+            - img "Laptops" [ref=e160]
+      - generic [ref=e162]:
+        - generic [ref=e168]:
+          - link:
+            - /url: "#"
+          - list [ref=e169]:
+            - listitem [ref=e170]:
+              - link "Air Conditioner" [ref=e171] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners
+            - listitem [ref=e172]:
+              - link "Washing Machine" [ref=e173] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines
+            - listitem [ref=e174]:
+              - link "Refrigerator" [ref=e175] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators
+            - listitem [ref=e176]:
+              - link "Geyser" [ref=e177] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/geysers-and-water-heaters
+            - listitem [ref=e178]:
+              - link "Air Purifier" [ref=e179] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-purifiers
+            - listitem [ref=e180]:
+              - link "Vacuum Cleaner" [ref=e181] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/vacuum-cleaners
+            - listitem [ref=e182]:
+              - link "Dishwasher" [ref=e183] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dishwashers
+            - listitem [ref=e184]:
+              - link "Iron" [ref=e185] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/irons
+            - listitem [ref=e186]:
+              - link "Electronic Safe" [ref=e187] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/electronic-safe
+            - listitem [ref=e188]:
+              - link "Dehumidifier" [ref=e189] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dehumidifiers
+            - listitem [ref=e190]:
+              - link "Garment Steamer" [ref=e191] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/garment-steamers
+            - listitem [ref=e192]:
+              - link "Fans" [ref=e193] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/fans
+            - listitem [ref=e194]:
+              - link "Air Cooler" [ref=e195] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-coolers
+            - listitem [ref=e196]:
+              - link "Water Dispenser" [ref=e197] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/water-dispensers
+            - listitem [ref=e198]:
+              - link "Security Camera & Dashcam" [ref=e199] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/sale/security-camera-and-dashcam
+            - listitem [ref=e200]:
+              - link "Stabilizer" [ref=e201] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/stabilizers
+            - listitem [ref=e202]:
+              - link "Wine Cooler" [ref=e203] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/wine-cooler
+            - listitem [ref=e204]:
+              - link "Dryer" [ref=e205] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dryers
+            - listitem [ref=e206]:
+              - link "Smart Home Devices" [ref=e207] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/smart-home-accessories
+            - listitem [ref=e208]:
+              - link "Room Heater" [ref=e209] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/room-heaters
+        - link "Washing machine" [ref=e219] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/washing-machines
+          - img "Washing machine" [ref=e220]
+      - generic [ref=e222]:
+        - generic [ref=e228]:
+          - link:
+            - /url: "#"
+          - list [ref=e229]:
+            - listitem [ref=e230]:
+              - link "Mixer Grinder" [ref=e231] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/mixer-grinder
+            - listitem [ref=e232]:
+              - link "Nutri Blend" [ref=e233] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/nutri-blender
+            - listitem [ref=e234]:
+              - link "Microwave" [ref=e235] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave
+            - listitem [ref=e236]:
+              - link "Air Fryer" [ref=e237] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-fryers
+            - listitem [ref=e238]:
+              - link "Water Purifier" [ref=e239] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/water-purifiers
+            - listitem [ref=e240]:
+              - link "Coffee Maker" [ref=e241] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/coffee-machines
+            - listitem [ref=e242]:
+              - link "Kettle" [ref=e243] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/kettles
+            - listitem [ref=e244]:
+              - link "Cooktop" [ref=e245] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cooktop
+            - listitem [ref=e246]:
+              - link "Juicer Mixer Grinder" [ref=e247] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicers-mixers-and-grinders
+            - listitem [ref=e248]:
+              - link "Hand Mixer and Blender" [ref=e249] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+        - generic [ref=e255]:
+          - link:
+            - /url: "#"
+          - list [ref=e256]:
+            - listitem [ref=e257]:
+              - link "Chimney" [ref=e258] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/chimneys
+            - listitem [ref=e259]:
+              - link "Atta Maker" [ref=e260] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/atta-maker
+            - listitem [ref=e261]:
+              - link "Food Processor" [ref=e262] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/food-processors
+            - listitem [ref=e263]:
+              - link "OTG" [ref=e264] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+            - listitem [ref=e265]:
+              - link "Popup Toaster" [ref=e266] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/popup-toasters
+            - listitem [ref=e267]:
+              - link "Sandwich Maker" [ref=e268] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/sandwich-toasters
+            - listitem [ref=e269]:
+              - link "Chopper" [ref=e270] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/choppers
+            - listitem [ref=e271]:
+              - link "HOB" [ref=e272] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/built-in-hobs
+            - listitem [ref=e273]:
+              - link "Juicer" [ref=e274] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicer
+            - listitem [ref=e275]:
+              - link "Wet Grinder" [ref=e276] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/wet-grinders
+        - link "Microwaves" [ref=e288] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/microwave
+          - img "Microwaves" [ref=e289]
+      - generic [ref=e291]:
+        - generic [ref=e297]:
+          - link:
+            - /url: "#"
+          - list [ref=e298]:
+            - listitem [ref=e299]:
+              - link "Television" [ref=e300] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions
+            - listitem [ref=e301]:
+              - link "Soundbar" [ref=e302] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/soundbars
+            - listitem [ref=e303]:
+              - link "Home Theatre" [ref=e304] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-theaters
+            - listitem [ref=e305]:
+              - link "Speaker" [ref=e306] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/speakers
+            - listitem [ref=e307]:
+              - link "Party Speaker" [ref=e308] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers
+            - listitem [ref=e309]:
+              - link "Gaming" [ref=e310] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/gaming
+            - listitem [ref=e311]:
+              - link "TV Accessories" [ref=e312] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/tv-accessories
+        - generic [ref=e319]:
+          - link "abcd" [ref=e324] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/c/televisions?brand=Vise
+            - img "abcd" [ref=e325]
+          - link "abcd" [ref=e330] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en/listing-pages/large-audio.html
+            - img "abcd" [ref=e331]
+      - generic [ref=e333]:
+        - generic [ref=e339]:
+          - link:
+            - /url: "#"
+          - list [ref=e340]:
+            - listitem [ref=e341]:
+              - link "Trimmer" [ref=e342] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/trimmers
+            - listitem [ref=e343]:
+              - link "Shaver" [ref=e344] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/shavers
+            - listitem [ref=e345]:
+              - link "Hair Straightener" [ref=e346] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-straighteners
+            - listitem [ref=e347]:
+              - link "Hair Dryer" [ref=e348] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-dryers
+            - listitem [ref=e349]:
+              - link "Hair Styler" [ref=e350] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-stylers
+            - listitem [ref=e351]:
+              - link "Massager" [ref=e352] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/massagers
+        - link "abcd" [ref=e362] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/personal-care?brand=Bombae,Bombay%20Shaving%20Company
+          - img "abcd" [ref=e363]
+      - generic [ref=e365]:
+        - generic [ref=e371]:
+          - link:
+            - /url: "#"
+          - list [ref=e372]:
+            - listitem [ref=e373]:
+              - link "Truly Wireless Earbud" [ref=e374] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/truly-wireless-earbuds
+            - listitem [ref=e375]:
+              - link "Neckband" [ref=e376] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/neckbands
+            - listitem [ref=e377]:
+              - link "Headphone" [ref=e378] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/headphones
+            - listitem [ref=e379]:
+              - link "Earphone" [ref=e380] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/earphones
+            - listitem [ref=e381]:
+              - link "Portable Speaker" [ref=e382] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/portable-speakers
+        - link "Bose" [ref=e392] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/sale/audio/bose-audio
+          - img "Bose" [ref=e393]
+      - generic [ref=e395]:
+        - generic [ref=e401]:
+          - link:
+            - /url: "#"
+          - list [ref=e402]:
+            - listitem [ref=e403]:
+              - link "Apple" [ref=e404] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/apple-store
+            - listitem [ref=e405]:
+              - link "Vise" [ref=e406] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/product-listing-page/brand/Vise?brand=Vise
+            - listitem [ref=e407]:
+              - link "Asus" [ref=e408] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/?brand=ASUS
+            - listitem [ref=e409]:
+              - link "JBL" [ref=e410] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/plp/brand/JBL?brand=JBL
+            - listitem [ref=e411]:
+              - link "LG" [ref=e412] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/lg-store
+            - listitem [ref=e413]:
+              - link "OnePlus" [ref=e414] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/oneplus-store
+            - listitem [ref=e415]:
+              - link "Samsung" [ref=e416] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/samsung-store
+            - listitem [ref=e417]:
+              - link "Sony" [ref=e418] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/sony-store
+            - listitem [ref=e419]:
+              - link "Boat" [ref=e420] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/brands/boat_store
+        - generic [ref=e427]:
+          - link "abcd" [ref=e432] [cursor=pointer]:
+            - /url: https://www.vijaysales.com/sale/audio/boat-audio
+            - img "abcd" [ref=e433]
+          - link "iPhone 17" [ref=e438] [cursor=pointer]:
+            - /url: /content/vijaysaleswebsite/us/en/brands/apple-store.html
+            - img "iPhone 17" [ref=e439]
+  - generic [ref=e443]:
+    - generic [ref=e445]:
+      - generic [ref=e447]:
+        - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e449] [cursor=pointer]
+        - generic [ref=e450]:
+          - button [disabled]
+          - generic [ref=e451]:
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e452] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e453]
+            - button "blank" [ref=e454] [cursor=pointer]:
+              - img "blank" [ref=e455]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e456] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e457]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e458] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e459]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e460] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e461]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e462] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e463]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e464] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e465]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e466] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e467]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e468] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e469]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e470] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e471]
+            - button "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e472] [cursor=pointer]:
+              - img "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [ref=e473]
+          - button [ref=e474] [cursor=pointer]
+      - generic [ref=e475]:
+        - generic [ref=e476]:
+          - heading "Internal Storage" [level=3] [ref=e477]
+          - region [ref=e478]:
+            - generic [ref=e479]:
+              - group "1 of 3" [ref=e480] [cursor=pointer]: 256 GB
+              - group "2 of 3" [ref=e481] [cursor=pointer]: 512 GB
+              - group "3 of 3" [ref=e482] [cursor=pointer]: 1 TB
+        - generic [ref=e483]:
+          - heading "Color Deep Blue" [level=3] [ref=e484]:
+            - generic [ref=e485]: Color
+            - generic [ref=e486]: Deep Blue
+          - region [ref=e487]:
+            - generic [ref=e488]:
+              - group "1 of 3" [ref=e489] [cursor=pointer]
+              - group "2 of 3" [ref=e490] [cursor=pointer]
+              - group "3 of 3" [ref=e491] [cursor=pointer]
+      - generic [ref=e492]:
+        - paragraph [ref=e493]:
+          - generic [ref=e494]: Exchange Bonus
+        - paragraph [ref=e495]: ₹4000 Bank Offer
+      - generic [ref=e496]:
+        - generic [ref=e499]:
+          - checkbox [ref=e500] [cursor=pointer]
+          - text: Compare
+        - button "solar-share Share" [ref=e501]:
+          - generic [ref=e502] [cursor=pointer]:
+            - img "solar-share" [ref=e503]
+            - generic [ref=e504]: Share
+      - generic [ref=e505]:
+        - heading "Apple iPhone 17 Pro (256GB Storage, Deep Blue)" [level=1] [ref=e507]
+        - link "Visit the Apple store" [ref=e508] [cursor=pointer]:
+          - /url: /content/vijaysaleswebsite/us/en/brands/apple-store.html
+        - text: ★★★★★
+      - generic [ref=e509]:
+        - generic [ref=e510]:
+          - generic [ref=e511]:
+            - generic [ref=e512]: MRP
+            - paragraph [ref=e513]: ₹1,34,900
+            - paragraph [ref=e514]: (Incl. of all taxes)
+          - generic [ref=e515]:
+            - paragraph [ref=e516]: Low Cost EMI starting from ₹6,091/mo for 24 months.
+            - generic [ref=e517] [cursor=pointer]: See EMI options
+          - generic [ref=e518]:
+            - img "loyalty-hub" [ref=e519]
+            - generic [ref=e520]: Earn 1012 Points
+            - img "info" [ref=e522] [cursor=pointer]
+          - generic [ref=e523]:
+            - generic [ref=e524]:
+              - paragraph [ref=e525]:
+                - img "check" [ref=e526]
+                - text: In stock
+              - paragraph [ref=e527]:
+                - img "delivery" [ref=e528]
+                - text: Free delivery in 90 minutes
+            - button "wishlist" [ref=e529] [cursor=pointer]:
+              - img "wishlist" [ref=e530]
+            - generic [ref=e533] [cursor=pointer]: Qty 1
+            - button "add-to-cart-icon Add to Cart" [active]:
+              - img "add-to-cart-icon"
+              - text: Add to Cart
+            - button "Buy Now" [ref=e534] [cursor=pointer]
+          - generic [ref=e535]:
+            - generic [ref=e536]:
+              - paragraph [ref=e537]:
+                - img "installment" [ref=e538]
+                - text: Extra Deals Available
+              - link "See All" [ref=e539] [cursor=pointer]:
+                - /url: "#"
+            - region [ref=e540]:
+              - button "Next slide" [ref=e541] [cursor=pointer]
+              - generic [ref=e542]:
+                - group "1 of 5" [ref=e543] [cursor=pointer]:
+                  - generic [ref=e544]:
+                    - paragraph [ref=e545]: Flat Rs.4,000 Instant Discount on ICICI Bank Credit Card No Cost EMI.
+                    - img "icici" [ref=e547]
+                  - link "View Details" [ref=e548]:
+                    - /url: "#"
+                - group "2 of 5" [ref=e549] [cursor=pointer]:
+                  - generic [ref=e550]:
+                    - paragraph [ref=e551]: Flat Rs.4,000 Instant Discount on SBI Bank Credit Card No Cost EMI.
+                    - img "sbi" [ref=e553]
+                  - link "View Details" [ref=e554]:
+                    - /url: "#"
+                - group [ref=e555] [cursor=pointer]:
+                  - generic [ref=e556]:
+                    - paragraph [ref=e557]: Flat Rs.4,000 Instant Discount on IDFC FIRST Bank Credit Card No Cost EMI.
+                    - img [ref=e559]
+                  - link [ref=e560]:
+                    - /url: "#"
+                    - text: View Details
+                - group [ref=e561] [cursor=pointer]:
+                  - generic [ref=e562]:
+                    - paragraph [ref=e563]: Flat Rs.4500 Instant Discount on HDFC Bank Credit Card EMI 6 Months and Above Tenures
+                    - img [ref=e565]
+                  - link [ref=e566]:
+                    - /url: "#"
+                    - text: View Details
+                - group [ref=e567] [cursor=pointer]:
+                  - paragraph [ref=e569]: Get a GST invoice and save 18% on business purchases
+        - generic [ref=e570]:
+          - generic [ref=e571]:
+            - paragraph [ref=e572]: Delivery
+            - paragraph [ref=e573]:
+              - img "location" [ref=e574]
+              - generic [ref=e575]: Enter Pincode
+          - paragraph [ref=e576]:
+            - img "asterisk" [ref=e577]
+            - generic [ref=e578]: Bulk / Dealer orders are not accepted, refunds for only such orders will be processed after deducting applicable charges.
+        - generic [ref=e579]:
+          - generic [ref=e580] [cursor=pointer]:
+            - generic [ref=e581]:
+              - radio [ref=e583]
+              - generic [ref=e585]: With Exchange
+            - paragraph
+          - generic [ref=e586] [cursor=pointer]:
+            - generic [ref=e587]:
+              - radio [checked] [ref=e589]
+              - generic [ref=e591]: Without Exchange
+            - paragraph [ref=e592]: ₹1,34,900
+        - generic [ref=e593]:
+          - heading "Key Features" [level=3] [ref=e594]:
+            - generic [ref=e595]: Key Features
+          - list [ref=e596]:
+            - listitem [ref=e597]: "Display: 6.3 inch (diagonal) all-screen OLED Super Retina XDR 120Hz Display"
+            - listitem [ref=e598]: "Storage: 256GB Storage"
+            - listitem [ref=e599]: "Processor: A19 Pro chip"
+            - listitem [ref=e600]: "Operating System: iOS 26"
+            - listitem [ref=e601]: "Camera: Rear- 48MP Pro Fusion Camera System (Triple) | Front- 18MP Selfie Camera"
+            - listitem [ref=e602]: "Battery: Built-in rechargeable lithium-ion battery"
+            - listitem [ref=e603]: "Highlights: Apple Intelligence | Aluminum unibody | Ceramic Shield | Vapor chamber | Action button"
+          - link "Show all features" [ref=e604] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e606]:
+          - img "warranty-filled" [ref=e607]
+          - generic [ref=e608]:
+            - paragraph [ref=e609]: 1 Year
+            - generic [ref=e610]:
+              - generic [ref=e611]: Brand Warranty
+              - img "info" [ref=e613] [cursor=pointer]
+    - generic [ref=e615]:
+      - heading "Features" [level=2] [ref=e618]
+      - generic [ref=e621]:
+        - img "recreatingpictures" [ref=e626]
+        - img "recreatingpictures" [ref=e631]
+    - generic [ref=e633]:
+      - generic [ref=e635]:
+        - heading "Product Specification" [level=2] [ref=e636]
+        - paragraph [ref=e637]: Specifications Of Apple iPhone 17 Pro (256GB Storage, Deep Blue)
+      - generic [ref=e640]:
+        - generic [ref=e641]:
+          - heading "GENERAL FEATURES" [level=3] [ref=e642] [cursor=pointer]: GENERAL FEATURES
+          - list [ref=e645]:
+            - listitem [ref=e646]:
+              - generic [ref=e647]: BRAND
+              - generic [ref=e648]: Apple
+            - listitem [ref=e649]:
+              - generic [ref=e650]: MODEL NAME
+              - generic [ref=e651]: iPhone 17 Pro
+            - listitem [ref=e652]:
+              - generic [ref=e653]: COLOR
+              - generic [ref=e654]: Deep Blue
+            - listitem [ref=e655]:
+              - generic [ref=e656]: SKU
+              - generic [ref=e657]: MG8J4HN/A
+        - generic [ref=e658]:
+          - heading "CAPACITY" [level=3] [ref=e659] [cursor=pointer]: CAPACITY
+          - list [ref=e662]:
+            - listitem [ref=e663]:
+              - generic [ref=e664]: CAPACITY
+              - generic [ref=e665]: 256GB
+        - generic [ref=e666]:
+          - heading "DISPLAY" [level=3] [ref=e667] [cursor=pointer]: DISPLAY
+          - list [ref=e670]:
+            - listitem [ref=e671]:
+              - generic [ref=e672]: DISPLAY
+              - generic [ref=e673]:
+                - text: Super Retina XDR display
+                - text: 6.3-inch (diagonal) all-screen OLED display
+                - text: 2622-by-1206-pixel resolution at 460 ppi
+                - text: Dynamic Island
+                - text: Always-On display
+                - text: ProMotion technology with adaptive refresh rates up to 120Hz
+                - text: HDR display
+                - text: True Tone
+                - text: Wide color (P3)
+                - text: Haptic Touch
+                - text: 2,000,000:1 contrast ratio (typical)
+                - text: 1000 nits max brightness (typical); 1600 nits peak brightness (HDR); 3000 nits peak brightness (outdoor); 1 nit minimum brightness
+                - text: Fingerprint-resistant oleophobic coating
+                - text: Anti-reflective coating
+                - text: Support for display of multiple languages and characters simultaneously
+        - generic [ref=e674]:
+          - heading "SPLASH, WATER, AND DUST RESISTANT" [level=3] [ref=e675] [cursor=pointer]: SPLASH, WATER, AND DUST RESISTANT
+          - list [ref=e678]:
+            - listitem [ref=e679]:
+              - generic [ref=e680]: SPLASH, WATER, AND DUST RESISTANT
+              - generic [ref=e681]: Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+        - generic [ref=e682]:
+          - heading "APPLE INTELLIGENCE" [level=3] [ref=e683] [cursor=pointer]: APPLE INTELLIGENCE
+          - list [ref=e686]:
+            - listitem [ref=e687]:
+              - generic [ref=e688]: APPLE INTELLIGENCE
+              - generic [ref=e689]: Apple Intelligence is integrated across your apps and experiences to help you communicate, express yourself, and get things done effortlessly. With groundbreaking privacy protections, it gives you peace of mind that no one else can access your data - not even Apple.
+        - generic [ref=e690]:
+          - heading "CHIP" [level=3] [ref=e691] [cursor=pointer]: CHIP
+          - list [ref=e694]:
+            - listitem [ref=e695]:
+              - generic [ref=e696]: A19 PRO
+              - generic [ref=e697]:
+                - text: A19 Pro chip
+                - text: 6-core CPU with 2 performance and 4 efficiency cores
+                - text: 6-core GPU with Neural Accelerators
+                - text: 16-core Neural Engine
+                - text: Hardware-accelerated ray tracing
+        - generic [ref=e698]:
+          - heading "CAMERA" [level=3] [ref=e699] [cursor=pointer]: CAMERA
+          - list [ref=e702]:
+            - listitem [ref=e703]:
+              - generic [ref=e704]: 48MP PRO FUSION CAMERA SYSTEM
+              - generic [ref=e705]:
+                - text: "48MP Fusion Main: 24 mm,f/1.78 aperture, second-generation sensor-shift optical image stabilization, 100% Focus Pixels, support for super-high-resolution photos (24MP and 48MP)"
+                - text: "Also enables 12MP optical-quality 2x Telephoto: 48 mm,f/1.78 aperture, second-generation sensor-shift optical image stabilization, 100% Focus Pixels"
+                - text: "48MP Fusion Ultra Wide: 13 mm,f/2.2 aperture and 120deg field of view, Hybrid Focus Pixels, super-high-resolution photos (48MP)"
+                - text: "48MP Fusion Telephoto: 100 mm (4x),f/2.8 aperture, Hybrid Focus Pixels, 3D sensor-shift optical image stabilization and autofocus, tetraprism design"
+                - text: "Also enables 12MP optical-quality 8x Telephoto: 200 mm,f/2.8 aperture, Hybrid Focus Pixels, 3D sensor-shift optical image stabilization and autofocus, tetraprism design"
+                - text: 8x optical-quality zoom in, 2x optical zoom out; 16x optical-quality zoom range
+                - text: Digital zoom up to 40x
+                - text: Customizable default lens (Fusion Main)
+                - text: Sapphire crystal lens cover
+                - text: Adaptive True Tone flash
+                - text: Photonic Engine
+                - text: Deep Fusion
+                - text: Smart HDR 5
+                - text: Next-generation portraits with Focus and Depth Control
+                - text: Portrait Lighting with six effects
+                - text: Night mode
+                - text: Panorama (up to 63MP)
+                - text: Latest-generation Photographic Styles
+                - text: Spatial photos
+                - text: 48MP macro photography
+                - text: ProRAW
+                - text: Wide color capture for photos and Live Photos
+                - text: Lens correction (Fusion Ultra Wide)
+                - text: Advanced red-eye correction
+                - text: Auto image stabilization
+                - text: Burst mode
+                - text: Photo geotagging
+                - text: "Image formats captured: HEIF, JPEG, and DNG"
+        - generic [ref=e706]:
+          - heading "VIDEO RECORDING" [level=3] [ref=e707] [cursor=pointer]: VIDEO RECORDING
+          - list [ref=e710]:
+            - listitem [ref=e711]:
+              - generic [ref=e712]: VIDEO RECORDING
+              - generic [ref=e713]:
+                - text: 4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, 60 fps, 100 fps (Fusion Main), or 120 fps (Fusion Main)
+                - text: 1080p Dolby Vision video recording at 25 fps, 30 fps, 60 fps, or 120 fps (Fusion Main)
+                - text: 720p Dolby Vision video recording at 30 fps
+                - text: Cinematic mode up to 4K Dolby Vision at 30 fps
+                - text: Action mode up to 2.8K Dolby Vision at 60 fps
+                - text: Spatial video recording at 1080p at 30 fps
+                - text: ProRes video recording up to 4K at 120 fps with external recording
+                - text: ProRes RAW
+                - text: Academy Color Encoding System
+                - text: Apple Log 2
+                - text: Genlock support6
+                - text: Macro video recording, including slo-mo and time-lapse
+                - text: Slo-mo video support for 1080p up to 240 fps and 4K Dolby Vision up to 120 fps (Fusion Main)
+                - text: Dual Capture up to 4K Dolby Vision at 30 fps
+                - text: time-lapse video with stabilization
+                - text: Night mode time-lapse
+                - text: QuickTake video up to 4K Dolby Vision at 60 fps
+                - text: Second-generation sensor-shift optical image stabilization for video (Fusion Main)
+                - text: 3D sensor-shift optical image stabilization and autofocus for video (Fusion Telephoto)
+                - text: Digital zoom up to 15x
+                - text: Audio zoom
+                - text: True Tone flash
+                - text: Cinematic video stabilization (4K, 1080p, and 720p)
+                - text: Continuous autofocus video
+                - text: Take 8MP still photos while recording 4K video
+                - text: Playback zoom
+                - text: "Video formats recorded: HEVC, H.264, ProRes, and ProRes RAW"
+                - text: Spatial Audio and stereo recording
+                - text: Four studio-quality mics
+                - text: Wind noise reduction
+                - text: Audio Mix
+        - generic [ref=e714]:
+          - heading "FRONT CAMERA" [level=3] [ref=e715] [cursor=pointer]: FRONT CAMERA
+          - list [ref=e718]:
+            - listitem [ref=e719]:
+              - generic [ref=e720]: FRONT CAMERA
+              - generic [ref=e721]:
+                - text: 18MP Center Stage camera
+                - text: f/1.9 aperture
+                - text: Autofocus with Focus Pixels
+                - text: Retina Flash
+                - text: Tap to zoom and rotate
+                - text: Center Stage for photos
+                - text: Ultra-stabilized video
+                - text: Dual Capture
+                - text: Center Stage for video calls
+                - text: Photonic Engine
+                - text: Deep Fusion
+                - text: Smart HDR 5
+                - text: Next-generation portraits with Focus and Depth Control
+                - text: Portrait Lighting with six effects
+                - text: Animoji and Memoji
+                - text: Night mode
+                - text: Latest-generation Photographic Styles
+                - text: ProRAW
+                - text: Wide color capture for photos and Live Photos
+                - text: Lens correction
+                - text: Auto image stabilization
+                - text: Burst mode
+                - text: 4K Dolby Vision video recording at 24 fps, 25 fps, 30 fps, or 60 fps
+                - text: 1080p Dolby Vision video recording at 25 fps, 30 fps, or 60 fps
+                - text: Cinematic mode up to 4K Dolby Vision at 30 fps
+                - text: ProRes video recording up to 4K at 60 fps with external recording
+                - text: ProRes RAW
+                - text: Academy Color Encoding System
+                - text: Apple Log 2
+                - text: Slo-mo video support for 1080p at 120 fps
+                - text: Time-lapse video with stabilization
+                - text: Night mode Time-lapse
+                - text: QuickTake video up to 4K at 60 fps in Dolby Vision
+                - text: Cinematic video stabilization (4K, 1080p, and 720p)
+                - text: Spatial Audio and stereo recording
+                - text: Wind noise reduction
+                - text: Audio Mix
+        - generic [ref=e722]:
+          - heading "POWER AND BATTERY" [level=3] [ref=e723] [cursor=pointer]: POWER AND BATTERY
+          - list [ref=e726]:
+            - listitem [ref=e727]:
+              - generic [ref=e728]: VIDEO PLAYBACK
+              - generic [ref=e729]: Up to 33 hours
+            - listitem [ref=e730]:
+              - generic [ref=e731]: VIDEO PLAYBACK (STREAMED)
+              - generic [ref=e732]: Up to 30 hours
+            - listitem [ref=e733]:
+              - generic [ref=e734]: BATTERY
+              - generic [ref=e735]: Built-in rechargeable lithium-ion battery
+            - listitem [ref=e736]:
+              - generic [ref=e737]: FAST-CHARGE CAPABLE
+              - generic [ref=e738]:
+                - text: Up to 50% charge in 20 minutes with 40W adapter or higher (available separately) paired with USB-C charging cable
+                - text: Up to 50% charge in 30 minutes with 30W adapter or higher paired with MagSafe Charger (both available separately)
+        - generic [ref=e739]:
+          - heading "FACE ID" [level=3] [ref=e740] [cursor=pointer]: FACE ID
+          - list [ref=e743]:
+            - listitem [ref=e744]:
+              - generic [ref=e745]: FACE ID
+              - generic [ref=e746]: Enabled by TrueDepth technology in the Center Stage front camera
+        - generic [ref=e747]:
+          - heading "PEACE OF MIND" [level=3] [ref=e748] [cursor=pointer]: PEACE OF MIND
+          - list [ref=e751]:
+            - listitem [ref=e752]:
+              - generic [ref=e753]: PEACE OF MIND
+              - generic [ref=e754]:
+                - text: Emergency SOS via satellite
+                - text: Crash Detection
+                - text: Roadside Assistance via satellite
+                - text: Messages via satellite
+                - text: Find My via satellite
+        - generic [ref=e755]:
+          - heading "CELLULAR AND WIRELESS" [level=3] [ref=e756] [cursor=pointer]: CELLULAR AND WIRELESS
+          - list [ref=e759]:
+            - listitem [ref=e760]:
+              - generic [ref=e761]: MODELS A3256 AND A3257**
+              - generic [ref=e762]:
+                - text: FDD-5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n14, n20, n25, n26, n28, n29, n30, n66, n70, n71, n75)
+                - text: TDD--5G NR (Bands n38, n40, n41, n48, n53, n77, n78, n79)
+                - text: 5G NR mmWave (Bands n258, n260, n261)
+                - text: FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 66, 71)
+                - text: TDD--LTE (Bands 34, 38, 39, 40, 41, 42, 48, 53)
+                - text: UMTS/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)
+                - text: GSM/EDGE (850, 900, 1800, 1900 MHz)
+                - text: 5G (sub-6 GHz and mmWave) with 4x4 MIMO
+                - text: Gigabit LTE with 4x4 MIMO
+            - listitem [ref=e763]:
+              - generic [ref=e764]: APPLE N1 WIRELESS NETWORKING CHIP
+              - generic [ref=e765]:
+                - text: Wi-Fi 7 (802.11be) with 2x2 MIMO
+                - text: Bluetooth 6
+                - text: Thread networking technology
+            - listitem [ref=e766]:
+              - generic [ref=e767]: APPLE SECOND-GENERATION ULTRA WIDEBAND CHIP
+              - generic [ref=e768]:
+                - text: NFC with reader mode
+                - text: Express Cards with power reserve
+        - generic [ref=e769]:
+          - heading "LOCATION" [level=3] [ref=e770] [cursor=pointer]: LOCATION
+          - list [ref=e773]:
+            - listitem [ref=e774]:
+              - generic [ref=e775]: LOCATION
+              - generic [ref=e776]:
+                - text: Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS, BeiDou, and NavIC)
+                - text: Digital compass
+                - text: Wi-Fi
+                - text: Cellular
+                - text: iBeacon microlocation
+        - generic [ref=e777]:
+          - heading "EXTERNAL BUTTONS AND CONNECTORS" [level=3] [ref=e778] [cursor=pointer]: EXTERNAL BUTTONS AND CONNECTORS
+          - list [ref=e781]:
+            - listitem [ref=e782]:
+              - generic [ref=e783]: EXTERNAL BUTTONS AND CONNECTORS
+              - generic [ref=e784]:
+                - text: Volume up/down
+                - text: Action button
+                - text: Camera Control
+                - text: Side button
+                - text: Built-in stereo speaker
+                - text: Built-in microphone
+                - text: USB-C connector
+            - listitem [ref=e785]:
+              - generic [ref=e786]: ACTION BUTTON FEATURES
+              - generic [ref=e787]: Silent mode, Focus, Camera, Visual Intelligence, Flashlight, Voice Memo, Recognize Music, Translate, Magnifier, Controls, Shortcut, or Accessibility
+            - listitem [ref=e788]:
+              - generic [ref=e789]: CAMERA CONTROLS
+              - generic [ref=e790]: Exposure, Depth, Zoom, Cameras, Styles, Tone
+        - generic [ref=e791]:
+          - heading "CHARGING AND EXPANSION" [level=3] [ref=e792] [cursor=pointer]: CHARGING AND EXPANSION
+          - list [ref=e795]:
+            - listitem [ref=e796]:
+              - generic [ref=e797]: USB-C CONNECTOR WITH SUPPORT FOR
+              - generic [ref=e798]:
+                - text: Charging
+                - text: DisplayPort
+                - text: USB 3 (up to 10Gb/s)
+        - generic [ref=e799]:
+          - heading "MAGSAFE AND WIRELESS CHARGING" [level=3] [ref=e800] [cursor=pointer]: MAGSAFE AND WIRELESS CHARGING
+          - list [ref=e803]:
+            - listitem [ref=e804]:
+              - generic [ref=e805]: MAGSAFE AND WIRELESS CHARGING
+              - generic [ref=e806]:
+                - text: MagSafe wireless charging up to 25W
+                - text: Qi2 wireless charging up to 25W
+                - text: Magnet array
+                - text: Alignment magnet
+                - text: Accessory Identification NFC
+                - text: Magnetometer
+        - generic [ref=e807]:
+          - heading "SENSORS" [level=3] [ref=e808] [cursor=pointer]: SENSORS
+          - list [ref=e811]:
+            - listitem [ref=e812]:
+              - generic [ref=e813]: SENSORS
+              - generic [ref=e814]:
+                - text: Face ID
+                - text: LiDAR Scanner
+                - text: Barometer
+                - text: High dynamic range gyro
+                - text: High-g accelerometer
+                - text: Proximity sensor
+                - text: Dual ambient light sensors
+        - generic [ref=e815]:
+          - heading "SIM Card" [level=3] [ref=e816] [cursor=pointer]: SIM Card
+          - list [ref=e819]:
+            - listitem [ref=e820]:
+              - generic [ref=e821]: SIM Card
+              - generic [ref=e822]:
+                - text: Dual SIM (nano-SIM and eSIM)
+                - text: Dual eSIM Support
+        - generic [ref=e823]:
+          - heading "APPLE PAY" [level=3] [ref=e824] [cursor=pointer]: APPLE PAY
+          - list [ref=e827]:
+            - listitem [ref=e828]:
+              - generic [ref=e829]: APPLE PAY
+              - generic [ref=e830]:
+                - text: Pay with your iPhone using Face ID in stores, within apps, and on the web
+                - text: Send and receive money in Messages with Apple Cash
+                - text: Complete purchases made with Apple Pay on your Mac
+                - text: Pay for your ride using Express Transit
+        - generic [ref=e831]:
+          - heading "APPLE CARD" [level=3] [ref=e832] [cursor=pointer]: APPLE CARD
+          - list [ref=e835]:
+            - listitem [ref=e836]:
+              - generic [ref=e837]: APPLE CARD
+              - generic [ref=e838]:
+                - text: Credit card created by Apple, designed for iPhone
+                - text: Get unlimited 3% Daily Cash at Apple and select merchants when you use Apple Pay, 2% with Apple Pay, and 1% everywhere else
+                - text: Use the Wallet app to apply for, manage, and use Apple Card
+                - text: Titanium, laser-etched physical credit card for use where Apple Pay is not accepted yet
+                - text: Share with up to five people, 13 years or older, in your Family Sharing group to track expenses and manage spending
+        - generic [ref=e839]:
+          - heading "VIDEO CALLING" [level=3] [ref=e840] [cursor=pointer]: VIDEO CALLING
+          - list [ref=e843]:
+            - listitem [ref=e844]:
+              - generic [ref=e845]: VIDEO CALLING
+              - generic [ref=e846]:
+                - text: FaceTime video calling over cellular or Wi-Fi
+                - text: FaceTime HD (1080p) video calling over 5G or Wi-Fi
+                - text: Center Stage
+                - text: Share experiences like movies, TV, music, and other apps in a FaceTime call with SharePlay
+                - text: Screen sharing
+                - text: Portrait mode in FaceTime video
+                - text: Spatial Audio
+                - text: Voice Isolation and Wide Spectrum microphone modes
+                - text: Optical zoom with rear-facing camera
+        - generic [ref=e847]:
+          - heading "AUDIO CALLING" [level=3] [ref=e848] [cursor=pointer]: AUDIO CALLING
+          - list [ref=e851]:
+            - listitem [ref=e852]:
+              - generic [ref=e853]: AUDIO CALLING
+              - generic [ref=e854]:
+                - text: FaceTime audio
+                - text: Voice over LTE (VoLTE)
+                - text: Wi-Fi calling
+                - text: Share experiences like movies, TV, music, and other apps in a FaceTime call with SharePlay
+                - text: Screen sharing
+                - text: Spatial Audio
+                - text: Voice Isolation and Wide Spectrum microphone modes
+        - generic [ref=e855]:
+          - heading "AUDIO PLAYBACK" [level=3] [ref=e856] [cursor=pointer]: AUDIO PLAYBACK
+          - list [ref=e859]:
+            - listitem [ref=e860]:
+              - generic [ref=e861]: AUDIO PLAYBACK
+              - generic [ref=e862]:
+                - text: Supported formats include AAC, APAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus, and Dolby Atmos
+                - text: Spatial Audio playback
+                - text: User-configurable maximum volume limit
+        - generic [ref=e863]:
+          - heading "VIDEO PLAYBACK" [level=3] [ref=e864] [cursor=pointer]: VIDEO PLAYBACK
+          - list [ref=e867]:
+            - listitem [ref=e868]:
+              - generic [ref=e869]: VIDEO PLAYBACK
+              - generic [ref=e870]:
+                - text: Supported formats include HEVC, H.264, AV1, and ProRes
+                - text: HDR with Dolby Vision, HDR10+/HDR10, and HLG
+                - text: Up to 4K HDR AirPlay for mirroring, photos, and video out to Apple TV (2nd generation or later) or AirPlay-enabled smart TV
+                - text: "Video mirroring and video out support: Up to 4K HDR through native DisplayPort output over USB-C or USB-C Digital AV Adapter (model A2119; adapter sold separately)"
+        - generic [ref=e871]:
+          - heading "SIRI" [level=3] [ref=e872] [cursor=pointer]: SIRI
+          - list [ref=e875]:
+            - listitem [ref=e876]:
+              - generic [ref=e877]: SIRI
+              - generic [ref=e878]:
+                - text: Get help with everyday tasks like sending messages, setting reminders, and more
+                - text: Activate hands-free with only your voice using ''Siri'' or ''''Hey Siri'''', or use Type to Siri
+                - text: Protected by the strongest privacy of any intelligent assistant
+                - text: Powered by Apple Intelligence, Siri is more natural and helpful
+        - generic [ref=e879]:
+          - heading "OPERATING SYSTEM" [level=3] [ref=e880] [cursor=pointer]: OPERATING SYSTEM
+          - list [ref=e883]:
+            - listitem [ref=e884]:
+              - generic [ref=e885]: iOS 26
+              - generic [ref=e886]: iOS is the world's most personal and secure mobile operating system, packed with powerful features and designed to protect your privacy.
+        - generic [ref=e887]:
+          - heading "PRIVACY" [level=3] [ref=e888] [cursor=pointer]: PRIVACY
+          - list [ref=e891]:
+            - listitem [ref=e892]:
+              - generic [ref=e893]: PRIVACY
+              - generic [ref=e894]: iPhone is built from the ground up to protect your personal information. Every iPhone has secure facial authentication. Apps need your permission to track your activity across other companies apps or websites. Your iMessages and FaceTime video calls are encrypted end-to-end. And much more.
+        - generic [ref=e895]:
+          - heading "ACCESSIBILITY" [level=3] [ref=e896] [cursor=pointer]: ACCESSIBILITY
+          - list [ref=e899]:
+            - listitem [ref=e900]:
+              - generic [ref=e901]: ACCESSIBILITY
+              - generic [ref=e902]: Built-in accessibility features supporting vision, mobility, hearing, speech, and cognitive needs help you get the most out of your iPhone - in the ways that work best for you.
+            - listitem [ref=e903]:
+              - generic [ref=e904]: FEATURES INCLUDE
+              - generic [ref=e905]:
+                - text: VoiceOver
+                - text: Zoom
+                - text: Magnifier
+                - text: Voice Control
+                - text: Switch Control
+                - text: AssistiveTouch
+                - text: Eye Tracking
+                - text: RTT and TTY support
+                - text: Closed Captions
+                - text: Live Captions
+                - text: Personal Voice
+                - text: Live Speech
+                - text: Type to Siri
+                - text: Vocal Shortcuts
+                - text: Spoken Content
+        - generic [ref=e906]:
+          - heading "BUILT-IN APPS" [level=3] [ref=e907] [cursor=pointer]: BUILT-IN APPS
+          - list [ref=e910]:
+            - listitem [ref=e911]:
+              - generic [ref=e912]: BUILT-IN APPS
+              - generic [ref=e913]:
+                - text: Apple Store
+                - text: App Store
+                - text: Books
+                - text: Calculator
+                - text: Calendar
+                - text: Camera
+                - text: Clips
+                - text: Clock
+                - text: Compass
+                - text: Contacts
+                - text: FaceTime
+                - text: Files
+                - text: Find My
+                - text: Fitness
+                - text: Freeform
+                - text: GarageBand
+                - text: Health
+                - text: Home
+                - text: iMovie
+                - text: iTunes Store
+                - text: Journal
+                - text: Keynote
+                - text: Magnifier
+                - text: Mail
+                - text: Maps
+                - text: Measure
+                - text: Messages
+                - text: Music
+                - text: News
+                - text: Notes
+                - text: Numbers
+                - text: Pages
+                - text: Passwords
+                - text: Phone
+                - text: Photos
+                - text: Podcasts
+                - text: Reminders
+                - text: Safari
+                - text: Settings
+                - text: Shortcuts
+                - text: Stocks
+                - text: Tips
+                - text: Translate
+                - text: TV
+                - text: Voice Memos
+                - text: Wallet
+                - text: Watch
+                - text: Weather
+        - generic [ref=e914]:
+          - heading "RATING FOR HEARING AIDS" [level=3] [ref=e915] [cursor=pointer]: RATING FOR HEARING AIDS
+          - list [ref=e918]:
+            - listitem [ref=e919]:
+              - generic [ref=e920]: RATING FOR HEARING AIDS
+              - generic [ref=e921]: Hearing Aid Compatible
+        - generic [ref=e922]:
+          - heading "SYSTEM REQUIREMENTS" [level=3] [ref=e923] [cursor=pointer]: SYSTEM REQUIREMENTS
+          - list [ref=e926]:
+            - listitem [ref=e927]:
+              - generic [ref=e928]: SYSTEM REQUIREMENTS
+              - generic [ref=e929]:
+                - text: Apple Account (required for some features)
+                - text: Internet access
+                - text: "Syncing to a Mac or PC requires: macOS Catalina 10.15 or later using the Finder"
+                - text: macOS High Sierra 10.13 through macOS Mojave 10.14.6 using iTunes 12.8 or later
+                - text: Windows 10 or later using iTunes 12.12.10 or later (free download fromapple.com/itunes/download)
+        - generic [ref=e930]:
+          - heading "LANGUAGES" [level=3] [ref=e931] [cursor=pointer]: LANGUAGES
+          - list [ref=e934]:
+            - listitem [ref=e935]:
+              - generic [ref=e936]: LANGUAGE SUPPORT
+              - generic [ref=e937]: English (Australia, UK, U.S.), Chinese (Simplified, Traditional, Traditional - Hong Kong), French (Canada, France), German, Italian, Japanese, Korean, Spanish (Latin America, Spain), Arabic, Bulgarian, Catalan, Croatian, Czech, Danish, Dutch, Finnish, Greek, Hebrew, Hindi, Hungarian, Indonesian, Kazakh, Malay, Norwegian, Polish, Portuguese (Brazil, Portugal), Romanian, Russian, Slovak, Swedish, Thai, Turkish, Ukrainian, Vietnamese
+        - generic [ref=e938]:
+          - heading "MANUFACTURER DETAILS" [level=3] [ref=e939] [cursor=pointer]: MANUFACTURER DETAILS
+          - list [ref=e942]:
+            - listitem [ref=e943]:
+              - generic [ref=e944]: GENERIC NAME
+              - generic [ref=e945]: iPhones
+            - listitem [ref=e946]:
+              - generic [ref=e947]: COUNTRY OF ORIGIN
+              - generic [ref=e948]: USA
+            - listitem [ref=e949]:
+              - generic [ref=e950]: COUNTRY OF MANUFACTURER
+              - generic [ref=e951]: China/India
+            - listitem [ref=e952]:
+              - generic [ref=e953]: MANUFACTURERS DETAILS
+              - generic [ref=e954]: Apple Inc.
+            - listitem [ref=e955]:
+              - generic [ref=e956]: IMPORTER DETAIL
+              - generic [ref=e957]: Apple India Private Limited No. 24, 19th Floor, Concorde Tower C, UB City, Vittal Mallya Road, Bangalore - 560001
+            - listitem [ref=e958]:
+              - generic [ref=e959]: PACKERS DETAILS
+              - generic [ref=e960]: Apple India Private Limited
+            - listitem [ref=e961]:
+              - generic [ref=e962]: ITEM AVAILABLE FROM DATE
+              - generic [ref=e963]: 19-Sep-25
+        - generic [ref=e964]:
+          - heading "DIMENSION WEIGHT DETAILS" [level=3] [ref=e965] [cursor=pointer]: DIMENSION WEIGHT DETAILS
+          - list [ref=e968]:
+            - listitem [ref=e969]:
+              - generic [ref=e970]: PRODUCT DIMENSIONS(W X D X H)
+              - generic [ref=e971]: 71.9 X 8.75 X 150 mm
+            - listitem [ref=e972]:
+              - generic [ref=e973]: PRODUCT WEIGHT
+              - generic [ref=e974]: 206 grams
+    - generic [ref=e976]:
+      - heading "Additional Information" [level=2] [ref=e979]
+      - list [ref=e981]:
+        - listitem [ref=e982]:
+          - generic [ref=e984]: What's in the box?
+          - generic [ref=e985]: 1 iPhone with iOS 26 | 1 USB-C Charge Cable (1 m) | 1 Documentation
+        - listitem [ref=e986]:
+          - generic [ref=e988]: Warranty
+          - generic [ref=e989]: 1 Year Product Warranty | 6 Months Warranty on In-Box Accessories
+    - generic [ref=e991]:
+      - generic [ref=e992]:
+        - generic [ref=e993]:
+          - heading "Ratings and Reviews" [level=2] [ref=e994]
+          - paragraph [ref=e995]: Be the first to review this product
+        - button "Write a Review" [ref=e997] [cursor=pointer]
+      - text: ★★★★★ ★★★★★
+    - generic [ref=e1000]:
+      - heading "Buy iPhone 17 Pro (256GB Storage, Deep Blue)" [level=2] [ref=e1001]
+      - heading [level=2] [ref=e1002]
+      - paragraph [ref=e1003]:
+        - text: The all-new
+        - link "iPhone" [ref=e1004] [cursor=pointer]:
+          - /url: https://www.vijaysales.com/c/iphones
+        - text: "17 Pro has a 6.3″ Super Retina XDR display. It is relatively lightweight, weighing 204 g. This model is available in three unique shades: Silver, cosmic orange, and deep blue. The Aluminium unibody design and the Ceramic Shield 2 front are two design features that make this model strong."
+      - paragraph [ref=e1005]
+      - paragraph [ref=e1006]: iPhone 17 Pro Key Features & Specifications
+      - paragraph [ref=e1007]
+      - paragraph [ref=e1008]: "The following are key iPhone 17 Pro specs and features:"
+      - paragraph [ref=e1009]
+      - paragraph [ref=e1010]: "- Since iPhone 17 uses the A19 Pro chipset, the model is compelling."
+      - paragraph [ref=e1011]
+      - paragraph [ref=e1012]: "- The innovative design with the Aluminium unibody and ceramic shield delivers exceptional durability."
+      - paragraph [ref=e1013]
+      - paragraph [ref=e1014]: "- The 48MP Pro Fusion camera system has the longest iPhone Telephoto zoom."
+      - paragraph [ref=e1015]
+      - paragraph [ref=e1016]: "- It has a great battery life with up to 31 hours of video playback."
+      - paragraph [ref=e1017]
+      - paragraph [ref=e1018]: iPhone 17 Pro Display
+      - paragraph [ref=e1019]: iPhone 17 Pro has a Super Retina XDR immersive Pro display. This 6.3-inch display has unmatched brightness and an anti-reflective coating. The ProMotion technology enables adaptive refresh rates up to 120Hz. Additionally, it has an Always-On display.
+      - paragraph [ref=e1020]
+      - paragraph [ref=e1021]: iPhone 17 Pro Camera System
+      - paragraph [ref=e1022]
+      - paragraph [ref=e1023]: The 48MP Pro Fusion camera system has the power of multiple pro lenses. The system comprises the 48MP Fusion Main camera, 48MP Fusion Ultra-Wide camera, and the 48MP Fusion Telephoto camera. They capture detailed images at any level of light. The 18MP Centre Stage front camera offers framing flexibility by expanding the field of view without requiring you to move your device.
+      - paragraph [ref=e1024]
+      - paragraph [ref=e1025]: iPhone 17 Pro Storage & Battery
+      - paragraph [ref=e1026]
+      - paragraph [ref=e1027]: The Apple iPhone 17 Pro starts with 256GB and can be upgraded to 1TB. This makes the model suitable for an extensive range of individuals. It may be beneficial for professionals, such as photographers, who require extensive storage space. iPhone 17 Pro has a great battery life. The phone has up to 31 hours of video playback and charges up to 50% in 20 minutes with a 40W adapter. iPhone 17 Pro’s aluminium unibody enclosure maximises battery capacity.
+      - paragraph [ref=e1028]
+      - paragraph [ref=e1029]: iPhone 17 Pro Performance & Chipset
+      - paragraph [ref=e1030]
+      - paragraph [ref=e1031]: The all-new A19 Pro offers lightning-fast performance. This chip is excellent for advanced gaming and demanding tasks. It utilises advanced cooling technology, further enhancing performance. The GPU and CPU deliver 40% better performance.
+      - paragraph [ref=e1032]
+      - paragraph [ref=e1033]: What’s New in iPhone 17 Pro?
+      - paragraph [ref=e1034]
+      - paragraph [ref=e1035]: "The following are new iPhone 17 Pro features:"
+      - paragraph [ref=e1036]
+      - paragraph [ref=e1037]: "- Its forged Aluminium body makes the phone light and enables incredible thermal conductivity."
+      - paragraph [ref=e1038]
+      - paragraph [ref=e1039]: "- The vapour chamber helps move water away from the chipset, enabling better performance."
+      - paragraph [ref=e1040]
+      - paragraph [ref=e1041]: "- The A19 Pro chipset can offer next-level performance."
+      - paragraph [ref=e1042]
+      - paragraph [ref=e1043]: "- The 48MP rear cameras have innovative features providing an extensive range of creative choices to the user."
+      - paragraph [ref=e1044]
+      - paragraph [ref=e1045]: "- With this model, low-light photography becomes effortless."
+      - paragraph [ref=e1046]
+      - paragraph [ref=e1047]: "- It has an incredible battery life, allowing up to 31 hours of video playback."
+    - button "Undo" [ref=e1051] [cursor=pointer]
+  - generic [ref=e1053]:
+    - generic [ref=e1054]:
+      - img "plus" [ref=e1057] [cursor=pointer]
+      - img "plus" [ref=e1060] [cursor=pointer]
+      - img "plus" [ref=e1063] [cursor=pointer]
+      - img "plus" [ref=e1066] [cursor=pointer]
+    - generic [ref=e1067]:
+      - button "Clear All" [ref=e1068] [cursor=pointer]
+      - button "Compare" [ref=e1069] [cursor=pointer]
+      - button "close" [ref=e1070] [cursor=pointer]:
+        - img "close" [ref=e1071]
+  - generic [ref=e1074]:
+    - generic [ref=e1078]:
+      - generic [ref=e1080]:
+        - generic [ref=e1082]:
+          - generic [ref=e1083]:
+            - heading "Extended Warranty" [level=2] [ref=e1084]
+            - paragraph [ref=e1086]: Got a question? Look no further calls us.
+          - generic [ref=e1088]:
+            - img "Extended Warranty"
+        - generic [ref=e1090]:
+          - generic [ref=e1091]:
+            - heading "Free Delivery" [level=2] [ref=e1092]
+            - paragraph [ref=e1094]: Available on all our products.
+          - generic [ref=e1096]:
+            - img "Free Delivery"
+        - generic [ref=e1098]:
+          - generic [ref=e1099]:
+            - heading "Trusted Tech Delivered Fast" [level=2] [ref=e1100]
+            - paragraph [ref=e1102]: now in 90 Minutes
+          - generic [ref=e1104]:
+            - img "Same Day Shipping"
+        - generic [ref=e1106]:
+          - generic [ref=e1107]:
+            - heading "Easy Installment" [level=2] [ref=e1108]
+            - paragraph [ref=e1110]: Pay for your purchase in easy EMIs.
+          - generic [ref=e1112]:
+            - img "Easy Installment"
+      - img "scroll-to-top" [ref=e1115] [cursor=pointer]
+    - generic [ref=e1121]:
+      - generic [ref=e1123]:
+        - generic [ref=e1125]:
+          - heading "Stay in touch with us, get product updates, offers, discounts directly to your inbox" [level=3] [ref=e1128]
+          - generic [ref=e1130]:
+            - textbox "Enter Email Address" [ref=e1131]
+            - generic [ref=e1132]: Enter Email Address
+          - group [ref=e1134]:
+            - generic [ref=e1135]:
+              - checkbox "By selecting this option you agree with our Privacy policy and Terms & Conditions" [checked] [ref=e1136] [cursor=pointer]
+              - generic [ref=e1137]: By selecting this option you agree with our Privacy policy and Terms & Conditions
+          - button "Subscribe" [ref=e1139] [cursor=pointer]
+        - generic [ref=e1141]:
+          - generic [ref=e1143]:
+            - generic [ref=e1145]:
+              - heading "Categories" [level=4] [ref=e1146]:
+                - text: Categories
+                - link:
+                  - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops.html
+              - list [ref=e1147]:
+                - listitem [ref=e1148]:
+                  - link "Television" [ref=e1149] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions.html
+                - listitem [ref=e1150]:
+                  - link "Smartphone" [ref=e1151] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/smartphones.html
+                - listitem [ref=e1152]:
+                  - link "Laptops" [ref=e1153] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops.html
+                - listitem [ref=e1154]:
+                  - link "Washing Machines" [ref=e1155] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines.html
+                - listitem [ref=e1156]:
+                  - link "Party Speakers" [ref=e1157] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers.html
+                - listitem [ref=e1158]:
+                  - link "Gaming" [ref=e1159] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/listing-pages/gaming.html
+            - generic [ref=e1161]:
+              - heading "Services" [level=4] [ref=e1162]
+              - list [ref=e1163]:
+                - listitem [ref=e1164]:
+                  - link "Cancellation and Return" [ref=e1165] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/faqs.html
+                - listitem [ref=e1166]:
+                  - link "Loyalty Program" [ref=e1167] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/loyalty.html
+                - listitem [ref=e1168]:
+                  - link "VS Warranty" [ref=e1169] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/vswarranty.html
+                - listitem [ref=e1170]:
+                  - link "Enquires/B2B Orders" [ref=e1171] [cursor=pointer]:
+                    - /url: /content/vijaysaleswebsite/us/en/b2b-enquiry-form.html
+            - generic [ref=e1173]:
+              - heading "Trending Products" [level=4] [ref=e1174]
+              - list [ref=e1175]:
+                - listitem [ref=e1176]:
+                  - link "iPhone 17" [ref=e1177] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17
+                - listitem [ref=e1178]:
+                  - link "iPhone 17 Pro" [ref=e1179] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e1180]:
+                  - link "iPhone 17 Pro Max" [ref=e1181] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-17-pro-series
+                - listitem [ref=e1182]:
+                  - link "iPhone Air" [ref=e1183] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/sale/apple-buckets/apple-iphone-air
+                - listitem [ref=e1184]:
+                  - link "TV" [ref=e1185] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/televisions
+                - listitem [ref=e1186]:
+                  - link "Washing Machine" [ref=e1187] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/washing-machines
+                - listitem [ref=e1188]:
+                  - link "Water Purifier" [ref=e1189] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/water-purifiers
+                - listitem [ref=e1190]:
+                  - link "Smartwatch" [ref=e1191] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/smart-watches
+                - listitem [ref=e1192]:
+                  - link "Microwave" [ref=e1193] [cursor=pointer]:
+                    - /url: https://www.vijaysales.com/c/microwave
+          - generic [ref=e1195]:
+            - generic [ref=e1197]:
+              - heading "About us" [level=4] [ref=e1198]:
+                - link "About us" [ref=e1199] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/about-us.html
+                  - text: About us
+              - heading "Careers" [level=4] [ref=e1200]:
+                - link "Careers" [ref=e1201] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/careers.html
+              - heading "e-Waste" [level=4] [ref=e1202]:
+                - link "e-Waste" [ref=e1203] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/e-waste-recycling.html
+              - heading "Contact" [level=4] [ref=e1204]:
+                - link "Contact" [ref=e1205] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/contact-us.html
+              - heading "Blogs" [level=4] [ref=e1206]:
+                - link "Blogs" [ref=e1207] [cursor=pointer]:
+                  - /url: https://www.vijaysales.com/blog-listing
+              - heading "Order Status" [level=4] [ref=e1208]:
+                - link "Order Status" [ref=e1209] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/profile-page/my-order.html
+              - paragraph [ref=e1210]
+            - generic [ref=e1212]:
+              - heading "Help Center" [level=4] [ref=e1213]:
+                - link "Help Center" [ref=e1214] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/contact-us.html
+              - heading "Shipping & Delivery" [level=4] [ref=e1215]:
+                - link "Shipping & Delivery" [ref=e1216] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/faqs.html?faq=shipping-options
+              - heading "My Account" [level=4] [ref=e1217]:
+                - link "My Account" [ref=e1218] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/profile-page/overview.html
+            - list [ref=e1221]:
+              - listitem [ref=e1222]:
+                - link "Pricing and Payments" [ref=e1223] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/faqs.html?faq=payment-and-returns
+              - listitem [ref=e1224]:
+                - link "Store Locator" [ref=e1225] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/store-locator.html
+            - list [ref=e1228]:
+              - listitem [ref=e1229]:
+                - link "Brand Stores" [ref=e1230] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/brands.html
+              - listitem [ref=e1231]:
+                - link "Terms of Use" [ref=e1232] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/faqs.html?faq=terms-of-use
+              - listitem [ref=e1233]:
+                - link "Caution Notice" [ref=e1234] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/faqs.html
+              - listitem [ref=e1235]:
+                - link "Privacy Policy" [ref=e1236] [cursor=pointer]:
+                  - /url: /content/vijaysaleswebsite/us/en/privacy-policy.html
+      - generic [ref=e1238]:
+        - generic [ref=e1240]:
+          - heading "Follow us on Socials" [level=3] [ref=e1243]
+          - generic [ref=e1245]:
+            - generic:
+              - generic:
+                - link "whatsapp-icon":
+                  - /url: https://api.whatsapp.com/send?phone=917045926060&text=Hello
+                  - img "whatsapp-icon"
+            - generic:
+              - generic:
+                - link "facebook-icon":
+                  - /url: https://www.facebook.com/VijaySales/
+                  - img "facebook-icon"
+            - generic:
+              - generic:
+                - link "twitter-icon":
+                  - /url: https://x.com/VijaySales
+                  - img "twitter-icon"
+            - generic:
+              - generic:
+                - link "instagram-icon":
+                  - /url: https://www.instagram.com/vijaysalesofficial/
+                  - img "instagram-icon"
+            - generic:
+              - generic:
+                - link "youtube-icon":
+                  - /url: https://www.youtube.com/user/vijaysalesstore
+                  - img "youtube-icon"
+            - generic:
+              - generic:
+                - link "linkedIn-icon":
+                  - /url: https://in.linkedin.com/company/vijaysales
+                  - img "linkedIn-icon"
+        - generic [ref=e1247]:
+          - heading "Download The Service App" [level=6] [ref=e1250]
+          - generic [ref=e1252]:
+            - generic:
+              - generic:
+                - link "google-play-store-icon":
+                  - /url: https://play.google.com/store/apps/details?id=com.vijaysales.vscare
+                  - img "google-play-store-icon"
+            - generic:
+              - generic:
+                - link "apple-store-icon":
+                  - /url: https://apps.apple.com/in/app/my-vs-vijaysales/id1278356034
+                  - img "apple-store-icon"
+    - generic [ref=e1258]:
+      - generic [ref=e1260]:
+        - generic [ref=e1262]:
+          - heading "AIR CONDITIONERS" [level=4] [ref=e1263]
+          - list [ref=e1264]:
+            - listitem [ref=e1265]:
+              - link "Vise ACs" [ref=e1266] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Vise
+            - listitem [ref=e1267]:
+              - link "Voltas ACs" [ref=e1268] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Voltas
+            - listitem [ref=e1269]:
+              - link "Daikin ACs" [ref=e1270] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Daikin
+            - listitem [ref=e1271]:
+              - link "LG ACs" [ref=e1272] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=LG
+            - listitem [ref=e1273]:
+              - link "Bluestar ACs" [ref=e1274] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Bluestar
+            - listitem [ref=e1275]:
+              - link "Godrej ACs" [ref=e1276] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Godrej
+            - listitem [ref=e1277]:
+              - link "Mitsubishi ACs" [ref=e1278] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Mitsubishi
+            - listitem [ref=e1279]:
+              - link "Carrier ACs" [ref=e1280] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Carrier
+            - listitem [ref=e1281]:
+              - link "Hitachi ACs" [ref=e1282] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Hitachi
+            - listitem [ref=e1283]:
+              - link "Panasonic ACs" [ref=e1284] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Panasonic
+            - listitem [ref=e1285]:
+              - link "Samsung ACs" [ref=e1286] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Samsung
+            - listitem [ref=e1287]:
+              - link "Haier ACs" [ref=e1288] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Haier
+            - listitem [ref=e1289]:
+              - link "Ogeneral ACs" [ref=e1290] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?brand=Ogeneral
+            - listitem [ref=e1291]:
+              - link "Split ACs" [ref=e1292] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Split
+            - listitem [ref=e1293]:
+              - link "Window ACs" [ref=e1294] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ac_type=Window
+            - listitem [ref=e1295]:
+              - link "Less than 1 Ton ACs" [ref=e1296] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e1297]:
+              - link "1 Ton ACs" [ref=e1298] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1%20Ton%20and%20Below
+            - listitem [ref=e1299]:
+              - link "1.2 Ton ACs" [ref=e1300] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e1301]:
+              - link "1.5 Ton ACs" [ref=e1302] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.1%20Ton%20to%201.5%20Ton
+            - listitem [ref=e1303]:
+              - link "1.8 Ton ACs" [ref=e1304] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=1.6%20Ton%20to%201.9%20Ton
+            - listitem [ref=e1305]:
+              - link "2 Ton ACs" [ref=e1306] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e1307]:
+              - link "2.2 Ton ACs" [ref=e1308] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e1309]:
+              - link "2.5 Ton ACs" [ref=e1310] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e1311]:
+              - link "3 Ton ACs" [ref=e1312] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?capacity_range=2%20Ton%20and%20Above
+            - listitem [ref=e1313]:
+              - link "2 Star ACs" [ref=e1314] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=547
+            - listitem [ref=e1315]:
+              - link "3 Star ACs" [ref=e1316] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=550
+            - listitem [ref=e1317]:
+              - link "4 Star ACs" [ref=e1318] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=553
+            - listitem [ref=e1319]:
+              - link "5 Star ACs" [ref=e1320] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?energy_rating=556
+            - listitem [ref=e1321]:
+              - link "Fixed Speed ACs" [ref=e1322] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?technology=Fixed%20Speed
+            - listitem [ref=e1323]:
+              - link "Inverter ACs" [ref=e1324] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?technology=Inverter
+            - listitem [ref=e1325]:
+              - link "Upto 120 SqFt ACs" [ref=e1326] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ideal_room_size=Upto%20120%20SqFt
+            - listitem [ref=e1327]:
+              - link "121 Sq Ft to 180 Sq Ft ACs" [ref=e1328] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ideal_room_size=121%20Sq%20Ft%20to%20180%20Sq%20Ft
+            - listitem [ref=e1329]:
+              - link "181 Sq Ft to 240 Sq Ft ACs" [ref=e1330] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ideal_room_size=181%20Sq%20Ft%20to%20240%20Sq%20Ft
+            - listitem [ref=e1331]:
+              - link "241 Sq Ft to 300 Sq Ft ACs" [ref=e1332] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners.html?ideal_room_size=241%20Sq%20Ft%20to%20300%20Sq%20Ft
+        - generic [ref=e1334]:
+          - heading "LED TV" [level=4] [ref=e1335]
+          - list [ref=e1336]:
+            - listitem [ref=e1337]:
+              - link "SANSUI TV" [ref=e1338] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=SANSUI
+            - listitem [ref=e1339]:
+              - link "Vise TV" [ref=e1340] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Vise
+            - listitem [ref=e1341]:
+              - link "Samsung TV" [ref=e1342] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Samsung
+            - listitem [ref=e1343]:
+              - link "LG TV" [ref=e1344] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=LG
+            - listitem [ref=e1345]:
+              - link "Sony TV" [ref=e1346] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Sony
+            - listitem [ref=e1347]:
+              - link "Panasonic TV" [ref=e1348] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?brand=Panasonic
+            - listitem [ref=e1349]:
+              - link "OLED TV" [ref=e1350] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?technology=OLED
+            - listitem [ref=e1351]:
+              - link "4K/ULTRA HD TV" [ref=e1352] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e1353]:
+              - link "FULL HD TV" [ref=e1354] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=FULL%20HD
+            - listitem [ref=e1355]:
+              - link "HD TV" [ref=e1356] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD
+            - listitem [ref=e1357]:
+              - link "HD READY TV" [ref=e1358] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD%20READY
+            - listitem [ref=e1359]:
+              - link "25 - 32 inch TV" [ref=e1360] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=32%20inch%20to%2039%20inch
+            - listitem [ref=e1361]:
+              - link "33 - 44 inch TV" [ref=e1362] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e1363]:
+              - link "45 - 50 inch TV" [ref=e1364] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=40%20inch%20to%2049%20inch
+            - listitem [ref=e1365]:
+              - link "51 - 55 inch TV" [ref=e1366] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=50%20inch%20to%2059%20inch
+            - listitem [ref=e1367]:
+              - link "56 - 65 inch TV" [ref=e1368] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=60%20inch%20to%2069%20inch
+            - listitem [ref=e1369]:
+              - link "66 inch and above TV" [ref=e1370] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?screen_size_range=70%20inch%20and%20Above
+        - generic [ref=e1372]:
+          - heading "TELEVISIONS & ENTERTAINMENT" [level=4] [ref=e1373]
+          - list [ref=e1374]:
+            - listitem [ref=e1375]:
+              - link "LED TV" [ref=e1376] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?technology=LED
+            - listitem [ref=e1377]:
+              - link "HD Ready TV" [ref=e1378] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD%20READY
+            - listitem [ref=e1379]:
+              - link "HD TV" [ref=e1380] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=HD
+            - listitem [ref=e1381]:
+              - link "UHD / 4K TV" [ref=e1382] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=4K/ULTRA%20HD
+            - listitem [ref=e1383]:
+              - link "Full HD TV" [ref=e1384] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/televisions?resolution=FULL%20HD
+            - listitem [ref=e1385]:
+              - link "Streaming Devices" [ref=e1386] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=TV%20Accessories
+            - listitem [ref=e1387]:
+              - link "Audio Accessories" [ref=e1388] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Audio%20Accessories
+            - listitem [ref=e1389]:
+              - link "Gaming Consoles" [ref=e1390] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming
+            - listitem [ref=e1391]:
+              - link "Gaming Controllers" [ref=e1392] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/television-and-entertainment?categories=Gaming%20Controllers
+            - listitem [ref=e1393]:
+              - link "Soundbars" [ref=e1394] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/soundbars
+            - listitem [ref=e1395]:
+              - link "Home Theatre" [ref=e1396] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/home-theaters.html
+            - listitem [ref=e1397]:
+              - link "Speakers" [ref=e1398] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/speakers
+            - listitem [ref=e1399]:
+              - link "Party Speakers" [ref=e1400] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/party-speakers
+        - generic [ref=e1402]:
+          - heading "LARGE APPLIANCES" [level=4] [ref=e1403]
+          - list [ref=e1404]:
+            - listitem [ref=e1405]:
+              - link "Air Conditioners" [ref=e1406] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners
+            - listitem [ref=e1407]:
+              - link "Split AC" [ref=e1408] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ac_type=Split
+            - listitem [ref=e1409]:
+              - link "Window AC" [ref=e1410] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ac_type=Window
+            - listitem [ref=e1411]:
+              - link "Portable AC" [ref=e1412] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-conditioners?ac_type=Portable
+            - listitem [ref=e1413]:
+              - link "Washing and Drying" [ref=e1414] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e1415]:
+              - link "Fully Automatic Top Load" [ref=e1416] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Top%20Loading
+            - listitem [ref=e1417]:
+              - link "Semi Automatic Top Load" [ref=e1418] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Semi%20Automatic
+            - listitem [ref=e1419]:
+              - link "Fully Automatic Front Load" [ref=e1420] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Fully%20Automatic&load_type=Front%20Loading
+            - listitem [ref=e1421]:
+              - link "Front Load Washer and Dryer" [ref=e1422] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e1423]:
+              - link "Dryer" [ref=e1424] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/washing-machines?washing_machine_type=Dryer
+            - listitem [ref=e1425]:
+              - link "Dishwasher" [ref=e1426] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/dishwashers
+            - listitem [ref=e1427]:
+              - link "Refrigerators" [ref=e1428] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators
+            - listitem [ref=e1429]:
+              - link "Single Door" [ref=e1430] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Single%20Door
+            - listitem [ref=e1431]:
+              - link "Double Door" [ref=e1432] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Double%20Door
+            - listitem [ref=e1433]:
+              - link "Triple Door" [ref=e1434] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?no_of_doors=Triple%20Door
+            - listitem [ref=e1435]:
+              - link "Side By Side" [ref=e1436] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/refrigerators?refrigerator_type=Side%20by%20Side%20Refrigerator
+        - generic [ref=e1438]:
+          - heading "KITCHEN APPLIANCES" [level=4] [ref=e1439]
+          - list [ref=e1440]:
+            - listitem [ref=e1441]:
+              - link "Atta Maker" [ref=e1442] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/atta-maker
+            - listitem [ref=e1443]:
+              - link "Built In Ovens" [ref=e1444] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+            - listitem [ref=e1445]:
+              - link "Chimney" [ref=e1446] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/chimneys
+            - listitem [ref=e1447]:
+              - link "Chopper" [ref=e1448] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/choppers
+            - listitem [ref=e1449]:
+              - link "Coffee Maker" [ref=e1450] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/coffee-machines
+            - listitem [ref=e1451]:
+              - link "Cooktop" [ref=e1452] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/cooktop
+            - listitem [ref=e1453]:
+              - link "Food Processor" [ref=e1454] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/food-processors
+            - listitem [ref=e1455]:
+              - link "Air Fryer" [ref=e1456] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/air-fryers
+            - listitem [ref=e1457]:
+              - link "Hand Blender" [ref=e1458] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e1459]:
+              - link "Hand Mixer" [ref=e1460] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hand-mixers-and-blenders
+            - listitem [ref=e1461]:
+              - link "HOB" [ref=e1462] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/built-in-hobs
+            - listitem [ref=e1463]:
+              - link "Juicer" [ref=e1464] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicer
+            - listitem [ref=e1465]:
+              - link "Juicer Mixer Grinders" [ref=e1466] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/juicers-mixers-and-grinders
+            - listitem [ref=e1467]:
+              - link "Grinder" [ref=e1468] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/mixer-grinder
+            - listitem [ref=e1469]:
+              - link "Kettles" [ref=e1470] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/kettles
+            - listitem [ref=e1471]:
+              - link "Microwave" [ref=e1472] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave
+            - listitem [ref=e1473]:
+              - link "Oven" [ref=e1474] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/microwave-and-otgs
+            - listitem [ref=e1475]:
+              - link "Toaster" [ref=e1476] [cursor=pointer]:
+                - /url: https://www.vijaysales.com/c/sandwich-toasters
+            - listitem [ref=e1477]:
+              - link "Popup Toaster" [ref=e1478] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/popup-toasters
+            - listitem [ref=e1479]:
+              - link "Sandwich Toaster" [ref=e1480] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/sandwich-toasters
+            - listitem [ref=e1481]:
+              - link "Wet Grinder" [ref=e1482] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/wet-grinders
+            - listitem [ref=e1483]:
+              - link "Mixer" [ref=e1484] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/juicers-mixers-and-grinders
+        - generic [ref=e1486]:
+          - heading "HEADPHONES & SPEAKERS" [level=4] [ref=e1487]
+          - list [ref=e1488]:
+            - listitem [ref=e1489]:
+              - link "Truly Wireless Earbuds" [ref=e1490] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/truly-wireless-earbuds.html
+            - listitem [ref=e1491]:
+              - link "Neckbands" [ref=e1492] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/neckbands
+            - listitem [ref=e1493]:
+              - link "Headphones" [ref=e1494] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/headphones
+            - listitem [ref=e1495]:
+              - link "Earphones" [ref=e1496] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/earphones
+            - listitem [ref=e1497]:
+              - link "Portable Speakers" [ref=e1498] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/portable-speakers
+        - generic [ref=e1500]:
+          - heading "HEALTH & GROOMING" [level=4] [ref=e1501]
+          - list [ref=e1502]:
+            - listitem [ref=e1503]:
+              - link "Trimmers" [ref=e1504] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/trimmers
+            - listitem [ref=e1505]:
+              - link "Shavers" [ref=e1506] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/shavers
+            - listitem [ref=e1507]:
+              - link "Hair Stylers" [ref=e1508] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-stylers
+            - listitem [ref=e1509]:
+              - link "Hair Straightners" [ref=e1510] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-straighteners.html
+            - listitem [ref=e1511]:
+              - link "Hair Dryers" [ref=e1512] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hair-dryers
+        - generic [ref=e1514]:
+          - heading "TABLETS" [level=4] [ref=e1515]
+          - list [ref=e1516]:
+            - listitem [ref=e1517]:
+              - link "Tablets" [ref=e1518] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/tablets
+            - listitem [ref=e1519]:
+              - link "iPads" [ref=e1520] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ipads
+            - listitem [ref=e1521]:
+              - link "Graphics Tablets" [ref=e1522] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/graphic-tablets
+        - generic [ref=e1524]:
+          - heading "MOBILES & ACCESSORIES" [level=4] [ref=e1525]
+          - list [ref=e1526]:
+            - listitem [ref=e1527]:
+              - link "Smartphones" [ref=e1528] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/smartphones
+            - listitem [ref=e1529]:
+              - link "iPhones" [ref=e1530] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/iphones
+            - listitem [ref=e1531]:
+              - link "Basic Phones" [ref=e1532] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/basic-phones
+            - listitem [ref=e1533]:
+              - link "Cables" [ref=e1534] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cables
+            - listitem [ref=e1535]:
+              - link "Adapters" [ref=e1536] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/adapters
+            - listitem [ref=e1537]:
+              - link "Power Bank" [ref=e1538] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/power-bank
+            - listitem [ref=e1539]:
+              - link "Cases and Covers" [ref=e1540] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/cases-and-covers
+        - generic [ref=e1542]:
+          - heading "COMPUTER ACCESSORIES" [level=4] [ref=e1543]
+          - list [ref=e1544]:
+            - listitem [ref=e1545]:
+              - link "Mouse" [ref=e1546] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Mouse
+            - listitem [ref=e1547]:
+              - link "Keyboards" [ref=e1548] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Keyboards
+            - listitem [ref=e1549]:
+              - link "Keyboard Mouse Combo" [ref=e1550] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Keyboard%20Mouse%20Combo
+            - listitem [ref=e1551]:
+              - link "Bags" [ref=e1552] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Bags
+            - listitem [ref=e1553]:
+              - link "Cooling Pad" [ref=e1554] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e1555]:
+              - link "Laptop Stand" [ref=e1556] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Laptop%20Stand
+            - listitem [ref=e1557]:
+              - link "Peripherals" [ref=e1558] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/computer-accessories?categories=Peripherals
+            - listitem [ref=e1559]:
+              - link "Pen Drives" [ref=e1560] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/pen-drives
+            - listitem [ref=e1561]:
+              - link "SSD" [ref=e1562] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/ssd
+            - listitem [ref=e1563]:
+              - link "Hard Disks" [ref=e1564] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/hard-disks
+        - generic [ref=e1566]:
+          - heading "COMPUTERS & LAPTOPS" [level=4] [ref=e1567]
+          - list [ref=e1568]:
+            - listitem [ref=e1569]:
+              - link "Laptops" [ref=e1570] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops.html
+            - listitem [ref=e1571]:
+              - link "MacBook" [ref=e1572] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/macbooks
+            - listitem [ref=e1573]:
+              - link "Gaming Laptops" [ref=e1574] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops?usage=Gamers
+            - listitem [ref=e1575]:
+              - link "Desktops" [ref=e1576] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?categories=Desktops
+            - listitem [ref=e1577]:
+              - link "All in One Desktops" [ref=e1578] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?desktops=All%20in%20One%20Desktops
+            - listitem [ref=e1579]:
+              - link "iMac" [ref=e1580] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/laptops-and-accessories?desktops=iMac
+            - listitem [ref=e1581]:
+              - link "Printer" [ref=e1582] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1583]:
+              - link "Inkjet Printers" [ref=e1584] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers.html?printer_type=Inkjet
+            - listitem [ref=e1585]:
+              - link "Laser Printers" [ref=e1586] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers?printer_type=Laser
+            - listitem [ref=e1587]:
+              - link "Inktank Printers" [ref=e1588] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1589]:
+              - link "Thermal Printers" [ref=e1590] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/printers
+            - listitem [ref=e1591]:
+              - link "Routers" [ref=e1592] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/routers
+        - generic [ref=e1594]:
+          - heading "WEARABLE TECH" [level=4] [ref=e1595]
+          - list [ref=e1596]:
+            - listitem [ref=e1597]:
+              - link "Smart Watch" [ref=e1598] [cursor=pointer]:
+                - /url: /content/vijaysaleswebsite/us/en/listing-pages/smart-watches
+      - generic [ref=e1600]:
+        - paragraph [ref=e1603]: © 2013-2025, Vijay Sales. All rights reserved.
+        - generic [ref=e1605]:
+          - paragraph [ref=e1606]: We Accept
+          - list [ref=e1607]:
+            - listitem [ref=e1608]:
+              - img "Visa Card" [ref=e1609]
+            - listitem [ref=e1610]:
+              - img "American Express Card" [ref=e1611]
+            - listitem [ref=e1612]:
+              - img "Master Card" [ref=e1613]
+            - listitem [ref=e1614]:
+              - img "Pine Labs Card" [ref=e1615]
+            - listitem [ref=e1616]:
+              - img "Pay U" [ref=e1617]
+```

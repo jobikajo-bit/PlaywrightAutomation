@@ -1,0 +1,25 @@
+⚠️ Screenshot skipped: page.screenshot: Timeout 5000ms exceeded.
+Call log:
+  - taking page screenshot
+    - disabled all CSS animations
+  - waiting for fonts to load...
+
+⚠️ Screenshot skipped: page.screenshot: Timeout 5000ms exceeded.
+⚠️ Screenshot skipped: page.screenshot: Timeout 5000ms exceeded.
+Call log:
+  - taking page screenshot
+    - disabled all CSS animations
+  - waiting for fonts to load...
+
+⚠️ Screenshot skipped: page.screenshot: Timeout 5000ms exceeded.
+Call log:
+  - taking page screenshot
+    - disabled all CSS animations
+  - waiting for fonts to load...
+
+⚠️ Screenshot skipped: page.screenshot: Timeout 5000ms exceeded.
+Call log:
+  - taking page screenshot
+    - disabled all CSS animations
+  - waiting for fonts to load...
+

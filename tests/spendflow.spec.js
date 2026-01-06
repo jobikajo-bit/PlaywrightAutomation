@@ -20,12 +20,17 @@ test('Spendflow test flow - POM', async ({ page }) => {
     await spendflowPage.addAgreement('C:/Users/TD/Downloads/aggrement/Order_Agreement.pdf');
     await spendflowPage.verifyVendorName(credentials.vendorName);
     await spendflowPage.clickSaveAndContinue();
+<<<<<<< HEAD
    // await page.waitForLoadState('networkidle');
+=======
+    await page.waitForLoadState('networkidle');
+>>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
     await spendflowPage.verifyAgreementDetailsText(credentials.agreementDetailsText);
     await spendflowPage.verifyAgreementStartDate(credentials.agreementstartdate);
     await spendflowPage.verifyAgreementEndDate(credentials.agreementenddate);
    //await spendflowPage.verifyContractedValue(credentials.contractedValue);
    await spendflowPage.verifyAgreementDuration(credentials.agreementDuration);
+<<<<<<< HEAD
   await spendflowPage.verifyProcuredBySpendflo(credentials.procuredBySpendflo );
    await spendflowPage.verifyPaymentTerm(credentials.paymentTerms);
    await spendflowPage.verifyBillingFrequency(credentials.billingFrequency);
@@ -44,5 +49,8 @@ test('Spendflow test flow - POM', async ({ page }) => {
   
 
 
+=======
+   //await spendflowPage.verifyProcuredBySpendflo(credentials.procuredBySpendflo);
+>>>>>>> ffe6a29c25fbf473f0df36e19a2cb716326a4352
 
 });

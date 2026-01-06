@@ -1,0 +1,93 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - link [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img [ref=e12]
+        - navigation [ref=e17]:
+          - list [ref=e19]:
+            - link "Requests" [ref=e20] [cursor=pointer]:
+              - /url: /v2/requests
+              - listitem [ref=e22]:
+                - heading "Requests" [level=5] [ref=e24]
+            - listitem [ref=e25] [cursor=pointer]:
+              - generic [ref=e26]:
+                - heading "Insights" [level=5] [ref=e29]
+                - img [ref=e30]
+            - listitem [ref=e32] [cursor=pointer]:
+              - generic [ref=e33]:
+                - heading "Vendor Management" [level=5] [ref=e36]
+                - img [ref=e37]
+      - generic [ref=e39]:
+        - button "Create a Request" [ref=e42] [cursor=pointer]:
+          - paragraph [ref=e43]:
+            - generic [ref=e44]:
+              - img [ref=e45]
+              - paragraph [ref=e47]: Create a Request
+        - generic [ref=e49]:
+          - button [ref=e51] [cursor=pointer]:
+            - img [ref=e52]
+          - generic [ref=e55] [cursor=pointer]:
+            - button [ref=e57]:
+              - img [ref=e58]
+            - generic [ref=e62]: "1"
+        - img "UserCircleUnfilled" [ref=e65] [cursor=pointer]
+    - generic [ref=e67]:
+      - generic [ref=e70]:
+        - link "VENDOR MANAGEMENT" [ref=e72] [cursor=pointer]:
+          - /url: /create/dashboard/insights
+          - paragraph [ref=e73]: VENDOR MANAGEMENT
+        - generic [ref=e74]:
+          - generic [ref=e75]: /
+          - link "AGREEMENTS" [ref=e76] [cursor=pointer]:
+            - /url: /agreements
+            - paragraph [ref=e77]: AGREEMENTS
+        - generic [ref=e78]:
+          - generic [ref=e79]: /
+          - paragraph [ref=e80]: ADD AGREEMENTS
+      - generic [ref=e82]:
+        - generic [ref=e84]:
+          - heading "Add an Agreement" [level=2] [ref=e85]
+          - paragraph [ref=e86]: Please review the agreement details to update any missing/incorrect information.
+        - generic [ref=e88]:
+          - generic [ref=e90]:
+            - generic [ref=e91]:
+              - list [ref=e93]:
+                - tab "1" [selected] [ref=e95]:
+                  - paragraph [ref=e96]:
+                    - heading "1" [level=4] [ref=e97]
+              - generic [ref=e102]: Vendor Details
+            - generic [ref=e103]:
+              - list [ref=e105]:
+                - tab "2" [ref=e107]:
+                  - paragraph [ref=e108]:
+                    - heading "2" [level=4] [ref=e109]
+              - generic [ref=e113]: Agreement Details
+          - generic [ref=e119]:
+            - button "Vendor Details" [ref=e124] [cursor=pointer]:
+              - generic [ref=e125]:
+                - img [ref=e126]
+                - paragraph [ref=e128]: Vendor Details
+            - generic [ref=e131]:
+              - generic [ref=e132]:
+                - generic [ref=e133]:
+                  - paragraph [ref=e134]: Vendor Name
+                  - paragraph [ref=e135]: "*"
+                - img [ref=e137]
+              - generic [ref=e139]:
+                - textbox "Search..." [ref=e140]: ABC Technologies Pvt Ltd
+                - paragraph [ref=e141] [cursor=pointer]:
+                  - img [ref=e142]
+        - generic [ref=e151]:
+          - button "Clear All" [ref=e153] [cursor=pointer]:
+            - paragraph [ref=e154]: Clear All
+          - button "Save & Continue" [ref=e158] [cursor=pointer]:
+            - paragraph [ref=e159]: Save & Continue
+  - iframe [ref=e162]:
+    - button "Open Platform Tour & Resources" [ref=f2e4] [cursor=pointer]:
+      - generic [ref=f2e5]: "?"
+```
