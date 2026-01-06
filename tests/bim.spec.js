@@ -78,6 +78,7 @@ AllureUtils.takeScreenshot(page, 'Snaptrude Rectangle Drawn');
 
 
 await page.locator('//canvas[@id="canvas"]').press('ControlOrMeta+a');
+
 await page.locator('//div[@id="object_properties_panel"]').getByText('6').click();
 AllureUtils.takeScreenshot(page, 'Snaptrude Objects Selected');
 
