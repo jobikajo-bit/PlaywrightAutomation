@@ -87,6 +87,40 @@ await page.waitForTimeout(3000);
    await page.locator('#canvas').press('Enter');
   await page.locator('#canvas').press('Escape');
   AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Added');
+
+ await page.locator('#canvas').click({
+    modifiers: ['ControlOrMeta'],
+    position: {
+      x: 560,
+      y: 342
+    }
+  });
+  await page.locator('#canvas').click({
+    modifiers: ['ControlOrMeta'],
+    position: {
+        x: 588,
+
+      y: 346
+    }
+  });
+  AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Selected');
+ await page.getByRole('img', { name: 'copy' }).click();
+  await page.locator('//canvas[@id="canvas"]').click({
+    position: {
+      x: 563,
+      y: 346
+    }
+  });
+  await page.mouse.move(591, 352);
+   await page.getByTestId('copy-array-distance-input').press('Tab');
+await page.getByTestId('copy-array-number-of-copies-input-input').fill('2');
+await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
+await page.locator('body').press('Escape');
+AllureUtils.takeScreenshot(page, 'Snaptrude Door and Window Copied');
+
+  
+
+
   /*
     await page.mouse.move(621, 334);
  await page.mouse.down();
