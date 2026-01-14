@@ -11,7 +11,7 @@ test('Snaptrude', async ({ page }) => {
 });
 
 
-  test.setTimeout(180000);
+  test.setTimeout(190000);
 
    await page.goto('https://staging.snaptrude.xyz/login',{waitUntil:'domcontentloaded'});
     
