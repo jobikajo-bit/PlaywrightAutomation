@@ -50,6 +50,6 @@ await page.locator('#canvas').click({
     }
   });
 await page.locator('#canvas').press('Enter');
-await page.locator('#canvas').press('Enter');
+//await page.locator('#canvas').press('Enter');
 AllureUtils.takeScreenshot(page, 'circle Drawn');
 })
