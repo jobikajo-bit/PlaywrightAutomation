@@ -72,7 +72,7 @@ await page.locator('body').press('Escape');
 
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
 
-
+await page.close();
 
 })
 
