@@ -48,6 +48,6 @@ await page.locator('//canvas[@id="canvas"]').click({
     }
   });
 AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
-
-
+await page.close();
+waitForLoadState('domcontentloaded');
   });
