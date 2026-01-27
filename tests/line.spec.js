@@ -35,50 +35,39 @@ await page.locator('//div[text()="Start on blank canvas"]').click();
 await page.waitForLoadState('domcontentloaded');
 AllureUtils.takeScreenshot(page, 'Snaptrude Blank Canvas Loaded');
 
-//await page.click('div[class="flex h-5 w-5 cursor-pointer items-center justify-center p-2 active:scale-95"]');
-
-await page.locator('//img[@id="img-top-menu-bar-design-drawCircle"]').click();
+await page.locator('//img[@alt="draw"]').click();
 await page.locator('//canvas[@id="canvas"]').click({
 
     position: {
       x: 415,
-      y: 248
+      y: 247
     }
   });
-await page.locator('//canvas[@id="canvas"]').click({
+await page.locator('#canvas').click({
     position: {
-      x: 401,
-      y: 218
+      x: 529,
+      y: 243
+    }
+  });
+await page.locator('#canvas').click({
+    position: {
+      x: 529,
+      y: 349
+    }
+  });
+await page.locator('#canvas').click({
+    position: {
+      x: 411,
+      y: 346
+    }
+  });
+await page.locator('#canvas').click({
+    position: {
+      x: 417,
+      y: 250
     }
   });
 
+AllureUtils.takeScreenshot(page, 'Snaptrude Line Drawn');
 
-  AllureUtils.takeScreenshot(page, 'Snaptrude Shape Drawn');
-
-  await page.locator('//img[@id="img-top-menu-bar-design-copy"]').click();
-await page.locator('//canvas[@id="canvas"]').click({
-  position: {
-      x: 415,
-      y: 248
-    }
-  });
-
-await page.mouse.move(511, 294);
-
-await page.getByTestId('copy-array-distance-input').press('Tab');
-await page.getByTestId('copy-array-number-of-copies-input-input').fill('2');
-await page.getByTestId('copy-array-number-of-copies-input-input').press('Enter');
-await page.locator('body').press('Escape');
-
-AllureUtils.takeScreenshot(page, 'Snaptrude Shape Copied');
-
-await page.close();
-
-})
-
-
-
-
-
-
-
+});
