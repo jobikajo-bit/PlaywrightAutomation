@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
-const { AllureUtils } = require('../utils/allureUtils');
+import { AllureUtils } from '../utils/allureUtils';
+
 const testData = require('../testdatas/vsales.json');
 
 // Increase test timeout for slow site
