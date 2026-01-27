@@ -88,7 +88,7 @@ await page.locator('//div[@id="div-top-menu-bar-addLayer"]').click();
     }
   });
 AllureUtils.takeScreenshot(page, 'Vertex Added');
-//await page.pause();
+await page.pause();
 
 });
 
