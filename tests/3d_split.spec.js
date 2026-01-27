@@ -110,6 +110,8 @@ await page.locator('#canvas').click({
     }
   });
 AllureUtils.takeScreenshot(page, 'Snaptrude Split Added');
+await page.close();
+
 })
 
 
